@@ -25,4 +25,12 @@ jobs:
           echo "SPOTIFY_CLIENT_SECRET=${{ secrets.CLIENT_SECRET }}" >> .env
         
       - name: Run request access token
-        run: go run backend_services.go
+        run: |
+          go run backend_services.go > spotify_data.json
+          echo "Data successfully exported to spotify_data.json"
+
+      - name: Upload JSON artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: spotify_data
+          path: spotify_data.json
