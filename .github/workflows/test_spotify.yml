@@ -1,0 +1,23 @@
+name: Test Spotify API
+
+on:
+  workflow_dispatch:
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    env:
+      SPOTIFY_CLIENT_ID: ${{ secrets.CLIENT_ID }}
+      SPOTIFY_CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}D
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v08c6903cd8c0fde910a37f88322edcfb5dd907a8 #v5.0.0
+    
+      - name: Set up Go
+        uses: actions/setup-go@v44694675825211faa026b3c33043df3e48a5fa00 #v6.0.0
+        with:
+          go-version: '1.23'
+        
+      - name: Run request access token
+        run: go run main.go
