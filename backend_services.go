@@ -135,7 +135,12 @@ func getArtist(auth AuthData) {
 		panic(err)
 	}
 
-	fmt.Println(string(body))
+	err = os.WriteFile("spotify_data.json", body, 0644)
+    if err != nil {
+        panic(err)
+    }
+
+    fmt.Println("Successfully Wrote artist data to spotify_data.json")
 }
 
 func getTrack(auth AuthData) {
