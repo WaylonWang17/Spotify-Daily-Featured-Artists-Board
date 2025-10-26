@@ -36,7 +36,7 @@ jobs:
           path: spotify_data.json
       
       - name: commit and push updated JSON
-        runs: |
+        run: |
           git add spotify_data.json
           git commit -m "Update Spotify data" || echo "No changes"
           git push
