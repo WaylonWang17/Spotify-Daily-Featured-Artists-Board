@@ -9,6 +9,9 @@ import (
 	"net/url"
 	"os"
 	"strings"
+	"log"
+
+	"github.com/joho/godotenv"
 )
 
 type AuthData struct {
@@ -26,6 +29,12 @@ func requestAccessToken() AuthData {
 		4. check status code
 		5. read response body
 	*/
+	//checks to see if we can load the env file
+	err := godotenv.Load()
+	if err != nil {
+		log.Fatal("Error loading .env file")
+	}
+
 	clientID := os.Getenv("SPOTIFY_CLIENT_ID")
 	clientSecret := os.Getenv("SPOTIFY_CLIENT_SECRET")
 	endpoint := "https://accounts.spotify.com/api/token"
