@@ -1,104 +1,47 @@
 [
   {
-    "external_urls": {
-      "spotify": "https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR"
-    },
-    "followers": {
-      "href": null,
-      "total": 9355
-    },
-    "genres": [],
-    "href": "https://api.spotify.com/v1/artists/1ok4DP80jKsX7GZZ6yr2xR",
-    "id": "1ok4DP80jKsX7GZZ6yr2xR",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://i.scdn.co/image/ab6761610000e5eb35261f2d185fcf548af6cbee",
-        "width": 640
-      },
-      {
-        "height": 320,
-        "url": "https://i.scdn.co/image/ab6761610000517435261f2d185fcf548af6cbee",
-        "width": 320
-      },
-      {
-        "height": 160,
-        "url": "https://i.scdn.co/image/ab6761610000f17835261f2d185fcf548af6cbee",
-        "width": 160
-      }
-    ],
-    "name": "B.ROB",
-    "popularity": 30,
-    "type": "artist",
-    "uri": "spotify:artist:1ok4DP80jKsX7GZZ6yr2xR"
-  },
-  {
-    "external_urls": {
-      "spotify": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-    },
-    "followers": {
-      "href": null,
-      "total": 9524883
-    },
+    "followers": 32029986,
+    "genre": "indie",
     "genres": [
-      "j-pop",
-      "anime"
+      "indie",
+      "garage rock"
     ],
-    "href": "https://api.spotify.com/v1/artists/64tJ2EAv1R6UaZqc4iOCyj",
-    "id": "64tJ2EAv1R6UaZqc4iOCyj",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://i.scdn.co/image/ab6761610000e5eb507349709ae19263301a62f7",
-        "width": 640
-      },
-      {
-        "height": 320,
-        "url": "https://i.scdn.co/image/ab67616100005174507349709ae19263301a62f7",
-        "width": 320
-      },
-      {
-        "height": 160,
-        "url": "https://i.scdn.co/image/ab6761610000f178507349709ae19263301a62f7",
-        "width": 160
-      }
-    ],
-    "name": "YOASOBI",
-    "popularity": 72,
-    "type": "artist",
-    "uri": "spotify:artist:64tJ2EAv1R6UaZqc4iOCyj"
+    "href": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH",
+    "id": "7Ln80lUS6He07XvHI8qqHH",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
+    "name": "Arctic Monkeys",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n",
+      "name": "I Wanna Be Yours",
+      "preview": null
+    }
   },
   {
-    "external_urls": {
-      "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-    },
-    "followers": {
-      "href": null,
-      "total": 112799688
-    },
+    "followers": 24,
+    "genre": "edm",
     "genres": [],
-    "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
-    "id": "1Xyo4u8uXC1ZmMpatF05PJ",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae",
-        "width": 640
-      },
-      {
-        "height": 320,
-        "url": "https://i.scdn.co/image/ab676161000051749e528993a2820267b97f6aae",
-        "width": 320
-      },
-      {
-        "height": 160,
-        "url": "https://i.scdn.co/image/ab6761610000f1789e528993a2820267b97f6aae",
-        "width": 160
-      }
-    ],
-    "name": "The Weeknd",
-    "popularity": 93,
-    "type": "artist",
-    "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    "href": "https://open.spotify.com/artist/7Ak8RIGWuryAyWMqAPFkst",
+    "id": "7Ak8RIGWuryAyWMqAPFkst",
+    "image": "https://i.scdn.co/image/ab67616d0000b273122da32ebc380e4aa489843c",
+    "name": "Breaking For Love",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2XZEmdE9uHIuSkiDZtieVm",
+      "name": "Breaking for Love",
+      "preview": null
+    }
+  },
+  {
+    "followers": 5,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2gziFEtQ227rutadLykp6I",
+    "id": "2gziFEtQ227rutadLykp6I",
+    "image": "",
+    "name": "Siste Dages Helvete",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3a9zVSbDD95yVi1bxxkzRN",
+      "name": "Blomster Av Plastikk",
+      "preview": null
+    }
   }
 ]

@@ -2,25 +2,52 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>🎧 Featured Spotify Artists</title>
+  <title>Featured Spotify Artists</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #1DB954;
+      background-color: #222;
       color: #222;
       margin: 40px;
       text-align: center;
+      position: relative;
+      overflow-x: hidden;
+      min-height: 100vh;
     }
+
+    /* ✅ Spotify logo behind all content */
+    body::before {
+      content: "";
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg");
+      background-repeat: no-repeat;
+      background-size: 400px; /* adjust size */
+      opacity: 1.00; /* makes it faint behind content */
+      width: 400px;
+      height: 400px;
+      z-index: 0;
+      pointer-events: none; /* prevents logo from blocking clicks */
+    }
+
     h1 {
-      color: #222;
+      color: #5887FF;
+      position: relative;
+      z-index: 1;
     }
+
     #artist-container {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
       gap: 20px;
       margin-top: 30px;
+      position: relative;
+      z-index: 1; /* ensures cards appear above logo */
     }
+
     .artist-card {
       background: white;
       padding: 20px;
@@ -29,6 +56,7 @@
       width: 300px;
       text-align: left;
     }
+
     img {
       border-radius: 12px;
       width: 100%;
@@ -36,24 +64,41 @@
       object-fit: cover;
       margin-bottom: 10px;
     }
+
     ul {
       list-style: none;
       padding: 0;
       margin: 0;
     }
+
     li {
       margin: 6px 0;
     }
+
     a {
       color: #1DB954;
       text-decoration: none;
       font-weight: bold;
     }
+    a:hover {
+      text-decoration: underline;
+      color: #222;
+    }
+    .track-link {
+      color: #222;          /* same as your text color */
+      font-weight: bold;    /* keeps it visually strong */
+      text-decoration: none; /* removes underline */
+    }
+
+    .track-link:hover {
+      text-decoration: underline; /* optional subtle hover effect */
+      color: #1DB954; /* optional: make it green only on hover */
+    }
   </style>
 </head>
 
 <body>
-  <h1>🎵 Featured Spotify Artists</h1>
+  <h1>Weekly Featured Artists</h1>
   <div id="artist-container">Loading...</div>
 
   <script>
@@ -66,26 +111,29 @@
         const container = document.getElementById("artist-container");
         container.innerHTML = artists.map(data => {
           const name = data.name || "Unknown Artist";
-          const followers = data.followers?.total?.toLocaleString() || "N/A";
           const genres = (data.genres && data.genres.length > 0)
             ? data.genres.join(", ")
             : "N/A";
-          const popularity = data.popularity ?? "N/A";
-          const imageUrl = data.images?.[0]?.url || "";
-          const spotifyUrl = data.external_urls?.spotify || "#";
+          const genre = data.genre || "N/A";
+          const imageUrl = data.image || "";
+          const spotifyUrl = data.href || "#";
+          const followers = data.followers?.toLocaleString() || "N/A";
+          const topTrack = data.top_track?.name || "N/A";
+          const topTrackUrl = data.top_track?.href || "#";
 
           return `
-            <div class="artist-card">
-              <h2>${name}</h2>
-              ${imageUrl ? `<img src="${imageUrl}" alt="${name}">` : ""}
-              <ul>
-                <li><strong>Followers:</strong> ${followers}</li>
-                <li><strong>Genres:</strong> ${genres}</li>
-                <li><strong>Popularity:</strong> ${popularity}</li>
-                <li><strong>Spotify:</strong> <a href="${spotifyUrl}" target="_blank">Open</a></li>
-              </ul>
-            </div>
-          `;
+          <div class="artist-card">
+            <h2>${name}</h2>
+            ${imageUrl ? `<img src="${imageUrl}" alt="${name}">` : ""}
+            <ul>
+              <li><strong>Spotify:</strong> <a href="${spotifyUrl}" target="_blank">Open</a></li>
+              <li><strong>Followers:</strong> ${followers}</li>
+              <li><strong>Primary Genre:</strong> ${genre}</li>
+              <li><strong>All Genres:</strong> ${genres}</li>
+              <li><strong>Top Track:</strong> <a class="track-link" href="${topTrackUrl}" target="_blank">${topTrack}</a></li>
+            </ul>
+          </div>
+        `;
         }).join("");
       } catch (err) {
         console.error("Failed to load artists:", err);
