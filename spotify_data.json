@@ -34,39 +34,40 @@
   },
   {
     "external_urls": {
-      "spotify": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+      "spotify": "https://open.spotify.com/artist/1OyML8UXqmlHP7JHexdJVl"
     },
     "followers": {
       "href": null,
-      "total": 9524883
+      "total": 23405
     },
     "genres": [
-      "j-pop",
-      "anime"
+      "gufeng",
+      "c-pop",
+      "mandopop"
     ],
-    "href": "https://api.spotify.com/v1/artists/64tJ2EAv1R6UaZqc4iOCyj",
-    "id": "64tJ2EAv1R6UaZqc4iOCyj",
+    "href": "https://api.spotify.com/v1/artists/1OyML8UXqmlHP7JHexdJVl",
+    "id": "1OyML8UXqmlHP7JHexdJVl",
     "images": [
       {
         "height": 640,
-        "url": "https://i.scdn.co/image/ab6761610000e5eb507349709ae19263301a62f7",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb6da68dd504a354941bd9fbf7",
         "width": 640
       },
       {
         "height": 320,
-        "url": "https://i.scdn.co/image/ab67616100005174507349709ae19263301a62f7",
+        "url": "https://i.scdn.co/image/ab676161000051746da68dd504a354941bd9fbf7",
         "width": 320
       },
       {
         "height": 160,
-        "url": "https://i.scdn.co/image/ab6761610000f178507349709ae19263301a62f7",
+        "url": "https://i.scdn.co/image/ab6761610000f1786da68dd504a354941bd9fbf7",
         "width": 160
       }
     ],
-    "name": "YOASOBI",
-    "popularity": 72,
+    "name": "Silk Ye",
+    "popularity": 43,
     "type": "artist",
-    "uri": "spotify:artist:64tJ2EAv1R6UaZqc4iOCyj"
+    "uri": "spotify:artist:1OyML8UXqmlHP7JHexdJVl"
   },
   {
     "external_urls": {
