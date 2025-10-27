@@ -2,42 +2,52 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>🎧 My Spotify Artist Data</title>
+  <title>🎧 My Spotify Artist</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       background-color: #f4f4f4;
       color: #222;
       margin: 40px;
+      text-align: center;
     }
     h1 {
       color: #1DB954;
+      font-size: 2em;
     }
     #artist-card {
       background: white;
       padding: 20px;
       border-radius: 12px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      max-width: 600px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      display: inline-block;
+      margin-top: 20px;
+      text-align: left;
+      width: 400px;
     }
     img {
       border-radius: 12px;
-      max-width: 300px;
-      margin-top: 15px;
+      width: 100%;
+      margin-bottom: 15px;
     }
     ul {
-      list-style-type: none;
+      list-style: none;
       padding: 0;
     }
     li {
-      margin: 5px 0;
+      margin: 8px 0;
+    }
+    a {
+      color: #1DB954;
+      text-decoration: none;
+      font-weight: bold;
     }
   </style>
 </head>
 
 <body>
-  <h1>🎵 My Spotify Artist Data</h1>
-  <div id="artist-card">Loading artist info...</div>
+  <h1>🎵 Featured Spotify Artist</h1>
+  <div id="artist-card">Loading artist data...</div>
 
   <script>
     async function loadArtist() {
@@ -48,36 +58,30 @@
 
         console.log("Spotify artist data:", data);
 
-        // Extract key fields (based on Spotify artist API structure)
+        // Extract Spotify artist fields
         const name = data.name || "Unknown Artist";
         const followers = data.followers?.total?.toLocaleString() || "N/A";
-        const genres = (data.genres && data.genres.length > 0)
+        const genres = (data.genres && data.genres.length)
           ? data.genres.join(", ")
           : "N/A";
         const popularity = data.popularity ?? "N/A";
-        const imageUrl = data.images?.[0]?.url;
+        const imageUrl = data.images?.[0]?.url || "";
+        const spotifyUrl = data.external_urls?.spotify || "#";
 
-        const html = `
+        document.getElementById("artist-card").innerHTML = `
           <h2>${name}</h2>
           ${imageUrl ? `<img src="${imageUrl}" alt="${name}">` : ""}
           <ul>
             <li><strong>Followers:</strong> ${followers}</li>
             <li><strong>Genres:</strong> ${genres}</li>
             <li><strong>Popularity:</strong> ${popularity}</li>
-            <li><strong>Spotify URL:</strong> 
-              <a href="${data.external_urls?.spotify}" target="_blank">
-                Open in Spotify
-              </a>
-            </li>
+            <li><strong>Spotify:</strong> <a href="${spotifyUrl}" target="_blank">Open in Spotify</a></li>
           </ul>
         `;
-
-        document.getElementById("artist-card").innerHTML = html;
-
       } catch (err) {
         console.error("Failed to load artist data:", err);
         document.getElementById("artist-card").innerHTML =
-          `<p style="color:red;">Error loading artist data</p>`;
+          `<p style="color:red;">Error loading artist data. Check console for details.</p>`;
       }
     }
 
