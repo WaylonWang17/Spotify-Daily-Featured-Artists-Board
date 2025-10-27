@@ -1,47 +1,52 @@
 [
   {
-    "followers": 87,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4Wfz2k01t9ZQbPZXpUlraD",
-    "id": "4Wfz2k01t9ZQbPZXpUlraD",
-    "image": "https://i.scdn.co/image/ab67616d0000b27318bfb1aa13b89b1ac66f04c3",
-    "name": "Babu Meska",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0vvCN7d55jIog0mDi8KRSj",
-      "name": "Dalam Tola",
-      "preview": null
-    }
-  },
-  {
-    "followers": 227706,
+    "followers": 2615272,
     "genre": "blues",
     "genres": [
-      "modern blues",
       "blues",
-      "blues rock"
+      "blues rock",
+      "classic blues",
+      "southern rock",
+      "modern blues"
     ],
-    "href": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta",
-    "id": "5Ws3s6lSP4Un8kQf8CrAta",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb06432ab3351554ae4b661658",
-    "name": "Susan Tedeschi",
+    "href": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1",
+    "id": "5fsDcuclIe8ZiBD5P787K1",
+    "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
+    "name": "Stevie Ray Vaughan",
     "top_track": {
-      "href": "https://open.spotify.com/track/5iis9J2sptrUy0VIpFVIg1",
-      "name": "Roll Me Up and Smoke Me When I Die - Live",
+      "href": "https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo",
+      "name": "Pride and Joy",
       "preview": null
     }
   },
   {
-    "followers": 21,
-    "genre": "edm",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2MDYtjFXsrSnuu69wJdfi8",
-    "id": "2MDYtjFXsrSnuu69wJdfi8",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebce641a0bf3ca81afd4eeab73",
-    "name": "Battlemoose",
+    "followers": 1266839,
+    "genre": "jazz",
+    "genres": [
+      "smooth jazz",
+      "christmas"
+    ],
+    "href": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB",
+    "id": "6I3M904Y9IwgDjrQ9pANiB",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfce79bf01d99f9434108b56e",
+    "name": "Kenny G",
     "top_track": {
-      "href": "https://open.spotify.com/track/3PjHrr6WQIWUZwMnd3cYrA",
-      "name": "Stasis",
+      "href": "https://open.spotify.com/track/13cpOnmccZGVGFngLxYN4I",
+      "name": "Forever in Love",
+      "preview": null
+    }
+  },
+  {
+    "followers": 1633125,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo",
+    "id": "1iCnM8foFssWlPRLfAbIwo",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd58f13475be93b37bb63893f",
+    "name": "Gigi Perez",
+    "top_track": {
+      "href": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap",
+      "name": "Sailor Song",
       "preview": null
     }
   }
