@@ -105,8 +105,7 @@ func getAccess() AuthData {
 
 }
 
-func getArtist(auth AuthData) {
-	artistID := "1ok4DP80jKsX7GZZ6yr2xR?si=DljzMFSiQ-6D4BFNIzJRGQ"
+func getArtist(auth AuthData, artistID string) map[string]any{
 	url := fmt.Sprintf("https://api.spotify.com/v1/artists/%s", artistID)
 
 	req, err := http.NewRequest("GET", url, nil)
@@ -127,7 +126,6 @@ func getArtist(auth AuthData) {
 
 	if resp.StatusCode != http.StatusOK {
 		fmt.Println("Error:", resp.Status)
-		return
 	}
 
 	body, err := io.ReadAll(resp.Body)
@@ -140,7 +138,9 @@ func getArtist(auth AuthData) {
         panic(err)
     }
 
-    fmt.Println("Successfully Wrote artist data to spotify_data.json")
+	var artist map[string]any
+	json.Unmarshal(body, &artist)
+	return artist
 }
 
 func getTrack(auth AuthData) {
@@ -177,7 +177,21 @@ func getTrack(auth AuthData) {
 func main() {
 	auth := requestAccessToken()
 	// auth := getAccess()
-	getArtist(auth)
+	// getArtist(auth)
 	// getTrack(auth)
+	artistIDs := []string{
+		"1ok4DP80jKsX7GZZ6yr2xR", // B.ROB
+		"64tJ2EAv1R6UaZqc4iOCyj", // YOASOBI
+		"1Xyo4u8uXC1ZmMpatF05PJ", // The Weeknd
+	}
 
+	var all []map[string]any
+	for _, id := range artistIDs {
+		artist := getArtist(auth, id)
+		all = append(all, artist)
+	}
+
+	data, _ := json.MarshalIndent(all, "", "  ")
+	os.WriteFile("spotify_data.json", data, 0644)
+	fmt.Println("✅ Wrote 3 artists to spotify_data.json")
 }
