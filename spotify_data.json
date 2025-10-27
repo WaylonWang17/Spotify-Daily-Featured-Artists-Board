@@ -1,57 +1,45 @@
 [
   {
-    "followers": 41071643,
+    "followers": 1577801,
+    "genre": "soul",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig",
+    "id": "3ycxRkcZ67ALN3GQJ57Vig",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba12539a9a66ddf0b498d4d4a",
+    "name": "Masego",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6FMMd1fixOMmhplCevpjL7",
+      "name": "Tadow",
+      "preview": null
+    }
+  },
+  {
+    "followers": 7452685,
+    "genre": "hip hop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
+    "id": "4Gso3d4CscCijv0lmajZWs",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb52258b97639c24efe49fbf9e",
+    "name": "Don Toliver",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
+      "name": "No Pole",
+      "preview": null
+    }
+  },
+  {
+    "followers": 2342307,
     "genre": "dance",
     "genres": [
-      "rap"
+      "house"
     ],
-    "href": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
-    "id": "0Y5tJX1MQlPlqiwlOH1tJY",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
-    "name": "Travis Scott",
+    "href": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et",
+    "id": "6nS5roXSAGhTGr34W6n7Et",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3faf416d3be99d63fec18baa",
+    "name": "Disclosure",
     "top_track": {
-      "href": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2",
-      "name": "goosebumps",
-      "preview": null
-    }
-  },
-  {
-    "followers": 1929231,
-    "genre": "latin",
-    "genres": [
-      "corrido",
-      "corridos bélicos",
-      "corridos tumbados",
-      "sierreño",
-      "electro corridos",
-      "dembow belico",
-      "banda",
-      "música mexicana"
-    ],
-    "href": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0",
-    "id": "1ZMJSCQw8DIefcLb1FIpY0",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb555bc5d86d3ad8edcfd762f4",
-    "name": "Los Dareyes De La Sierra",
-    "top_track": {
-      "href": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4",
-      "name": "Frecuencia",
-      "preview": null
-    }
-  },
-  {
-    "followers": 653178,
-    "genre": "j-pop",
-    "genres": [
-      "city pop",
-      "j-pop"
-    ],
-    "href": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1",
-    "id": "4hUmsYcvD8C5zuVSP93jb1",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5f0f64c377388c01d381b896",
-    "name": "Miki Matsubara",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2BHj31ufdEqVK5CkYDp9mA",
-      "name": "Mayonaka no Door / Stay With Me",
+      "href": "https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr",
+      "name": "Latch",
       "preview": null
     }
   }
