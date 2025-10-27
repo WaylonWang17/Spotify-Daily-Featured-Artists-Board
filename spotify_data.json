@@ -1,1 +1,104 @@
-{"external_urls":{"spotify":"https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR"},"followers":{"href":null,"total":9355},"genres":[],"href":"https://api.spotify.com/v1/artists/1ok4DP80jKsX7GZZ6yr2xR","id":"1ok4DP80jKsX7GZZ6yr2xR","images":[{"url":"https://i.scdn.co/image/ab6761610000e5eb35261f2d185fcf548af6cbee","height":640,"width":640},{"url":"https://i.scdn.co/image/ab6761610000517435261f2d185fcf548af6cbee","height":320,"width":320},{"url":"https://i.scdn.co/image/ab6761610000f17835261f2d185fcf548af6cbee","height":160,"width":160}],"name":"B.ROB","popularity":30,"type":"artist","uri":"spotify:artist:1ok4DP80jKsX7GZZ6yr2xR"}
+[
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR"
+    },
+    "followers": {
+      "href": null,
+      "total": 9355
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/1ok4DP80jKsX7GZZ6yr2xR",
+    "id": "1ok4DP80jKsX7GZZ6yr2xR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb35261f2d185fcf548af6cbee",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517435261f2d185fcf548af6cbee",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17835261f2d185fcf548af6cbee",
+        "width": 160
+      }
+    ],
+    "name": "B.ROB",
+    "popularity": 30,
+    "type": "artist",
+    "uri": "spotify:artist:1ok4DP80jKsX7GZZ6yr2xR"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+    },
+    "followers": {
+      "href": null,
+      "total": 9524883
+    },
+    "genres": [
+      "j-pop",
+      "anime"
+    ],
+    "href": "https://api.spotify.com/v1/artists/64tJ2EAv1R6UaZqc4iOCyj",
+    "id": "64tJ2EAv1R6UaZqc4iOCyj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb507349709ae19263301a62f7",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174507349709ae19263301a62f7",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178507349709ae19263301a62f7",
+        "width": 160
+      }
+    ],
+    "name": "YOASOBI",
+    "popularity": 72,
+    "type": "artist",
+    "uri": "spotify:artist:64tJ2EAv1R6UaZqc4iOCyj"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    "followers": {
+      "href": null,
+      "total": 112799688
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+    "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051749e528993a2820267b97f6aae",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1789e528993a2820267b97f6aae",
+        "width": 160
+      }
+    ],
+    "name": "The Weeknd",
+    "popularity": 93,
+    "type": "artist",
+    "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+  }
+]
