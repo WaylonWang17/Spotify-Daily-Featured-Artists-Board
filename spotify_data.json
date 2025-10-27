@@ -1,45 +1,47 @@
 [
   {
-    "followers": 1577801,
-    "genre": "soul",
+    "followers": 87,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig",
-    "id": "3ycxRkcZ67ALN3GQJ57Vig",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba12539a9a66ddf0b498d4d4a",
-    "name": "Masego",
+    "href": "https://open.spotify.com/artist/4Wfz2k01t9ZQbPZXpUlraD",
+    "id": "4Wfz2k01t9ZQbPZXpUlraD",
+    "image": "https://i.scdn.co/image/ab67616d0000b27318bfb1aa13b89b1ac66f04c3",
+    "name": "Babu Meska",
     "top_track": {
-      "href": "https://open.spotify.com/track/6FMMd1fixOMmhplCevpjL7",
-      "name": "Tadow",
+      "href": "https://open.spotify.com/track/0vvCN7d55jIog0mDi8KRSj",
+      "name": "Dalam Tola",
       "preview": null
     }
   },
   {
-    "followers": 7452685,
-    "genre": "hip hop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
-    "id": "4Gso3d4CscCijv0lmajZWs",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb52258b97639c24efe49fbf9e",
-    "name": "Don Toliver",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
-      "name": "No Pole",
-      "preview": null
-    }
-  },
-  {
-    "followers": 2342307,
-    "genre": "dance",
+    "followers": 227706,
+    "genre": "blues",
     "genres": [
-      "house"
+      "modern blues",
+      "blues",
+      "blues rock"
     ],
-    "href": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et",
-    "id": "6nS5roXSAGhTGr34W6n7Et",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3faf416d3be99d63fec18baa",
-    "name": "Disclosure",
+    "href": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta",
+    "id": "5Ws3s6lSP4Un8kQf8CrAta",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb06432ab3351554ae4b661658",
+    "name": "Susan Tedeschi",
     "top_track": {
-      "href": "https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr",
-      "name": "Latch",
+      "href": "https://open.spotify.com/track/5iis9J2sptrUy0VIpFVIg1",
+      "name": "Roll Me Up and Smoke Me When I Die - Live",
+      "preview": null
+    }
+  },
+  {
+    "followers": 21,
+    "genre": "edm",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2MDYtjFXsrSnuu69wJdfi8",
+    "id": "2MDYtjFXsrSnuu69wJdfi8",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebce641a0bf3ca81afd4eeab73",
+    "name": "Battlemoose",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3PjHrr6WQIWUZwMnd3cYrA",
+      "name": "Stasis",
       "preview": null
     }
   }
