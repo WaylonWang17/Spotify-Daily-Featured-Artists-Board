@@ -188,7 +188,7 @@ func getRandomArtist(auth AuthData, genre string) map[string]any {
 		image := imgs[0].(map[string]any)
 		imageURL = image["url"].(string)
 	}
-	
+
 	topTrack := getTopTrack(auth, randomArtist["id"].(string))
 
 
@@ -208,7 +208,11 @@ func getRandomArtist(auth AuthData, genre string) map[string]any {
 func getTopTrack(auth AuthData, artistID string) map[string]any {
 	url := fmt.Sprintf("https://api.spotify.com/v1/artists/%s/top-tracks?market=US", artistID)
 
-	req, _ := http.NewRequest("GET", url, nil)
+	req, err := http.NewRequest("GET", url, nil)
+	if err != nil{
+		panic(err)
+	}
+
 	req.Header.Add("Authorization", "Bearer "+auth.AccessToken)
 
 	resp, err := http.DefaultClient.Do(req)
@@ -218,7 +222,11 @@ func getTopTrack(auth AuthData, artistID string) map[string]any {
 	}
 	defer resp.Body.Close()
 
-	body, _ := io.ReadAll(resp.Body)
+	body, err := io.ReadAll(resp.Body)
+	if err != nil{
+		panic(err)
+	}
+
 	var result map[string]any
 	json.Unmarshal(body, &result)
 
@@ -237,11 +245,6 @@ func getTopTrack(auth AuthData, artistID string) map[string]any {
 
 func main() {
 	auth := requestAccessToken()
-	// artistIDs := []string{
-	// 	"1ok4DP80jKsX7GZZ6yr2xR", //B.ROB
-	// 	"1OyML8UXqmlHP7JHexdJVl", //Silk Ye
-	// 	"1Xyo4u8uXC1ZmMpatF05PJ", //The Weeknd
-	// }
 
 	genres := []string{
 		"pop",
@@ -269,6 +272,7 @@ func main() {
 		"j-pop",
 	}
 
+	//deprecated consider swapping out later
 	rand.Seed(time.Now().UnixNano())
 
 	rand.Shuffle(len(genres), func(i, j int) { genres[i], genres[j] = genres[j], genres[i] })

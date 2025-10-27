@@ -48,4 +48,4 @@ jobs:
           git config --global user.name "github-actions"
           git add spotify_data.json
           git commit -m "Update Spotify data" || echo "No changes"
-          git push
+          git push origin main
