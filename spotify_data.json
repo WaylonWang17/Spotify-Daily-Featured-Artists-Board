@@ -1,57 +1,52 @@
 [
   {
-    "followers": 89,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/1EU27kKKmpyiT5cnFmHW6j",
-    "id": "1EU27kKKmpyiT5cnFmHW6j",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b0b2327dd812154a928414bd",
-    "name": "Moraes MC",
+    "followers": 2615272,
+    "genre": "blues",
+    "genres": [
+      "blues",
+      "blues rock",
+      "classic blues",
+      "southern rock",
+      "modern blues"
+    ],
+    "href": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1",
+    "id": "5fsDcuclIe8ZiBD5P787K1",
+    "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
+    "name": "Stevie Ray Vaughan",
     "top_track": {
-      "href": "https://open.spotify.com/track/1mLbUmMXODhw3SGDTiikIY",
-      "name": "Fatiando a Favela",
+      "href": "https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo",
+      "name": "Pride and Joy",
       "preview": null
     }
   },
   {
-    "followers": 1822861,
+    "followers": 1266839,
     "genre": "jazz",
     "genres": [
-      "jazz",
-      "hard bop",
-      "free jazz",
-      "bebop",
-      "cool jazz",
-      "jazz blues"
+      "smooth jazz",
+      "christmas"
     ],
-    "href": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf",
-    "id": "2hGh5VOeeqimQFxqXvfCUf",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb73c7f7505c1af82929ec41df",
-    "name": "John Coltrane",
+    "href": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB",
+    "id": "6I3M904Y9IwgDjrQ9pANiB",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfce79bf01d99f9434108b56e",
+    "name": "Kenny G",
     "top_track": {
-      "href": "https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR",
-      "name": "In A Sentimental Mood",
+      "href": "https://open.spotify.com/track/13cpOnmccZGVGFngLxYN4I",
+      "name": "Forever in Love",
       "preview": null
     }
   },
   {
-    "followers": 98308,
-    "genre": "reggae",
-    "genres": [
-      "roots reggae",
-      "dub",
-      "reggae",
-      "rocksteady",
-      "lovers rock",
-      "ragga"
-    ],
-    "href": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC",
-    "id": "2ieAXAuLe6qQ3RJsqCxpoC",
-    "image": "https://i.scdn.co/image/ab6772690000c46ca60968641586880e27d0daff",
-    "name": "Horace Andy",
+    "followers": 1633125,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo",
+    "id": "1iCnM8foFssWlPRLfAbIwo",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd58f13475be93b37bb63893f",
+    "name": "Gigi Perez",
     "top_track": {
-      "href": "https://open.spotify.com/track/56a6UncDB39DimqludMUvn",
-      "name": "Skylarking",
+      "href": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap",
+      "name": "Sailor Song",
       "preview": null
     }
   }
