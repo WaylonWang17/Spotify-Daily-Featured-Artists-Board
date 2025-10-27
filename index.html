@@ -19,21 +19,22 @@
     body::before {
       content: "";
       position: fixed;
-      top: 50%;
+      top: 75%; /* lower the logo so it's behind the bottom area */
       left: 50%;
       transform: translate(-50%, -50%);
       background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg");
       background-repeat: no-repeat;
-      background-size: 400px; /* adjust size */
-      opacity: 1.00; /* makes it faint behind content */
+      background-size: 400px;
+      opacity: 0.15; /* faint and elegant */
       width: 400px;
       height: 400px;
       z-index: 0;
-      pointer-events: none; /* prevents logo from blocking clicks */
+      pointer-events: none;
+      filter: brightness(0.9) saturate(1.2);
     }
 
     h1 {
-      color: #5887FF;
+      color: #1DB954;
       position: relative;
       z-index: 1;
     }
@@ -49,13 +50,19 @@
     }
 
     .artist-card {
-      background: white;
+      background: #2A2A2A;
+      color: #EAEAEA;
       padding: 20px;
       border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.4);
       width: 300px;
       text-align: left;
     }
+    .artist-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 30px rgba(30, 215, 96, 0.3); /* Spotify green glow */
+    }
+
 
     img {
       border-radius: 12px;
@@ -82,17 +89,17 @@
     }
     a:hover {
       text-decoration: underline;
-      color: #222;
+      color: yellow;
     }
     .track-link {
-      color: #222;          /* same as your text color */
+      color: #1DB954;          /* same as your text color */
       font-weight: bold;    /* keeps it visually strong */
       text-decoration: none; /* removes underline */
     }
 
     .track-link:hover {
       text-decoration: underline; /* optional subtle hover effect */
-      color: #1DB954; /* optional: make it green only on hover */
+      color: yellow; /* optional: make it green only on hover */
     }
   </style>
 </head>
