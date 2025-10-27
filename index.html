@@ -1,42 +1,87 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>🎧 My Spotify Stats</title>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <title>🎧 My Spotify Artist Data</title>
   <style>
-    body { font-family: sans-serif; margin: 40px; }
-    canvas { max-width: 600px; }
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #222;
+      margin: 40px;
+    }
+    h1 {
+      color: #1DB954;
+    }
+    #artist-card {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      max-width: 600px;
+    }
+    img {
+      border-radius: 12px;
+      max-width: 300px;
+      margin-top: 15px;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin: 5px 0;
+    }
   </style>
 </head>
+
 <body>
-  <h1>🎵 My Spotify Data</h1>
-  <div id="content"></div>
-  <canvas id="chart"></canvas>
+  <h1>🎵 My Spotify Artist Data</h1>
+  <div id="artist-card">Loading artist info...</div>
 
   <script>
-    fetch("spotify_data.json")
-      .then(res => res.json())
-      .then(data => {
-        // Display raw stats
-        const c = document.getElementById("content");
-        c.innerHTML = `<h3>Time spent today: ${data.time_spent_today} minutes</h3>`;
+    async function loadArtist() {
+      try {
+        const res = await fetch("spotify_data.json");
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
 
-        // Bar chart for top artists
-        const ctx = document.getElementById("chart");
-        new Chart(ctx, {
-          type: "bar",
-          data: {
-            labels: data.top_artists,
-            datasets: [{
-              label: "Top Artists",
-              data: data.top_artists.map(() => 1),
-              backgroundColor: "rgba(75, 192, 192, 0.5)"
-            }]
-          },
-          options: { plugins: { legend: { display: false } } }
-        });
-      });
+        console.log("Spotify artist data:", data);
+
+        // Extract key fields (based on Spotify artist API structure)
+        const name = data.name || "Unknown Artist";
+        const followers = data.followers?.total?.toLocaleString() || "N/A";
+        const genres = (data.genres && data.genres.length > 0)
+          ? data.genres.join(", ")
+          : "N/A";
+        const popularity = data.popularity ?? "N/A";
+        const imageUrl = data.images?.[0]?.url;
+
+        const html = `
+          <h2>${name}</h2>
+          ${imageUrl ? `<img src="${imageUrl}" alt="${name}">` : ""}
+          <ul>
+            <li><strong>Followers:</strong> ${followers}</li>
+            <li><strong>Genres:</strong> ${genres}</li>
+            <li><strong>Popularity:</strong> ${popularity}</li>
+            <li><strong>Spotify URL:</strong> 
+              <a href="${data.external_urls?.spotify}" target="_blank">
+                Open in Spotify
+              </a>
+            </li>
+          </ul>
+        `;
+
+        document.getElementById("artist-card").innerHTML = html;
+
+      } catch (err) {
+        console.error("Failed to load artist data:", err);
+        document.getElementById("artist-card").innerHTML =
+          `<p style="color:red;">Error loading artist data</p>`;
+      }
+    }
+
+    loadArtist();
   </script>
 </body>
 </html>
