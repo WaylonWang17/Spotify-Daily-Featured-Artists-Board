@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "followers": 7,
     "genre": "k-pop",
     "genres": [],
@@ -24,10 +25,28 @@
     "top_track": {
       "href": "https://open.spotify.com/track/4B7CtjIV9uuj5GULN2cULm",
       "name": "Dopamine",
+=======
+    "followers": 691854,
+    "genre": "folk",
+    "genres": [
+      "christian folk",
+      "christian",
+      "worship",
+      "christian pop"
+    ],
+    "href": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2",
+    "id": "7yAymwuYh9RcpX84GSNIq2",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb643bfda11e7a4f7796454bea",
+    "name": "Josiah Queen",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1GvJ35amuk7oGjcnoYSKFA",
+      "name": "Dusty Bibles",
+>>>>>>> 43c033494ff67678777eb277daa5ab4e7e2d6888
       "preview": null
     }
   },
   {
+<<<<<<< HEAD
     "followers": 8,
     "genre": "house",
     "genres": [],
@@ -36,5 +55,40 @@
     "image": "",
     "name": "DJ Yayyay",
     "top_track": null
+=======
+    "followers": 3391198,
+    "genre": "rock",
+    "genres": [
+      "reggae rock",
+      "ska punk",
+      "ska"
+    ],
+    "href": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J",
+    "id": "0EdvGhlC1FkGItLOWQzG4J",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe726280500259dbdb97a8be4",
+    "name": "Sublime",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f",
+      "name": "Santeria",
+      "preview": null
+    }
+  },
+  {
+    "followers": 8720498,
+    "genre": "latin",
+    "genres": [
+      "reggaeton",
+      "urbano latino"
+    ],
+    "href": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX",
+    "id": "1TA5sGRlKUJXBN4ZyJuDIX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb021a4821c335d92d21b5f66c",
+    "name": "Blessd",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9",
+      "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
+      "preview": null
+    }
+>>>>>>> 43c033494ff67678777eb277daa5ab4e7e2d6888
   }
 ]
