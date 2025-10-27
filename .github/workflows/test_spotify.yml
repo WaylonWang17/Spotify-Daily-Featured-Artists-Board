@@ -1,4 +1,4 @@
-name: Test Spotify API
+name: Spotify Daily Refresh 
 
 on:
   schedule:
