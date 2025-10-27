@@ -180,9 +180,9 @@ func main() {
 	// getArtist(auth)
 	// getTrack(auth)
 	artistIDs := []string{
-		"1ok4DP80jKsX7GZZ6yr2xR", // B.ROB
-		"64tJ2EAv1R6UaZqc4iOCyj", // YOASOBI
-		"1Xyo4u8uXC1ZmMpatF05PJ", // The Weeknd
+		"1ok4DP80jKsX7GZZ6yr2xR", //B.ROB
+		"1OyML8UXqmlHP7JHexdJVl", //Silk Ye
+		"1Xyo4u8uXC1ZmMpatF05PJ", //The Weeknd
 	}
 
 	var all []map[string]any
