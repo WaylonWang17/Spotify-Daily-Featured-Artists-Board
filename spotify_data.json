@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "followers": 32029986,
     "genre": "indie",
     "genres": [
@@ -15,6 +16,76 @@
       "name": "I Wanna Be Yours",
       "preview": null
     }
+=======
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR"
+    },
+    "followers": {
+      "href": null,
+      "total": 9355
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/1ok4DP80jKsX7GZZ6yr2xR",
+    "id": "1ok4DP80jKsX7GZZ6yr2xR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb35261f2d185fcf548af6cbee",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517435261f2d185fcf548af6cbee",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17835261f2d185fcf548af6cbee",
+        "width": 160
+      }
+    ],
+    "name": "B.ROB",
+    "popularity": 30,
+    "type": "artist",
+    "uri": "spotify:artist:1ok4DP80jKsX7GZZ6yr2xR"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1OyML8UXqmlHP7JHexdJVl"
+    },
+    "followers": {
+      "href": null,
+      "total": 23405
+    },
+    "genres": [
+      "gufeng",
+      "c-pop",
+      "mandopop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1OyML8UXqmlHP7JHexdJVl",
+    "id": "1OyML8UXqmlHP7JHexdJVl",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb6da68dd504a354941bd9fbf7",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051746da68dd504a354941bd9fbf7",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1786da68dd504a354941bd9fbf7",
+        "width": 160
+      }
+    ],
+    "name": "Silk Ye",
+    "popularity": 43,
+    "type": "artist",
+    "uri": "spotify:artist:1OyML8UXqmlHP7JHexdJVl"
+>>>>>>> 5b24ea178c1552e8d77ce4b397cfa1766219e230
   },
   {
     "followers": 24,
