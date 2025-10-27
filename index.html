@@ -15,17 +15,16 @@
       min-height: 100vh;
     }
 
-    /* ✅ Spotify logo behind all content */
     body::before {
       content: "";
       position: fixed;
-      top: 75%; /* lower the logo so it's behind the bottom area */
+      top: 75%;
       left: 50%;
       transform: translate(-50%, -50%);
       background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg");
       background-repeat: no-repeat;
       background-size: 400px;
-      opacity: 0.15; /* faint and elegant */
+      opacity: 0.15; 
       width: 400px;
       height: 400px;
       z-index: 0;
@@ -46,7 +45,7 @@
       gap: 20px;
       margin-top: 30px;
       position: relative;
-      z-index: 1; /* ensures cards appear above logo */
+      z-index: 1;
     }
 
     .artist-card {
@@ -60,7 +59,7 @@
     }
     .artist-card:hover {
       transform: translateY(-5px);
-      box-shadow: 0 6px 30px rgba(30, 215, 96, 0.3); /* Spotify green glow */
+      box-shadow: 0 6px 30px rgba(30, 215, 96, 0.3); 
     }
 
 
@@ -92,14 +91,14 @@
       color: yellow;
     }
     .track-link {
-      color: #1DB954;          /* same as your text color */
-      font-weight: bold;    /* keeps it visually strong */
-      text-decoration: none; /* removes underline */
+      color: #1DB954;         
+      font-weight: bold;    
+      text-decoration: none; 
     }
 
     .track-link:hover {
-      text-decoration: underline; /* optional subtle hover effect */
-      color: yellow; /* optional: make it green only on hover */
+      text-decoration: underline;
+      color: yellow;
     }
   </style>
 </head>

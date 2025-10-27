@@ -2,7 +2,7 @@ name: Spotify Daily Refresh
 
 on:
   schedule:
-    - cron: "0 7 * * *"
+    - cron: "0 7 * * *" #updates 7am utc
   workflow_dispatch:
 
 permissions:
