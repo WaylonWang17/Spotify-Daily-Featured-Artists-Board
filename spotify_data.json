@@ -1,41 +1,52 @@
 [
   {
-    "followers": 14476348,
-    "genre": "hip hop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ",
-    "id": "3AA28KZvwAUcZuOKwyblJQ",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebdd5b57b40cf2aaeccd07835e",
-    "name": "Gorillaz",
+    "followers": 6277637,
+    "genre": "j-pop",
+    "genres": [
+      "j-pop",
+      "anime",
+      "j-rock"
+    ],
+    "href": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9",
+    "id": "4QvgGvpgzgyUOo8Yp8LDm9",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3745f83871d6016e5e9ce5d8",
+    "name": "Mrs. GREEN APPLE",
     "top_track": {
-      "href": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
-      "name": "Feel Good Inc."
+      "href": "https://open.spotify.com/track/21VsLvoE7elUmJZLSawaMh",
+      "name": "ライラック"
     }
   },
   {
-    "followers": 7309092,
-    "genre": "folk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT",
-    "id": "3eqjTLE0HfPfh78zjh6TqT",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb81df2fa2f937029ec986bbb8",
-    "name": "Bruce Springsteen",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE",
-      "name": "Dancing In the Dark"
-    }
-  },
-  {
-    "followers": 12,
+    "followers": 222,
     "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1lsHRaOLNJnnRGTw5EO8zG",
-    "id": "1lsHRaOLNJnnRGTw5EO8zG",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a66d76fb12b8855c2b5873da",
-    "name": "Mark Marku",
+    "href": "https://open.spotify.com/artist/0s4JRhiI6djokTbOhqUd7f",
+    "id": "0s4JRhiI6djokTbOhqUd7f",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738134e797356b04becdec4444",
+    "name": "SWAPAN DEBBARMA",
     "top_track": {
-      "href": "https://open.spotify.com/track/2fVsBU4EXm43Ekelc8OZyW",
-      "name": "Vec me ty"
+      "href": "https://open.spotify.com/track/0hlnibK7prBmuYeUvxw3Wi",
+      "name": "Ang Rwchapkhe"
+    }
+  },
+  {
+    "followers": 3230002,
+    "genre": "jazz",
+    "genres": [
+      "vocal jazz",
+      "jazz blues",
+      "soul",
+      "soul jazz",
+      "jazz",
+      "blues"
+    ],
+    "href": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
+    "id": "7G1GBhoKtEPnP86X2PvEYO",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
+    "name": "Nina Simone",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e",
+      "name": "Feeling Good"
     }
   }
 ]
