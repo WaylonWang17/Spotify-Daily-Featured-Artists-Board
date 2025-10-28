@@ -1,53 +1,41 @@
 [
   {
-    "followers": 2615272,
-    "genre": "blues",
-    "genres": [
-      "blues",
-      "blues rock",
-      "classic blues",
-      "southern rock",
-      "modern blues"
-    ],
-    "href": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1",
-    "id": "5fsDcuclIe8ZiBD5P787K1",
-    "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
-    "name": "Stevie Ray Vaughan",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo",
-      "name": "Pride and Joy",
-      "preview": null
-    }
-  },
-  {
-    "followers": 1266839,
-    "genre": "jazz",
-    "genres": [
-      "smooth jazz",
-      "christmas"
-    ],
-    "href": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB",
-    "id": "6I3M904Y9IwgDjrQ9pANiB",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebfce79bf01d99f9434108b56e",
-    "name": "Kenny G",
-    "top_track": {
-      "href": "https://open.spotify.com/track/13cpOnmccZGVGFngLxYN4I",
-      "name": "Forever in Love",
-      "preview": null
-    }
-  },
-  {
-    "followers": 1633125,
-    "genre": "indie",
+    "followers": 14476348,
+    "genre": "hip hop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo",
-    "id": "1iCnM8foFssWlPRLfAbIwo",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd58f13475be93b37bb63893f",
-    "name": "Gigi Perez",
+    "href": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ",
+    "id": "3AA28KZvwAUcZuOKwyblJQ",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebdd5b57b40cf2aaeccd07835e",
+    "name": "Gorillaz",
     "top_track": {
-      "href": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap",
-      "name": "Sailor Song",
-      "preview": null
+      "href": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
+      "name": "Feel Good Inc."
+    }
+  },
+  {
+    "followers": 7309092,
+    "genre": "folk",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT",
+    "id": "3eqjTLE0HfPfh78zjh6TqT",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb81df2fa2f937029ec986bbb8",
+    "name": "Bruce Springsteen",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE",
+      "name": "Dancing In the Dark"
+    }
+  },
+  {
+    "followers": 12,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1lsHRaOLNJnnRGTw5EO8zG",
+    "id": "1lsHRaOLNJnnRGTw5EO8zG",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a66d76fb12b8855c2b5873da",
+    "name": "Mark Marku",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2fVsBU4EXm43Ekelc8OZyW",
+      "name": "Vec me ty"
     }
   }
 ]
