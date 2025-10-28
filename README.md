@@ -50,14 +50,3 @@ It writes all this to a spotify_data.json file.
 The frontend reads that JSON and displays the artist cards.
 
 A GitHub Actions workflow runs daily to regenerate data and redeploy the site.
-
-📁 Project Structure
-.
-├── main.go # Go backend: fetch artists and write spotify_data.json
-├── index.html # Frontend UI
-├── style.css # Page styling
-├── script.js # Fetches and displays artist data
-├── spotify_data.json # Generated artist data
-└── .github/
-└── workflows/
-└── update.yml # GitHub Actions workflow (daily update)
