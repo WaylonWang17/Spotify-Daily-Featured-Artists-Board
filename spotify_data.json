@@ -1,57 +1,44 @@
 [
   {
-    "followers": 19682987,
+    "followers": 9,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4cf9PTte6sjvGyZaCxY0AP",
+    "id": "4cf9PTte6sjvGyZaCxY0AP",
+    "image": "",
+    "name": "Dalorian \u0026 Pixie Rose",
+    "top_track": {
+      "href": "https://open.spotify.com/track/24OGHcYg3JVjFhSRXGSgoG",
+      "name": "A Boy a Girl - Hands Up Club Mix"
+    }
+  },
+  {
+    "followers": 9463324,
     "genre": "pop",
-    "genres": [
-      "corrido",
-      "corridos tumbados",
-      "corridos bélicos",
-      "música mexicana",
-      "sierreño",
-      "banda",
-      "electro corridos",
-      "sad sierreño"
-    ],
-    "href": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt",
-    "id": "0ys2OFYzWYB5hRDLCsBqxt",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb158a3d24a31166b983e26325",
-    "name": "Fuerza Regida",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM",
+    "id": "1U1el3k54VvEUzo3ybLPlM",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6a5bff9f9278d4eea13bb67e",
+    "name": "Kali Uchis",
     "top_track": {
-      "href": "https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs",
-      "name": "Marlboro Rojo"
+      "href": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B",
+      "name": "telepatía"
     }
   },
   {
-    "followers": 5072733,
-    "genre": "r\u0026b",
+    "followers": 4807531,
+    "genre": "classical",
     "genres": [
-      "funk",
-      "disco"
+      "classical",
+      "classical piano"
     ],
-    "href": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg",
-    "id": "4QQgXkCYTt3BlENzhyNETg",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9722e16a886767adf1178f92",
-    "name": "Earth, Wind \u0026 Fire",
+    "href": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "id": "5aIqB5nVVvmFsvSdExz408",
+    "image": "https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88",
+    "name": "Johann Sebastian Bach",
     "top_track": {
-      "href": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs",
-      "name": "September"
-    }
-  },
-  {
-    "followers": 877660,
-    "genre": "reggae",
-    "genres": [
-      "reggae",
-      "reggae rock",
-      "roots reggae"
-    ],
-    "href": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R",
-    "id": "5SXEylV07TC57eanSxxg4R",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba0f1123095d7e00b8d9fc8ed",
-    "name": "Stick Figure",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3D7cUXDEKLAFsoD10QRoiR",
-      "name": "Smokin' Love (with Collie Buddz)"
+      "href": "https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta",
+      "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Prélude"
     }
   }
 ]
