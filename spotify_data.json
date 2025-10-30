@@ -1,50 +1,47 @@
 [
   {
-    "followers": 720314,
-    "genre": "jazz",
+    "followers": 4077129,
+    "genre": "j-pop",
+    "genres": [
+      "j-pop",
+      "anime",
+      "j-rock"
+    ],
+    "href": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2",
+    "id": "6wxfx1yhyqjCPYwwxJktR2",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb2bdd859253b840c93d36963e",
+    "name": "King Gnu",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN",
+      "name": "SPECIALZ"
+    }
+  },
+  {
+    "followers": 46886554,
+    "genre": "pop",
+    "genres": [
+      "pop"
+    ],
+    "href": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we",
+    "id": "6M2wZ9GZgrQXHCFfjv46we",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d",
+    "name": "Dua Lipa",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39",
+      "name": "Cold Heart - PNAU Remix"
+    }
+  },
+  {
+    "followers": 42,
+    "genre": "house",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8",
-    "id": "5nLYd9ST4Cnwy6NHaCxbj8",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc",
-    "name": "CeeLo Green",
+    "href": "https://open.spotify.com/artist/28atbeMvOSmFBiZ5zQ6cm5",
+    "id": "28atbeMvOSmFBiZ5zQ6cm5",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb778f78cdb63db635c4bd592f",
+    "name": "Messiah Jose K",
     "top_track": {
-      "href": "https://open.spotify.com/track/6o1l9I0faXJN2iqulHrdCQ",
-      "name": "Crazy"
-    }
-  },
-  {
-    "followers": 17319398,
-    "genre": "rock",
-    "genres": [
-      "punk",
-      "pop punk"
-    ],
-    "href": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY",
-    "id": "7oPftvlwr6VrsViSDV7fJY",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6ff0cd5ef2ecf733804984bb",
-    "name": "Green Day",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0U87auHx1iZTEFcq9KVdmO",
-      "name": "Boulevard of Broken Dreams"
-    }
-  },
-  {
-    "followers": 20505606,
-    "genre": "latin",
-    "genres": [
-      "mariachi",
-      "bolero",
-      "latin pop",
-      "ranchera",
-      "villancicos"
-    ],
-    "href": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW",
-    "id": "2nszmSgqreHSdJA3zWPyrW",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
-    "name": "Luis Miguel",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3wogsSWyEEu5eVgLqUqySF",
-      "name": "La Mentira"
+      "href": "https://open.spotify.com/track/1hzkxyyHx0uajHvdJ5D6eK",
+      "name": "Baby Mama"
     }
   }
 ]
