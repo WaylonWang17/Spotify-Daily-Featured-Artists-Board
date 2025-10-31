@@ -1,47 +1,46 @@
 [
   {
-    "followers": 4077129,
-    "genre": "j-pop",
-    "genres": [
-      "j-pop",
-      "anime",
-      "j-rock"
-    ],
-    "href": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2",
-    "id": "6wxfx1yhyqjCPYwwxJktR2",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb2bdd859253b840c93d36963e",
-    "name": "King Gnu",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN",
-      "name": "SPECIALZ"
-    }
-  },
-  {
-    "followers": 46886554,
-    "genre": "pop",
-    "genres": [
-      "pop"
-    ],
-    "href": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we",
-    "id": "6M2wZ9GZgrQXHCFfjv46we",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d",
-    "name": "Dua Lipa",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39",
-      "name": "Cold Heart - PNAU Remix"
-    }
-  },
-  {
-    "followers": 42,
-    "genre": "house",
+    "followers": 15823760,
+    "genre": "dance",
     "genres": [],
-    "href": "https://open.spotify.com/artist/28atbeMvOSmFBiZ5zQ6cm5",
-    "id": "28atbeMvOSmFBiZ5zQ6cm5",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb778f78cdb63db635c4bd592f",
-    "name": "Messiah Jose K",
+    "href": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7",
+    "id": "31TPClRtHm23RisEBtV3X7",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7a5cfe2597665a3d160e805e",
+    "name": "Justin Timberlake",
     "top_track": {
-      "href": "https://open.spotify.com/track/1hzkxyyHx0uajHvdJ5D6eK",
-      "name": "Baby Mama"
+      "href": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR",
+      "name": "SexyBack (feat. Timbaland)"
+    }
+  },
+  {
+    "followers": 19258378,
+    "genre": "hip hop",
+    "genres": [
+      "melodic rap"
+    ],
+    "href": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
+    "id": "4O15NlyKLIASxsJ0PrXPfz",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba8ce348f34f18241d3249fa9",
+    "name": "Lil Uzi Vert",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1jKlRcH7X78ps1yKBTWyUV",
+      "name": "Lucid Dreams (feat. Lil Uzi Vert) - Remix"
+    }
+  },
+  {
+    "followers": 746503,
+    "genre": "folk",
+    "genres": [
+      "indie folk",
+      "folk"
+    ],
+    "href": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix",
+    "id": "0wyMPXGfOuQzNR54ujR9Ix",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe0098f9c6d8275ee0a2d2eca",
+    "name": "Caamp",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3mg2GWeQoe9QnXizWvyAr2",
+      "name": "All the Debts I Owe"
     }
   }
 ]
