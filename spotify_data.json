@@ -1,51 +1,51 @@
 [
   {
-    "followers": 2089578,
-    "genre": "metal",
+    "followers": 11657,
+    "genre": "classical",
     "genres": [
-      "trap metal"
+      "lullaby"
     ],
-    "href": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U",
-    "id": "62F9BiUmjqeXbBztCwiX1U",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcbd188dffc3c7be2c84e98e7",
-    "name": "Lil Darkie",
+    "href": "https://open.spotify.com/artist/1OYYgvoQMVHpU1HgW0ZduV",
+    "id": "1OYYgvoQMVHpU1HgW0ZduV",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc4222a2e47d273fc6ad17a76",
+    "name": "Bae Bee",
     "top_track": {
-      "href": "https://open.spotify.com/track/1A40cWbsF9yQskTD8U6Ci5",
-      "name": "i can see clearly"
+      "href": "https://open.spotify.com/track/1CotqtiuhyP4IlrqohlYa4",
+      "name": "Edelweiss"
     }
   },
   {
-    "followers": 17804,
-    "genre": "reggae",
+    "followers": 107450384,
+    "genre": "pop",
     "genres": [
-      "dancehall",
-      "riddim",
-      "lovers rock",
-      "ragga"
+      "pop"
     ],
-    "href": "https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ",
-    "id": "67wCYxOq4A1ohAs7jWYaOJ",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731154effc6086bff87198e1ca",
-    "name": "Rik Rok",
+    "href": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR",
+    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6725802588d7dc1aba076ca5",
+    "name": "Ariana Grande",
     "top_track": {
-      "href": "https://open.spotify.com/track/1pZz8mNhigw5UDSJa4Rxeo",
-      "name": "Your Eyes"
+      "href": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4",
+      "name": "we can't be friends (wait for your love)"
     }
   },
   {
-    "followers": 1800015,
-    "genre": "punk",
+    "followers": 5497390,
+    "genre": "latin",
     "genres": [
-      "emo",
-      "pop punk"
+      "sad sierreño",
+      "corridos tumbados",
+      "música mexicana",
+      "corrido",
+      "sierreño"
     ],
-    "href": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s",
-    "id": "3Ayl7mCk0nScecqOzvNp6s",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f",
-    "name": "Jimmy Eat World",
+    "href": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV",
+    "id": "6PH3FLQAxtqYy46Zv08bpV",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0a052faab8058ca12cd9ff9b",
+    "name": "Ivan Cornejo",
     "top_track": {
-      "href": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO",
-      "name": "The Middle"
+      "href": "https://open.spotify.com/track/51sN3VDJBVmKJVgp0trc7M",
+      "name": "Atención"
     }
   }
 ]
