@@ -1,51 +1,43 @@
 [
   {
-    "followers": 11657,
-    "genre": "classical",
+    "followers": 13414530,
+    "genre": "country",
     "genres": [
-      "lullaby"
+      "country"
     ],
-    "href": "https://open.spotify.com/artist/1OYYgvoQMVHpU1HgW0ZduV",
-    "id": "1OYYgvoQMVHpU1HgW0ZduV",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc4222a2e47d273fc6ad17a76",
-    "name": "Bae Bee",
+    "href": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS",
+    "id": "718COspgdWOnwOFpJHRZHS",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb584e28452f46640852c2aed4",
+    "name": "Luke Combs",
     "top_track": {
-      "href": "https://open.spotify.com/track/1CotqtiuhyP4IlrqohlYa4",
-      "name": "Edelweiss"
+      "href": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT",
+      "name": "Fast Car"
     }
   },
   {
-    "followers": 107450384,
-    "genre": "pop",
-    "genres": [
-      "pop"
-    ],
-    "href": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR",
-    "id": "66CXWjxzNUsdJxJ2JdwvnR",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6725802588d7dc1aba076ca5",
-    "name": "Ariana Grande",
+    "followers": 27,
+    "genre": "edm",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/7Ak8RIGWuryAyWMqAPFkst",
+    "id": "7Ak8RIGWuryAyWMqAPFkst",
+    "image": "https://i.scdn.co/image/ab67616d0000b273122da32ebc380e4aa489843c",
+    "name": "Breaking For Love",
     "top_track": {
-      "href": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4",
-      "name": "we can't be friends (wait for your love)"
+      "href": "https://open.spotify.com/track/2XZEmdE9uHIuSkiDZtieVm",
+      "name": "Breaking for Love"
     }
   },
   {
-    "followers": 5497390,
-    "genre": "latin",
-    "genres": [
-      "sad sierreño",
-      "corridos tumbados",
-      "música mexicana",
-      "corrido",
-      "sierreño"
-    ],
-    "href": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV",
-    "id": "6PH3FLQAxtqYy46Zv08bpV",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0a052faab8058ca12cd9ff9b",
-    "name": "Ivan Cornejo",
+    "followers": 1373251,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2",
+    "id": "4hz8tIajF2INpgM0qzPJz2",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6a5725ec47b6d8c613099d74",
+    "name": "Rainbow Kitten Surprise",
     "top_track": {
-      "href": "https://open.spotify.com/track/51sN3VDJBVmKJVgp0trc7M",
-      "name": "Atención"
+      "href": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl",
+      "name": "It's Called: Freefall"
     }
   }
 ]
