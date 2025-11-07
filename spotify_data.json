@@ -1,41 +1,45 @@
 [
   {
-    "followers": 418,
-    "genre": "house",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2hsk8LeUbEeKxyghbsAbs8",
-    "id": "2hsk8LeUbEeKxyghbsAbs8",
-    "image": "",
-    "name": "DJ Vital",
-    "top_track": null
-  },
-  {
-    "followers": 18912162,
-    "genre": "hip hop",
+    "followers": 1127939,
+    "genre": "reggae",
     "genres": [
-      "east coast hip hop",
-      "old school hip hop"
+      "dancehall",
+      "soca",
+      "afrobeats"
     ],
-    "href": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh",
-    "id": "3q7HBObVc0L8jNeTe5Gofh",
-    "image": "https://i.scdn.co/image/dd031b9c5d1b6eba4a691cd89c954255aae787f2",
-    "name": "50 Cent",
+    "href": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB",
+    "id": "1OFOShsIbhy1l5x73yuVyB",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb67199fc390ed8b61fdea059c",
+    "name": "Shenseea",
     "top_track": {
-      "href": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8",
-      "name": "In Da Club"
+      "href": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza",
+      "name": "Shake It To The Max (FLY) - Remix"
     }
   },
   {
-    "followers": 12463321,
-    "genre": "dance",
+    "followers": 143,
+    "genre": "edm",
     "genres": [],
-    "href": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y",
-    "id": "07YZf4WDAMNwqr4jfgOZ8y",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb94cf6c87c82ddb0eade61eb0",
-    "name": "Jason Derulo",
+    "href": "https://open.spotify.com/artist/6UFzVzf3ps0jAWqag24aLU",
+    "id": "6UFzVzf3ps0jAWqag24aLU",
+    "image": "https://i.scdn.co/image/ab67616d0000b273623d5644a416d7b37cb1c2be",
+    "name": "Braydon Wollmann",
     "top_track": {
-      "href": "https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8",
-      "name": "Whatcha Say"
+      "href": "https://open.spotify.com/track/6tDO9GQEgpjrmI3Wz6iA9p",
+      "name": "She Dances"
+    }
+  },
+  {
+    "followers": 184668,
+    "genre": "j-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2",
+    "id": "0qs2PuNODoOAKG4rIv9fB2",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0bf929c191a766fe735d5b17",
+    "name": "PARK BYEONG HOON",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF",
+      "name": "Cure (VIVINOS - ALNST Original Soundtrack Part.7)"
     }
   }
 ]
