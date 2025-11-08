@@ -1,19 +1,32 @@
 [
   {
-    "followers": 1127939,
-    "genre": "reggae",
+    "followers": 13424171,
+    "genre": "country",
     "genres": [
-      "dancehall",
-      "soca",
-      "afrobeats"
+      "country"
     ],
-    "href": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB",
-    "id": "1OFOShsIbhy1l5x73yuVyB",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb67199fc390ed8b61fdea059c",
-    "name": "Shenseea",
+    "href": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS",
+    "id": "718COspgdWOnwOFpJHRZHS",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb584e28452f46640852c2aed4",
+    "name": "Luke Combs",
     "top_track": {
-      "href": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza",
-      "name": "Shake It To The Max (FLY) - Remix"
+      "href": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT",
+      "name": "Fast Car"
+    }
+  },
+  {
+    "followers": 13213,
+    "genre": "jazz",
+    "genres": [
+      "jazz"
+    ],
+    "href": "https://open.spotify.com/artist/2b9qemp1Y8NuEbY4RMYHY1",
+    "id": "2b9qemp1Y8NuEbY4RMYHY1",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe2850af480173596cefd48c1",
+    "name": "Jazzy Coffee",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4BBKIyvbUZZkErz6YdvdBx",
+      "name": "autumn leaves"
     }
   },
   {
@@ -27,19 +40,6 @@
     "top_track": {
       "href": "https://open.spotify.com/track/6tDO9GQEgpjrmI3Wz6iA9p",
       "name": "She Dances"
-    }
-  },
-  {
-    "followers": 184668,
-    "genre": "j-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2",
-    "id": "0qs2PuNODoOAKG4rIv9fB2",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0bf929c191a766fe735d5b17",
-    "name": "PARK BYEONG HOON",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF",
-      "name": "Cure (VIVINOS - ALNST Original Soundtrack Part.7)"
     }
   }
 ]
