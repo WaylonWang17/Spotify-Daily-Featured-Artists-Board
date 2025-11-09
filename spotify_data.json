@@ -1,45 +1,41 @@
 [
   {
-    "followers": 13424171,
-    "genre": "country",
-    "genres": [
-      "country"
-    ],
-    "href": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS",
-    "id": "718COspgdWOnwOFpJHRZHS",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb584e28452f46640852c2aed4",
-    "name": "Luke Combs",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT",
-      "name": "Fast Car"
-    }
-  },
-  {
-    "followers": 13213,
-    "genre": "jazz",
-    "genres": [
-      "jazz"
-    ],
-    "href": "https://open.spotify.com/artist/2b9qemp1Y8NuEbY4RMYHY1",
-    "id": "2b9qemp1Y8NuEbY4RMYHY1",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe2850af480173596cefd48c1",
-    "name": "Jazzy Coffee",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4BBKIyvbUZZkErz6YdvdBx",
-      "name": "autumn leaves"
-    }
-  },
-  {
-    "followers": 143,
-    "genre": "edm",
+    "followers": 107,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6UFzVzf3ps0jAWqag24aLU",
-    "id": "6UFzVzf3ps0jAWqag24aLU",
-    "image": "https://i.scdn.co/image/ab67616d0000b273623d5644a416d7b37cb1c2be",
-    "name": "Braydon Wollmann",
+    "href": "https://open.spotify.com/artist/1TrRSuNW9OMJL47JfXKpie",
+    "id": "1TrRSuNW9OMJL47JfXKpie",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f1af2eb9e30bbfa8e4cb7428",
+    "name": "KK Meska",
     "top_track": {
-      "href": "https://open.spotify.com/track/6tDO9GQEgpjrmI3Wz6iA9p",
-      "name": "She Dances"
+      "href": "https://open.spotify.com/track/49Gzx6tOA0ouCnVSu7n3yw",
+      "name": "Msoi Rangjakma"
+    }
+  },
+  {
+    "followers": 1557912,
+    "genre": "folk",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS",
+    "id": "1GmsPCcpKgF9OhlNXjOsbS",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb912df0c93a5dc290d3c8816e",
+    "name": "Lizzy McAlpine",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI",
+      "name": "ceilings"
+    }
+  },
+  {
+    "followers": 58432139,
+    "genre": "rock",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q",
+    "id": "53XhwfbYqKCa1cC15pYq2q",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebab47d8dae2b24f5afe7f9d38",
+    "name": "Imagine Dragons",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
+      "name": "Believer"
     }
   }
 ]
