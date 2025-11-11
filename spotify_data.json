@@ -1,48 +1,46 @@
 [
   {
-    "followers": 250,
-    "genre": "k-pop",
+    "followers": 1376233,
+    "genre": "folk",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0fOkrbYZqKz17acLGXSgx0",
-    "id": "0fOkrbYZqKz17acLGXSgx0",
-    "image": "https://i.scdn.co/image/ab67616d0000b27311f9c444d36f1e45136828d6",
-    "name": "Akbar Kinnora",
+    "href": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2",
+    "id": "4hz8tIajF2INpgM0qzPJz2",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6a5725ec47b6d8c613099d74",
+    "name": "Rainbow Kitten Surprise",
     "top_track": {
-      "href": "https://open.spotify.com/track/3wimPNJFoJEGHsuFAqJpOQ",
-      "name": "Shinstag Bennang"
+      "href": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl",
+      "name": "It's Called: Freefall"
     }
   },
   {
-    "followers": 7612600,
-    "genre": "metal",
+    "followers": 8908281,
+    "genre": "latin",
     "genres": [
-      "metal",
-      "glam metal",
-      "heavy metal",
-      "hard rock"
+      "reggaeton",
+      "urbano latino"
     ],
-    "href": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY",
-    "id": "6ZLTlhejhndI4Rh53vYhrY",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb5b52f7e13f720c7a4856306",
-    "name": "Ozzy Osbourne",
+    "href": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX",
+    "id": "1TA5sGRlKUJXBN4ZyJuDIX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb021a4821c335d92d21b5f66c",
+    "name": "Blessd",
     "top_track": {
-      "href": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU",
-      "name": "Crazy Train"
+      "href": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9",
+      "name": "YOGURCITO REMIX (feat. Kris R., ROA)"
     }
   },
   {
-    "followers": 10404869,
-    "genre": "hip hop",
+    "followers": 22028,
+    "genre": "reggae",
     "genres": [
-      "melodic rap"
+      "musicals"
     ],
-    "href": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ",
-    "id": "2hlmm7s2ICUX0LVIhVFlZQ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
-    "name": "Gunna",
+    "href": "https://open.spotify.com/artist/6rLqxfVk0nnbaIgAbuQRHa",
+    "id": "6rLqxfVk0nnbaIgAbuQRHa",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0ff1bac8877c80871181bc2c",
+    "name": "Steven Dookie",
     "top_track": {
-      "href": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe",
-      "name": "wgft (feat. Burna Boy)"
+      "href": "https://open.spotify.com/track/3Hp8GJDsH3E7fumfAACH2k",
+      "name": "Love in Paradise"
     }
   }
 ]
