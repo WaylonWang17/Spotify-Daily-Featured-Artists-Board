@@ -1,46 +1,45 @@
 [
   {
-    "followers": 1376233,
-    "genre": "folk",
+    "followers": 5847045,
+    "genre": "r\u0026b",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2",
-    "id": "4hz8tIajF2INpgM0qzPJz2",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6a5725ec47b6d8c613099d74",
-    "name": "Rainbow Kitten Surprise",
+    "href": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy",
+    "id": "3aQeKQSyrW4qWr35idm0cy",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb173c878a651babb8d0db4cee",
+    "name": "T-Pain",
     "top_track": {
-      "href": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl",
-      "name": "It's Called: Freefall"
+      "href": "https://open.spotify.com/track/6lbhWl34Il0WXm5pX1fM9E",
+      "name": "Up Down (Do This All Day) (feat. B.o.B)"
     }
   },
   {
-    "followers": 8908281,
-    "genre": "latin",
-    "genres": [
-      "reggaeton",
-      "urbano latino"
-    ],
-    "href": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX",
-    "id": "1TA5sGRlKUJXBN4ZyJuDIX",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb021a4821c335d92d21b5f66c",
-    "name": "Blessd",
+    "followers": 15,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0x6nZUjJoC0FlBPOvX0ejS",
+    "id": "0x6nZUjJoC0FlBPOvX0ejS",
+    "image": "",
+    "name": "Amelia Rodríguez Paté",
     "top_track": {
-      "href": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9",
-      "name": "YOGURCITO REMIX (feat. Kris R., ROA)"
+      "href": "https://open.spotify.com/track/7Dn7cuG3nblRWceaN7IYjt",
+      "name": "'Amo Moenga Roaroa (Carrying the Long Mat)"
     }
   },
   {
-    "followers": 22028,
-    "genre": "reggae",
+    "followers": 5725878,
+    "genre": "classical",
     "genres": [
-      "musicals"
+      "classical",
+      "classical piano",
+      "chamber music"
     ],
-    "href": "https://open.spotify.com/artist/6rLqxfVk0nnbaIgAbuQRHa",
-    "id": "6rLqxfVk0nnbaIgAbuQRHa",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0ff1bac8877c80871181bc2c",
-    "name": "Steven Dookie",
+    "href": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS",
+    "id": "2wOqMjp9TyABvtHdOSOTUS",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba636b0b244253f602a629796",
+    "name": "Ludwig van Beethoven",
     "top_track": {
-      "href": "https://open.spotify.com/track/3Hp8GJDsH3E7fumfAACH2k",
-      "name": "Love in Paradise"
+      "href": "https://open.spotify.com/track/40gRh2ZURv5tYBo8yB9Lu3",
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto"
     }
   }
 ]
