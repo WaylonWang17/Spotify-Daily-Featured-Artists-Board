@@ -1,45 +1,41 @@
 [
   {
-    "followers": 5847045,
+    "followers": 9902,
+    "genre": "house",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/5pAKxvQYvJlmEoiBKNxl3W",
+    "id": "5pAKxvQYvJlmEoiBKNxl3W",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb62bd344a790bef65427ad0cd",
+    "name": "Aquatone",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0rvseqKAjb0Mj1xTmPEASk",
+      "name": "Our Lives"
+    }
+  },
+  {
+    "followers": 4329343,
+    "genre": "folk",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX",
+    "id": "2txHhyCwHjUEpJjWrEyqyX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb89633578648b0b51f53d167f",
+    "name": "Tom Odell",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO",
+      "name": "Another Love"
+    }
+  },
+  {
+    "followers": 7234879,
     "genre": "r\u0026b",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy",
-    "id": "3aQeKQSyrW4qWr35idm0cy",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb173c878a651babb8d0db4cee",
-    "name": "T-Pain",
+    "href": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg",
+    "id": "3KV3p5EY4AvKxOlhGHORLg",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8ddeab89a67542470e2631c8",
+    "name": "Jeremih",
     "top_track": {
-      "href": "https://open.spotify.com/track/6lbhWl34Il0WXm5pX1fM9E",
-      "name": "Up Down (Do This All Day) (feat. B.o.B)"
-    }
-  },
-  {
-    "followers": 15,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0x6nZUjJoC0FlBPOvX0ejS",
-    "id": "0x6nZUjJoC0FlBPOvX0ejS",
-    "image": "",
-    "name": "Amelia Rodríguez Paté",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7Dn7cuG3nblRWceaN7IYjt",
-      "name": "'Amo Moenga Roaroa (Carrying the Long Mat)"
-    }
-  },
-  {
-    "followers": 5725878,
-    "genre": "classical",
-    "genres": [
-      "classical",
-      "classical piano",
-      "chamber music"
-    ],
-    "href": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS",
-    "id": "2wOqMjp9TyABvtHdOSOTUS",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba636b0b244253f602a629796",
-    "name": "Ludwig van Beethoven",
-    "top_track": {
-      "href": "https://open.spotify.com/track/40gRh2ZURv5tYBo8yB9Lu3",
-      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto"
+      "href": "https://open.spotify.com/track/4NpDZPwSXmL0cCTaJuVrCw",
+      "name": "Birthday Sex"
     }
   }
 ]
