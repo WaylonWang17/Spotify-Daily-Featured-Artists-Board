@@ -1,51 +1,49 @@
 [
   {
-    "followers": 11855249,
+    "followers": 6303133,
     "genre": "metal",
     "genres": [
-      "industrial metal",
+      "groove metal",
       "metal",
-      "industrial rock",
-      "industrial"
+      "thrash metal",
+      "heavy metal"
     ],
-    "href": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP",
-    "id": "6wWVKhxIU2cEi0K81v7HvP",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb32845b1556f9dbdfe8ee6575",
-    "name": "Rammstein",
+    "href": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18",
+    "id": "14pVkFUHDL207LzLHtSA18",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
+    "name": "Pantera",
     "top_track": {
-      "href": "https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq",
-      "name": "Sonne"
+      "href": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR",
+      "name": "Walk"
     }
   },
   {
-    "followers": 9,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4cf9PTte6sjvGyZaCxY0AP",
-    "id": "4cf9PTte6sjvGyZaCxY0AP",
-    "image": "",
-    "name": "Dalorian \u0026 Pixie Rose",
-    "top_track": {
-      "href": "https://open.spotify.com/track/24OGHcYg3JVjFhSRXGSgoG",
-      "name": "A Boy a Girl - Hands Up Club Mix"
-    }
-  },
-  {
-    "followers": 622964,
-    "genre": "jazz",
+    "followers": 3027404,
+    "genre": "country",
     "genres": [
-      "big band",
-      "adult standards",
-      "swing music",
-      "doo-wop"
+      "country",
+      "classic country"
     ],
-    "href": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ",
-    "id": "0EodhzA6yW1bIdD5B4tcmJ",
-    "image": "https://i.scdn.co/image/ab6772690000c46c92f83e9f6b9f4b89c56c5811",
-    "name": "Bobby Darin",
+    "href": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8",
+    "id": "2bA6fzP0lMAQ4kz6CF61w8",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb1b6b9d83cfd806b328496207",
+    "name": "Toby Keith",
     "top_track": {
-      "href": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg",
-      "name": "Beyond the Sea"
+      "href": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy",
+      "name": "Should've Been A Cowboy"
+    }
+  },
+  {
+    "followers": 16,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1yvVX7dWzRqSKQRvgnAGkv",
+    "id": "1yvVX7dWzRqSKQRvgnAGkv",
+    "image": "",
+    "name": "Dareen Tatour",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7xjK80r5IaD0smaToXzMc8",
+      "name": "Resist, My People, Resist Them"
     }
   }
 ]
