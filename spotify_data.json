@@ -1,45 +1,46 @@
 [
   {
-    "followers": 9,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4cf9PTte6sjvGyZaCxY0AP",
-    "id": "4cf9PTte6sjvGyZaCxY0AP",
-    "image": "",
-    "name": "Dalorian \u0026 Pixie Rose",
-    "top_track": {
-      "href": "https://open.spotify.com/track/24OGHcYg3JVjFhSRXGSgoG",
-      "name": "A Boy a Girl - Hands Up Club Mix"
-    }
-  },
-  {
-    "followers": 146,
-    "genre": "edm",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6UFzVzf3ps0jAWqag24aLU",
-    "id": "6UFzVzf3ps0jAWqag24aLU",
-    "image": "https://i.scdn.co/image/ab67616d0000b273623d5644a416d7b37cb1c2be",
-    "name": "Braydon Wollmann",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0VeNRRvleJUYZFigSgOP5n",
-      "name": "Still Gone"
-    }
-  },
-  {
-    "followers": 7155428,
-    "genre": "r\u0026b",
+    "followers": 43392,
+    "genre": "reggae",
     "genres": [
-      "motown",
-      "classic soul",
-      "soul"
+      "musicals"
     ],
-    "href": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi",
-    "id": "7guDJrEfX3qb6FEbdPA5qi",
-    "image": "https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108",
-    "name": "Stevie Wonder",
+    "href": "https://open.spotify.com/artist/1iM9uHQqsPQvZ087a5pf5w",
+    "id": "1iM9uHQqsPQvZ087a5pf5w",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb2899b89157f68eefaf17bf71",
+    "name": "Teagan Earley",
     "top_track": {
-      "href": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs",
-      "name": "I Just Called To Say I Love You"
+      "href": "https://open.spotify.com/track/5vXTArFpG0hB1fdlVsf28f",
+      "name": "Warrior of the Mind"
+    }
+  },
+  {
+    "followers": 744311,
+    "genre": "j-pop",
+    "genres": [
+      "k-pop",
+      "j-pop"
+    ],
+    "href": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7",
+    "id": "2xfxRiKxoHl5tI0MKyvqV7",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc4204e496cc9fef8d43d388f",
+    "name": "\u0026TEAM",
+    "top_track": {
+      "href": "https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS",
+      "name": "Back to Life"
+    }
+  },
+  {
+    "followers": 16,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1yvVX7dWzRqSKQRvgnAGkv",
+    "id": "1yvVX7dWzRqSKQRvgnAGkv",
+    "image": "",
+    "name": "Dareen Tatour",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7xjK80r5IaD0smaToXzMc8",
+      "name": "Resist, My People, Resist Them"
     }
   }
 ]
