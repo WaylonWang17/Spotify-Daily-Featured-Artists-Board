@@ -1,49 +1,45 @@
 [
   {
-    "followers": 7642695,
+    "followers": 2097831,
     "genre": "metal",
     "genres": [
-      "metal",
-      "glam metal",
-      "heavy metal",
-      "hard rock"
+      "trap metal"
     ],
-    "href": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY",
-    "id": "6ZLTlhejhndI4Rh53vYhrY",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb5b52f7e13f720c7a4856306",
-    "name": "Ozzy Osbourne",
+    "href": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U",
+    "id": "62F9BiUmjqeXbBztCwiX1U",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcbd188dffc3c7be2c84e98e7",
+    "name": "Lil Darkie",
     "top_track": {
-      "href": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU",
-      "name": "Crazy Train"
+      "href": "https://open.spotify.com/track/1A40cWbsF9yQskTD8U6Ci5",
+      "name": "i can see clearly"
     }
   },
   {
-    "followers": 4821233,
-    "genre": "classical",
-    "genres": [
-      "classical",
-      "classical piano"
-    ],
-    "href": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
-    "id": "5aIqB5nVVvmFsvSdExz408",
-    "image": "https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88",
-    "name": "Johann Sebastian Bach",
-    "top_track": {
-      "href": "https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta",
-      "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Prélude"
-    }
-  },
-  {
-    "followers": 3950761,
-    "genre": "folk",
+    "followers": 9900,
+    "genre": "house",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ",
-    "id": "4LEiUm1SRbFMgfqnQTwUbQ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb1a0c1f04c95539fd55ef0ebb",
-    "name": "Bon Iver",
+    "href": "https://open.spotify.com/artist/5pAKxvQYvJlmEoiBKNxl3W",
+    "id": "5pAKxvQYvJlmEoiBKNxl3W",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb62bd344a790bef65427ad0cd",
+    "name": "Aquatone",
     "top_track": {
-      "href": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y",
-      "name": "exile (feat. Bon Iver)"
+      "href": "https://open.spotify.com/track/0rvseqKAjb0Mj1xTmPEASk",
+      "name": "Our Lives"
+    }
+  },
+  {
+    "followers": 2663239,
+    "genre": "j-pop",
+    "genres": [
+      "vocaloid"
+    ],
+    "href": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl",
+    "id": "6pNgnvzBa6Bthsv8SrZJYl",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375",
+    "name": "Hatsune Miku",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ",
+      "name": "メズマライザー (feat. 初音ミク\u0026重音テト)"
     }
   }
 ]
