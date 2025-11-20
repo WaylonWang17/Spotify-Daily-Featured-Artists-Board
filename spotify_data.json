@@ -1,45 +1,46 @@
 [
   {
-    "followers": 2097831,
-    "genre": "metal",
-    "genres": [
-      "trap metal"
-    ],
-    "href": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U",
-    "id": "62F9BiUmjqeXbBztCwiX1U",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcbd188dffc3c7be2c84e98e7",
-    "name": "Lil Darkie",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1A40cWbsF9yQskTD8U6Ci5",
-      "name": "i can see clearly"
-    }
-  },
-  {
-    "followers": 9900,
-    "genre": "house",
+    "followers": 1,
+    "genre": "techno",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5pAKxvQYvJlmEoiBKNxl3W",
-    "id": "5pAKxvQYvJlmEoiBKNxl3W",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb62bd344a790bef65427ad0cd",
-    "name": "Aquatone",
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 7085942,
+    "genre": "latin",
+    "genres": [
+      "reggaeton chileno",
+      "chilean trap",
+      "chilean mambo",
+      "reggaeton"
+    ],
+    "href": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE",
+    "id": "1Yj5Xey7kTwvZla8sqdsdE",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb418720dd75ca0213bc39e3e5",
+    "name": "Cris MJ",
     "top_track": {
-      "href": "https://open.spotify.com/track/0rvseqKAjb0Mj1xTmPEASk",
-      "name": "Our Lives"
+      "href": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy",
+      "name": "Gata Only"
     }
   },
   {
-    "followers": 2663239,
-    "genre": "j-pop",
+    "followers": 7377470,
+    "genre": "country",
     "genres": [
-      "vocaloid"
+      "country",
+      "red dirt"
     ],
-    "href": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl",
-    "id": "6pNgnvzBa6Bthsv8SrZJYl",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375",
-    "name": "Hatsune Miku",
+    "href": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2",
+    "id": "40ZNYROS4zLfyyBSs2PGe2",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4fd54df35bfcfa0fc9fc2da7",
+    "name": "Zach Bryan",
     "top_track": {
-      "href": "https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ",
-      "name": "メズマライザー (feat. 初音ミク\u0026重音テト)"
+      "href": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG",
+      "name": "I Remember Everything (feat. Kacey Musgraves)"
     }
   }
 ]
