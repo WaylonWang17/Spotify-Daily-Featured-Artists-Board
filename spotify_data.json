@@ -1,46 +1,45 @@
 [
   {
-    "followers": 1,
-    "genre": "techno",
+    "followers": 517,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
     "image": "",
-    "name": "Andy Lyon",
+    "name": "Rutuu",
     "top_track": null
   },
   {
-    "followers": 7085942,
-    "genre": "latin",
+    "followers": 2205926,
+    "genre": "j-pop",
     "genres": [
-      "reggaeton chileno",
-      "chilean trap",
-      "chilean mambo",
-      "reggaeton"
+      "j-pop",
+      "j-rock",
+      "anime",
+      "japanese indie"
     ],
-    "href": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE",
-    "id": "1Yj5Xey7kTwvZla8sqdsdE",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb418720dd75ca0213bc39e3e5",
-    "name": "Cris MJ",
+    "href": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj",
+    "id": "38WbKH6oKAZskBhqDFA8Uj",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e",
+    "name": "ZUTOMAYO",
     "top_track": {
-      "href": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy",
-      "name": "Gata Only"
+      "href": "https://open.spotify.com/track/7xpUWbv1UfcRQJEOGabeaJ",
+      "name": "TAIDADA"
     }
   },
   {
-    "followers": 7377470,
-    "genre": "country",
+    "followers": 31249,
+    "genre": "reggae",
     "genres": [
-      "country",
-      "red dirt"
+      "shatta"
     ],
-    "href": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2",
-    "id": "40ZNYROS4zLfyyBSs2PGe2",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4fd54df35bfcfa0fc9fc2da7",
-    "name": "Zach Bryan",
+    "href": "https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt",
+    "id": "2myuqB0gKAo75dE2eSWgzt",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbc5fc52df6e18ca64631e4f9",
+    "name": "Silent Addy",
     "top_track": {
-      "href": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG",
-      "name": "I Remember Everything (feat. Kacey Musgraves)"
+      "href": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza",
+      "name": "Shake It To The Max (FLY) - Remix"
     }
   }
 ]
