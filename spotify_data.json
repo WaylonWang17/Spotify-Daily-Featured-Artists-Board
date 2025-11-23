@@ -1,45 +1,47 @@
 [
   {
-    "followers": 60821595,
-    "genre": "latin",
+    "followers": 506569,
+    "genre": "punk",
     "genres": [
-      "reggaeton",
-      "latin",
-      "urbano latino"
+      "rap rock"
     ],
-    "href": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla",
-    "id": "790FomKkXshlbRYZFtlgla",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb66041ce9eb4497057cbc3496",
-    "name": "KAROL G",
+    "href": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX",
+    "id": "4exLIFE8sISLr28sqG1qNX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3",
+    "name": "Travis Barker",
     "top_track": {
-      "href": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32",
-      "name": "Si Antes Te Hubiera Conocido"
+      "href": "https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg",
+      "name": "I Think I'm OKAY (with YUNGBLUD \u0026 Travis Barker)"
     }
   },
   {
-    "followers": 418,
-    "genre": "house",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2hsk8LeUbEeKxyghbsAbs8",
-    "id": "2hsk8LeUbEeKxyghbsAbs8",
-    "image": "",
-    "name": "DJ Vital",
-    "top_track": null
+    "followers": 17430169,
+    "genre": "hip hop",
+    "genres": [
+      "rap"
+    ],
+    "href": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
+    "id": "13ubrt8QOOCPljQ2FL1Kca",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5c58c41a506a0d6b32cc6cad",
+    "name": "A$AP Rocky",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6",
+      "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap \u0026 Clams Casino)"
+    }
   },
   {
-    "followers": 198086,
+    "followers": 192389,
     "genre": "classical",
     "genres": [
-      "orchestral",
-      "classical"
+      "neoclassical"
     ],
-    "href": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1",
-    "id": "0MvSBMGRQJY3mRwIbJsqF1",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf9cd4a9062ded7cb2b8a351b",
-    "name": "Royal Philharmonic Orchestra",
+    "href": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX",
+    "id": "58R31AvN8JMHM7xkNpVLjX",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf02d96dbc42dc8f48f55c692",
+    "name": "Alexis Ffrench",
     "top_track": {
-      "href": "https://open.spotify.com/track/2MRJ3Oqb5yAONPvQyoWnQ9",
-      "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra"
+      "href": "https://open.spotify.com/track/72a7BreUstd8JSHbPyMr0d",
+      "name": "Once"
     }
   }
 ]
