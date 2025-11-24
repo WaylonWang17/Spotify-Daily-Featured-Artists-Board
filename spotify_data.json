@@ -1,47 +1,50 @@
 [
   {
-    "followers": 506569,
+    "followers": 11454592,
     "genre": "punk",
     "genres": [
-      "rap rock"
+      "emo",
+      "pop punk"
     ],
-    "href": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX",
-    "id": "4exLIFE8sISLr28sqG1qNX",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3",
-    "name": "Travis Barker",
+    "href": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX",
+    "id": "4UXqAaa6dQYAk18Lv7PEgX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac",
+    "name": "Fall Out Boy",
     "top_track": {
-      "href": "https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg",
-      "name": "I Think I'm OKAY (with YUNGBLUD \u0026 Travis Barker)"
+      "href": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq",
+      "name": "Centuries"
     }
   },
   {
-    "followers": 17430169,
-    "genre": "hip hop",
+    "followers": 41441428,
+    "genre": "dance",
     "genres": [
       "rap"
     ],
-    "href": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
-    "id": "13ubrt8QOOCPljQ2FL1Kca",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5c58c41a506a0d6b32cc6cad",
-    "name": "A$AP Rocky",
+    "href": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
+    "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+    "name": "Travis Scott",
     "top_track": {
-      "href": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6",
-      "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap \u0026 Clams Casino)"
+      "href": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2",
+      "name": "goosebumps"
     }
   },
   {
-    "followers": 192389,
-    "genre": "classical",
+    "followers": 5185547,
+    "genre": "metal",
     "genres": [
-      "neoclassical"
+      "grunge",
+      "post-grunge",
+      "alternative metal"
     ],
-    "href": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX",
-    "id": "58R31AvN8JMHM7xkNpVLjX",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf02d96dbc42dc8f48f55c692",
-    "name": "Alexis Ffrench",
+    "href": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn",
+    "id": "2ziB7fzrXBoh1HUPS6sVFn",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5a865295befda9e060a72cb0",
+    "name": "Audioslave",
     "top_track": {
-      "href": "https://open.spotify.com/track/72a7BreUstd8JSHbPyMr0d",
-      "name": "Once"
+      "href": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei",
+      "name": "Like a Stone"
     }
   }
 ]
