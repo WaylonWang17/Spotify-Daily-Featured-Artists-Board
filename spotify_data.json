@@ -1,50 +1,55 @@
 [
   {
-    "followers": 11454592,
+    "followers": 6668224,
     "genre": "punk",
     "genres": [
+      "metalcore",
       "emo",
-      "pop punk"
+      "screamo",
+      "rock",
+      "post-hardcore"
     ],
-    "href": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX",
-    "id": "4UXqAaa6dQYAk18Lv7PEgX",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac",
-    "name": "Fall Out Boy",
+    "href": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF",
+    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe7c9399d0b5d813c20cbec65",
+    "name": "Bring Me The Horizon",
     "top_track": {
-      "href": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq",
-      "name": "Centuries"
+      "href": "https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj",
+      "name": "Can You Feel My Heart"
     }
   },
   {
-    "followers": 41441428,
-    "genre": "dance",
-    "genres": [
-      "rap"
-    ],
-    "href": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
-    "id": "0Y5tJX1MQlPlqiwlOH1tJY",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
-    "name": "Travis Scott",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2",
-      "name": "goosebumps"
-    }
-  },
-  {
-    "followers": 5185547,
+    "followers": 3661476,
     "genre": "metal",
     "genres": [
-      "grunge",
-      "post-grunge",
-      "alternative metal"
+      "nu metal",
+      "funk rock",
+      "alternative metal",
+      "alternative rock"
     ],
-    "href": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn",
-    "id": "2ziB7fzrXBoh1HUPS6sVFn",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5a865295befda9e060a72cb0",
-    "name": "Audioslave",
+    "href": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za",
+    "id": "3YcBF2ttyueytpXtEzn1Za",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb83512923cb6ea021f8bb1b3b",
+    "name": "Incubus",
     "top_track": {
-      "href": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei",
-      "name": "Like a Stone"
+      "href": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy",
+      "name": "Drive"
+    }
+  },
+  {
+    "followers": 7393719,
+    "genre": "country",
+    "genres": [
+      "country",
+      "red dirt"
+    ],
+    "href": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2",
+    "id": "40ZNYROS4zLfyyBSs2PGe2",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4fd54df35bfcfa0fc9fc2da7",
+    "name": "Zach Bryan",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG",
+      "name": "I Remember Everything (feat. Kacey Musgraves)"
     }
   }
 ]
