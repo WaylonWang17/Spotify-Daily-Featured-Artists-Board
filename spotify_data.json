@@ -1,55 +1,51 @@
 [
   {
-    "followers": 6668224,
+    "followers": 6632413,
+    "genre": "folk",
+    "genres": [
+      "folk",
+      "indie folk",
+      "folk rock"
+    ],
+    "href": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2",
+    "id": "3gd8FJtBJtkRxdfbTu19U2",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcd9071ae1c52076ceaf99702",
+    "name": "Mumford \u0026 Sons",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2kXjRzwcTZhGLnVjUud8l3",
+      "name": "Little Lion Man"
+    }
+  },
+  {
+    "followers": 570251,
     "genre": "punk",
     "genres": [
-      "metalcore",
-      "emo",
-      "screamo",
-      "rock",
-      "post-hardcore"
+      "hyperpop",
+      "electroclash"
     ],
-    "href": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF",
-    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe7c9399d0b5d813c20cbec65",
-    "name": "Bring Me The Horizon",
+    "href": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG",
+    "id": "72NhFAGG5Pt91VbheJeEPG",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba1bbb3fd6dbbdfb248f0948d",
+    "name": "2hollis",
     "top_track": {
-      "href": "https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj",
-      "name": "Can You Feel My Heart"
+      "href": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ",
+      "name": "poster boy"
     }
   },
   {
-    "followers": 3661476,
-    "genre": "metal",
+    "followers": 198788,
+    "genre": "classical",
     "genres": [
-      "nu metal",
-      "funk rock",
-      "alternative metal",
-      "alternative rock"
+      "orchestral",
+      "classical"
     ],
-    "href": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za",
-    "id": "3YcBF2ttyueytpXtEzn1Za",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb83512923cb6ea021f8bb1b3b",
-    "name": "Incubus",
+    "href": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1",
+    "id": "0MvSBMGRQJY3mRwIbJsqF1",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf9cd4a9062ded7cb2b8a351b",
+    "name": "Royal Philharmonic Orchestra",
     "top_track": {
-      "href": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy",
-      "name": "Drive"
-    }
-  },
-  {
-    "followers": 7393719,
-    "genre": "country",
-    "genres": [
-      "country",
-      "red dirt"
-    ],
-    "href": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2",
-    "id": "40ZNYROS4zLfyyBSs2PGe2",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4fd54df35bfcfa0fc9fc2da7",
-    "name": "Zach Bryan",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG",
-      "name": "I Remember Everything (feat. Kacey Musgraves)"
+      "href": "https://open.spotify.com/track/2MRJ3Oqb5yAONPvQyoWnQ9",
+      "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra"
     }
   }
 ]
