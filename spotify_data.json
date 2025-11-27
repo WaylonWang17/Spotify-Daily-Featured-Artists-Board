@@ -1,51 +1,43 @@
 [
   {
-    "followers": 6632413,
+    "followers": 3622805,
     "genre": "folk",
     "genres": [
-      "folk",
-      "indie folk",
-      "folk rock"
+      "folk pop"
     ],
-    "href": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2",
-    "id": "3gd8FJtBJtkRxdfbTu19U2",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcd9071ae1c52076ceaf99702",
-    "name": "Mumford \u0026 Sons",
+    "href": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz",
+    "id": "4dwdTW1Lfiq0cM8nBAqIIz",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe4dd88af4c7ea59464728229",
+    "name": "Of Monsters and Men",
     "top_track": {
-      "href": "https://open.spotify.com/track/2kXjRzwcTZhGLnVjUud8l3",
-      "name": "Little Lion Man"
+      "href": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B",
+      "name": "Little Talks"
     }
   },
   {
-    "followers": 570251,
-    "genre": "punk",
-    "genres": [
-      "hyperpop",
-      "electroclash"
-    ],
-    "href": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG",
-    "id": "72NhFAGG5Pt91VbheJeEPG",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba1bbb3fd6dbbdfb248f0948d",
-    "name": "2hollis",
+    "followers": 4585168,
+    "genre": "dance",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq",
+    "id": "4yvcSjfu4PC0CYQyLy4wSq",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebeb2cc96b0ed023c5e3675b6f",
+    "name": "Glass Animals",
     "top_track": {
-      "href": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ",
-      "name": "poster boy"
+      "href": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp",
+      "name": "Heat Waves"
     }
   },
   {
-    "followers": 198788,
-    "genre": "classical",
-    "genres": [
-      "orchestral",
-      "classical"
-    ],
-    "href": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1",
-    "id": "0MvSBMGRQJY3mRwIbJsqF1",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf9cd4a9062ded7cb2b8a351b",
-    "name": "Royal Philharmonic Orchestra",
+    "followers": 593,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/15itjC8Y9xvOJHASycw9pr",
+    "id": "15itjC8Y9xvOJHASycw9pr",
+    "image": "",
+    "name": "Pelé do Manifesto",
     "top_track": {
-      "href": "https://open.spotify.com/track/2MRJ3Oqb5yAONPvQyoWnQ9",
-      "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra"
+      "href": "https://open.spotify.com/track/6ucpz6eAiKJpyWrZUshXTd",
+      "name": "Unk"
     }
   }
 ]
