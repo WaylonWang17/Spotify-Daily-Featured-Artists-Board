@@ -1,43 +1,48 @@
 [
   {
-    "followers": 3622805,
-    "genre": "folk",
+    "followers": 7420548,
+    "genre": "j-pop",
     "genres": [
-      "folk pop"
+      "j-pop",
+      "anime",
+      "j-rock"
     ],
-    "href": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz",
-    "id": "4dwdTW1Lfiq0cM8nBAqIIz",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe4dd88af4c7ea59464728229",
-    "name": "Of Monsters and Men",
+    "href": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj",
+    "id": "5Vo1hnCRmCM6M4thZCInCj",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba603edbfe14a6bced859d7e1",
+    "name": "OFFICIAL HIGE DANDISM",
     "top_track": {
-      "href": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B",
-      "name": "Little Talks"
+      "href": "https://open.spotify.com/track/69A1xOqqOvm387J32Ps32R",
+      "name": "Rashisa"
     }
   },
   {
-    "followers": 4585168,
-    "genre": "dance",
+    "followers": 4,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq",
-    "id": "4yvcSjfu4PC0CYQyLy4wSq",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebeb2cc96b0ed023c5e3675b6f",
-    "name": "Glass Animals",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp",
-      "name": "Heat Waves"
-    }
-  },
-  {
-    "followers": 593,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/15itjC8Y9xvOJHASycw9pr",
-    "id": "15itjC8Y9xvOJHASycw9pr",
+    "href": "https://open.spotify.com/artist/2XRlW0CXAQtjMN0YXtIhEA",
+    "id": "2XRlW0CXAQtjMN0YXtIhEA",
     "image": "",
-    "name": "Pelé do Manifesto",
+    "name": "Krasniqi Demir",
     "top_track": {
-      "href": "https://open.spotify.com/track/6ucpz6eAiKJpyWrZUshXTd",
-      "name": "Unk"
+      "href": "https://open.spotify.com/track/2YozYwSKOQzRRDQfglLEHz",
+      "name": "Kënga E Ganimete Tërbeshit"
+    }
+  },
+  {
+    "followers": 105074,
+    "genre": "classical",
+    "genres": [
+      "medieval",
+      "celtic"
+    ],
+    "href": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO",
+    "id": "3erL8NEQbmmOXhO6yyVWxO",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb120c369dd45d233792f43725",
+    "name": "Celestial Aeon Project",
+    "top_track": {
+      "href": "https://open.spotify.com/track/123dbEu64JKmhfU0fGy0gX",
+      "name": "Wild Boar Inn"
     }
   }
 ]
