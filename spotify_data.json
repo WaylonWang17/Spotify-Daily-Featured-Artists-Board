@@ -1,48 +1,49 @@
 [
   {
-    "followers": 7420548,
-    "genre": "j-pop",
+    "followers": 4828017,
+    "genre": "dance",
     "genres": [
-      "j-pop",
-      "anime",
-      "j-rock"
+      "bedroom pop"
     ],
-    "href": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj",
-    "id": "5Vo1hnCRmCM6M4thZCInCj",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba603edbfe14a6bced859d7e1",
-    "name": "OFFICIAL HIGE DANDISM",
+    "href": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t",
+    "id": "78rUTD7y6Cy67W1RVzYs7t",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
+    "name": "PinkPantheress",
     "top_track": {
-      "href": "https://open.spotify.com/track/69A1xOqqOvm387J32Ps32R",
-      "name": "Rashisa"
+      "href": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka",
+      "name": "Pain"
     }
   },
   {
-    "followers": 4,
-    "genre": "k-pop",
+    "followers": 8,
+    "genre": "house",
     "genres": [],
-    "href": "https://open.spotify.com/artist/2XRlW0CXAQtjMN0YXtIhEA",
-    "id": "2XRlW0CXAQtjMN0YXtIhEA",
+    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
+    "id": "6RIYo7z2qQimAwsKtIM6JY",
     "image": "",
-    "name": "Krasniqi Demir",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2YozYwSKOQzRRDQfglLEHz",
-      "name": "Kënga E Ganimete Tërbeshit"
-    }
+    "name": "DJ Yayyay",
+    "top_track": null
   },
   {
-    "followers": 105074,
-    "genre": "classical",
+    "followers": 6271217,
+    "genre": "latin",
     "genres": [
-      "medieval",
-      "celtic"
+      "corrido",
+      "corridos tumbados",
+      "corridos bélicos",
+      "música mexicana",
+      "sad sierreño",
+      "electro corridos",
+      "sierreño",
+      "banda"
     ],
-    "href": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO",
-    "id": "3erL8NEQbmmOXhO6yyVWxO",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb120c369dd45d233792f43725",
-    "name": "Celestial Aeon Project",
+    "href": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf",
+    "id": "6Sbl0NT50roqWvy746MfVf",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5b58ee5baecda20a5d0d2a74",
+    "name": "Gabito Ballesteros",
     "top_track": {
-      "href": "https://open.spotify.com/track/123dbEu64JKmhfU0fGy0gX",
-      "name": "Wild Boar Inn"
+      "href": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ",
+      "name": "Perlas Negras"
     }
   }
 ]
