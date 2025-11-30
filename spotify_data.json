@@ -1,49 +1,43 @@
 [
   {
-    "followers": 4828017,
-    "genre": "dance",
+    "followers": 10527772,
+    "genre": "hip hop",
     "genres": [
-      "bedroom pop"
+      "melodic rap"
     ],
-    "href": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t",
-    "id": "78rUTD7y6Cy67W1RVzYs7t",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
-    "name": "PinkPantheress",
+    "href": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ",
+    "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
+    "name": "Gunna",
     "top_track": {
-      "href": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka",
-      "name": "Pain"
+      "href": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe",
+      "name": "wgft (feat. Burna Boy)"
     }
   },
   {
-    "followers": 8,
-    "genre": "house",
+    "followers": 196546,
+    "genre": "j-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
-    "id": "6RIYo7z2qQimAwsKtIM6JY",
-    "image": "",
-    "name": "DJ Yayyay",
-    "top_track": null
+    "href": "https://open.spotify.com/artist/3oOA09qR93zgp61ALkHIJJ",
+    "id": "3oOA09qR93zgp61ALkHIJJ",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd00e5de30db289c289615842",
+    "name": "BL8M",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4iHYQwgtrY26p2uQG8Nstr",
+      "name": "Blink Gone (VIVINOS - ALNST Original Soundtrack Part.8)"
+    }
   },
   {
-    "followers": 6271217,
-    "genre": "latin",
-    "genres": [
-      "corrido",
-      "corridos tumbados",
-      "corridos bélicos",
-      "música mexicana",
-      "sad sierreño",
-      "electro corridos",
-      "sierreño",
-      "banda"
-    ],
-    "href": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf",
-    "id": "6Sbl0NT50roqWvy746MfVf",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5b58ee5baecda20a5d0d2a74",
-    "name": "Gabito Ballesteros",
+    "followers": 12,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0cRfgRtFVQ3aFi9ZySPWrI",
+    "id": "0cRfgRtFVQ3aFi9ZySPWrI",
+    "image": "https://i.scdn.co/image/ab67616d0000b2737259c85acc5eaa9a33f81864",
+    "name": "Dj Sarzen",
     "top_track": {
-      "href": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ",
-      "name": "Perlas Negras"
+      "href": "https://open.spotify.com/track/5PYdCPm7NQjDxcCKlApayC",
+      "name": "Bewafa Sajanii (Dj Sarzen Remix)"
     }
   }
 ]
