@@ -1,43 +1,41 @@
 [
   {
-    "followers": 10527772,
-    "genre": "hip hop",
-    "genres": [
-      "melodic rap"
-    ],
-    "href": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ",
-    "id": "2hlmm7s2ICUX0LVIhVFlZQ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
-    "name": "Gunna",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe",
-      "name": "wgft (feat. Burna Boy)"
-    }
-  },
-  {
-    "followers": 196546,
-    "genre": "j-pop",
+    "followers": 1280127,
+    "genre": "folk",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3oOA09qR93zgp61ALkHIJJ",
-    "id": "3oOA09qR93zgp61ALkHIJJ",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd00e5de30db289c289615842",
-    "name": "BL8M",
+    "href": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe",
+    "id": "4NZvixzsSefsNiIqXn0NDe",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb42ac28bac739fd27c568cf4b",
+    "name": "Maggie Rogers",
     "top_track": {
-      "href": "https://open.spotify.com/track/4iHYQwgtrY26p2uQG8Nstr",
-      "name": "Blink Gone (VIVINOS - ALNST Original Soundtrack Part.8)"
+      "href": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1",
+      "name": "Dawns (feat. Maggie Rogers)"
     }
   },
   {
-    "followers": 12,
+    "followers": 15,
     "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0cRfgRtFVQ3aFi9ZySPWrI",
-    "id": "0cRfgRtFVQ3aFi9ZySPWrI",
-    "image": "https://i.scdn.co/image/ab67616d0000b2737259c85acc5eaa9a33f81864",
-    "name": "Dj Sarzen",
+    "href": "https://open.spotify.com/artist/42Mcx5nAQI5LRCcM0Ewlhs",
+    "id": "42Mcx5nAQI5LRCcM0Ewlhs",
+    "image": "",
+    "name": "Abhiram Debbarma",
     "top_track": {
-      "href": "https://open.spotify.com/track/5PYdCPm7NQjDxcCKlApayC",
-      "name": "Bewafa Sajanii (Dj Sarzen Remix)"
+      "href": "https://open.spotify.com/track/7JRuGERNb4Wccq9EQHgLjf",
+      "name": "Osha Mwtai"
+    }
+  },
+  {
+    "followers": 49656054,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG",
+    "id": "1McMsnEElThX1knmY4oliG",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4",
+    "name": "Olivia Rodrigo",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT",
+      "name": "traitor"
     }
   }
 ]
