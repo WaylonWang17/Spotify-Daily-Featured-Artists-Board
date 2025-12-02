@@ -1,41 +1,41 @@
 [
   {
-    "followers": 1280127,
-    "genre": "folk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe",
-    "id": "4NZvixzsSefsNiIqXn0NDe",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb42ac28bac739fd27c568cf4b",
-    "name": "Maggie Rogers",
-    "top_track": {
-      "href": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1",
-      "name": "Dawns (feat. Maggie Rogers)"
-    }
-  },
-  {
-    "followers": 15,
+    "followers": 18,
     "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/42Mcx5nAQI5LRCcM0Ewlhs",
-    "id": "42Mcx5nAQI5LRCcM0Ewlhs",
-    "image": "",
-    "name": "Abhiram Debbarma",
+    "href": "https://open.spotify.com/artist/5SQDh1o9xbCjBy6tK6vOJn",
+    "id": "5SQDh1o9xbCjBy6tK6vOJn",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c4163a72c8376f5f541593d0",
+    "name": "Malongkiri Tisso",
     "top_track": {
-      "href": "https://open.spotify.com/track/7JRuGERNb4Wccq9EQHgLjf",
-      "name": "Osha Mwtai"
+      "href": "https://open.spotify.com/track/7lP8elDuy69FAXUayUF2X0",
+      "name": "TENGNE DET RI NANG //KARBI SONG"
     }
   },
   {
-    "followers": 49656054,
-    "genre": "pop",
+    "followers": 55,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG",
-    "id": "1McMsnEElThX1knmY4oliG",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4",
-    "name": "Olivia Rodrigo",
+    "href": "https://open.spotify.com/artist/2r8RGFgFXUTbQf43J6Allh",
+    "id": "2r8RGFgFXUTbQf43J6Allh",
+    "image": "",
+    "name": "JEANE",
     "top_track": {
-      "href": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT",
-      "name": "traitor"
+      "href": "https://open.spotify.com/track/27snCYbKJ5T6PUX2dBBNZ5",
+      "name": "Super Friends"
+    }
+  },
+  {
+    "followers": 10776874,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq",
+    "id": "3MZsBdqDrRTJihTHQrO6Dq",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6e69601c22184c630a2d5e71",
+    "name": "Joji",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
+      "name": "SLOW DANCING IN THE DARK"
     }
   }
 ]
