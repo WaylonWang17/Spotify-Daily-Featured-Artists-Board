@@ -1,41 +1,45 @@
 [
   {
-    "followers": 18,
-    "genre": "k-pop",
+    "followers": 9590471,
+    "genre": "pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5SQDh1o9xbCjBy6tK6vOJn",
-    "id": "5SQDh1o9xbCjBy6tK6vOJn",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c4163a72c8376f5f541593d0",
-    "name": "Malongkiri Tisso",
+    "href": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym",
+    "id": "45dkTj5sMRSjrmBSBeiHym",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbed8016bd64422793ff3bc75",
+    "name": "Tate McRae",
     "top_track": {
-      "href": "https://open.spotify.com/track/7lP8elDuy69FAXUayUF2X0",
-      "name": "TENGNE DET RI NANG //KARBI SONG"
+      "href": "https://open.spotify.com/track/1dByUyyoRKL99fJJ6VCQzb",
+      "name": "TIT FOR TAT"
     }
   },
   {
-    "followers": 55,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2r8RGFgFXUTbQf43J6Allh",
-    "id": "2r8RGFgFXUTbQf43J6Allh",
-    "image": "",
-    "name": "JEANE",
+    "followers": 122912,
+    "genre": "j-pop",
+    "genres": [
+      "shibuya-kei"
+    ],
+    "href": "https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa",
+    "id": "4W9M5MNUsI9uoIfvzND8Fa",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7fb301e903f726d66e2f90e5",
+    "name": "HALCALI",
     "top_track": {
-      "href": "https://open.spotify.com/track/27snCYbKJ5T6PUX2dBBNZ5",
-      "name": "Super Friends"
+      "href": "https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV",
+      "name": "おつかれSUMMER"
     }
   },
   {
-    "followers": 10776874,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq",
-    "id": "3MZsBdqDrRTJihTHQrO6Dq",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6e69601c22184c630a2d5e71",
-    "name": "Joji",
+    "followers": 41568739,
+    "genre": "hip hop",
+    "genres": [
+      "rap"
+    ],
+    "href": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
+    "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+    "name": "Travis Scott",
     "top_track": {
-      "href": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
-      "name": "SLOW DANCING IN THE DARK"
+      "href": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2",
+      "name": "goosebumps"
     }
   }
 ]
