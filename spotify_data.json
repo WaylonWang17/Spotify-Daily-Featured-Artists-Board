@@ -1,52 +1,48 @@
 [
   {
-    "followers": 51967,
-    "genre": "reggae",
-    "genres": [
-      "musicals"
-    ],
-    "href": "https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w",
-    "id": "1hOdQnbXBlfZX9JXZk0O1w",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb425f1118ea770f195bd3a010",
-    "name": "Anna Lea",
+    "followers": 9,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4cf9PTte6sjvGyZaCxY0AP",
+    "id": "4cf9PTte6sjvGyZaCxY0AP",
+    "image": "",
+    "name": "Dalorian \u0026 Pixie Rose",
     "top_track": {
-      "href": "https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt",
-      "name": "Would You Fall in Love with Me Again"
+      "href": "https://open.spotify.com/track/24OGHcYg3JVjFhSRXGSgoG",
+      "name": "A Boy a Girl - Hands Up Club Mix"
     }
   },
   {
-    "followers": 3092339,
-    "genre": "metal",
+    "followers": 7864707,
+    "genre": "indie",
     "genres": [
-      "industrial rock",
-      "industrial",
-      "industrial metal",
-      "alternative metal",
-      "nu metal"
+      "new wave",
+      "madchester",
+      "jangle pop"
     ],
-    "href": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO",
-    "id": "0X380XXQSNBYuleKzav5UO",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb752fca27c5b839ea47d5100d",
-    "name": "Nine Inch Nails",
+    "href": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8",
+    "id": "3yY2gUcIsjMr8hjo51PoJ8",
+    "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9",
+    "name": "The Smiths",
     "top_track": {
-      "href": "https://open.spotify.com/track/5mc6EyF1OIEOhAkD0Gg9Lc",
-      "name": "Closer"
+      "href": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI",
+      "name": "There Is a Light That Never Goes Out - 2011 Remaster"
     }
   },
   {
-    "followers": 59070,
-    "genre": "classical",
+    "followers": 7434531,
+    "genre": "j-pop",
     "genres": [
-      "classical",
-      "orchestral"
+      "j-pop",
+      "anime"
     ],
-    "href": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp",
-    "id": "4GQwgdcDQwqtcHICjUNndp",
-    "image": "https://i.scdn.co/image/ab6772690000c46c9fd4055a34d4d6d6a0314138",
-    "name": "Sir Simon Rattle",
+    "href": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj",
+    "id": "5Vo1hnCRmCM6M4thZCInCj",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba603edbfe14a6bced859d7e1",
+    "name": "OFFICIAL HIGE DANDISM",
     "top_track": {
-      "href": "https://open.spotify.com/track/2oUX4i8ByoaDrHHz9z5Bga",
-      "name": "Tchaikovsky: The Nutcracker, Op. 71, Act 2: No. 14a, Pas de deux. Andante maestoso"
+      "href": "https://open.spotify.com/track/69A1xOqqOvm387J32Ps32R",
+      "name": "Rashisa"
     }
   }
 ]
