@@ -1,48 +1,46 @@
 [
   {
-    "followers": 9,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4cf9PTte6sjvGyZaCxY0AP",
-    "id": "4cf9PTte6sjvGyZaCxY0AP",
-    "image": "",
-    "name": "Dalorian \u0026 Pixie Rose",
+    "followers": 9678130,
+    "genre": "hip hop",
+    "genres": [
+      "chicago drill",
+      "drill"
+    ],
+    "href": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7",
+    "id": "3hcs9uc56yIGFCSy9leWe7",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb09791422702c3fa9780468d4",
+    "name": "Lil Durk",
     "top_track": {
-      "href": "https://open.spotify.com/track/24OGHcYg3JVjFhSRXGSgoG",
-      "name": "A Boy a Girl - Hands Up Club Mix"
+      "href": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI",
+      "name": "Laugh Now Cry Later (feat. Lil Durk)"
     }
   },
   {
-    "followers": 7864707,
+    "followers": 154,
+    "genre": "edm",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6UFzVzf3ps0jAWqag24aLU",
+    "id": "6UFzVzf3ps0jAWqag24aLU",
+    "image": "https://i.scdn.co/image/ab67616d0000b273623d5644a416d7b37cb1c2be",
+    "name": "Braydon Wollmann",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6tDO9GQEgpjrmI3Wz6iA9p",
+      "name": "She Dances"
+    }
+  },
+  {
+    "followers": 7289594,
     "genre": "indie",
     "genres": [
-      "new wave",
-      "madchester",
-      "jangle pop"
+      "baroque pop"
     ],
-    "href": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8",
-    "id": "3yY2gUcIsjMr8hjo51PoJ8",
-    "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9",
-    "name": "The Smiths",
+    "href": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG",
+    "id": "1moxjboGR7GNWYIMWsRjgG",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb836eb0a7a82eb8f4133ee04d",
+    "name": "Florence + The Machine",
     "top_track": {
-      "href": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI",
-      "name": "There Is a Light That Never Goes Out - 2011 Remaster"
-    }
-  },
-  {
-    "followers": 7434531,
-    "genre": "j-pop",
-    "genres": [
-      "j-pop",
-      "anime"
-    ],
-    "href": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj",
-    "id": "5Vo1hnCRmCM6M4thZCInCj",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba603edbfe14a6bced859d7e1",
-    "name": "OFFICIAL HIGE DANDISM",
-    "top_track": {
-      "href": "https://open.spotify.com/track/69A1xOqqOvm387J32Ps32R",
-      "name": "Rashisa"
+      "href": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB",
+      "name": "Dog Days Are Over"
     }
   }
 ]
