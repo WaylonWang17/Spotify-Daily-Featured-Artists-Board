@@ -1,46 +1,55 @@
 [
   {
-    "followers": 9678130,
-    "genre": "hip hop",
+    "followers": 6035350,
+    "genre": "soul",
     "genres": [
-      "chicago drill",
-      "drill"
+      "motown",
+      "classic soul",
+      "soul",
+      "northern soul",
+      "quiet storm"
     ],
-    "href": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7",
-    "id": "3hcs9uc56yIGFCSy9leWe7",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb09791422702c3fa9780468d4",
-    "name": "Lil Durk",
+    "href": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
+    "id": "3koiLjNrgRTNbOwViDipeA",
+    "image": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
+    "name": "Marvin Gaye",
     "top_track": {
-      "href": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI",
-      "name": "Laugh Now Cry Later (feat. Lil Durk)"
+      "href": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX",
+      "name": "Ain't No Mountain High Enough"
     }
   },
   {
-    "followers": 154,
-    "genre": "edm",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6UFzVzf3ps0jAWqag24aLU",
-    "id": "6UFzVzf3ps0jAWqag24aLU",
-    "image": "https://i.scdn.co/image/ab67616d0000b273623d5644a416d7b37cb1c2be",
-    "name": "Braydon Wollmann",
+    "followers": 1546120,
+    "genre": "classical",
+    "genres": [
+      "classical",
+      "orchestral"
+    ],
+    "href": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA",
+    "id": "3MKCzCnpzw3TjUYs2v7vDA",
+    "image": "https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0",
+    "name": "Pyotr Ilyich Tchaikovsky",
     "top_track": {
-      "href": "https://open.spotify.com/track/6tDO9GQEgpjrmI3Wz6iA9p",
-      "name": "She Dances"
+      "href": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
+      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato"
     }
   },
   {
-    "followers": 7289594,
-    "genre": "indie",
+    "followers": 6904030,
+    "genre": "metal",
     "genres": [
-      "baroque pop"
+      "glam metal",
+      "classic rock",
+      "rock",
+      "hard rock"
     ],
-    "href": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG",
-    "id": "1moxjboGR7GNWYIMWsRjgG",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb836eb0a7a82eb8f4133ee04d",
-    "name": "Florence + The Machine",
+    "href": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K",
+    "id": "2cnMpRsOVqtPMfq7YiFE6K",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
+    "name": "Van Halen",
     "top_track": {
-      "href": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB",
-      "name": "Dog Days Are Over"
+      "href": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j",
+      "name": "Jump - 2015 Remaster"
     }
   }
 ]
