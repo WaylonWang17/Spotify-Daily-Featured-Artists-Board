@@ -1,55 +1,46 @@
 [
   {
-    "followers": 6035350,
-    "genre": "soul",
-    "genres": [
-      "motown",
-      "classic soul",
-      "soul",
-      "northern soul",
-      "quiet storm"
-    ],
-    "href": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
-    "id": "3koiLjNrgRTNbOwViDipeA",
-    "image": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
-    "name": "Marvin Gaye",
+    "followers": 41507428,
+    "genre": "dance",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m",
+    "id": "6vWDO969PvNqNYHIOW5v0m",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7eaa373538359164b843f7c0",
+    "name": "Beyoncé",
     "top_track": {
-      "href": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX",
-      "name": "Ain't No Mountain High Enough"
+      "href": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr",
+      "name": "Crazy In Love (feat. JAY-Z)"
     }
   },
   {
-    "followers": 1546120,
-    "genre": "classical",
+    "followers": 35649263,
+    "genre": "rock",
     "genres": [
-      "classical",
-      "orchestral"
-    ],
-    "href": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA",
-    "id": "3MKCzCnpzw3TjUYs2v7vDA",
-    "image": "https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0",
-    "name": "Pyotr Ilyich Tchaikovsky",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
-      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato"
-    }
-  },
-  {
-    "followers": 6904030,
-    "genre": "metal",
-    "genres": [
-      "glam metal",
-      "classic rock",
       "rock",
-      "hard rock"
+      "glam metal",
+      "hard rock",
+      "classic rock"
     ],
-    "href": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K",
-    "id": "2cnMpRsOVqtPMfq7YiFE6K",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
-    "name": "Van Halen",
+    "href": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC",
+    "id": "3qm84nBOXUEQ2vnTfUTTFC",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c",
+    "name": "Guns N' Roses",
     "top_track": {
-      "href": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j",
-      "name": "Jump - 2015 Remaster"
+      "href": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
+      "name": "Sweet Child O' Mine"
+    }
+  },
+  {
+    "followers": 7772462,
+    "genre": "hip hop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu",
+    "id": "0fA0VVWsXO9YnASrzqfmYu",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5f00bb6dd7a7008d14156630",
+    "name": "Kid Cudi",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n",
+      "name": "Memories (feat. Kid Cudi)"
     }
   }
 ]
