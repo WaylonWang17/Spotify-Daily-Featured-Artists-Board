@@ -1,46 +1,48 @@
 [
   {
-    "followers": 41507428,
-    "genre": "dance",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m",
-    "id": "6vWDO969PvNqNYHIOW5v0m",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7eaa373538359164b843f7c0",
-    "name": "Beyoncé",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr",
-      "name": "Crazy In Love (feat. JAY-Z)"
-    }
-  },
-  {
-    "followers": 35649263,
-    "genre": "rock",
+    "followers": 2661107,
+    "genre": "jazz",
     "genres": [
-      "rock",
-      "glam metal",
-      "hard rock",
-      "classic rock"
+      "jazz blues",
+      "soul",
+      "soul blues",
+      "blues",
+      "classic soul",
+      "vocal jazz"
     ],
-    "href": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC",
-    "id": "3qm84nBOXUEQ2vnTfUTTFC",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c",
-    "name": "Guns N' Roses",
+    "href": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi",
+    "id": "1eYhYunlNJlDoQhtYBvPsi",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6fc460f10177fa38af69b8bf",
+    "name": "Ray Charles",
     "top_track": {
-      "href": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
-      "name": "Sweet Child O' Mine"
+      "href": "https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK",
+      "name": "Hit the Road Jack"
     }
   },
   {
-    "followers": 7772462,
+    "followers": 693249,
     "genre": "hip hop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu",
-    "id": "0fA0VVWsXO9YnASrzqfmYu",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5f00bb6dd7a7008d14156630",
-    "name": "Kid Cudi",
+    "href": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy",
+    "id": "0EyhkwP3UnwGFBy6xwKjSy",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfe6d53e126b70d1c2594b434",
+    "name": "EsDeeKid",
     "top_track": {
-      "href": "https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n",
-      "name": "Memories (feat. Kid Cudi)"
+      "href": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf",
+      "name": "Phantom"
+    }
+  },
+  {
+    "followers": 22009490,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh",
+    "id": "77SW9BnxLY8rJ0RciFqkHh",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
+    "name": "The Neighbourhood",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6",
+      "name": "Sweater Weather"
     }
   }
 ]
