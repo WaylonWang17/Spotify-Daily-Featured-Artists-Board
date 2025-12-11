@@ -1,51 +1,50 @@
 [
   {
-    "followers": 757126,
-    "genre": "folk",
-    "genres": [
-      "christian folk",
-      "christian",
-      "worship",
-      "christian pop",
-      "christian country"
-    ],
-    "href": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2",
-    "id": "7yAymwuYh9RcpX84GSNIq2",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb643bfda11e7a4f7796454bea",
-    "name": "Josiah Queen",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1GvJ35amuk7oGjcnoYSKFA",
-      "name": "Dusty Bibles"
-    }
-  },
-  {
-    "followers": 44280,
+    "followers": 53737,
     "genre": "reggae",
     "genres": [
       "musicals"
     ],
-    "href": "https://open.spotify.com/artist/1iM9uHQqsPQvZ087a5pf5w",
-    "id": "1iM9uHQqsPQvZ087a5pf5w",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb2899b89157f68eefaf17bf71",
-    "name": "Teagan Earley",
+    "href": "https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w",
+    "id": "1hOdQnbXBlfZX9JXZk0O1w",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb425f1118ea770f195bd3a010",
+    "name": "Anna Lea",
     "top_track": {
-      "href": "https://open.spotify.com/track/5vXTArFpG0hB1fdlVsf28f",
-      "name": "Warrior of the Mind"
+      "href": "https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt",
+      "name": "Would You Fall in Love with Me Again"
     }
   },
   {
-    "followers": 375961,
+    "followers": 13715,
     "genre": "jazz",
     "genres": [
-      "musicals"
+      "jazz"
     ],
-    "href": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN",
-    "id": "3cR4rhS2hBWqI7rJEBacvN",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebee4e246a6c664dca653bbd2d",
-    "name": "Leslie Odom Jr.",
+    "href": "https://open.spotify.com/artist/2b9qemp1Y8NuEbY4RMYHY1",
+    "id": "2b9qemp1Y8NuEbY4RMYHY1",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe2850af480173596cefd48c1",
+    "name": "Jazzy Coffee",
     "top_track": {
-      "href": "https://open.spotify.com/track/7EqpEBPOohgk7NnKvBGFWo",
-      "name": "Wait for It"
+      "href": "https://open.spotify.com/track/4BBKIyvbUZZkErz6YdvdBx",
+      "name": "autumn leaves"
+    }
+  },
+  {
+    "followers": 202262,
+    "genre": "classical",
+    "genres": [
+      "classical",
+      "opera",
+      "orchestral",
+      "requiem"
+    ],
+    "href": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY",
+    "id": "5zCaQxjl110XTrm4LQ1CxY",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd",
+    "name": "Herbert von Karajan",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6pt8oGfiwgidz03nGw1zTb",
+      "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air \"on the G String\""
     }
   }
 ]
