@@ -1,50 +1,44 @@
 [
   {
-    "followers": 53737,
-    "genre": "reggae",
+    "followers": 9809980,
+    "genre": "rock",
     "genres": [
-      "musicals"
+      "neo-psychedelic",
+      "indie"
     ],
-    "href": "https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w",
-    "id": "1hOdQnbXBlfZX9JXZk0O1w",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb425f1118ea770f195bd3a010",
-    "name": "Anna Lea",
+    "href": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb",
+    "id": "5INjqkS1o8h1imAzPqGZBb",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
+    "name": "Tame Impala",
     "top_track": {
-      "href": "https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt",
-      "name": "Would You Fall in Love with Me Again"
+      "href": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA",
+      "name": "Dracula"
     }
   },
   {
-    "followers": 13715,
-    "genre": "jazz",
-    "genres": [
-      "jazz"
-    ],
-    "href": "https://open.spotify.com/artist/2b9qemp1Y8NuEbY4RMYHY1",
-    "id": "2b9qemp1Y8NuEbY4RMYHY1",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe2850af480173596cefd48c1",
-    "name": "Jazzy Coffee",
+    "followers": 933076,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz",
+    "id": "7eKkW1zo5uzW8kUntiiBvz",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebdee560c99d80399eb20c3147",
+    "name": "Malcolm Todd",
     "top_track": {
-      "href": "https://open.spotify.com/track/4BBKIyvbUZZkErz6YdvdBx",
-      "name": "autumn leaves"
+      "href": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
+      "name": "Sweet Boy"
     }
   },
   {
-    "followers": 202262,
-    "genre": "classical",
-    "genres": [
-      "classical",
-      "opera",
-      "orchestral",
-      "requiem"
-    ],
-    "href": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY",
-    "id": "5zCaQxjl110XTrm4LQ1CxY",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd",
-    "name": "Herbert von Karajan",
+    "followers": 9,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4cf9PTte6sjvGyZaCxY0AP",
+    "id": "4cf9PTte6sjvGyZaCxY0AP",
+    "image": "",
+    "name": "Dalorian \u0026 Pixie Rose",
     "top_track": {
-      "href": "https://open.spotify.com/track/6pt8oGfiwgidz03nGw1zTb",
-      "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air \"on the G String\""
+      "href": "https://open.spotify.com/track/24OGHcYg3JVjFhSRXGSgoG",
+      "name": "A Boy a Girl - Hands Up Club Mix"
     }
   }
 ]
