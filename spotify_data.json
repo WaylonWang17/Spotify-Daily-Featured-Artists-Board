@@ -1,44 +1,45 @@
 [
   {
-    "followers": 9809980,
-    "genre": "rock",
-    "genres": [
-      "neo-psychedelic",
-      "indie"
-    ],
-    "href": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb",
-    "id": "5INjqkS1o8h1imAzPqGZBb",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
-    "name": "Tame Impala",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA",
-      "name": "Dracula"
-    }
-  },
-  {
-    "followers": 933076,
-    "genre": "r\u0026b",
+    "followers": 592,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz",
-    "id": "7eKkW1zo5uzW8kUntiiBvz",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebdee560c99d80399eb20c3147",
-    "name": "Malcolm Todd",
-    "top_track": {
-      "href": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
-      "name": "Sweet Boy"
-    }
-  },
-  {
-    "followers": 9,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4cf9PTte6sjvGyZaCxY0AP",
-    "id": "4cf9PTte6sjvGyZaCxY0AP",
+    "href": "https://open.spotify.com/artist/15itjC8Y9xvOJHASycw9pr",
+    "id": "15itjC8Y9xvOJHASycw9pr",
     "image": "",
-    "name": "Dalorian \u0026 Pixie Rose",
+    "name": "Pelé do Manifesto",
     "top_track": {
-      "href": "https://open.spotify.com/track/24OGHcYg3JVjFhSRXGSgoG",
-      "name": "A Boy a Girl - Hands Up Club Mix"
+      "href": "https://open.spotify.com/track/6ucpz6eAiKJpyWrZUshXTd",
+      "name": "Unk"
+    }
+  },
+  {
+    "followers": 674,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1cysTZK0UAVSjgyYDUWlk7",
+    "id": "1cysTZK0UAVSjgyYDUWlk7",
+    "image": "",
+    "name": "Goldsboro",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2mGYXQDK1Zs0GvW0FA0jly",
+      "name": "Cori Loves Darmanitan, Fashion, and Dinosaur"
+    }
+  },
+  {
+    "followers": 6639536,
+    "genre": "blues",
+    "genres": [
+      "blues",
+      "blues rock",
+      "classic rock"
+    ],
+    "href": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
+    "id": "6PAt558ZEZl0DmdXlnjMgD",
+    "image": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
+    "name": "Eric Clapton",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f",
+      "name": "Wonderful Tonight"
     }
   }
 ]
