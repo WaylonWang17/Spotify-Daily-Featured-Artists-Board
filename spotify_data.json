@@ -1,45 +1,45 @@
 [
   {
-    "followers": 592,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/15itjC8Y9xvOJHASycw9pr",
-    "id": "15itjC8Y9xvOJHASycw9pr",
-    "image": "",
-    "name": "Pelé do Manifesto",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6ucpz6eAiKJpyWrZUshXTd",
-      "name": "Unk"
-    }
-  },
-  {
-    "followers": 674,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/1cysTZK0UAVSjgyYDUWlk7",
-    "id": "1cysTZK0UAVSjgyYDUWlk7",
-    "image": "",
-    "name": "Goldsboro",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2mGYXQDK1Zs0GvW0FA0jly",
-      "name": "Cori Loves Darmanitan, Fashion, and Dinosaur"
-    }
-  },
-  {
-    "followers": 6639536,
+    "followers": 1952323,
     "genre": "blues",
     "genres": [
-      "blues",
-      "blues rock",
-      "classic rock"
+      "retro soul"
     ],
-    "href": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
-    "id": "6PAt558ZEZl0DmdXlnjMgD",
-    "image": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
-    "name": "Eric Clapton",
+    "href": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x",
+    "id": "3qnGvpP8Yth1AqSBMqON5x",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd5112a5b16a01e971ebb049c",
+    "name": "Leon Bridges",
     "top_track": {
-      "href": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f",
-      "name": "Wonderful Tonight"
+      "href": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA",
+      "name": "Coming Home"
+    }
+  },
+  {
+    "followers": 32,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4oh0TwbYuuMitGcmVH1f0l",
+    "id": "4oh0TwbYuuMitGcmVH1f0l",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739efc4dbc94203003acea28bb",
+    "name": "Tiger Satish Das",
+    "top_track": {
+      "href": "https://open.spotify.com/track/15H12xff9PzTyYJlMEBqic",
+      "name": "Jab Se Tora Dekhi Hume Gori Re"
+    }
+  },
+  {
+    "followers": 4075932,
+    "genre": "indie",
+    "genres": [
+      "surf rock"
+    ],
+    "href": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3",
+    "id": "3GBPw9NK25X1Wt2OUvOwY3",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0bf3ff1eaa4c0d6d664ccc3f",
+    "name": "Jack Johnson",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y",
+      "name": "Better Together"
     }
   }
 ]
