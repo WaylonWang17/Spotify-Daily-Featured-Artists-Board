@@ -1,43 +1,39 @@
 [
   {
-    "followers": 1227624,
-    "genre": "blues",
+    "followers": 1208261,
+    "genre": "reggae",
     "genres": [
-      "country"
+      "reggae rock",
+      "funk rock",
+      "rap rock"
     ],
-    "href": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ",
-    "id": "6IKlXZEFOvk9itrP1s0knJ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb1f87bfc1e824789e91573493",
-    "name": "The Red Clay Strays",
+    "href": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K",
+    "id": "41Q0HrwWBtuUkJc7C1Rp6K",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb16b06f19229dc1ceb654a250",
+    "name": "311",
     "top_track": {
-      "href": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb",
-      "name": "Wondering Why"
+      "href": "https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl",
+      "name": "Amber"
     }
   },
   {
-    "followers": 12105447,
-    "genre": "punk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j",
-    "id": "0p4nmQO2msCgU4IF37Wi3j",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcea575e8c9519d4367984256",
-    "name": "Avril Lavigne",
+    "followers": 13381433,
+    "genre": "folk",
+    "genres": [
+      "ranchera",
+      "banda",
+      "mariachi",
+      "grupera",
+      "norteño",
+      "música mexicana"
+    ],
+    "href": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1",
+    "id": "7FsRH5bw8iWpSbMX1G7xf1",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0320f28bac81532a14c0349d",
+    "name": "Joan Sebastian",
     "top_track": {
-      "href": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F",
-      "name": "Complicated"
-    }
-  },
-  {
-    "followers": 4,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0ZIjygYN9BrlbXAmOxbkHU",
-    "id": "0ZIjygYN9BrlbXAmOxbkHU",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b6eaf8da34ab3e0546a9c06d",
-    "name": "Khukumani Mahata",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3T3asTAzTyx2oLaUvKBSb3",
-      "name": "Tipik Tipik Jale"
+      "href": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts",
+      "name": "Tatuajes"
     }
   }
 ]
