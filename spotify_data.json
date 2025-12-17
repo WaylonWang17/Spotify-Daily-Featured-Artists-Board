@@ -1,39 +1,35 @@
 [
   {
-    "followers": 1208261,
-    "genre": "reggae",
+    "followers": 2088290,
+    "genre": "jazz",
     "genres": [
-      "reggae rock",
-      "funk rock",
-      "rap rock"
+      "jazz",
+      "vocal jazz",
+      "jazz blues"
     ],
-    "href": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K",
-    "id": "41Q0HrwWBtuUkJc7C1Rp6K",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb16b06f19229dc1ceb654a250",
-    "name": "311",
+    "href": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp",
+    "id": "1YzCsTRb22dQkh9lghPIrp",
+    "image": "https://i.scdn.co/image/4efa6b6871a0f672b78b3d16fd5a03c6cd212d58",
+    "name": "Billie Holiday",
     "top_track": {
-      "href": "https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl",
-      "name": "Amber"
+      "href": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5",
+      "name": "I'll Be Seeing You"
     }
   },
   {
-    "followers": 13381433,
-    "genre": "folk",
+    "followers": 10704848,
+    "genre": "soul",
     "genres": [
-      "ranchera",
-      "banda",
-      "mariachi",
-      "grupera",
-      "norteño",
-      "música mexicana"
+      "trap soul",
+      "r\u0026b"
     ],
-    "href": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1",
-    "id": "7FsRH5bw8iWpSbMX1G7xf1",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0320f28bac81532a14c0349d",
-    "name": "Joan Sebastian",
+    "href": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs",
+    "id": "2EMAnMvWE2eb56ToJVfCWs",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb0ff28b9d4bed74c66901b2b",
+    "name": "Bryson Tiller",
     "top_track": {
-      "href": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts",
-      "name": "Tatuajes"
+      "href": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC",
+      "name": "Don't"
     }
   }
 ]
