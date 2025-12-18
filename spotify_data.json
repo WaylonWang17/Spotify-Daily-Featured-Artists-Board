@@ -1,35 +1,30 @@
 [
   {
-    "followers": 2088290,
-    "genre": "jazz",
+    "followers": 780091,
+    "genre": "classical",
     "genres": [
-      "jazz",
-      "vocal jazz",
-      "jazz blues"
+      "orchestral"
     ],
-    "href": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp",
-    "id": "1YzCsTRb22dQkh9lghPIrp",
-    "image": "https://i.scdn.co/image/4efa6b6871a0f672b78b3d16fd5a03c6cd212d58",
-    "name": "Billie Holiday",
+    "href": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz",
+    "id": "6MERXsiRbur2oJZFgYRDKz",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd98b55075a362aff6356cf01",
+    "name": "Vitamin String Quartet",
     "top_track": {
-      "href": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5",
-      "name": "I'll Be Seeing You"
+      "href": "https://open.spotify.com/track/4dRYlZtS7kYfWxkYfMPTe7",
+      "name": "Cheap Thrills"
     }
   },
   {
-    "followers": 10704848,
-    "genre": "soul",
-    "genres": [
-      "trap soul",
-      "r\u0026b"
-    ],
-    "href": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs",
-    "id": "2EMAnMvWE2eb56ToJVfCWs",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb0ff28b9d4bed74c66901b2b",
-    "name": "Bryson Tiller",
+    "followers": 9885,
+    "genre": "house",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/5pAKxvQYvJlmEoiBKNxl3W",
+    "id": "5pAKxvQYvJlmEoiBKNxl3W",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb62bd344a790bef65427ad0cd",
+    "name": "Aquatone",
     "top_track": {
-      "href": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC",
-      "name": "Don't"
+      "href": "https://open.spotify.com/track/0rvseqKAjb0Mj1xTmPEASk",
+      "name": "Our Lives"
     }
   }
 ]
