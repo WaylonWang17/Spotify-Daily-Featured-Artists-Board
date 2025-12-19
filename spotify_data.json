@@ -1,30 +1,50 @@
 [
   {
-    "followers": 780091,
+    "followers": 3592074,
     "genre": "classical",
     "genres": [
-      "orchestral"
+      "classical piano",
+      "classical"
     ],
-    "href": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz",
-    "id": "6MERXsiRbur2oJZFgYRDKz",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd98b55075a362aff6356cf01",
-    "name": "Vitamin String Quartet",
+    "href": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4",
+    "id": "7y97mc3bZRFXzT2szRM4L4",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365",
+    "name": "Frédéric Chopin",
     "top_track": {
-      "href": "https://open.spotify.com/track/4dRYlZtS7kYfWxkYfMPTe7",
-      "name": "Cheap Thrills"
+      "href": "https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV",
+      "name": "Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth."
     }
   },
   {
-    "followers": 9885,
-    "genre": "house",
+    "followers": 16,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5pAKxvQYvJlmEoiBKNxl3W",
-    "id": "5pAKxvQYvJlmEoiBKNxl3W",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb62bd344a790bef65427ad0cd",
-    "name": "Aquatone",
+    "href": "https://open.spotify.com/artist/1yvVX7dWzRqSKQRvgnAGkv",
+    "id": "1yvVX7dWzRqSKQRvgnAGkv",
+    "image": "",
+    "name": "Dareen Tatour",
     "top_track": {
-      "href": "https://open.spotify.com/track/0rvseqKAjb0Mj1xTmPEASk",
-      "name": "Our Lives"
+      "href": "https://open.spotify.com/track/7xjK80r5IaD0smaToXzMc8",
+      "name": "Resist, My People, Resist Them"
+    }
+  },
+  {
+    "followers": 6056803,
+    "genre": "r\u0026b",
+    "genres": [
+      "motown",
+      "classic soul",
+      "soul",
+      "northern soul",
+      "quiet storm"
+    ],
+    "href": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
+    "id": "3koiLjNrgRTNbOwViDipeA",
+    "image": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
+    "name": "Marvin Gaye",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX",
+      "name": "Ain't No Mountain High Enough"
     }
   }
 ]
