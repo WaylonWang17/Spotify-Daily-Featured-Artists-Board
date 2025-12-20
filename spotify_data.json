@@ -1,50 +1,44 @@
 [
   {
-    "followers": 3592074,
-    "genre": "classical",
+    "followers": 281978,
+    "genre": "reggae",
     "genres": [
-      "classical piano",
-      "classical"
+      "nz reggae",
+      "reggae"
     ],
-    "href": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4",
-    "id": "7y97mc3bZRFXzT2szRM4L4",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365",
-    "name": "Frédéric Chopin",
+    "href": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ",
+    "id": "0DAaoRtoM8z0DHIhIzP4mJ",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5ad7401d9c2c41856c28f426",
+    "name": "Fiji",
     "top_track": {
-      "href": "https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV",
-      "name": "Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth."
+      "href": "https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT",
+      "name": "Lonely Days"
     }
   },
   {
-    "followers": 16,
-    "genre": "alternative",
+    "followers": 891158,
+    "genre": "jazz",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1yvVX7dWzRqSKQRvgnAGkv",
-    "id": "1yvVX7dWzRqSKQRvgnAGkv",
-    "image": "",
-    "name": "Dareen Tatour",
+    "href": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ",
+    "id": "65dGLGjkw3UbddUg2GKQoZ",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4fbd8eb6ef7f24c18dcb8666",
+    "name": "BADBADNOTGOOD",
     "top_track": {
-      "href": "https://open.spotify.com/track/7xjK80r5IaD0smaToXzMc8",
-      "name": "Resist, My People, Resist Them"
+      "href": "https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO",
+      "name": "Time Moves Slow"
     }
   },
   {
-    "followers": 6056803,
-    "genre": "r\u0026b",
-    "genres": [
-      "motown",
-      "classic soul",
-      "soul",
-      "northern soul",
-      "quiet storm"
-    ],
-    "href": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
-    "id": "3koiLjNrgRTNbOwViDipeA",
-    "image": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
-    "name": "Marvin Gaye",
+    "followers": 3855015,
+    "genre": "blues",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P",
+    "id": "6GI52t8N5F02MxU0g5U69P",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb09882b1b7b33732abd60fc38",
+    "name": "Santana",
     "top_track": {
-      "href": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX",
-      "name": "Ain't No Mountain High Enough"
+      "href": "https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze",
+      "name": "Maria Maria (feat. The Product G\u0026B)"
     }
   }
 ]
