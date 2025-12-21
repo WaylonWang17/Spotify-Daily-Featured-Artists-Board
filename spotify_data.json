@@ -1,44 +1,46 @@
 [
   {
-    "followers": 281978,
-    "genre": "reggae",
+    "followers": 9827969,
+    "genre": "soul",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR",
+    "id": "6Q192DXotxtaysaqNPy5yR",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c",
+    "name": "Amy Winehouse",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w",
+      "name": "Back To Black"
+    }
+  },
+  {
+    "followers": 6247159,
+    "genre": "country",
     "genres": [
-      "nz reggae",
-      "reggae"
+      "country hip hop",
+      "country"
     ],
-    "href": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ",
-    "id": "0DAaoRtoM8z0DHIhIzP4mJ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5ad7401d9c2c41856c28f426",
-    "name": "Fiji",
+    "href": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs",
+    "id": "19k8AgwwTSxeaxkOuCQEJs",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb27901c1c025fa90f5dc007ef",
+    "name": "Jelly Roll",
     "top_track": {
-      "href": "https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT",
-      "name": "Lonely Days"
+      "href": "https://open.spotify.com/track/2qPQcfUgizNDOIv1orkTAd",
+      "name": "Bloodline"
     }
   },
   {
-    "followers": 891158,
-    "genre": "jazz",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ",
-    "id": "65dGLGjkw3UbddUg2GKQoZ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4fbd8eb6ef7f24c18dcb8666",
-    "name": "BADBADNOTGOOD",
+    "followers": 4458194,
+    "genre": "dance",
+    "genres": [
+      "r\u0026b"
+    ],
+    "href": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr",
+    "id": "1XkoF8ryArs86LZvFOkbyr",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3d7888ba4d2bf67fe6b64a55",
+    "name": "Mary J. Blige",
     "top_track": {
-      "href": "https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO",
-      "name": "Time Moves Slow"
-    }
-  },
-  {
-    "followers": 3855015,
-    "genre": "blues",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P",
-    "id": "6GI52t8N5F02MxU0g5U69P",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb09882b1b7b33732abd60fc38",
-    "name": "Santana",
-    "top_track": {
-      "href": "https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze",
-      "name": "Maria Maria (feat. The Product G\u0026B)"
+      "href": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu",
+      "name": "Family Affair"
     }
   }
 ]
