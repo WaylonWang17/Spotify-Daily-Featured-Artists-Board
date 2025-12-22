@@ -1,46 +1,42 @@
 [
   {
-    "followers": 9827969,
+    "followers": 20803243,
     "genre": "soul",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR",
-    "id": "6Q192DXotxtaysaqNPy5yR",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c",
-    "name": "Amy Winehouse",
+    "href": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
+    "id": "2h93pZq0e7k5yf4dywlkpM",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
+    "name": "Frank Ocean",
     "top_track": {
-      "href": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w",
-      "name": "Back To Black"
+      "href": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8",
+      "name": "Pink + White"
     }
   },
   {
-    "followers": 6247159,
-    "genre": "country",
-    "genres": [
-      "country hip hop",
-      "country"
-    ],
-    "href": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs",
-    "id": "19k8AgwwTSxeaxkOuCQEJs",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb27901c1c025fa90f5dc007ef",
-    "name": "Jelly Roll",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2qPQcfUgizNDOIv1orkTAd",
-      "name": "Bloodline"
-    }
+    "followers": 514,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
+    "image": "",
+    "name": "Rutuu",
+    "top_track": null
   },
   {
-    "followers": 4458194,
-    "genre": "dance",
+    "followers": 7467059,
+    "genre": "j-pop",
     "genres": [
-      "r\u0026b"
+      "j-pop",
+      "anime",
+      "j-rock"
     ],
-    "href": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr",
-    "id": "1XkoF8ryArs86LZvFOkbyr",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3d7888ba4d2bf67fe6b64a55",
-    "name": "Mary J. Blige",
+    "href": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj",
+    "id": "5Vo1hnCRmCM6M4thZCInCj",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba603edbfe14a6bced859d7e1",
+    "name": "OFFICIAL HIGE DANDISM",
     "top_track": {
-      "href": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu",
-      "name": "Family Affair"
+      "href": "https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU",
+      "name": "Pretender"
     }
   }
 ]
