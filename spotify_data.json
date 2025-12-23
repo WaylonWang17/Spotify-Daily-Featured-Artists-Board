@@ -1,42 +1,44 @@
 [
   {
-    "followers": 20803243,
-    "genre": "soul",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
-    "id": "2h93pZq0e7k5yf4dywlkpM",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
-    "name": "Frank Ocean",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8",
-      "name": "Pink + White"
-    }
-  },
-  {
-    "followers": 514,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
-    "image": "",
-    "name": "Rutuu",
-    "top_track": null
-  },
-  {
-    "followers": 7467059,
+    "followers": 9669666,
     "genre": "j-pop",
     "genres": [
       "j-pop",
-      "anime",
-      "j-rock"
+      "anime"
     ],
-    "href": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj",
-    "id": "5Vo1hnCRmCM6M4thZCInCj",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba603edbfe14a6bced859d7e1",
-    "name": "OFFICIAL HIGE DANDISM",
+    "href": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj",
+    "id": "64tJ2EAv1R6UaZqc4iOCyj",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb507349709ae19263301a62f7",
+    "name": "YOASOBI",
     "top_track": {
-      "href": "https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU",
-      "name": "Pretender"
+      "href": "https://open.spotify.com/track/1hAloWiinXLPQUJxrJReb1",
+      "name": "アイドル"
+    }
+  },
+  {
+    "followers": 52,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0QylSv6q2MlFpf0bVCrdzX",
+    "id": "0QylSv6q2MlFpf0bVCrdzX",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebadc466e10a97276c6bec5a5e",
+    "name": "6Flame",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3hoy9cLeH6Fp5U5RMBZDkO",
+      "name": "Tautologia"
+    }
+  },
+  {
+    "followers": 16,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1yvVX7dWzRqSKQRvgnAGkv",
+    "id": "1yvVX7dWzRqSKQRvgnAGkv",
+    "image": "",
+    "name": "Dareen Tatour",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7xjK80r5IaD0smaToXzMc8",
+      "name": "Resist, My People, Resist Them"
     }
   }
 ]
