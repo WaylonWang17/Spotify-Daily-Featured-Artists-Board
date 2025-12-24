@@ -1,44 +1,40 @@
 [
   {
-    "followers": 9669666,
+    "followers": 1437631,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2",
+    "id": "0PCCGZ0wGLizHt2KZ7hhA2",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf154f40183c986c20aab75e9",
+    "name": "Artemas",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e",
+      "name": "i like the way you kiss me"
+    }
+  },
+  {
+    "followers": 6993305,
     "genre": "j-pop",
     "genres": [
-      "j-pop",
-      "anime"
+      "christmas"
     ],
-    "href": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj",
-    "id": "64tJ2EAv1R6UaZqc4iOCyj",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb507349709ae19263301a62f7",
-    "name": "YOASOBI",
+    "href": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3",
+    "id": "1GxkXlMwML1oSg5eLPiAz3",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebecf79fd5be85dabb0f489107",
+    "name": "Michael Bublé",
     "top_track": {
-      "href": "https://open.spotify.com/track/1hAloWiinXLPQUJxrJReb1",
-      "name": "アイドル"
+      "href": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI",
+      "name": "It's Beginning to Look a Lot like Christmas"
     }
   },
   {
-    "followers": 52,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0QylSv6q2MlFpf0bVCrdzX",
-    "id": "0QylSv6q2MlFpf0bVCrdzX",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebadc466e10a97276c6bec5a5e",
-    "name": "6Flame",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3hoy9cLeH6Fp5U5RMBZDkO",
-      "name": "Tautologia"
-    }
-  },
-  {
-    "followers": 16,
+    "followers": 514,
     "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1yvVX7dWzRqSKQRvgnAGkv",
-    "id": "1yvVX7dWzRqSKQRvgnAGkv",
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
     "image": "",
-    "name": "Dareen Tatour",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7xjK80r5IaD0smaToXzMc8",
-      "name": "Resist, My People, Resist Them"
-    }
+    "name": "Rutuu",
+    "top_track": null
   }
 ]
