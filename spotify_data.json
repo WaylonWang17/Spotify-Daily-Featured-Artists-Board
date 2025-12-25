@@ -1,40 +1,44 @@
 [
   {
-    "followers": 1437631,
-    "genre": "r\u0026b",
+    "followers": 11984263,
+    "genre": "hip hop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2",
-    "id": "0PCCGZ0wGLizHt2KZ7hhA2",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf154f40183c986c20aab75e9",
-    "name": "Artemas",
+    "href": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp",
+    "id": "0iEtIxbK0KxaSlF7G42ZOp",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb28f1e72b31e756ea3f3a51e7",
+    "name": "Metro Boomin",
     "top_track": {
-      "href": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e",
-      "name": "i like the way you kiss me"
+      "href": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g",
+      "name": "Too Many Nights (feat. Don Toliver \u0026 with Future)"
     }
   },
   {
-    "followers": 6993305,
-    "genre": "j-pop",
+    "followers": 1534555,
+    "genre": "rock",
     "genres": [
-      "christmas"
+      "country",
+      "country rock"
     ],
-    "href": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3",
-    "id": "1GxkXlMwML1oSg5eLPiAz3",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebecf79fd5be85dabb0f489107",
-    "name": "Michael Bublé",
+    "href": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy",
+    "id": "5QNm7E7RU2m64l6Gliu8Oy",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3e7e5b8c09a44d49a95bd842",
+    "name": "HARDY",
     "top_track": {
-      "href": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI",
-      "name": "It's Beginning to Look a Lot like Christmas"
+      "href": "https://open.spotify.com/track/6CThut6kPrjot0pTJOTEer",
+      "name": "TRUCK BED"
     }
   },
   {
-    "followers": 514,
+    "followers": 36,
     "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
+    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
+    "id": "4kjS5eC0smSDzKaTxgAGPW",
     "image": "",
-    "name": "Rutuu",
-    "top_track": null
+    "name": "Take My Chances",
+    "top_track": {
+      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
+      "name": "Handy With The Tongue Sword"
+    }
   }
 ]
