@@ -1,44 +1,30 @@
 [
   {
-    "followers": 11984263,
-    "genre": "hip hop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp",
-    "id": "0iEtIxbK0KxaSlF7G42ZOp",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb28f1e72b31e756ea3f3a51e7",
-    "name": "Metro Boomin",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g",
-      "name": "Too Many Nights (feat. Don Toliver \u0026 with Future)"
-    }
-  },
-  {
-    "followers": 1534555,
-    "genre": "rock",
+    "followers": 2361968,
+    "genre": "pop",
     "genres": [
-      "country",
-      "country rock"
+      "pop soul"
     ],
-    "href": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy",
-    "id": "5QNm7E7RU2m64l6Gliu8Oy",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3e7e5b8c09a44d49a95bd842",
-    "name": "HARDY",
+    "href": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW",
+    "id": "00x1fYSGhdqScXBRpSj3DW",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5c7577ad44daeb7ce4b941a1",
+    "name": "Olivia Dean",
     "top_track": {
-      "href": "https://open.spotify.com/track/6CThut6kPrjot0pTJOTEer",
-      "name": "TRUCK BED"
+      "href": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+      "name": "Man I Need"
     }
   },
   {
-    "followers": 36,
-    "genre": "alternative",
+    "followers": 15239645,
+    "genre": "dance",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
-    "id": "4kjS5eC0smSDzKaTxgAGPW",
-    "image": "",
-    "name": "Take My Chances",
+    "href": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
+    "id": "0LcJLqbBmaGUft1e9Mm8HV",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb81a5ec3c9b4a6750440904d8",
+    "name": "ABBA",
     "top_track": {
-      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
-      "name": "Handy With The Tongue Sword"
+      "href": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV",
+      "name": "The Winner Takes It All"
     }
   }
 ]
