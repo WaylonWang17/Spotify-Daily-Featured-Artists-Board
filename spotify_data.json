@@ -1,30 +1,55 @@
 [
   {
-    "followers": 2361968,
-    "genre": "pop",
+    "followers": 12593912,
+    "genre": "hip hop",
     "genres": [
-      "pop soul"
+      "tamil hip hop",
+      "tamil pop",
+      "kollywood",
+      "tamil dance",
+      "tamil indie"
     ],
-    "href": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW",
-    "id": "00x1fYSGhdqScXBRpSj3DW",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5c7577ad44daeb7ce4b941a1",
-    "name": "Olivia Dean",
+    "href": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q",
+    "id": "7zFBW2JxM4bgTTKxCRcS8Q",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb67a9c256bee82482d82f2716",
+    "name": "Hiphop Tamizha",
     "top_track": {
-      "href": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
-      "name": "Man I Need"
+      "href": "https://open.spotify.com/track/4nSwWiwtieiNmRAjy9fEXN",
+      "name": "Kannala Kannala - The Melting Point of Love"
     }
   },
   {
-    "followers": 15239645,
+    "followers": 8929392,
     "genre": "dance",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
-    "id": "0LcJLqbBmaGUft1e9Mm8HV",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb81a5ec3c9b4a6750440904d8",
-    "name": "ABBA",
+    "href": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW",
+    "id": "6tbjWDEIzxoDsBA1FuhfPW",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6ccc1215f5b205aa6b34b48b",
+    "name": "Madonna",
     "top_track": {
-      "href": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV",
-      "name": "The Winner Takes It All"
+      "href": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG",
+      "name": "Popular (with Playboi Carti \u0026 Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)"
+    }
+  },
+  {
+    "followers": 29498277,
+    "genre": "latin",
+    "genres": [
+      "corridos tumbados",
+      "corrido",
+      "corridos bélicos",
+      "sad sierreño",
+      "sierreño",
+      "música mexicana",
+      "banda"
+    ],
+    "href": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is",
+    "id": "7Gi6gjaWy3DxyilpF1a8Is",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5fbe9b7dc7d9a2295bd6022c",
+    "name": "Junior H",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4e76Ss3ji7HQZ4qwcPNkNA",
+      "name": "MIENTRAS DUERMES"
     }
   }
 ]
