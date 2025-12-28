@@ -1,55 +1,49 @@
 [
   {
-    "followers": 12593912,
-    "genre": "hip hop",
+    "followers": 27418,
+    "genre": "classical",
     "genres": [
-      "tamil hip hop",
-      "tamil pop",
-      "kollywood",
-      "tamil dance",
-      "tamil indie"
+      "classical",
+      "classical piano"
     ],
-    "href": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q",
-    "id": "7zFBW2JxM4bgTTKxCRcS8Q",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb67a9c256bee82482d82f2716",
-    "name": "Hiphop Tamizha",
+    "href": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C",
+    "id": "2YdRnOqBXCl9g8xCLcGh8C",
+    "image": "https://i.scdn.co/image/ab6772690000c46cf77e6a84cfbfdf136d8470a3",
+    "name": "Mikhail Pletnev",
     "top_track": {
-      "href": "https://open.spotify.com/track/4nSwWiwtieiNmRAjy9fEXN",
-      "name": "Kannala Kannala - The Melting Point of Love"
+      "href": "https://open.spotify.com/track/3BItfuMR4kWr5XepMNP3kz",
+      "name": "The Nutcracker, Op. 71, TH 14, Act II: No. 14c, Var. II. Dance of the Sugar-Plum Fairy"
     }
   },
   {
-    "followers": 8929392,
-    "genre": "dance",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW",
-    "id": "6tbjWDEIzxoDsBA1FuhfPW",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6ccc1215f5b205aa6b34b48b",
-    "name": "Madonna",
+    "followers": 1044,
+    "genre": "j-pop",
+    "genres": [
+      "christmas"
+    ],
+    "href": "https://open.spotify.com/artist/3J4MmqNlQrn62S2x0acOR0",
+    "id": "3J4MmqNlQrn62S2x0acOR0",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3f478837a9f76a5c11700740",
+    "name": "Orange Jazz Quartet",
     "top_track": {
-      "href": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG",
-      "name": "Popular (with Playboi Carti \u0026 Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)"
+      "href": "https://open.spotify.com/track/0Fz9tkyd0EEK9SFlVCTAZz",
+      "name": "All I Want for Christmas - Jazz Version"
     }
   },
   {
-    "followers": 29498277,
-    "genre": "latin",
+    "followers": 2905048,
+    "genre": "punk",
     "genres": [
-      "corridos tumbados",
-      "corrido",
-      "corridos bélicos",
-      "sad sierreño",
-      "sierreño",
-      "música mexicana",
-      "banda"
+      "new wave",
+      "post-punk"
     ],
-    "href": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is",
-    "id": "7Gi6gjaWy3DxyilpF1a8Is",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5fbe9b7dc7d9a2295bd6022c",
-    "name": "Junior H",
+    "href": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC",
+    "id": "2x9SpqnPi8rlE9pjHBwmSC",
+    "image": "https://i.scdn.co/image/e4c5b04fce8706c87663357b1f78522a3a5c641b",
+    "name": "Talking Heads",
     "top_track": {
-      "href": "https://open.spotify.com/track/4e76Ss3ji7HQZ4qwcPNkNA",
-      "name": "MIENTRAS DUERMES"
+      "href": "https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD",
+      "name": "Psycho Killer"
     }
   }
 ]
