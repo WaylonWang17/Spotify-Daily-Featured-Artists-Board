@@ -1,49 +1,41 @@
 [
   {
-    "followers": 27418,
-    "genre": "classical",
-    "genres": [
-      "classical",
-      "classical piano"
-    ],
-    "href": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C",
-    "id": "2YdRnOqBXCl9g8xCLcGh8C",
-    "image": "https://i.scdn.co/image/ab6772690000c46cf77e6a84cfbfdf136d8470a3",
-    "name": "Mikhail Pletnev",
+    "followers": 53507293,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
+    "id": "00FQb4jTyendYWaN8pK0wa",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+    "name": "Lana Del Rey",
     "top_track": {
-      "href": "https://open.spotify.com/track/3BItfuMR4kWr5XepMNP3kz",
-      "name": "The Nutcracker, Op. 71, TH 14, Act II: No. 14c, Var. II. Dance of the Sugar-Plum Fairy"
+      "href": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9",
+      "name": "Young And Beautiful"
     }
   },
   {
-    "followers": 1044,
-    "genre": "j-pop",
-    "genres": [
-      "christmas"
-    ],
-    "href": "https://open.spotify.com/artist/3J4MmqNlQrn62S2x0acOR0",
-    "id": "3J4MmqNlQrn62S2x0acOR0",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3f478837a9f76a5c11700740",
-    "name": "Orange Jazz Quartet",
+    "followers": 63,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2PnzOxs3wDsOfAXoiYHXYy",
+    "id": "2PnzOxs3wDsOfAXoiYHXYy",
+    "image": "",
+    "name": "LeBreton",
     "top_track": {
-      "href": "https://open.spotify.com/track/0Fz9tkyd0EEK9SFlVCTAZz",
-      "name": "All I Want for Christmas - Jazz Version"
+      "href": "https://open.spotify.com/track/3eXKAb6gfVTbvtmshXGb1F",
+      "name": "Bad Dreams - LeBreton Remix"
     }
   },
   {
-    "followers": 2905048,
-    "genre": "punk",
-    "genres": [
-      "new wave",
-      "post-punk"
-    ],
-    "href": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC",
-    "id": "2x9SpqnPi8rlE9pjHBwmSC",
-    "image": "https://i.scdn.co/image/e4c5b04fce8706c87663357b1f78522a3a5c641b",
-    "name": "Talking Heads",
+    "followers": 36,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
+    "id": "4kjS5eC0smSDzKaTxgAGPW",
+    "image": "",
+    "name": "Take My Chances",
     "top_track": {
-      "href": "https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD",
-      "name": "Psycho Killer"
+      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
+      "name": "Handy With The Tongue Sword"
     }
   }
 ]
