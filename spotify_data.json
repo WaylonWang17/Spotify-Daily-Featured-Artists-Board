@@ -1,44 +1,44 @@
 [
   {
-    "followers": 9778979,
+    "followers": 20,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1OnryTPwWQQHVhGjrYx59M",
+    "id": "1OnryTPwWQQHVhGjrYx59M",
+    "image": "",
+    "name": "Мааз",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1gF4FTWAiVezdzdqU7RDGv",
+      "name": "Хайр Эмзэгхэн"
+    }
+  },
+  {
+    "followers": 41724294,
     "genre": "r\u0026b",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM",
-    "id": "1U1el3k54VvEUzo3ybLPlM",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6a5bff9f9278d4eea13bb67e",
-    "name": "Kali Uchis",
+    "href": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m",
+    "id": "6vWDO969PvNqNYHIOW5v0m",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7eaa373538359164b843f7c0",
+    "name": "Beyoncé",
     "top_track": {
-      "href": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B",
-      "name": "telepatía"
+      "href": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr",
+      "name": "Crazy In Love (feat. JAY-Z)"
     }
   },
   {
-    "followers": 3085449,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG",
-    "id": "1r1uxoy19fzMxunt3ONAkG",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb626686e362d30246e816cc5b",
-    "name": "Phoebe Bridgers",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp",
-      "name": "Scott Street"
-    }
-  },
-  {
-    "followers": 2092691,
-    "genre": "jazz",
+    "followers": 3188195,
+    "genre": "punk",
     "genres": [
-      "jazz",
-      "vocal jazz"
+      "pop punk",
+      "emo"
     ],
-    "href": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp",
-    "id": "1YzCsTRb22dQkh9lghPIrp",
-    "image": "https://i.scdn.co/image/4efa6b6871a0f672b78b3d16fd5a03c6cd212d58",
-    "name": "Billie Holiday",
+    "href": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT",
+    "id": "3vAaWhdBR38Q02ohXqaNHT",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8a05b6b10635b63ebc45ae54",
+    "name": "The All-American Rejects",
     "top_track": {
-      "href": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5",
-      "name": "I'll Be Seeing You"
+      "href": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV",
+      "name": "Dirty Little Secret"
     }
   }
 ]
