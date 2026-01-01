@@ -1,44 +1,50 @@
 [
   {
-    "followers": 20,
-    "genre": "alternative",
+    "followers": 18,
+    "genre": "techno",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1OnryTPwWQQHVhGjrYx59M",
-    "id": "1OnryTPwWQQHVhGjrYx59M",
-    "image": "",
-    "name": "Мааз",
+    "href": "https://open.spotify.com/artist/4kPixCU122qyisXoWZFHDw",
+    "id": "4kPixCU122qyisXoWZFHDw",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f73c9de0a6dc083e1753d2b3",
+    "name": "Zbot",
     "top_track": {
-      "href": "https://open.spotify.com/track/1gF4FTWAiVezdzdqU7RDGv",
-      "name": "Хайр Эмзэгхэн"
+      "href": "https://open.spotify.com/track/2sjckwyuGBnKJEvDMOnW6G",
+      "name": "Over Flowers - Virtual's Sweet Vibe Mix"
     }
   },
   {
-    "followers": 41724294,
-    "genre": "r\u0026b",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m",
-    "id": "6vWDO969PvNqNYHIOW5v0m",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7eaa373538359164b843f7c0",
-    "name": "Beyoncé",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr",
-      "name": "Crazy In Love (feat. JAY-Z)"
-    }
-  },
-  {
-    "followers": 3188195,
-    "genre": "punk",
+    "followers": 23069369,
+    "genre": "rock",
     "genres": [
-      "pop punk",
-      "emo"
+      "progressive rock",
+      "psychedelic rock",
+      "classic rock",
+      "art rock",
+      "rock"
     ],
-    "href": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT",
-    "id": "3vAaWhdBR38Q02ohXqaNHT",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8a05b6b10635b63ebc45ae54",
-    "name": "The All-American Rejects",
+    "href": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9",
+    "id": "0k17h0D3J5VfsdmQ1iZtE9",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb97885ce689d644c91dfba05c",
+    "name": "Pink Floyd",
     "top_track": {
-      "href": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV",
-      "name": "Dirty Little Secret"
+      "href": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1",
+      "name": "Wish You Were Here"
+    }
+  },
+  {
+    "followers": 2362738,
+    "genre": "dance",
+    "genres": [
+      "stutter house",
+      "house"
+    ],
+    "href": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe",
+    "id": "4oLeXFyACqeem2VImYeBFe",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb381c41adc678e4ce864eb274",
+    "name": "Fred again..",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP",
+      "name": "Victory Lap"
     }
   }
 ]
