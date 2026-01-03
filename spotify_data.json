@@ -1,43 +1,33 @@
 [
   {
-    "followers": 63,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2PnzOxs3wDsOfAXoiYHXYy",
-    "id": "2PnzOxs3wDsOfAXoiYHXYy",
-    "image": "",
-    "name": "LeBreton",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3eXKAb6gfVTbvtmshXGb1F",
-      "name": "Bad Dreams - LeBreton Remix"
-    }
-  },
-  {
-    "followers": 601733,
-    "genre": "soul",
+    "followers": 4158823,
+    "genre": "blues",
     "genres": [
-      "musicals"
+      "blues rock",
+      "garage rock",
+      "modern blues",
+      "rock"
     ],
-    "href": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ",
-    "id": "46UMQ0cW8ToR8egkBRwAxZ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb65199ed238bc45231cd3cba7",
-    "name": "Cynthia Erivo",
+    "href": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz",
+    "id": "7mnBLXK823vNxN3UWB7Gfz",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb2383f032c2aebc76cf3780ed",
+    "name": "The Black Keys",
     "top_track": {
-      "href": "https://open.spotify.com/track/6Axf4FwBQvgcKzRwfm458N",
-      "name": "For Good"
+      "href": "https://open.spotify.com/track/6OQWPkRPWVMzTQsHOjIZVD",
+      "name": "Lonely Boy - 2021 Remaster"
     }
   },
   {
-    "followers": 574272,
-    "genre": "pop",
+    "followers": 4,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb",
-    "id": "0Wwji82sLA0Hcvtuak3omb",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb2e9ac1a1188624174e9c86a3",
-    "name": "AUDREY NUNA",
+    "href": "https://open.spotify.com/artist/5Db0lBhKATfhS9CsOTae45",
+    "id": "5Db0lBhKATfhS9CsOTae45",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b8375885caff05272678eff7",
+    "name": "Milan Das",
     "top_track": {
-      "href": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS",
-      "name": "Golden"
+      "href": "https://open.spotify.com/track/6Xw7IJt8VOxtkp0gKPnAIF",
+      "name": "Fulmati"
     }
   }
 ]
