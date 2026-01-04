@@ -1,33 +1,38 @@
 [
   {
-    "followers": 4158823,
-    "genre": "blues",
-    "genres": [
-      "blues rock",
-      "garage rock",
-      "modern blues",
-      "rock"
-    ],
-    "href": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz",
-    "id": "7mnBLXK823vNxN3UWB7Gfz",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb2383f032c2aebc76cf3780ed",
-    "name": "The Black Keys",
+    "followers": 47,
+    "genre": "house",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
+    "id": "2KUI78zzOPJOCrDv3P4xnU",
+    "image": "",
+    "name": "Stereonova",
     "top_track": {
-      "href": "https://open.spotify.com/track/6OQWPkRPWVMzTQsHOjIZVD",
-      "name": "Lonely Boy - 2021 Remaster"
+      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
+      "name": "Inutilmente"
     }
   },
   {
-    "followers": 4,
-    "genre": "k-pop",
+    "followers": 641,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5Db0lBhKATfhS9CsOTae45",
-    "id": "5Db0lBhKATfhS9CsOTae45",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b8375885caff05272678eff7",
-    "name": "Milan Das",
+    "href": "https://open.spotify.com/artist/5q6i8pgGAanEpaPyVL6W1r",
+    "id": "5q6i8pgGAanEpaPyVL6W1r",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebae06780ead528f8d346877c1",
+    "name": "Mole",
+    "top_track": null
+  },
+  {
+    "followers": 6006958,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy",
+    "id": "3aQeKQSyrW4qWr35idm0cy",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb173c878a651babb8d0db4cee",
+    "name": "T-Pain",
     "top_track": {
-      "href": "https://open.spotify.com/track/6Xw7IJt8VOxtkp0gKPnAIF",
-      "name": "Fulmati"
+      "href": "https://open.spotify.com/track/6lbhWl34Il0WXm5pX1fM9E",
+      "name": "Up Down (Do This All Day) (feat. B.o.B)"
     }
   }
 ]
