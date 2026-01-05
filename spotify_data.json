@@ -1,38 +1,28 @@
 [
   {
-    "followers": 47,
-    "genre": "house",
+    "followers": 11271205,
+    "genre": "indie",
     "genres": [],
-    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
-    "id": "2KUI78zzOPJOCrDv3P4xnU",
-    "image": "",
-    "name": "Stereonova",
+    "href": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK",
+    "id": "2uYWxilOVlUdk4oV9DvwqK",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4bdb3888818637acb71c4a13",
+    "name": "Mitski",
     "top_track": {
-      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
-      "name": "Inutilmente"
+      "href": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3",
+      "name": "My Love Mine All Mine"
     }
   },
   {
-    "followers": 641,
-    "genre": "rap",
+    "followers": 16,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5q6i8pgGAanEpaPyVL6W1r",
-    "id": "5q6i8pgGAanEpaPyVL6W1r",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebae06780ead528f8d346877c1",
-    "name": "Mole",
-    "top_track": null
-  },
-  {
-    "followers": 6006958,
-    "genre": "r\u0026b",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy",
-    "id": "3aQeKQSyrW4qWr35idm0cy",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb173c878a651babb8d0db4cee",
-    "name": "T-Pain",
+    "href": "https://open.spotify.com/artist/1yvVX7dWzRqSKQRvgnAGkv",
+    "id": "1yvVX7dWzRqSKQRvgnAGkv",
+    "image": "",
+    "name": "Dareen Tatour",
     "top_track": {
-      "href": "https://open.spotify.com/track/6lbhWl34Il0WXm5pX1fM9E",
-      "name": "Up Down (Do This All Day) (feat. B.o.B)"
+      "href": "https://open.spotify.com/track/7xjK80r5IaD0smaToXzMc8",
+      "name": "Resist, My People, Resist Them"
     }
   }
 ]
