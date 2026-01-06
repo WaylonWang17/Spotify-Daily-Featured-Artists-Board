@@ -1,28 +1,46 @@
 [
   {
-    "followers": 11271205,
-    "genre": "indie",
+    "followers": 514,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK",
-    "id": "2uYWxilOVlUdk4oV9DvwqK",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4bdb3888818637acb71c4a13",
-    "name": "Mitski",
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
+    "image": "",
+    "name": "Rutuu",
+    "top_track": null
+  },
+  {
+    "followers": 8015157,
+    "genre": "dance",
+    "genres": [
+      "new wave",
+      "madchester",
+      "jangle pop"
+    ],
+    "href": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8",
+    "id": "3yY2gUcIsjMr8hjo51PoJ8",
+    "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9",
+    "name": "The Smiths",
     "top_track": {
-      "href": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3",
-      "name": "My Love Mine All Mine"
+      "href": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI",
+      "name": "There Is a Light That Never Goes Out - 2011 Remaster"
     }
   },
   {
-    "followers": 16,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/1yvVX7dWzRqSKQRvgnAGkv",
-    "id": "1yvVX7dWzRqSKQRvgnAGkv",
-    "image": "",
-    "name": "Dareen Tatour",
+    "followers": 39351955,
+    "genre": "latin",
+    "genres": [
+      "reggaeton",
+      "latin",
+      "urbano latino"
+    ],
+    "href": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau",
+    "id": "1r4hJ1h58CWwUQe3MxPuau",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc865fa1b398bc1cd02649f51",
+    "name": "Maluma",
     "top_track": {
-      "href": "https://open.spotify.com/track/7xjK80r5IaD0smaToXzMc8",
-      "name": "Resist, My People, Resist Them"
+      "href": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN",
+      "name": "Borro Cassette"
     }
   }
 ]
