@@ -1,20 +1,5 @@
 [
   {
-    "followers": 5399311,
-    "genre": "latin",
-    "genres": [
-      "dancehall"
-    ],
-    "href": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9",
-    "id": "3Isy6kedDrgPYoTS1dazA9",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22",
-    "name": "Sean Paul",
-    "top_track": {
-      "href": "https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA",
-      "name": "No Lie"
-    }
-  },
-  {
     "followers": 16,
     "genre": "alternative",
     "genres": [],
@@ -28,16 +13,32 @@
     }
   },
   {
-    "followers": 3984383,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ",
-    "id": "4LEiUm1SRbFMgfqnQTwUbQ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb1a0c1f04c95539fd55ef0ebb",
-    "name": "Bon Iver",
+    "followers": 3032866,
+    "genre": "country",
+    "genres": [
+      "country",
+      "classic country"
+    ],
+    "href": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU",
+    "id": "32vWCbZh0xZ4o9gkz4PsEU",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb61aae76c2db6b8645f1553d0",
+    "name": "Dolly Parton",
     "top_track": {
-      "href": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y",
-      "name": "exile (feat. Bon Iver)"
+      "href": "https://open.spotify.com/track/0uTVChzibEWKrXojPaJ9y1",
+      "name": "Hard Candy Christmas"
+    }
+  },
+  {
+    "followers": 4,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2YJgh2hiPPMRyvAi4aQboj",
+    "id": "2YJgh2hiPPMRyvAi4aQboj",
+    "image": "https://i.scdn.co/image/ab67616d0000b273365bc57c4ee670d16aeabdf1",
+    "name": "Akshu Negi",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1HM9huEbD2ld5UOEzlP1MP",
+      "name": "Kinnauri Mix Edm"
     }
   }
 ]
