@@ -1,44 +1,41 @@
 [
   {
-    "followers": 16,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/1yvVX7dWzRqSKQRvgnAGkv",
-    "id": "1yvVX7dWzRqSKQRvgnAGkv",
-    "image": "",
-    "name": "Dareen Tatour",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7xjK80r5IaD0smaToXzMc8",
-      "name": "Resist, My People, Resist Them"
-    }
-  },
-  {
-    "followers": 3032866,
+    "followers": 1770092,
     "genre": "country",
-    "genres": [
-      "country",
-      "classic country"
-    ],
-    "href": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU",
-    "id": "32vWCbZh0xZ4o9gkz4PsEU",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb61aae76c2db6b8645f1553d0",
-    "name": "Dolly Parton",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7",
+    "id": "2yLzlEFtIS0Q9UkyBZdQA7",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebabb501717aa1717ea4798061",
+    "name": "Jessie Murph",
     "top_track": {
-      "href": "https://open.spotify.com/track/0uTVChzibEWKrXojPaJ9y1",
-      "name": "Hard Candy Christmas"
+      "href": "https://open.spotify.com/track/5kUXTPwxC6ZkduukaukCRT",
+      "name": "Blue Strips"
     }
   },
   {
-    "followers": 4,
-    "genre": "k-pop",
+    "followers": 2413298,
+    "genre": "hip hop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/2YJgh2hiPPMRyvAi4aQboj",
-    "id": "2YJgh2hiPPMRyvAi4aQboj",
-    "image": "https://i.scdn.co/image/ab67616d0000b273365bc57c4ee670d16aeabdf1",
-    "name": "Akshu Negi",
+    "href": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT",
+    "id": "7EWU4FhUJM1sZQgQKdENeT",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9291e55f0add696c11e6c545",
+    "name": "Hopsin",
     "top_track": {
-      "href": "https://open.spotify.com/track/1HM9huEbD2ld5UOEzlP1MP",
-      "name": "Kinnauri Mix Edm"
+      "href": "https://open.spotify.com/track/7dDLHlyZJBqEWSndlPWyCT",
+      "name": "Ill Mind of Hopsin 5"
+    }
+  },
+  {
+    "followers": 18,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6LxveMebShWOup3KKj4lzH",
+    "id": "6LxveMebShWOup3KKj4lzH",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4ec3f3cdc5c2738c812e48c6",
+    "name": "Zona",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5ojc5ZesMyum82mIg4jZKG",
+      "name": "O Que Deus Quiser"
     }
   }
 ]
