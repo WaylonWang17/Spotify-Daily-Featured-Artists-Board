@@ -1,41 +1,40 @@
 [
   {
-    "followers": 1770092,
-    "genre": "country",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7",
-    "id": "2yLzlEFtIS0Q9UkyBZdQA7",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebabb501717aa1717ea4798061",
-    "name": "Jessie Murph",
+    "followers": 11032562,
+    "genre": "pop",
+    "genres": [
+      "christmas"
+    ],
+    "href": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX",
+    "id": "3BmGtnKgCSGYIUhmivXKWX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb20b8c7d395994dc81a85f291",
+    "name": "Kelly Clarkson",
     "top_track": {
-      "href": "https://open.spotify.com/track/5kUXTPwxC6ZkduukaukCRT",
-      "name": "Blue Strips"
+      "href": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR",
+      "name": "Underneath the Tree"
     }
   },
   {
-    "followers": 2413298,
-    "genre": "hip hop",
+    "followers": 3432083,
+    "genre": "indie",
     "genres": [],
-    "href": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT",
-    "id": "7EWU4FhUJM1sZQgQKdENeT",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9291e55f0add696c11e6c545",
-    "name": "Hopsin",
+    "href": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S",
+    "id": "4G9NDjRyZFDlJKMRL8hx3S",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb78edaa6468cae153565c2c97",
+    "name": "sombr",
     "top_track": {
-      "href": "https://open.spotify.com/track/7dDLHlyZJBqEWSndlPWyCT",
-      "name": "Ill Mind of Hopsin 5"
+      "href": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe",
+      "name": "back to friends"
     }
   },
   {
-    "followers": 18,
-    "genre": "rap",
+    "followers": 101,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6LxveMebShWOup3KKj4lzH",
-    "id": "6LxveMebShWOup3KKj4lzH",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4ec3f3cdc5c2738c812e48c6",
-    "name": "Zona",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5ojc5ZesMyum82mIg4jZKG",
-      "name": "O Que Deus Quiser"
-    }
+    "href": "https://open.spotify.com/artist/5F0R3rw67rBz0NNaUBOqAW",
+    "id": "5F0R3rw67rBz0NNaUBOqAW",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc8438b470e31ceea4016f8d2",
+    "name": "Bolon Tokbi",
+    "top_track": null
   }
 ]
