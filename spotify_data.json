@@ -1,40 +1,43 @@
 [
   {
-    "followers": 11032562,
-    "genre": "pop",
+    "followers": 82755,
+    "genre": "classical",
     "genres": [
-      "christmas"
+      "orchestral"
     ],
-    "href": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX",
-    "id": "3BmGtnKgCSGYIUhmivXKWX",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb20b8c7d395994dc81a85f291",
-    "name": "Kelly Clarkson",
+    "href": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv",
+    "id": "24DQLSng7bKZD4GXLIaQbv",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb79058cfc754be16c2f0070aa",
+    "name": "Percy Faith \u0026 His Orchestra",
     "top_track": {
-      "href": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR",
-      "name": "Underneath the Tree"
+      "href": "https://open.spotify.com/track/4cYpFtMUIzMDR7Y1D14sQc",
+      "name": "Sleigh Ride"
     }
   },
   {
-    "followers": 3432083,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S",
-    "id": "4G9NDjRyZFDlJKMRL8hx3S",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb78edaa6468cae153565c2c97",
-    "name": "sombr",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe",
-      "name": "back to friends"
-    }
-  },
-  {
-    "followers": 101,
+    "followers": 32,
     "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5F0R3rw67rBz0NNaUBOqAW",
-    "id": "5F0R3rw67rBz0NNaUBOqAW",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc8438b470e31ceea4016f8d2",
-    "name": "Bolon Tokbi",
-    "top_track": null
+    "href": "https://open.spotify.com/artist/4oh0TwbYuuMitGcmVH1f0l",
+    "id": "4oh0TwbYuuMitGcmVH1f0l",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739efc4dbc94203003acea28bb",
+    "name": "Tiger Satish Das",
+    "top_track": {
+      "href": "https://open.spotify.com/track/15H12xff9PzTyYJlMEBqic",
+      "name": "Jab Se Tora Dekhi Hume Gori Re"
+    }
+  },
+  {
+    "followers": 18,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4kPixCU122qyisXoWZFHDw",
+    "id": "4kPixCU122qyisXoWZFHDw",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f73c9de0a6dc083e1753d2b3",
+    "name": "Zbot",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2sjckwyuGBnKJEvDMOnW6G",
+      "name": "Over Flowers - Virtual's Sweet Vibe Mix"
+    }
   }
 ]
