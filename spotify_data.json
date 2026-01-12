@@ -1,43 +1,51 @@
 [
   {
-    "followers": 82755,
-    "genre": "classical",
+    "followers": 6595126,
+    "genre": "indie",
     "genres": [
-      "orchestral"
+      "hyperpop",
+      "art pop"
     ],
-    "href": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv",
-    "id": "24DQLSng7bKZD4GXLIaQbv",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb79058cfc754be16c2f0070aa",
-    "name": "Percy Faith \u0026 His Orchestra",
+    "href": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5",
+    "id": "25uiPmTg16RbhZWAqwLBy5",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebdaa727dd396963ba92dd6377",
+    "name": "Charli xcx",
     "top_track": {
-      "href": "https://open.spotify.com/track/4cYpFtMUIzMDR7Y1D14sQc",
-      "name": "Sleigh Ride"
+      "href": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE",
+      "name": "party 4 u"
     }
   },
   {
-    "followers": 32,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4oh0TwbYuuMitGcmVH1f0l",
-    "id": "4oh0TwbYuuMitGcmVH1f0l",
-    "image": "https://i.scdn.co/image/ab67616d0000b2739efc4dbc94203003acea28bb",
-    "name": "Tiger Satish Das",
+    "followers": 24707,
+    "genre": "reggae",
+    "genres": [
+      "musicals"
+    ],
+    "href": "https://open.spotify.com/artist/2cjhj5CXQPAr8nHi0Sd8fz",
+    "id": "2cjhj5CXQPAr8nHi0Sd8fz",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb93bcef8b13a575f0046dcb32",
+    "name": "Talya Sindel",
     "top_track": {
-      "href": "https://open.spotify.com/track/15H12xff9PzTyYJlMEBqic",
-      "name": "Jab Se Tora Dekhi Hume Gori Re"
+      "href": "https://open.spotify.com/track/3MfTo3Q0ZCrhCsQJZ8u6iZ",
+      "name": "Done For"
     }
   },
   {
-    "followers": 18,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4kPixCU122qyisXoWZFHDw",
-    "id": "4kPixCU122qyisXoWZFHDw",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f73c9de0a6dc083e1753d2b3",
-    "name": "Zbot",
+    "followers": 3783508,
+    "genre": "r\u0026b",
+    "genres": [
+      "afrobeats",
+      "afro r\u0026b",
+      "alté",
+      "afrobeat"
+    ],
+    "href": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq",
+    "id": "687cZJR45JO7jhk1LHIbgq",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb22d7d6f8981c7a27bf68a382",
+    "name": "Tems",
     "top_track": {
-      "href": "https://open.spotify.com/track/2sjckwyuGBnKJEvDMOnW6G",
-      "name": "Over Flowers - Virtual's Sweet Vibe Mix"
+      "href": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz",
+      "name": "Raindance (feat. Tems)"
     }
   }
 ]
