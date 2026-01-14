@@ -1,46 +1,51 @@
 [
   {
-    "followers": 4,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/5Db0lBhKATfhS9CsOTae45",
-    "id": "5Db0lBhKATfhS9CsOTae45",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b8375885caff05272678eff7",
-    "name": "Milan Das",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6Xw7IJt8VOxtkp0gKPnAIF",
-      "name": "Fulmati"
-    }
-  },
-  {
-    "followers": 8105395,
-    "genre": "dance",
+    "followers": 44928,
+    "genre": "classical",
     "genres": [
-      "edm",
-      "trance",
-      "big room",
-      "house"
+      "score"
     ],
-    "href": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z",
-    "id": "2o5jDhtHVPhrJdv3cEQ99Z",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf4973f7346a2f35e56b63d57",
-    "name": "Tiësto",
+    "href": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk",
+    "id": "7daPb40K64rRtF36wd3ZOk",
+    "image": "https://i.scdn.co/image/6a9df2fdcda44bc0cd927eb3ad033fb95094751c",
+    "name": "Stephen Schwartz",
     "top_track": {
-      "href": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt",
-      "name": "Thank You (Not So Bad)"
+      "href": "https://open.spotify.com/track/69LbCan7kMmy1RpCzKNHuv",
+      "name": "A Wicked Good Finale (feat. Ariana Grande \u0026 Cynthia Erivo)"
     }
   },
   {
-    "followers": 108691,
-    "genre": "punk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg",
-    "id": "2kU94AZG0xEVKnOUKDbEfg",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebead996a2a87a8ea49918f789",
-    "name": "i wanna be a jack-o-lantern",
+    "followers": 4273858,
+    "genre": "latin",
+    "genres": [
+      "bedroom pop"
+    ],
+    "href": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx",
+    "id": "2sSGPbdZJkaSE2AbcGOACx",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+    "name": "The Marías",
     "top_track": {
-      "href": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G",
-      "name": "Nope your too late i already died"
+      "href": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5",
+      "name": "No One Noticed"
+    }
+  },
+  {
+    "followers": 2773396,
+    "genre": "jazz",
+    "genres": [
+      "vocal jazz",
+      "jazz",
+      "swing music",
+      "big band",
+      "christmas"
+    ],
+    "href": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz",
+    "id": "5V0MlUE1Bft0mbLlND7FJz",
+    "image": "https://i.scdn.co/image/3c1d23141059785c8a863137d176319329dc17ef",
+    "name": "Ella Fitzgerald",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4",
+      "name": "Sleigh Ride"
     }
   }
 ]
