@@ -1,51 +1,50 @@
 [
   {
-    "followers": 44928,
-    "genre": "classical",
+    "followers": 68238246,
+    "genre": "soul",
     "genres": [
-      "score"
+      "soft pop"
     ],
-    "href": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk",
-    "id": "7daPb40K64rRtF36wd3ZOk",
-    "image": "https://i.scdn.co/image/6a9df2fdcda44bc0cd927eb3ad033fb95094751c",
-    "name": "Stephen Schwartz",
+    "href": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY",
+    "id": "4dpARuHxo51G3z768sgnrY",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17",
+    "name": "Adele",
     "top_track": {
-      "href": "https://open.spotify.com/track/69LbCan7kMmy1RpCzKNHuv",
-      "name": "A Wicked Good Finale (feat. Ariana Grande \u0026 Cynthia Erivo)"
+      "href": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm",
+      "name": "Skyfall"
     }
   },
   {
-    "followers": 4273858,
-    "genre": "latin",
+    "followers": 5415692,
+    "genre": "reggae",
     "genres": [
-      "bedroom pop"
+      "dancehall"
     ],
-    "href": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx",
-    "id": "2sSGPbdZJkaSE2AbcGOACx",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-    "name": "The Marías",
+    "href": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9",
+    "id": "3Isy6kedDrgPYoTS1dazA9",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22",
+    "name": "Sean Paul",
     "top_track": {
-      "href": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5",
-      "name": "No One Noticed"
+      "href": "https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA",
+      "name": "No Lie"
     }
   },
   {
-    "followers": 2773396,
-    "genre": "jazz",
+    "followers": 3424413,
+    "genre": "punk",
     "genres": [
-      "vocal jazz",
-      "jazz",
-      "swing music",
-      "big band",
-      "christmas"
+      "witch house",
+      "electroclash",
+      "new rave",
+      "alternative dance"
     ],
-    "href": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz",
-    "id": "5V0MlUE1Bft0mbLlND7FJz",
-    "image": "https://i.scdn.co/image/3c1d23141059785c8a863137d176319329dc17ef",
-    "name": "Ella Fitzgerald",
+    "href": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO",
+    "id": "7K3zpFXBvPcvzhj7zlGJdO",
+    "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
+    "name": "Crystal Castles",
     "top_track": {
-      "href": "https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4",
-      "name": "Sleigh Ride"
+      "href": "https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT",
+      "name": "Vanished"
     }
   }
 ]
