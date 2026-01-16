@@ -1,50 +1,49 @@
 [
   {
-    "followers": 68238246,
-    "genre": "soul",
+    "followers": 59765,
+    "genre": "blues",
     "genres": [
-      "soft pop"
+      "southern gothic"
     ],
-    "href": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY",
-    "id": "4dpARuHxo51G3z768sgnrY",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17",
-    "name": "Adele",
+    "href": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL",
+    "id": "0EEwD5PTnNLxUfAS22mErL",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfc368a2a57b953ec4fbb60ab",
+    "name": "Miles Caton",
     "top_track": {
-      "href": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm",
-      "name": "Skyfall"
+      "href": "https://open.spotify.com/track/0XfwXFXOI7oys9rsZ2sjrt",
+      "name": "I Lied to You"
     }
   },
   {
-    "followers": 5415692,
+    "followers": 47,
+    "genre": "house",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
+    "id": "2KUI78zzOPJOCrDv3P4xnU",
+    "image": "",
+    "name": "Stereonova",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
+      "name": "Inutilmente"
+    }
+  },
+  {
+    "followers": 451485,
     "genre": "reggae",
     "genres": [
-      "dancehall"
+      "reggae",
+      "dancehall",
+      "roots reggae",
+      "ragga",
+      "reggae rock"
     ],
-    "href": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9",
-    "id": "3Isy6kedDrgPYoTS1dazA9",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22",
-    "name": "Sean Paul",
+    "href": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1",
+    "id": "5Ayl2bJtN5mdCsxZoxs9n1",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6799b9674066738256ee19f3",
+    "name": "Collie Buddz",
     "top_track": {
-      "href": "https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA",
-      "name": "No Lie"
-    }
-  },
-  {
-    "followers": 3424413,
-    "genre": "punk",
-    "genres": [
-      "witch house",
-      "electroclash",
-      "new rave",
-      "alternative dance"
-    ],
-    "href": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO",
-    "id": "7K3zpFXBvPcvzhj7zlGJdO",
-    "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-    "name": "Crystal Castles",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT",
-      "name": "Vanished"
+      "href": "https://open.spotify.com/track/3D7cUXDEKLAFsoD10QRoiR",
+      "name": "Smokin' Love (with Collie Buddz)"
     }
   }
 ]
