@@ -1,49 +1,48 @@
 [
   {
-    "followers": 59765,
-    "genre": "blues",
+    "followers": 3412107,
+    "genre": "j-pop",
     "genres": [
-      "southern gothic"
+      "jazz pop"
     ],
-    "href": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL",
-    "id": "0EEwD5PTnNLxUfAS22mErL",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebfc368a2a57b953ec4fbb60ab",
-    "name": "Miles Caton",
+    "href": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
+    "id": "2Kx7MNY7cI1ENniW7vT30N",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
+    "name": "Norah Jones",
     "top_track": {
-      "href": "https://open.spotify.com/track/0XfwXFXOI7oys9rsZ2sjrt",
-      "name": "I Lied to You"
+      "href": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
+      "name": "Don't Know Why"
     }
   },
   {
-    "followers": 47,
-    "genre": "house",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
-    "id": "2KUI78zzOPJOCrDv3P4xnU",
-    "image": "",
-    "name": "Stereonova",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
-      "name": "Inutilmente"
-    }
-  },
-  {
-    "followers": 451485,
+    "followers": 288172,
     "genre": "reggae",
     "genres": [
-      "reggae",
-      "dancehall",
-      "roots reggae",
-      "ragga",
-      "reggae rock"
+      "calypso"
     ],
-    "href": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1",
-    "id": "5Ayl2bJtN5mdCsxZoxs9n1",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6799b9674066738256ee19f3",
-    "name": "Collie Buddz",
+    "href": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z",
+    "id": "6Tw1ktF4xMmzaLLbe98I2z",
+    "image": "https://i.scdn.co/image/a59b477875a9c8d3956cd514e2829b9b95248849",
+    "name": "Harry Belafonte",
     "top_track": {
-      "href": "https://open.spotify.com/track/3D7cUXDEKLAFsoD10QRoiR",
-      "name": "Smokin' Love (with Collie Buddz)"
+      "href": "https://open.spotify.com/track/4Fpd1N7fcbRLnHbsk5D4Ye",
+      "name": "Mary's Boy Child"
+    }
+  },
+  {
+    "followers": 526956,
+    "genre": "rock",
+    "genres": [
+      "country",
+      "red dirt"
+    ],
+    "href": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y",
+    "id": "5jG6uRqinuI83luutMpW6y",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb22dd68b88d225e3d4f6505a0",
+    "name": "Gavin Adcock",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4JAmBKnHyq2avqNvJ81Mao",
+      "name": "Last One To Know"
     }
   }
 ]
