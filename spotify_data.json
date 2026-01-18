@@ -1,48 +1,47 @@
 [
   {
-    "followers": 3412107,
-    "genre": "j-pop",
+    "followers": 919587,
+    "genre": "country",
     "genres": [
-      "jazz pop"
+      "country"
     ],
-    "href": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-    "id": "2Kx7MNY7cI1ENniW7vT30N",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
-    "name": "Norah Jones",
+    "href": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8",
+    "id": "6BRxQ8cD3eqnrVj6WKDok8",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3b3bcc29f69e2096fd32d185",
+    "name": "Ella Langley",
     "top_track": {
-      "href": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
-      "name": "Don't Know Why"
+      "href": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc",
+      "name": "Choosin' Texas"
     }
   },
   {
-    "followers": 288172,
-    "genre": "reggae",
-    "genres": [
-      "calypso"
-    ],
-    "href": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z",
-    "id": "6Tw1ktF4xMmzaLLbe98I2z",
-    "image": "https://i.scdn.co/image/a59b477875a9c8d3956cd514e2829b9b95248849",
-    "name": "Harry Belafonte",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4Fpd1N7fcbRLnHbsk5D4Ye",
-      "name": "Mary's Boy Child"
-    }
-  },
-  {
-    "followers": 526956,
+    "followers": 4620694,
     "genre": "rock",
     "genres": [
-      "country",
-      "red dirt"
+      "post-grunge",
+      "alternative metal",
+      "rock"
     ],
-    "href": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y",
-    "id": "5jG6uRqinuI83luutMpW6y",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb22dd68b88d225e3d4f6505a0",
-    "name": "Gavin Adcock",
+    "href": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI",
+    "id": "70BYFdaZbEKbeauJ670ysI",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcf14abc10b18bc3c2373491f",
+    "name": "Shinedown",
     "top_track": {
-      "href": "https://open.spotify.com/track/4JAmBKnHyq2avqNvJ81Mao",
-      "name": "Last One To Know"
+      "href": "https://open.spotify.com/track/0CwYG1UnRmOx8Q1EzElCIL",
+      "name": "Second Chance"
+    }
+  },
+  {
+    "followers": 177159,
+    "genre": "reggae",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/72rBhryT48xN1YJ1ygEWrj",
+    "id": "72rBhryT48xN1YJ1ygEWrj",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcc040d0716f475ca2a6e6afa",
+    "name": "TROY",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1P6qJ2YZjVlsxO8JMiYUqw",
+      "name": "Wouldn't You Like"
     }
   }
 ]
