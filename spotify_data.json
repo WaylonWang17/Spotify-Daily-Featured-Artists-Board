@@ -1,37 +1,47 @@
 [
   {
-    "followers": 6765829,
-    "genre": "punk",
+    "followers": 4100074,
+    "genre": "folk",
     "genres": [
-      "metalcore",
-      "emo",
-      "screamo",
-      "rock",
-      "post-hardcore"
+      "surf rock"
     ],
-    "href": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF",
-    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe7c9399d0b5d813c20cbec65",
-    "name": "Bring Me The Horizon",
+    "href": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3",
+    "id": "3GBPw9NK25X1Wt2OUvOwY3",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0bf3ff1eaa4c0d6d664ccc3f",
+    "name": "Jack Johnson",
     "top_track": {
-      "href": "https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj",
-      "name": "Can You Feel My Heart"
+      "href": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC",
+      "name": "Upside Down"
     }
   },
   {
-    "followers": 559084,
-    "genre": "j-pop",
+    "followers": 7637197,
+    "genre": "hip hop",
     "genres": [
-      "vocaloid",
-      "j-pop"
+      "trap soul"
     ],
-    "href": "https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7",
-    "id": "1VMXuPyhNldYomz8ojLKP7",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd103439250c5eb427e98d844",
-    "name": "25時、ナイトコードで。",
+    "href": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq",
+    "id": "7c0XG5cIJTrrAgEC3ULPiq",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebdeccf223fe80d308aba91b64",
+    "name": "Ty Dolla $ign",
     "top_track": {
-      "href": "https://open.spotify.com/track/4MOfm19a8JZvAEfcWJLGXV",
-      "name": "化けの花 (feat. 宵崎奏\u0026朝比奈まふゆ\u0026東雲絵名\u0026暁山瑞希\u0026KAITO)"
+      "href": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0",
+      "name": "DON'T KILL THE PARTY (feat. Quavo \u0026 Juicy J)"
+    }
+  },
+  {
+    "followers": 7807433,
+    "genre": "r\u0026b",
+    "genres": [
+      "r\u0026b"
+    ],
+    "href": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH",
+    "id": "2iojnBLj0qIMiKPvVhLnsH",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc7b9e9a3adcc3f5cbc92fb0b",
+    "name": "Trey Songz",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5maiP9UMnTSgoxPX8X3bdz",
+      "name": "Na Na"
     }
   }
 ]
