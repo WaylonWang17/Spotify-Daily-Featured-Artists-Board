@@ -1,58 +1,41 @@
 [
   {
-    "followers": 4660735,
-    "genre": "metal",
-    "genres": [
-      "progressive metal",
-      "alternative metal",
-      "progressive rock",
-      "metal"
-    ],
-    "href": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8",
-    "id": "2yEwvVSSSUkcLeSTNyHKh8",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb13f5472b709101616c87cba3",
-    "name": "TOOL",
+    "followers": 19,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6LxveMebShWOup3KKj4lzH",
+    "id": "6LxveMebShWOup3KKj4lzH",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4ec3f3cdc5c2738c812e48c6",
+    "name": "Zona",
     "top_track": {
-      "href": "https://open.spotify.com/track/6AioOohg4bQZFA4jIYQQ2r",
-      "name": "Forty Six \u0026 2"
+      "href": "https://open.spotify.com/track/5ojc5ZesMyum82mIg4jZKG",
+      "name": "O Que Deus Quiser"
     }
   },
   {
-    "followers": 164383,
-    "genre": "classical",
+    "followers": 19743143,
+    "genre": "hip hop",
     "genres": [
-      "classical",
-      "opera",
-      "orchestral",
-      "concerto"
+      "melodic rap",
+      "rage rap"
     ],
-    "href": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ",
-    "id": "003f4bk13c6Q3gAUXv7dGJ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4bb5eb0860d831455fab32b6",
-    "name": "Wiener Philharmoniker",
+    "href": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
+    "id": "4O15NlyKLIASxsJ0PrXPfz",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
+    "name": "Lil Uzi Vert",
     "top_track": {
-      "href": "https://open.spotify.com/track/2oLjhx7w8Hyd3gry9cCXr7",
-      "name": "21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)"
+      "href": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v",
+      "name": "What You Saying"
     }
   },
   {
-    "followers": 102192,
-    "genre": "reggae",
-    "genres": [
-      "roots reggae",
-      "dub",
-      "reggae",
-      "rocksteady",
-      "lovers rock",
-      "ragga"
-    ],
-    "href": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC",
-    "id": "2ieAXAuLe6qQ3RJsqCxpoC",
-    "image": "https://i.scdn.co/image/ab6772690000c46ca60968641586880e27d0daff",
-    "name": "Horace Andy",
-    "top_track": {
-      "href": "https://open.spotify.com/track/56a6UncDB39DimqludMUvn",
-      "name": "Skylarking"
-    }
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
   }
 ]
