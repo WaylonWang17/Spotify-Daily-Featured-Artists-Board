@@ -1,41 +1,40 @@
 [
   {
-    "followers": 19,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6LxveMebShWOup3KKj4lzH",
-    "id": "6LxveMebShWOup3KKj4lzH",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4ec3f3cdc5c2738c812e48c6",
-    "name": "Zona",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5ojc5ZesMyum82mIg4jZKG",
-      "name": "O Que Deus Quiser"
-    }
-  },
-  {
-    "followers": 19743143,
-    "genre": "hip hop",
+    "followers": 447277,
+    "genre": "classical",
     "genres": [
-      "melodic rap",
-      "rage rap"
+      "classical"
     ],
-    "href": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz",
-    "id": "4O15NlyKLIASxsJ0PrXPfz",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb62c272d76220f2e9dad56704",
-    "name": "Lil Uzi Vert",
+    "href": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0",
+    "id": "436sYg6CZhNefQJogaXeK0",
+    "image": "https://i.scdn.co/image/f565d81f8dcfdec438207f6d8b34689f3489232a",
+    "name": "Camille Saint-Saëns",
     "top_track": {
-      "href": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v",
-      "name": "What You Saying"
+      "href": "https://open.spotify.com/track/2LKMUX3iN0tQOvggbalydj",
+      "name": "The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)"
     }
   },
   {
-    "followers": 1,
-    "genre": "techno",
+    "followers": 2518729,
+    "genre": "folk",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "href": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI",
+    "id": "3nnQpaTvKb5jCQabZefACI",
+    "image": "https://i.scdn.co/image/67779606c7f151618a28f62b1d24fb514d39dacf",
+    "name": "Jeff Buckley",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz",
+      "name": "Lover, You Should've Come Over"
+    }
+  },
+  {
+    "followers": 8,
+    "genre": "house",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
+    "id": "6RIYo7z2qQimAwsKtIM6JY",
     "image": "",
-    "name": "Andy Lyon",
+    "name": "DJ Yayyay",
     "top_track": null
   }
 ]
