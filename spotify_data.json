@@ -1,40 +1,41 @@
 [
   {
-    "followers": 447277,
-    "genre": "classical",
-    "genres": [
-      "classical"
-    ],
-    "href": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0",
-    "id": "436sYg6CZhNefQJogaXeK0",
-    "image": "https://i.scdn.co/image/f565d81f8dcfdec438207f6d8b34689f3489232a",
-    "name": "Camille Saint-Saëns",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2LKMUX3iN0tQOvggbalydj",
-      "name": "The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)"
-    }
-  },
-  {
-    "followers": 2518729,
+    "followers": 3495943,
     "genre": "folk",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI",
-    "id": "3nnQpaTvKb5jCQabZefACI",
-    "image": "https://i.scdn.co/image/67779606c7f151618a28f62b1d24fb514d39dacf",
-    "name": "Jeff Buckley",
+    "href": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB",
+    "id": "0fTSzq9jAh4c36UVb4V7CB",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9175feab318f624eb4cc0bfe",
+    "name": "Alex Warren",
     "top_track": {
-      "href": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz",
-      "name": "Lover, You Should've Come Over"
+      "href": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ",
+      "name": "Ordinary"
     }
   },
   {
-    "followers": 8,
-    "genre": "house",
+    "followers": 5,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
-    "id": "6RIYo7z2qQimAwsKtIM6JY",
-    "image": "",
-    "name": "DJ Yayyay",
-    "top_track": null
+    "href": "https://open.spotify.com/artist/2YJgh2hiPPMRyvAi4aQboj",
+    "id": "2YJgh2hiPPMRyvAi4aQboj",
+    "image": "https://i.scdn.co/image/ab67616d0000b273365bc57c4ee670d16aeabdf1",
+    "name": "Akshu Negi",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1HM9huEbD2ld5UOEzlP1MP",
+      "name": "Kinnauri Mix Edm"
+    }
+  },
+  {
+    "followers": 84,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0wEUtYZQhqdkkYjKyRLcbY",
+    "id": "0wEUtYZQhqdkkYjKyRLcbY",
+    "image": "https://i.scdn.co/image/ab67616d0000b27365e2a66c8eed56b5a1c99bb5",
+    "name": "Syk'N",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5mFFAAOh3E6yNl9jf8pBad",
+      "name": "Yango Oyo"
+    }
   }
 ]
