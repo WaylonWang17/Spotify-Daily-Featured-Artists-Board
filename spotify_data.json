@@ -1,41 +1,28 @@
 [
   {
-    "followers": 3495943,
+    "followers": 7633728,
     "genre": "folk",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB",
-    "id": "0fTSzq9jAh4c36UVb4V7CB",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9175feab318f624eb4cc0bfe",
-    "name": "Alex Warren",
+    "href": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET",
+    "id": "22wbnEMDvgVIAGdFeek6ET",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb68234e1a673acc3d873d3e6",
+    "name": "Benson Boone",
     "top_track": {
-      "href": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ",
-      "name": "Ordinary"
+      "href": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii",
+      "name": "Beautiful Things"
     }
   },
   {
-    "followers": 5,
-    "genre": "k-pop",
+    "followers": 14340,
+    "genre": "j-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/2YJgh2hiPPMRyvAi4aQboj",
-    "id": "2YJgh2hiPPMRyvAi4aQboj",
-    "image": "https://i.scdn.co/image/ab67616d0000b273365bc57c4ee670d16aeabdf1",
-    "name": "Akshu Negi",
+    "href": "https://open.spotify.com/artist/6HnvNzsqH33fKnRO0qoZui",
+    "id": "6HnvNzsqH33fKnRO0qoZui",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735d6103bcbc8bf900e484ed07",
+    "name": "Kayla Kross",
     "top_track": {
-      "href": "https://open.spotify.com/track/1HM9huEbD2ld5UOEzlP1MP",
-      "name": "Kinnauri Mix Edm"
-    }
-  },
-  {
-    "followers": 84,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0wEUtYZQhqdkkYjKyRLcbY",
-    "id": "0wEUtYZQhqdkkYjKyRLcbY",
-    "image": "https://i.scdn.co/image/ab67616d0000b27365e2a66c8eed56b5a1c99bb5",
-    "name": "Syk'N",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5mFFAAOh3E6yNl9jf8pBad",
-      "name": "Yango Oyo"
+      "href": "https://open.spotify.com/track/2PIx1sfY7xqlS6XxWJ8R4s",
+      "name": "A Little Thing Like Love"
     }
   }
 ]
