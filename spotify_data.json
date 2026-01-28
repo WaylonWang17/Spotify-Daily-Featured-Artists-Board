@@ -1,28 +1,44 @@
 [
   {
-    "followers": 7633728,
-    "genre": "folk",
+    "followers": 311,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET",
-    "id": "22wbnEMDvgVIAGdFeek6ET",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb68234e1a673acc3d873d3e6",
-    "name": "Benson Boone",
+    "href": "https://open.spotify.com/artist/5RPdjRxa7gr22KRz95PALe",
+    "id": "5RPdjRxa7gr22KRz95PALe",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ae78140bb27c30a7fdd552ed",
+    "name": "Vicky Negi, Praveen PJ Negi, JP Negi",
     "top_track": {
-      "href": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii",
-      "name": "Beautiful Things"
+      "href": "https://open.spotify.com/track/5li4gKjL5Q5DIR7qYv0wuj",
+      "name": "Vintage Fusion"
     }
   },
   {
-    "followers": 14340,
-    "genre": "j-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6HnvNzsqH33fKnRO0qoZui",
-    "id": "6HnvNzsqH33fKnRO0qoZui",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735d6103bcbc8bf900e484ed07",
-    "name": "Kayla Kross",
+    "followers": 824172,
+    "genre": "country",
+    "genres": [
+      "country",
+      "honky tonk"
+    ],
+    "href": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH",
+    "id": "4FGPzWzgjURDNT7JQ8pYgH",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6399c6c9e6a52ca53bfc98a8",
+    "name": "Zach Top",
     "top_track": {
-      "href": "https://open.spotify.com/track/2PIx1sfY7xqlS6XxWJ8R4s",
-      "name": "A Little Thing Like Love"
+      "href": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc",
+      "name": "I Never Lie"
+    }
+  },
+  {
+    "followers": 4503775,
+    "genre": "dance",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA",
+    "id": "085pc2PYOi8bGKj0PNjekA",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7226c1f8cb3827c6dc6ab865",
+    "name": "will.i.am",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5",
+      "name": "Scream \u0026 Shout"
     }
   }
 ]
