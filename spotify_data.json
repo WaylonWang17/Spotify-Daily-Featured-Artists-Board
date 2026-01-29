@@ -1,44 +1,43 @@
 [
   {
-    "followers": 311,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/5RPdjRxa7gr22KRz95PALe",
-    "id": "5RPdjRxa7gr22KRz95PALe",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ae78140bb27c30a7fdd552ed",
-    "name": "Vicky Negi, Praveen PJ Negi, JP Negi",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5li4gKjL5Q5DIR7qYv0wuj",
-      "name": "Vintage Fusion"
-    }
-  },
-  {
-    "followers": 824172,
-    "genre": "country",
-    "genres": [
-      "country",
-      "honky tonk"
-    ],
-    "href": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH",
-    "id": "4FGPzWzgjURDNT7JQ8pYgH",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6399c6c9e6a52ca53bfc98a8",
-    "name": "Zach Top",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc",
-      "name": "I Never Lie"
-    }
-  },
-  {
-    "followers": 4503775,
+    "followers": 7545126,
     "genre": "dance",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA",
-    "id": "085pc2PYOi8bGKj0PNjekA",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7226c1f8cb3827c6dc6ab865",
-    "name": "will.i.am",
+    "genres": [
+      "dubstep",
+      "edm",
+      "electro",
+      "electronic"
+    ],
+    "href": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX",
+    "id": "5he5w2lnU9x7JFhnwcekXX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb077a808cd0b0ffd30213eb3f",
+    "name": "Skrillex",
     "top_track": {
-      "href": "https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5",
-      "name": "Scream \u0026 Shout"
+      "href": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f",
+      "name": "Where Are Ü Now (with Justin Bieber)"
+    }
+  },
+  {
+    "followers": 8,
+    "genre": "house",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
+    "id": "6RIYo7z2qQimAwsKtIM6JY",
+    "image": "",
+    "name": "DJ Yayyay",
+    "top_track": null
+  },
+  {
+    "followers": 2737178,
+    "genre": "soul",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa",
+    "id": "3jK9MiCrA42lLAdMGUZpwa",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496",
+    "name": "Anderson .Paak",
+    "top_track": {
+      "href": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T",
+      "name": "Leave The Door Open"
     }
   }
 ]
