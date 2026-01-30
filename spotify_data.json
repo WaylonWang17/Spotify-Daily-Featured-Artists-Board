@@ -1,43 +1,45 @@
 [
   {
-    "followers": 7545126,
-    "genre": "dance",
-    "genres": [
-      "dubstep",
-      "edm",
-      "electro",
-      "electronic"
-    ],
-    "href": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX",
-    "id": "5he5w2lnU9x7JFhnwcekXX",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb077a808cd0b0ffd30213eb3f",
-    "name": "Skrillex",
+    "followers": 2281487,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25",
+    "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0d4d3bb72e9375017fd94f71",
+    "name": "Lord Huron",
     "top_track": {
-      "href": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f",
-      "name": "Where Are Ü Now (with Justin Bieber)"
+      "href": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK",
+      "name": "The Night We Met"
     }
   },
   {
-    "followers": 8,
-    "genre": "house",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
-    "id": "6RIYo7z2qQimAwsKtIM6JY",
-    "image": "",
-    "name": "DJ Yayyay",
-    "top_track": null
+    "followers": 4419313,
+    "genre": "punk",
+    "genres": [
+      "pop punk",
+      "punk",
+      "skate punk"
+    ],
+    "href": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT",
+    "id": "0qT79UgT5tY4yudH9VfsdT",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb625af80b68ae4eb559c6c417",
+    "name": "Sum 41",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL",
+      "name": "In Too Deep"
+    }
   },
   {
-    "followers": 2737178,
-    "genre": "soul",
+    "followers": 2479420,
+    "genre": "latin",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa",
-    "id": "3jK9MiCrA42lLAdMGUZpwa",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496",
-    "name": "Anderson .Paak",
+    "href": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc",
+    "id": "3E12tRURRvPfHz0hAMCFYc",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6270ba142ce97c0b644024e9",
+    "name": "Omar Courtz",
     "top_track": {
-      "href": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T",
-      "name": "Leave The Door Open"
+      "href": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE",
+      "name": "VeLDÁ"
     }
   }
 ]
