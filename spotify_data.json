@@ -1,45 +1,46 @@
 [
   {
-    "followers": 2281487,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25",
-    "id": "6ltzsmQQbmdoHHbLZ4ZN25",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0d4d3bb72e9375017fd94f71",
-    "name": "Lord Huron",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK",
-      "name": "The Night We Met"
-    }
-  },
-  {
-    "followers": 4419313,
-    "genre": "punk",
+    "followers": 8679281,
+    "genre": "metal",
     "genres": [
-      "pop punk",
-      "punk",
-      "skate punk"
+      "nu metal",
+      "rap metal",
+      "alternative metal",
+      "rap rock"
     ],
-    "href": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT",
-    "id": "0qT79UgT5tY4yudH9VfsdT",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb625af80b68ae4eb559c6c417",
-    "name": "Sum 41",
+    "href": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb",
+    "id": "165ZgPlLkK7bf5bDoFc6Sb",
+    "image": "https://i.scdn.co/image/4654955890cb62a6abe9daadfd2b3ecdee8036e4",
+    "name": "Limp Bizkit",
     "top_track": {
-      "href": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL",
-      "name": "In Too Deep"
+      "href": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
+      "name": "Break Stuff"
     }
   },
   {
-    "followers": 2479420,
-    "genre": "latin",
+    "followers": 18,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc",
-    "id": "3E12tRURRvPfHz0hAMCFYc",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6270ba142ce97c0b644024e9",
-    "name": "Omar Courtz",
+    "href": "https://open.spotify.com/artist/5SQDh1o9xbCjBy6tK6vOJn",
+    "id": "5SQDh1o9xbCjBy6tK6vOJn",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c4163a72c8376f5f541593d0",
+    "name": "Malongkiri Tisso",
     "top_track": {
-      "href": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE",
-      "name": "VeLDÁ"
+      "href": "https://open.spotify.com/track/7lP8elDuy69FAXUayUF2X0",
+      "name": "TENGNE DET RI NANG //KARBI SONG"
+    }
+  },
+  {
+    "followers": 9875,
+    "genre": "house",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/5pAKxvQYvJlmEoiBKNxl3W",
+    "id": "5pAKxvQYvJlmEoiBKNxl3W",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb85a53d1f6c802c629badb585",
+    "name": "Aquatone",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0rvseqKAjb0Mj1xTmPEASk",
+      "name": "Our Lives"
     }
   }
 ]
