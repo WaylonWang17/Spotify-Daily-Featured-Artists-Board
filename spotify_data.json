@@ -1,46 +1,53 @@
 [
   {
-    "followers": 8679281,
-    "genre": "metal",
+    "followers": 557452,
+    "genre": "reggae",
     "genres": [
-      "nu metal",
-      "rap metal",
-      "alternative metal",
-      "rap rock"
+      "dancehall",
+      "soca",
+      "riddim",
+      "ragga",
+      "reggae",
+      "shatta"
     ],
-    "href": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb",
-    "id": "165ZgPlLkK7bf5bDoFc6Sb",
-    "image": "https://i.scdn.co/image/4654955890cb62a6abe9daadfd2b3ecdee8036e4",
-    "name": "Limp Bizkit",
+    "href": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW",
+    "id": "3nwYsifpwrKmCIpw4i0HDW",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb32ddacad190a7a2a816c8edb",
+    "name": "Konshens",
     "top_track": {
-      "href": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
-      "name": "Break Stuff"
+      "href": "https://open.spotify.com/track/1D1y50oS2XphRh3G39B4eY",
+      "name": "Pon Di Ting"
     }
   },
   {
-    "followers": 18,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/5SQDh1o9xbCjBy6tK6vOJn",
-    "id": "5SQDh1o9xbCjBy6tK6vOJn",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c4163a72c8376f5f541593d0",
-    "name": "Malongkiri Tisso",
+    "followers": 983828,
+    "genre": "blues",
+    "genres": [
+      "modern blues",
+      "blues rock",
+      "blues",
+      "soul blues"
+    ],
+    "href": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp",
+    "id": "01aC2ikO4Xgb2LUpf9JfKp",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9d5088ae6a4e5acf0e0c2191",
+    "name": "Gary Clark Jr.",
     "top_track": {
-      "href": "https://open.spotify.com/track/7lP8elDuy69FAXUayUF2X0",
-      "name": "TENGNE DET RI NANG //KARBI SONG"
+      "href": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU",
+      "name": "Come Together"
     }
   },
   {
-    "followers": 9875,
-    "genre": "house",
+    "followers": 3997745,
+    "genre": "indie",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5pAKxvQYvJlmEoiBKNxl3W",
-    "id": "5pAKxvQYvJlmEoiBKNxl3W",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb85a53d1f6c802c629badb585",
-    "name": "Aquatone",
+    "href": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ",
+    "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb1a0c1f04c95539fd55ef0ebb",
+    "name": "Bon Iver",
     "top_track": {
-      "href": "https://open.spotify.com/track/0rvseqKAjb0Mj1xTmPEASk",
-      "name": "Our Lives"
+      "href": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y",
+      "name": "exile (feat. Bon Iver)"
     }
   }
 ]
