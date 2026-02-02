@@ -1,53 +1,33 @@
 [
   {
-    "followers": 557452,
-    "genre": "reggae",
+    "followers": 516001,
+    "genre": "punk",
     "genres": [
-      "dancehall",
-      "soca",
-      "riddim",
-      "ragga",
-      "reggae",
-      "shatta"
+      "rap rock"
     ],
-    "href": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW",
-    "id": "3nwYsifpwrKmCIpw4i0HDW",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb32ddacad190a7a2a816c8edb",
-    "name": "Konshens",
+    "href": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX",
+    "id": "4exLIFE8sISLr28sqG1qNX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3",
+    "name": "Travis Barker",
     "top_track": {
-      "href": "https://open.spotify.com/track/1D1y50oS2XphRh3G39B4eY",
-      "name": "Pon Di Ting"
+      "href": "https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg",
+      "name": "I Think I'm OKAY (with YUNGBLUD \u0026 Travis Barker)"
     }
   },
   {
-    "followers": 983828,
-    "genre": "blues",
+    "followers": 518295,
+    "genre": "hip hop",
     "genres": [
-      "modern blues",
-      "blues rock",
-      "blues",
-      "soul blues"
+      "j-rap",
+      "hip hop"
     ],
-    "href": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp",
-    "id": "01aC2ikO4Xgb2LUpf9JfKp",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9d5088ae6a4e5acf0e0c2191",
-    "name": "Gary Clark Jr.",
+    "href": "https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2",
+    "id": "3FCZbxRcaSgYfklG2HCFh2",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc698767fca74c57fc23c3ec3",
+    "name": "BAD HOP",
     "top_track": {
-      "href": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU",
-      "name": "Come Together"
-    }
-  },
-  {
-    "followers": 3997745,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ",
-    "id": "4LEiUm1SRbFMgfqnQTwUbQ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb1a0c1f04c95539fd55ef0ebb",
-    "name": "Bon Iver",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y",
-      "name": "exile (feat. Bon Iver)"
+      "href": "https://open.spotify.com/track/2Ge6tpzWlMT4Sgdkp7paVX",
+      "name": "High Land (feat. Tiji Jojo, Vingo \u0026 YZERR)"
     }
   }
 ]
