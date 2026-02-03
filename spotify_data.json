@@ -1,33 +1,43 @@
 [
   {
-    "followers": 516001,
-    "genre": "punk",
+    "followers": 7565433,
+    "genre": "country",
     "genres": [
-      "rap rock"
+      "country"
     ],
-    "href": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX",
-    "id": "4exLIFE8sISLr28sqG1qNX",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3",
-    "name": "Travis Barker",
+    "href": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw",
+    "id": "1UTPBmNbXNTittyMJrNkvw",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebaa03b29eb3a550f139fbb955",
+    "name": "Blake Shelton",
     "top_track": {
-      "href": "https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg",
-      "name": "I Think I'm OKAY (with YUNGBLUD \u0026 Travis Barker)"
+      "href": "https://open.spotify.com/track/0mNzElhEofvgMWAJoOA4q9",
+      "name": "Pour Me A Drink (Feat. Blake Shelton)"
     }
   },
   {
-    "followers": 518295,
+    "followers": 695,
     "genre": "hip hop",
-    "genres": [
-      "j-rap",
-      "hip hop"
-    ],
-    "href": "https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2",
-    "id": "3FCZbxRcaSgYfklG2HCFh2",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc698767fca74c57fc23c3ec3",
-    "name": "BAD HOP",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/7AUJ5xjiZaLesT26mrZG8M",
+    "id": "7AUJ5xjiZaLesT26mrZG8M",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb26505b76f0c8d793fea9e14c",
+    "name": "Rosecrans HopOut",
     "top_track": {
-      "href": "https://open.spotify.com/track/2Ge6tpzWlMT4Sgdkp7paVX",
-      "name": "High Land (feat. Tiji Jojo, Vingo \u0026 YZERR)"
+      "href": "https://open.spotify.com/track/6vw6ZSgTVAatQPRBTERCYm",
+      "name": "Hot Shit"
+    }
+  },
+  {
+    "followers": 9996574,
+    "genre": "dance",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb",
+    "id": "64M6ah0SkkRsnPGtGiRAbb",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33",
+    "name": "Bebe Rexha",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK",
+      "name": "I'm Good (Blue)"
     }
   }
 ]
