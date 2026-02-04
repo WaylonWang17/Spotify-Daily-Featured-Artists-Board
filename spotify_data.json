@@ -1,43 +1,52 @@
 [
   {
-    "followers": 7565433,
-    "genre": "country",
-    "genres": [
-      "country"
-    ],
-    "href": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw",
-    "id": "1UTPBmNbXNTittyMJrNkvw",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebaa03b29eb3a550f139fbb955",
-    "name": "Blake Shelton",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0mNzElhEofvgMWAJoOA4q9",
-      "name": "Pour Me A Drink (Feat. Blake Shelton)"
-    }
-  },
-  {
-    "followers": 695,
-    "genre": "hip hop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/7AUJ5xjiZaLesT26mrZG8M",
-    "id": "7AUJ5xjiZaLesT26mrZG8M",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb26505b76f0c8d793fea9e14c",
-    "name": "Rosecrans HopOut",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6vw6ZSgTVAatQPRBTERCYm",
-      "name": "Hot Shit"
-    }
-  },
-  {
-    "followers": 9996574,
+    "followers": 21602617,
     "genre": "dance",
     "genres": [],
-    "href": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb",
-    "id": "64M6ah0SkkRsnPGtGiRAbb",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33",
-    "name": "Bebe Rexha",
+    "href": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp",
+    "id": "69GGBxA162lTqCwzJG5jLp",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4567279fac84a0375c3d819b",
+    "name": "The Chainsmokers",
     "top_track": {
-      "href": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK",
-      "name": "I'm Good (Blue)"
+      "href": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw",
+      "name": "Closer"
+    }
+  },
+  {
+    "followers": 1027612,
+    "genre": "jazz",
+    "genres": [
+      "vocal jazz",
+      "christmas",
+      "big band",
+      "adult standards",
+      "jazz"
+    ],
+    "href": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV",
+    "id": "2lolQgalUvZDfp5vvVtTYV",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcd9641c8b449440a77ee19cc",
+    "name": "Tony Bennett",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk",
+      "name": "Winter Wonderland"
+    }
+  },
+  {
+    "followers": 590130,
+    "genre": "punk",
+    "genres": [
+      "midwest emo",
+      "emo",
+      "indie punk",
+      "math rock"
+    ],
+    "href": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h",
+    "id": "6PsktPFR0UZptKdSqmlS5h",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb122f11f4a619b48f6750b602",
+    "name": "Mom Jeans.",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4yXKLDrHYrffSVmQOFdbDA",
+      "name": "Scott Pilgrim vs. My GPA"
     }
   }
 ]
