@@ -1,52 +1,48 @@
 [
   {
-    "followers": 21602617,
-    "genre": "dance",
+    "followers": 1436009,
+    "genre": "j-pop",
+    "genres": [
+      "j-pop",
+      "j-rap"
+    ],
+    "href": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX",
+    "id": "2vjeuQwzSP5ErC1S41gONX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3c6a121a9f2ce9015fefdad1",
+    "name": "CHANMINA",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2zxK14g3shGRbgjUmKaj2x",
+      "name": "SAD SONG"
+    }
+  },
+  {
+    "followers": 208112,
+    "genre": "classical",
+    "genres": [
+      "classical",
+      "opera",
+      "orchestral"
+    ],
+    "href": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY",
+    "id": "5zCaQxjl110XTrm4LQ1CxY",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd",
+    "name": "Herbert von Karajan",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6pt8oGfiwgidz03nGw1zTb",
+      "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air \"on the G String\""
+    }
+  },
+  {
+    "followers": 47,
+    "genre": "house",
     "genres": [],
-    "href": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp",
-    "id": "69GGBxA162lTqCwzJG5jLp",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4567279fac84a0375c3d819b",
-    "name": "The Chainsmokers",
+    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
+    "id": "2KUI78zzOPJOCrDv3P4xnU",
+    "image": "",
+    "name": "Stereonova",
     "top_track": {
-      "href": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw",
-      "name": "Closer"
-    }
-  },
-  {
-    "followers": 1027612,
-    "genre": "jazz",
-    "genres": [
-      "vocal jazz",
-      "christmas",
-      "big band",
-      "adult standards",
-      "jazz"
-    ],
-    "href": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV",
-    "id": "2lolQgalUvZDfp5vvVtTYV",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcd9641c8b449440a77ee19cc",
-    "name": "Tony Bennett",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk",
-      "name": "Winter Wonderland"
-    }
-  },
-  {
-    "followers": 590130,
-    "genre": "punk",
-    "genres": [
-      "midwest emo",
-      "emo",
-      "indie punk",
-      "math rock"
-    ],
-    "href": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h",
-    "id": "6PsktPFR0UZptKdSqmlS5h",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb122f11f4a619b48f6750b602",
-    "name": "Mom Jeans.",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4yXKLDrHYrffSVmQOFdbDA",
-      "name": "Scott Pilgrim vs. My GPA"
+      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
+      "name": "Inutilmente"
     }
   }
 ]
