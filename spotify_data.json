@@ -1,48 +1,43 @@
 [
   {
-    "followers": 1436009,
+    "followers": 2320829,
+    "genre": "blues",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf",
+    "id": "4f9iBmdUOhQWeP7dcAn1pf",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb384297241424034f1bddd83e",
+    "name": "Rag'n'Bone Man",
+    "top_track": {
+      "href": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O",
+      "name": "Human"
+    }
+  },
+  {
+    "followers": 673,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1cysTZK0UAVSjgyYDUWlk7",
+    "id": "1cysTZK0UAVSjgyYDUWlk7",
+    "image": "",
+    "name": "Goldsboro",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2mGYXQDK1Zs0GvW0FA0jly",
+      "name": "Cori Loves Darmanitan, Fashion, and Dinosaur"
+    }
+  },
+  {
+    "followers": 3027110,
     "genre": "j-pop",
     "genres": [
-      "j-pop",
-      "j-rap"
+      "pop soul"
     ],
-    "href": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX",
-    "id": "2vjeuQwzSP5ErC1S41gONX",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3c6a121a9f2ce9015fefdad1",
-    "name": "CHANMINA",
+    "href": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW",
+    "id": "00x1fYSGhdqScXBRpSj3DW",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5c7577ad44daeb7ce4b941a1",
+    "name": "Olivia Dean",
     "top_track": {
-      "href": "https://open.spotify.com/track/2zxK14g3shGRbgjUmKaj2x",
-      "name": "SAD SONG"
-    }
-  },
-  {
-    "followers": 208112,
-    "genre": "classical",
-    "genres": [
-      "classical",
-      "opera",
-      "orchestral"
-    ],
-    "href": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY",
-    "id": "5zCaQxjl110XTrm4LQ1CxY",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd",
-    "name": "Herbert von Karajan",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6pt8oGfiwgidz03nGw1zTb",
-      "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air \"on the G String\""
-    }
-  },
-  {
-    "followers": 47,
-    "genre": "house",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
-    "id": "2KUI78zzOPJOCrDv3P4xnU",
-    "image": "",
-    "name": "Stereonova",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
-      "name": "Inutilmente"
+      "href": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+      "name": "Man I Need"
     }
   }
 ]
