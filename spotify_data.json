@@ -1,43 +1,41 @@
 [
   {
-    "followers": 2320829,
-    "genre": "blues",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf",
-    "id": "4f9iBmdUOhQWeP7dcAn1pf",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb384297241424034f1bddd83e",
-    "name": "Rag'n'Bone Man",
+    "followers": 211010,
+    "genre": "classical",
+    "genres": [
+      "orchestral",
+      "classical"
+    ],
+    "href": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1",
+    "id": "0MvSBMGRQJY3mRwIbJsqF1",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf9cd4a9062ded7cb2b8a351b",
+    "name": "Royal Philharmonic Orchestra",
     "top_track": {
-      "href": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O",
-      "name": "Human"
+      "href": "https://open.spotify.com/track/2MRJ3Oqb5yAONPvQyoWnQ9",
+      "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra"
     }
   },
   {
-    "followers": 673,
+    "followers": 42,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/79moDOATiUwElmLP3aM0QM",
+    "id": "79moDOATiUwElmLP3aM0QM",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731d956947499a055836cbe6fe",
+    "name": "Abram Gunther",
+    "top_track": {
+      "href": "https://open.spotify.com/track/75PsxllpDG01iS4MvF9gk0",
+      "name": "Sugarwater"
+    }
+  },
+  {
+    "followers": 511,
     "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1cysTZK0UAVSjgyYDUWlk7",
-    "id": "1cysTZK0UAVSjgyYDUWlk7",
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
     "image": "",
-    "name": "Goldsboro",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2mGYXQDK1Zs0GvW0FA0jly",
-      "name": "Cori Loves Darmanitan, Fashion, and Dinosaur"
-    }
-  },
-  {
-    "followers": 3027110,
-    "genre": "j-pop",
-    "genres": [
-      "pop soul"
-    ],
-    "href": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW",
-    "id": "00x1fYSGhdqScXBRpSj3DW",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5c7577ad44daeb7ce4b941a1",
-    "name": "Olivia Dean",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
-      "name": "Man I Need"
-    }
+    "name": "Rutuu",
+    "top_track": null
   }
 ]
