@@ -1,44 +1,49 @@
 [
   {
-    "followers": 36004048,
-    "genre": "pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5",
-    "id": "5cj0lLjcoR7YOSnhnX0Po5",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8a0644455ebfa7d3976f5101",
-    "name": "Doja Cat",
+    "followers": 3424506,
+    "genre": "jazz",
+    "genres": [
+      "jazz pop"
+    ],
+    "href": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
+    "id": "2Kx7MNY7cI1ENniW7vT30N",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
+    "name": "Norah Jones",
     "top_track": {
-      "href": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz",
-      "name": "Kiss Me More (feat. SZA)"
+      "href": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
+      "name": "Don't Know Why"
     }
   },
   {
-    "followers": 189,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/1VQ6V83qiVWxmV6LWyBGkk",
-    "id": "1VQ6V83qiVWxmV6LWyBGkk",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ccce488691b32370ad05d00f",
-    "name": "Radhemohan Negi",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1HwopTP8WrPuQPfsUOQj3c",
-      "name": "Zindagi Chu Golsang"
-    }
-  },
-  {
-    "followers": 452845,
+    "followers": 2715931,
     "genre": "classical",
     "genres": [
-      "score",
-      "soundtrack"
+      "new age",
+      "celtic"
     ],
-    "href": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL",
-    "id": "24eDfi2MSYo3A87hCcgpIL",
-    "image": "https://i.scdn.co/image/e7a97b420e09f4f125cd3e14fca5e7ea174e74e0",
-    "name": "Ludwig Göransson",
+    "href": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4",
+    "id": "6uothxMWeLWIhsGeF7cyo4",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9ce996547e0b307c94f662e6",
+    "name": "Enya",
     "top_track": {
-      "href": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA",
-      "name": "Can You Hear The Music"
+      "href": "https://open.spotify.com/track/5KZ4DC772dYcRBAizx0yYk",
+      "name": "Caribbean Blue - 2009 Remaster"
+    }
+  },
+  {
+    "followers": 13204978,
+    "genre": "r\u0026b",
+    "genres": [
+      "r\u0026b",
+      "neo soul"
+    ],
+    "href": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa",
+    "id": "3DiDSECUqqY1AuBP8qtaIa",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4518cf16a45e35fc0cc82862",
+    "name": "Alicia Keys",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ",
+      "name": "If I Ain't Got You"
     }
   }
 ]
