@@ -1,49 +1,45 @@
 [
   {
-    "followers": 3424506,
-    "genre": "jazz",
-    "genres": [
-      "jazz pop"
-    ],
-    "href": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-    "id": "2Kx7MNY7cI1ENniW7vT30N",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
-    "name": "Norah Jones",
+    "followers": 34475975,
+    "genre": "hip hop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh",
+    "id": "0hCNtLu0JehylgoiP8L4Gh",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd",
+    "name": "Nicki Minaj",
     "top_track": {
-      "href": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
-      "name": "Don't Know Why"
+      "href": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4",
+      "name": "Starships"
     }
   },
   {
-    "followers": 2715931,
-    "genre": "classical",
-    "genres": [
-      "new age",
-      "celtic"
-    ],
-    "href": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4",
-    "id": "6uothxMWeLWIhsGeF7cyo4",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9ce996547e0b307c94f662e6",
-    "name": "Enya",
+    "followers": 1746345,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP",
+    "id": "4gvjmrtzydbMpyJaXUtwvP",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8aaca79d5544dc02bea2b6b2",
+    "name": "Addison Rae",
     "top_track": {
-      "href": "https://open.spotify.com/track/5KZ4DC772dYcRBAizx0yYk",
-      "name": "Caribbean Blue - 2009 Remaster"
+      "href": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk",
+      "name": "Fame is a Gun"
     }
   },
   {
-    "followers": 13204978,
-    "genre": "r\u0026b",
+    "followers": 2270486,
+    "genre": "metal",
     "genres": [
-      "r\u0026b",
-      "neo soul"
+      "alternative metal",
+      "nu metal",
+      "post-grunge"
     ],
-    "href": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa",
-    "id": "3DiDSECUqqY1AuBP8qtaIa",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4518cf16a45e35fc0cc82862",
-    "name": "Alicia Keys",
+    "href": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw",
+    "id": "56dO9zeHKuU5Gvfc2kxHNw",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6411cad01afe7d60b448dabc",
+    "name": "Chevelle",
     "top_track": {
-      "href": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ",
-      "name": "If I Ain't Got You"
+      "href": "https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s",
+      "name": "Send the Pain Below"
     }
   }
 ]
