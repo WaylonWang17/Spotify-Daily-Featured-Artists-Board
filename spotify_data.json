@@ -1,45 +1,43 @@
 [
   {
-    "followers": 34475975,
-    "genre": "hip hop",
+    "followers": 9,
+    "genre": "house",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh",
-    "id": "0hCNtLu0JehylgoiP8L4Gh",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd",
-    "name": "Nicki Minaj",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4",
-      "name": "Starships"
-    }
+    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
+    "id": "6RIYo7z2qQimAwsKtIM6JY",
+    "image": "",
+    "name": "DJ Yayyay",
+    "top_track": null
   },
   {
-    "followers": 1746345,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP",
-    "id": "4gvjmrtzydbMpyJaXUtwvP",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8aaca79d5544dc02bea2b6b2",
-    "name": "Addison Rae",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk",
-      "name": "Fame is a Gun"
-    }
-  },
-  {
-    "followers": 2270486,
-    "genre": "metal",
+    "followers": 6383088,
+    "genre": "r\u0026b",
     "genres": [
-      "alternative metal",
-      "nu metal",
-      "post-grunge"
+      "r\u0026b"
     ],
-    "href": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw",
-    "id": "56dO9zeHKuU5Gvfc2kxHNw",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6411cad01afe7d60b448dabc",
-    "name": "Chevelle",
+    "href": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK",
+    "id": "360IAlyVv4PCEVjgyMZrxK",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb35e36c368fdcd26aba296bd1",
+    "name": "Miguel",
     "top_track": {
-      "href": "https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s",
-      "name": "Send the Pain Below"
+      "href": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV",
+      "name": "Sure Thing"
+    }
+  },
+  {
+    "followers": 6416173,
+    "genre": "country",
+    "genres": [
+      "country hip hop",
+      "country"
+    ],
+    "href": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs",
+    "id": "19k8AgwwTSxeaxkOuCQEJs",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb27901c1c025fa90f5dc007ef",
+    "name": "Jelly Roll",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2qPQcfUgizNDOIv1orkTAd",
+      "name": "Bloodline"
     }
   }
 ]
