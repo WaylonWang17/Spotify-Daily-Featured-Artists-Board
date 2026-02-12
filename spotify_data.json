@@ -1,43 +1,44 @@
 [
   {
-    "followers": 9,
-    "genre": "house",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
-    "id": "6RIYo7z2qQimAwsKtIM6JY",
-    "image": "",
-    "name": "DJ Yayyay",
-    "top_track": null
-  },
-  {
-    "followers": 6383088,
-    "genre": "r\u0026b",
+    "followers": 16390398,
+    "genre": "hip hop",
     "genres": [
-      "r\u0026b"
+      "emo rap",
+      "cloud rap"
     ],
-    "href": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK",
-    "id": "360IAlyVv4PCEVjgyMZrxK",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb35e36c368fdcd26aba296bd1",
-    "name": "Miguel",
+    "href": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3",
+    "id": "2kCcBybjl3SAtIcwdWpUe3",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3d9d59e200e82fa53d8781a1",
+    "name": "Lil Peep",
     "top_track": {
-      "href": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV",
-      "name": "Sure Thing"
+      "href": "https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK",
+      "name": "nuts"
     }
   },
   {
-    "followers": 6416173,
-    "genre": "country",
-    "genres": [
-      "country hip hop",
-      "country"
-    ],
-    "href": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs",
-    "id": "19k8AgwwTSxeaxkOuCQEJs",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb27901c1c025fa90f5dc007ef",
-    "name": "Jelly Roll",
+    "followers": 9371040,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO",
+    "id": "7gW0r5CkdEUMm42w9XpyZO",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb98c2527b85500f68f53084f2",
+    "name": "Laufey",
     "top_track": {
-      "href": "https://open.spotify.com/track/2qPQcfUgizNDOIv1orkTAd",
-      "name": "Bloodline"
+      "href": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN",
+      "name": "From The Start"
+    }
+  },
+  {
+    "followers": 7964100,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE",
+    "id": "5NGO30tJxFlKixkPSgXcFE",
+    "image": "https://i.scdn.co/image/1f73a61faca2942cd5ea29c2143184db8645f0b3",
+    "name": "The Police",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1",
+      "name": "Every Breath You Take"
     }
   }
 ]
