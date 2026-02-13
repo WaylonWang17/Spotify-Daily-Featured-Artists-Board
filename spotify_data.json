@@ -1,44 +1,44 @@
 [
   {
-    "followers": 16390398,
-    "genre": "hip hop",
+    "followers": 388852,
+    "genre": "blues",
     "genres": [
-      "emo rap",
-      "cloud rap"
+      "modern blues",
+      "blues rock"
     ],
-    "href": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3",
-    "id": "2kCcBybjl3SAtIcwdWpUe3",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3d9d59e200e82fa53d8781a1",
-    "name": "Lil Peep",
+    "href": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a",
+    "id": "0FeWKiZSwBRdGzqeCdlH1a",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb61b1755ae106870fd27b03e0",
+    "name": "Marcus King",
     "top_track": {
-      "href": "https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK",
-      "name": "nuts"
+      "href": "https://open.spotify.com/track/0osQqNcvhl7pD6FtjOcT9T",
+      "name": "Sucker (from the series Arcane League of Legends)"
     }
   },
   {
-    "followers": 9371040,
-    "genre": "pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO",
-    "id": "7gW0r5CkdEUMm42w9XpyZO",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb98c2527b85500f68f53084f2",
-    "name": "Laufey",
-    "top_track": {
-      "href": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN",
-      "name": "From The Start"
-    }
-  },
-  {
-    "followers": 7964100,
+    "followers": 2392736,
     "genre": "indie",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE",
-    "id": "5NGO30tJxFlKixkPSgXcFE",
-    "image": "https://i.scdn.co/image/1f73a61faca2942cd5ea29c2143184db8645f0b3",
-    "name": "The Police",
+    "href": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs",
+    "id": "6USv9qhCn6zfxlBQIYJ9qs",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf2903326ec44d5ecb37dcad9",
+    "name": "Dominic Fike",
     "top_track": {
-      "href": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1",
-      "name": "Every Breath You Take"
+      "href": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+      "name": "Babydoll"
+    }
+  },
+  {
+    "followers": 519600,
+    "genre": "jazz",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD",
+    "id": "4ET82ZtSfAK4utfjDauImD",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0c3bb383b6d16581fd86189d",
+    "name": "Black Gryph0n",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5flerg6aEao2VayZezVlgu",
+      "name": "Insane"
     }
   }
 ]
