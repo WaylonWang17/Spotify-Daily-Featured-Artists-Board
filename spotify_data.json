@@ -1,44 +1,40 @@
 [
   {
-    "followers": 388852,
-    "genre": "blues",
+    "followers": 9,
+    "genre": "house",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
+    "id": "6RIYo7z2qQimAwsKtIM6JY",
+    "image": "",
+    "name": "DJ Yayyay",
+    "top_track": null
+  },
+  {
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 3443701,
+    "genre": "country",
     "genres": [
-      "modern blues",
-      "blues rock"
+      "country",
+      "classic country",
+      "acoustic country",
+      "honky tonk"
     ],
-    "href": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a",
-    "id": "0FeWKiZSwBRdGzqeCdlH1a",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb61b1755ae106870fd27b03e0",
-    "name": "Marcus King",
+    "href": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz",
+    "id": "0XKOBt59crntr7HQXXO8Yz",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3ef457349ecbd1285b4a0d81",
+    "name": "Brooks \u0026 Dunn",
     "top_track": {
-      "href": "https://open.spotify.com/track/0osQqNcvhl7pD6FtjOcT9T",
-      "name": "Sucker (from the series Arcane League of Legends)"
-    }
-  },
-  {
-    "followers": 2392736,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs",
-    "id": "6USv9qhCn6zfxlBQIYJ9qs",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf2903326ec44d5ecb37dcad9",
-    "name": "Dominic Fike",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
-      "name": "Babydoll"
-    }
-  },
-  {
-    "followers": 519600,
-    "genre": "jazz",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD",
-    "id": "4ET82ZtSfAK4utfjDauImD",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0c3bb383b6d16581fd86189d",
-    "name": "Black Gryph0n",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5flerg6aEao2VayZezVlgu",
-      "name": "Insane"
+      "href": "https://open.spotify.com/track/2M38X60UJnupGPbFTkVPNQ",
+      "name": "Neon Moon"
     }
   }
 ]
