@@ -1,40 +1,48 @@
 [
   {
-    "followers": 9,
-    "genre": "house",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
-    "id": "6RIYo7z2qQimAwsKtIM6JY",
-    "image": "",
-    "name": "DJ Yayyay",
-    "top_track": null
-  },
-  {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
-  },
-  {
-    "followers": 3443701,
-    "genre": "country",
+    "followers": 2086882,
+    "genre": "soul",
     "genres": [
-      "country",
-      "classic country",
-      "acoustic country",
-      "honky tonk"
+      "soul"
     ],
-    "href": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz",
-    "id": "0XKOBt59crntr7HQXXO8Yz",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3ef457349ecbd1285b4a0d81",
-    "name": "Brooks \u0026 Dunn",
+    "href": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj",
+    "id": "1ThoqLcyIYvZn7iWbj8fsj",
+    "image": "https://i.scdn.co/image/96b85aec6907206572527e1eeec6569d5e977a38",
+    "name": "Bill Withers",
     "top_track": {
-      "href": "https://open.spotify.com/track/2M38X60UJnupGPbFTkVPNQ",
-      "name": "Neon Moon"
+      "href": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt",
+      "name": "Ain't No Sunshine"
+    }
+  },
+  {
+    "followers": 982505,
+    "genre": "jazz",
+    "genres": [
+      "trip hop",
+      "downtempo",
+      "acid jazz",
+      "lounge"
+    ],
+    "href": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3",
+    "id": "25KNo5GDS6ZpLkjasaecA3",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3d9378b0995517ff9f4f2354",
+    "name": "Thievery Corporation",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6k5VMHrwv7mgPpkQSRQtQr",
+      "name": "Lebanese Blonde"
+    }
+  },
+  {
+    "followers": 170812,
+    "genre": "j-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/5mFBPisqWsuM2DaNRRKMNo",
+    "id": "5mFBPisqWsuM2DaNRRKMNo",
+    "image": "https://i.scdn.co/image/ab67616d0000b27331462e6bfc83428074b1c4ef",
+    "name": "Rubyeye",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5o2rYExTsDD5Xj2WlBU3Ik",
+      "name": "Ruler of My Heart (VIVINOS - ALNST Original Soundtrack Part.5)"
     }
   }
 ]
