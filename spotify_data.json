@@ -1,48 +1,48 @@
 [
   {
-    "followers": 2086882,
-    "genre": "soul",
-    "genres": [
-      "soul"
-    ],
-    "href": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj",
-    "id": "1ThoqLcyIYvZn7iWbj8fsj",
-    "image": "https://i.scdn.co/image/96b85aec6907206572527e1eeec6569d5e977a38",
-    "name": "Bill Withers",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt",
-      "name": "Ain't No Sunshine"
-    }
-  },
-  {
-    "followers": 982505,
-    "genre": "jazz",
-    "genres": [
-      "trip hop",
-      "downtempo",
-      "acid jazz",
-      "lounge"
-    ],
-    "href": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3",
-    "id": "25KNo5GDS6ZpLkjasaecA3",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3d9378b0995517ff9f4f2354",
-    "name": "Thievery Corporation",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6k5VMHrwv7mgPpkQSRQtQr",
-      "name": "Lebanese Blonde"
-    }
-  },
-  {
-    "followers": 170812,
-    "genre": "j-pop",
+    "followers": 7405223,
+    "genre": "r\u0026b",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5mFBPisqWsuM2DaNRRKMNo",
-    "id": "5mFBPisqWsuM2DaNRRKMNo",
-    "image": "https://i.scdn.co/image/ab67616d0000b27331462e6bfc83428074b1c4ef",
-    "name": "Rubyeye",
+    "href": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg",
+    "id": "3KV3p5EY4AvKxOlhGHORLg",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8ddeab89a67542470e2631c8",
+    "name": "Jeremih",
     "top_track": {
-      "href": "https://open.spotify.com/track/5o2rYExTsDD5Xj2WlBU3Ik",
-      "name": "Ruler of My Heart (VIVINOS - ALNST Original Soundtrack Part.5)"
+      "href": "https://open.spotify.com/track/4NpDZPwSXmL0cCTaJuVrCw",
+      "name": "Birthday Sex"
+    }
+  },
+  {
+    "followers": 10805693,
+    "genre": "hip hop",
+    "genres": [
+      "hip hop",
+      "east coast hip hop",
+      "rap"
+    ],
+    "href": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
+    "id": "3nFkdlSjzX9mRTtwJOzDYB",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4",
+    "name": "JAY-Z",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "name": "Empire State Of Mind"
+    }
+  },
+  {
+    "followers": 2105580,
+    "genre": "punk",
+    "genres": [
+      "metalcore",
+      "metal"
+    ],
+    "href": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl",
+    "id": "6MwPCCR936cYfM1dLsGVnl",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc8be85688d01fa50d372886e",
+    "name": "Motionless In White",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi",
+      "name": "Another Life"
     }
   }
 ]
