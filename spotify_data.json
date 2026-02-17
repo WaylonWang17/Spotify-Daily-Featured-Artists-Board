@@ -1,48 +1,47 @@
 [
   {
-    "followers": 7405223,
-    "genre": "r\u0026b",
+    "followers": 220,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg",
-    "id": "3KV3p5EY4AvKxOlhGHORLg",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8ddeab89a67542470e2631c8",
-    "name": "Jeremih",
+    "href": "https://open.spotify.com/artist/0s4JRhiI6djokTbOhqUd7f",
+    "id": "0s4JRhiI6djokTbOhqUd7f",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738134e797356b04becdec4444",
+    "name": "SWAPAN DEBBARMA",
     "top_track": {
-      "href": "https://open.spotify.com/track/4NpDZPwSXmL0cCTaJuVrCw",
-      "name": "Birthday Sex"
+      "href": "https://open.spotify.com/track/0hlnibK7prBmuYeUvxw3Wi",
+      "name": "Ang Rwchapkhe"
     }
   },
   {
-    "followers": 10805693,
-    "genre": "hip hop",
+    "followers": 132754,
+    "genre": "blues",
     "genres": [
-      "hip hop",
-      "east coast hip hop",
-      "rap"
+      "soul blues"
     ],
-    "href": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
-    "id": "3nFkdlSjzX9mRTtwJOzDYB",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4",
-    "name": "JAY-Z",
+    "href": "https://open.spotify.com/artist/4d65skQOI4fUyy3CKDTFqh",
+    "id": "4d65skQOI4fUyy3CKDTFqh",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3e3b9e4fab87cdd68041e809",
+    "name": "4AMTapes",
     "top_track": {
-      "href": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
-      "name": "Empire State Of Mind"
+      "href": "https://open.spotify.com/track/1zS1Sh87MW2V3mnyRclYm0",
+      "name": "Destino"
     }
   },
   {
-    "followers": 2105580,
-    "genre": "punk",
+    "followers": 1936757,
+    "genre": "reggae",
     "genres": [
-      "metalcore",
-      "metal"
+      "reggae",
+      "ragga",
+      "roots reggae"
     ],
-    "href": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl",
-    "id": "6MwPCCR936cYfM1dLsGVnl",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc8be85688d01fa50d372886e",
-    "name": "Motionless In White",
+    "href": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi",
+    "id": "3QJzdZJYIAcoET1GcfpNGi",
+    "image": "https://i.scdn.co/image/ab6772690000c46c297e4428eb2a582e0b0c0ebc",
+    "name": "Damian Marley",
     "top_track": {
-      "href": "https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi",
-      "name": "Another Life"
+      "href": "https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG",
+      "name": "Welcome To Jamrock"
     }
   }
 ]
