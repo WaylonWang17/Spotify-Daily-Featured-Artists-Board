@@ -1,43 +1,33 @@
 [
   {
-    "followers": 2605541,
-    "genre": "soul",
+    "followers": 1718773,
+    "genre": "reggae",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c",
+    "id": "0DxeaLnv6SyYk2DOqkLO8c",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8b68d29a8713b8260aa18e19",
+    "name": "MAGIC!",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp",
+      "name": "Rude"
+    }
+  },
+  {
+    "followers": 3568784,
+    "genre": "classical",
     "genres": [
-      "motown",
-      "soul",
-      "classic soul",
-      "soul blues"
+      "canzone napoletana",
+      "concerto",
+      "italian trap",
+      "neomelodico"
     ],
-    "href": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
-    "id": "60df5JBRRPcnSpsIMxxwQm",
-    "image": "https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3",
-    "name": "Otis Redding",
+    "href": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s",
+    "id": "27LlKWxS3KXW7RRAxN5S8s",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc6e744c0e69ece980291a42a",
+    "name": "Geolier",
     "top_track": {
-      "href": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF",
-      "name": "(Sittin' On) the Dock of the Bay"
+      "href": "https://open.spotify.com/track/6S9jhAReGPzub7RkRbv8HM",
+      "name": "2 GIORNI DI FILA (feat. Sfera Ebbasta, ANNA)"
     }
-  },
-  {
-    "followers": 42066403,
-    "genre": "r\u0026b",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m",
-    "id": "6vWDO969PvNqNYHIOW5v0m",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7eaa373538359164b843f7c0",
-    "name": "Beyoncé",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr",
-      "name": "Crazy In Love (feat. JAY-Z)"
-    }
-  },
-  {
-    "followers": 511,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
-    "image": "",
-    "name": "Rutuu",
-    "top_track": null
   }
 ]
