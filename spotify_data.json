@@ -1,30 +1,41 @@
 [
   {
-    "followers": 39526499,
-    "genre": "soul",
+    "followers": 48,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm",
-    "id": "3fMbdgg4jU18AjLCKBhRSm",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd",
-    "name": "Michael Jackson",
+    "href": "https://open.spotify.com/artist/6Va5kgOs0IWmpj0M3cEvAy",
+    "id": "6Va5kgOs0IWmpj0M3cEvAy",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb66c685a656e5be90d1ea715f",
+    "name": "Prince Geezy",
     "top_track": {
-      "href": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj",
-      "name": "Billie Jean"
+      "href": "https://open.spotify.com/track/2ib3hFoLBQ6I8rBf1qPKSM",
+      "name": "Intro"
     }
   },
   {
-    "followers": 15807173,
-    "genre": "hip hop",
-    "genres": [
-      "rage rap"
-    ],
-    "href": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
-    "id": "699OTQXzgjhIYAHMy9RyPD",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-    "name": "Playboi Carti",
+    "followers": 3507402,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2",
+    "id": "5KKpBU5eC2tJDzf0wmlRp2",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebde2e2ac1d53fdf9518354798",
+    "name": "RAYE",
     "top_track": {
-      "href": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS",
-      "name": "Timeless (feat Playboi Carti)"
+      "href": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm",
+      "name": "WHERE IS MY HUSBAND!"
+    }
+  },
+  {
+    "followers": 14990613,
+    "genre": "hip hop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL",
+    "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc3dc5429b676b16d451e5f77",
+    "name": "Childish Gambino",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4",
+      "name": "Les"
     }
   }
 ]
