@@ -1,41 +1,47 @@
 [
   {
-    "followers": 48,
-    "genre": "rap",
+    "followers": 1162971,
+    "genre": "punk",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6Va5kgOs0IWmpj0M3cEvAy",
-    "id": "6Va5kgOs0IWmpj0M3cEvAy",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb66c685a656e5be90d1ea715f",
-    "name": "Prince Geezy",
+    "href": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k",
+    "id": "06bDwgCHeMAwhgI8il4Y5k",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebdcde4cdb6b61ee2260316672",
+    "name": "Set It Off",
     "top_track": {
-      "href": "https://open.spotify.com/track/2ib3hFoLBQ6I8rBf1qPKSM",
-      "name": "Intro"
+      "href": "https://open.spotify.com/track/4oaU0fMSg3n9kqOwmLPVhH",
+      "name": "Partners in Crime (feat. Ash Costello)"
     }
   },
   {
-    "followers": 3507402,
-    "genre": "r\u0026b",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2",
-    "id": "5KKpBU5eC2tJDzf0wmlRp2",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebde2e2ac1d53fdf9518354798",
-    "name": "RAYE",
+    "followers": 1986258,
+    "genre": "blues",
+    "genres": [
+      "retro soul"
+    ],
+    "href": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x",
+    "id": "3qnGvpP8Yth1AqSBMqON5x",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd5112a5b16a01e971ebb049c",
+    "name": "Leon Bridges",
     "top_track": {
-      "href": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm",
-      "name": "WHERE IS MY HUSBAND!"
+      "href": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK",
+      "name": "River"
     }
   },
   {
-    "followers": 14990613,
-    "genre": "hip hop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL",
-    "id": "73sIBHcqh3Z3NyqHKZ7FOL",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc3dc5429b676b16d451e5f77",
-    "name": "Childish Gambino",
+    "followers": 2147220,
+    "genre": "country",
+    "genres": [
+      "texas country",
+      "country",
+      "red dirt"
+    ],
+    "href": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I",
+    "id": "6zLBxLdl60ekBLpawtT63I",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb1fa84619efb4bdf4f5e9c4b",
+    "name": "Cody Johnson",
     "top_track": {
-      "href": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4",
-      "name": "Les"
+      "href": "https://open.spotify.com/track/4ThbwJaIWVxXZ1qJaHQBCz",
+      "name": "Travelin' Soldier"
     }
   }
 ]
