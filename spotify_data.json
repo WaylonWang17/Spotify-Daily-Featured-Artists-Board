@@ -1,47 +1,36 @@
 [
   {
-    "followers": 1162971,
-    "genre": "punk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k",
-    "id": "06bDwgCHeMAwhgI8il4Y5k",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebdcde4cdb6b61ee2260316672",
-    "name": "Set It Off",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4oaU0fMSg3n9kqOwmLPVhH",
-      "name": "Partners in Crime (feat. Ash Costello)"
-    }
-  },
-  {
-    "followers": 1986258,
-    "genre": "blues",
-    "genres": [
-      "retro soul"
-    ],
-    "href": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x",
-    "id": "3qnGvpP8Yth1AqSBMqON5x",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd5112a5b16a01e971ebb049c",
-    "name": "Leon Bridges",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK",
-      "name": "River"
-    }
-  },
-  {
-    "followers": 2147220,
+    "followers": 2273552,
     "genre": "country",
     "genres": [
-      "texas country",
-      "country",
-      "red dirt"
+      "country"
     ],
-    "href": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I",
-    "id": "6zLBxLdl60ekBLpawtT63I",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb1fa84619efb4bdf4f5e9c4b",
-    "name": "Cody Johnson",
+    "href": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf",
+    "id": "3win9vGIxFfBRag9S63wwf",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb1c9f6b984cb667d1f4ef2f4b",
+    "name": "Bailey Zimmerman",
     "top_track": {
-      "href": "https://open.spotify.com/track/4ThbwJaIWVxXZ1qJaHQBCz",
-      "name": "Travelin' Soldier"
+      "href": "https://open.spotify.com/track/6BZaRf4Zh9Y07qnELLboGu",
+      "name": "Backup Plan (feat. Luke Combs)"
+    }
+  },
+  {
+    "followers": 21558690,
+    "genre": "folk",
+    "genres": [
+      "mariachi",
+      "bolero",
+      "latin pop",
+      "ranchera",
+      "villancicos"
+    ],
+    "href": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW",
+    "id": "2nszmSgqreHSdJA3zWPyrW",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
+    "name": "Luis Miguel",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E",
+      "name": "Ahora Te Puedes Marchar"
     }
   }
 ]
