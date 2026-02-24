@@ -1,36 +1,43 @@
 [
   {
-    "followers": 2273552,
-    "genre": "country",
-    "genres": [
-      "country"
-    ],
-    "href": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf",
-    "id": "3win9vGIxFfBRag9S63wwf",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb1c9f6b984cb667d1f4ef2f4b",
-    "name": "Bailey Zimmerman",
+    "followers": 673,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1cysTZK0UAVSjgyYDUWlk7",
+    "id": "1cysTZK0UAVSjgyYDUWlk7",
+    "image": "",
+    "name": "Goldsboro",
     "top_track": {
-      "href": "https://open.spotify.com/track/6BZaRf4Zh9Y07qnELLboGu",
-      "name": "Backup Plan (feat. Luke Combs)"
+      "href": "https://open.spotify.com/track/2mGYXQDK1Zs0GvW0FA0jly",
+      "name": "Cori Loves Darmanitan, Fashion, and Dinosaur"
     }
   },
   {
-    "followers": 21558690,
-    "genre": "folk",
-    "genres": [
-      "mariachi",
-      "bolero",
-      "latin pop",
-      "ranchera",
-      "villancicos"
-    ],
-    "href": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW",
-    "id": "2nszmSgqreHSdJA3zWPyrW",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
-    "name": "Luis Miguel",
+    "followers": 2414190,
+    "genre": "hip hop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT",
+    "id": "7EWU4FhUJM1sZQgQKdENeT",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9291e55f0add696c11e6c545",
+    "name": "Hopsin",
     "top_track": {
-      "href": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E",
-      "name": "Ahora Te Puedes Marchar"
+      "href": "https://open.spotify.com/track/7dDLHlyZJBqEWSndlPWyCT",
+      "name": "Ill Mind of Hopsin 5"
+    }
+  },
+  {
+    "followers": 34901143,
+    "genre": "r\u0026b",
+    "genres": [
+      "r\u0026b"
+    ],
+    "href": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP",
+    "id": "7tYKF4w9nC0nq9CsPZTHyP",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfd0a9fb6c252a3ba44079acf",
+    "name": "SZA",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s",
+      "name": "All The Stars (with SZA) - From \"Black Panther: The Album\""
     }
   }
 ]
