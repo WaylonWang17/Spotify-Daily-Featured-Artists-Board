@@ -1,43 +1,35 @@
 [
   {
-    "followers": 673,
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 511,
     "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1cysTZK0UAVSjgyYDUWlk7",
-    "id": "1cysTZK0UAVSjgyYDUWlk7",
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
     "image": "",
-    "name": "Goldsboro",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2mGYXQDK1Zs0GvW0FA0jly",
-      "name": "Cori Loves Darmanitan, Fashion, and Dinosaur"
-    }
+    "name": "Rutuu",
+    "top_track": null
   },
   {
-    "followers": 2414190,
-    "genre": "hip hop",
+    "followers": 22607123,
+    "genre": "indie",
     "genres": [],
-    "href": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT",
-    "id": "7EWU4FhUJM1sZQgQKdENeT",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9291e55f0add696c11e6c545",
-    "name": "Hopsin",
+    "href": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh",
+    "id": "77SW9BnxLY8rJ0RciFqkHh",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
+    "name": "The Neighbourhood",
     "top_track": {
-      "href": "https://open.spotify.com/track/7dDLHlyZJBqEWSndlPWyCT",
-      "name": "Ill Mind of Hopsin 5"
-    }
-  },
-  {
-    "followers": 34901143,
-    "genre": "r\u0026b",
-    "genres": [
-      "r\u0026b"
-    ],
-    "href": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP",
-    "id": "7tYKF4w9nC0nq9CsPZTHyP",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebfd0a9fb6c252a3ba44079acf",
-    "name": "SZA",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s",
-      "name": "All The Stars (with SZA) - From \"Black Panther: The Album\""
+      "href": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6",
+      "name": "Sweater Weather"
     }
   }
 ]
