@@ -1,5 +1,35 @@
 [
   {
+    "followers": 20149390,
+    "genre": "jazz",
+    "genres": [
+      "indonesian pop",
+      "indonesian jazz",
+      "indonesian indie"
+    ],
+    "href": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi",
+    "id": "2iDVt6mFbtbDEZG5ax0dTi",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb53462891ab7799f2934b568e",
+    "name": "Tulus",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL",
+      "name": "Monokrom"
+    }
+  },
+  {
+    "followers": 36,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
+    "id": "4kjS5eC0smSDzKaTxgAGPW",
+    "image": "",
+    "name": "Take My Chances",
+    "top_track": {
+      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
+      "name": "Handy With The Tongue Sword"
+    }
+  },
+  {
     "followers": 1,
     "genre": "techno",
     "genres": [],
@@ -8,28 +38,5 @@
     "image": "",
     "name": "Andy Lyon",
     "top_track": null
-  },
-  {
-    "followers": 511,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
-    "image": "",
-    "name": "Rutuu",
-    "top_track": null
-  },
-  {
-    "followers": 22607123,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh",
-    "id": "77SW9BnxLY8rJ0RciFqkHh",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
-    "name": "The Neighbourhood",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6",
-      "name": "Sweater Weather"
-    }
   }
 ]
