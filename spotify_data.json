@@ -1,42 +1,46 @@
 [
   {
-    "followers": 20149390,
-    "genre": "jazz",
+    "followers": 3359870,
+    "genre": "soul",
     "genres": [
-      "indonesian pop",
-      "indonesian jazz",
-      "indonesian indie"
+      "pop soul"
     ],
-    "href": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi",
-    "id": "2iDVt6mFbtbDEZG5ax0dTi",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb53462891ab7799f2934b568e",
-    "name": "Tulus",
+    "href": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW",
+    "id": "00x1fYSGhdqScXBRpSj3DW",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5c7577ad44daeb7ce4b941a1",
+    "name": "Olivia Dean",
     "top_track": {
-      "href": "https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL",
-      "name": "Monokrom"
+      "href": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+      "name": "Man I Need"
     }
   },
   {
-    "followers": 36,
-    "genre": "alternative",
+    "followers": 9506298,
+    "genre": "jazz",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
-    "id": "4kjS5eC0smSDzKaTxgAGPW",
-    "image": "",
-    "name": "Take My Chances",
+    "href": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO",
+    "id": "7gW0r5CkdEUMm42w9XpyZO",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc751deb23ed62e7cadfb669a",
+    "name": "Laufey",
     "top_track": {
-      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
-      "name": "Handy With The Tongue Sword"
+      "href": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN",
+      "name": "From The Start"
     }
   },
   {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
+    "followers": 2987533,
+    "genre": "rock",
+    "genres": [
+      "yacht rock",
+      "soft rock"
+    ],
+    "href": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H",
+    "id": "77tT1kLj6mCWtFNqiOmP9H",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebae81417d966e209b735b1160",
+    "name": "Daryl Hall \u0026 John Oates",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY",
+      "name": "Maneater"
+    }
   }
 ]
