@@ -1,46 +1,51 @@
 [
   {
-    "followers": 3359870,
+    "followers": 1122404,
+    "genre": "country",
+    "genres": [
+      "red dirt",
+      "texas country",
+      "country",
+      "country rock"
+    ],
+    "href": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ",
+    "id": "1Tie3AZgLQZqYEp8Fv4zOZ",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb47750bff1ba9b622a2273cd0",
+    "name": "Koe Wetzel",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1FhgmMvNlh3nJ1Ldc2eE6H",
+      "name": "High Road (feat. Jessie Murph)"
+    }
+  },
+  {
+    "followers": 872372,
     "genre": "soul",
-    "genres": [
-      "pop soul"
-    ],
-    "href": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW",
-    "id": "00x1fYSGhdqScXBRpSj3DW",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5c7577ad44daeb7ce4b941a1",
-    "name": "Olivia Dean",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
-      "name": "Man I Need"
-    }
-  },
-  {
-    "followers": 9506298,
-    "genre": "jazz",
     "genres": [],
-    "href": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO",
-    "id": "7gW0r5CkdEUMm42w9XpyZO",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc751deb23ed62e7cadfb669a",
-    "name": "Laufey",
+    "href": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F",
+    "id": "1ooV8YZC1KbpEcrmI8WH0F",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3394876e0e0007203b167e2e",
+    "name": "Yebba",
     "top_track": {
-      "href": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN",
-      "name": "From The Start"
+      "href": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0",
+      "name": "DIE TRYING"
     }
   },
   {
-    "followers": 2987533,
-    "genre": "rock",
+    "followers": 7026242,
+    "genre": "punk",
     "genres": [
-      "yacht rock",
-      "soft rock"
+      "new wave",
+      "post-punk",
+      "gothic rock",
+      "darkwave"
     ],
-    "href": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H",
-    "id": "77tT1kLj6mCWtFNqiOmP9H",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebae81417d966e209b735b1160",
-    "name": "Daryl Hall \u0026 John Oates",
+    "href": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s",
+    "id": "7bu3H8JO7d0UbMoVzbo70s",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebdd427c765c409ec02dc3a868",
+    "name": "The Cure",
     "top_track": {
-      "href": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY",
-      "name": "Maneater"
+      "href": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375",
+      "name": "Boys Don't Cry - Single Version"
     }
   }
 ]
