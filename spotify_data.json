@@ -1,47 +1,44 @@
 [
   {
-    "followers": 23704979,
-    "genre": "hip hop",
+    "followers": 10880908,
+    "genre": "r\u0026b",
     "genres": [
-      "rap"
+      "trap soul",
+      "r\u0026b"
     ],
-    "href": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i",
-    "id": "1RyvyyTE3xzB2ZywiAwp0i",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7565b356bc9d9394eefa2ccb",
-    "name": "Future",
+    "href": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs",
+    "id": "2EMAnMvWE2eb56ToJVfCWs",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb0ff28b9d4bed74c66901b2b",
+    "name": "Bryson Tiller",
     "top_track": {
-      "href": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK",
-      "name": "WAIT FOR U (feat. Drake \u0026 Tems)"
+      "href": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC",
+      "name": "Don't"
     }
   },
   {
-    "followers": 399631,
-    "genre": "j-pop",
-    "genres": [
-      "anime",
-      "j-pop",
-      "j-rock"
-    ],
-    "href": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO",
-    "id": "2EWXgN0xWOnbqJOxa9pWNO",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb59ff4ed9689128b36dab968a",
-    "name": "SawanoHiroyuki[nZk]",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0qgqxwyJGlmojr9R2QjaPv",
-      "name": "DARK ARIA \u003cLV2\u003e"
-    }
-  },
-  {
-    "followers": 22,
-    "genre": "rap",
+    "followers": 511,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6LxveMebShWOup3KKj4lzH",
-    "id": "6LxveMebShWOup3KKj4lzH",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4ec3f3cdc5c2738c812e48c6",
-    "name": "Zona",
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
+    "image": "",
+    "name": "Rutuu",
+    "top_track": null
+  },
+  {
+    "followers": 21105633,
+    "genre": "latin",
+    "genres": [
+      "reggaeton",
+      "latin"
+    ],
+    "href": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT",
+    "id": "1SupJlEpv7RS2tPNRaHViT",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6705b864a7254d1572039b3d",
+    "name": "Nicky Jam",
     "top_track": {
-      "href": "https://open.spotify.com/track/5ojc5ZesMyum82mIg4jZKG",
-      "name": "O Que Deus Quiser"
+      "href": "https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw",
+      "name": "X (feat. Maluma \u0026 Ozuna) - Remix"
     }
   }
 ]
