@@ -1,44 +1,53 @@
 [
   {
-    "followers": 10880908,
-    "genre": "r\u0026b",
+    "followers": 3329436,
+    "genre": "jazz",
     "genres": [
-      "trap soul",
-      "r\u0026b"
+      "vocal jazz",
+      "soul jazz",
+      "soul",
+      "jazz",
+      "blues"
     ],
-    "href": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs",
-    "id": "2EMAnMvWE2eb56ToJVfCWs",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb0ff28b9d4bed74c66901b2b",
-    "name": "Bryson Tiller",
+    "href": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
+    "id": "7G1GBhoKtEPnP86X2PvEYO",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
+    "name": "Nina Simone",
     "top_track": {
-      "href": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC",
-      "name": "Don't"
+      "href": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e",
+      "name": "Feeling Good"
     }
   },
   {
-    "followers": 511,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
-    "image": "",
-    "name": "Rutuu",
-    "top_track": null
+    "followers": 6029724,
+    "genre": "indie",
+    "genres": [
+      "folk pop",
+      "indie folk"
+    ],
+    "href": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg",
+    "id": "16oZKvXb6WkQlVAjwo2Wbg",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0f882273183345499155d6ed",
+    "name": "The Lumineers",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0DwClY2t9YAWHBROMIgrXb",
+      "name": "Ho Hey"
+    }
   },
   {
-    "followers": 21105633,
-    "genre": "latin",
+    "followers": 295327,
+    "genre": "reggae",
     "genres": [
-      "reggaeton",
-      "latin"
+      "nz reggae",
+      "reggae"
     ],
-    "href": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT",
-    "id": "1SupJlEpv7RS2tPNRaHViT",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6705b864a7254d1572039b3d",
-    "name": "Nicky Jam",
+    "href": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ",
+    "id": "0DAaoRtoM8z0DHIhIzP4mJ",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5ad7401d9c2c41856c28f426",
+    "name": "Fiji",
     "top_track": {
-      "href": "https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw",
-      "name": "X (feat. Maluma \u0026 Ozuna) - Remix"
+      "href": "https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT",
+      "name": "Lonely Days"
     }
   }
 ]
