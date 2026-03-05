@@ -1,50 +1,46 @@
 [
   {
-    "followers": 5073333,
-    "genre": "country",
-    "genres": [
-      "country",
-      "acoustic country",
-      "pop country"
-    ],
-    "href": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8",
-    "id": "6x2LnllRG5uGarZMsD4iO8",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebdaf1894b7edbfe3376d397d9",
-    "name": "Thomas Rhett",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5dxCaYXS5l2ZmMGAVGB2lQ",
-      "name": "After All The Bars Are Closed"
-    }
-  },
-  {
-    "followers": 8108666,
-    "genre": "metal",
-    "genres": [
-      "metal",
-      "glam metal",
-      "heavy metal",
-      "hard rock"
-    ],
-    "href": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY",
-    "id": "6ZLTlhejhndI4Rh53vYhrY",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb5b52f7e13f720c7a4856306",
-    "name": "Ozzy Osbourne",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU",
-      "name": "Crazy Train"
-    }
-  },
-  {
-    "followers": 906520,
-    "genre": "jazz",
+    "followers": 1256912,
+    "genre": "indie",
     "genres": [],
-    "href": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ",
-    "id": "65dGLGjkw3UbddUg2GKQoZ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4fbd8eb6ef7f24c18dcb8666",
-    "name": "BADBADNOTGOOD",
+    "href": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz",
+    "id": "7eKkW1zo5uzW8kUntiiBvz",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb46e9a313d3f36a9a544ad736",
+    "name": "Malcolm Todd",
     "top_track": {
-      "href": "https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO",
-      "name": "Time Moves Slow"
+      "href": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
+      "name": "Sweet Boy"
+    }
+  },
+  {
+    "followers": 5688812,
+    "genre": "soul",
+    "genres": [
+      "r\u0026b"
+    ],
+    "href": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP",
+    "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb48769fa9ef3b5f24af90a09d",
+    "name": "GIVĒON",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI",
+      "name": "Peaches (feat. Daniel Caesar \u0026 Giveon)"
+    }
+  },
+  {
+    "followers": 670297,
+    "genre": "dance",
+    "genres": [
+      "house",
+      "tech house"
+    ],
+    "href": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205",
+    "id": "7kNqXtgeIwFtelmRjWv205",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb20662b32f3dbabad755dfb53",
+    "name": "John Summit",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk",
+      "name": "Where You Are"
     }
   }
 ]
