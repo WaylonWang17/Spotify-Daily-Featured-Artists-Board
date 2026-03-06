@@ -1,46 +1,49 @@
 [
   {
-    "followers": 1256912,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz",
-    "id": "7eKkW1zo5uzW8kUntiiBvz",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb46e9a313d3f36a9a544ad736",
-    "name": "Malcolm Todd",
-    "top_track": {
-      "href": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
-      "name": "Sweet Boy"
-    }
-  },
-  {
-    "followers": 5688812,
-    "genre": "soul",
-    "genres": [
-      "r\u0026b"
-    ],
-    "href": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP",
-    "id": "4fxd5Ee7UefO4CUXgwJ7IP",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb48769fa9ef3b5f24af90a09d",
-    "name": "GIVĒON",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI",
-      "name": "Peaches (feat. Daniel Caesar \u0026 Giveon)"
-    }
-  },
-  {
-    "followers": 670297,
+    "followers": 36114726,
     "genre": "dance",
-    "genres": [
-      "house",
-      "tech house"
-    ],
-    "href": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205",
-    "id": "7kNqXtgeIwFtelmRjWv205",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb20662b32f3dbabad755dfb53",
-    "name": "John Summit",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF",
+    "id": "4nDoRrQiYLoBzwC5BhVJzF",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb76470faf6330235edbcb90a9",
+    "name": "Camila Cabello",
     "top_track": {
-      "href": "https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk",
-      "name": "Where You Are"
+      "href": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2",
+      "name": "Señorita"
+    }
+  },
+  {
+    "followers": 16514932,
+    "genre": "metal",
+    "genres": [
+      "glam metal"
+    ],
+    "href": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp",
+    "id": "58lV9VcRSjABbAbfWS6skp",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb52aade0d2ea19706074da4b9",
+    "name": "Bon Jovi",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0ee1DiZF94NSqqpG0XHUzH",
+      "name": "Livin' On A Prayer"
+    }
+  },
+  {
+    "followers": 456851,
+    "genre": "reggae",
+    "genres": [
+      "reggae",
+      "dancehall",
+      "roots reggae",
+      "ragga",
+      "reggae rock"
+    ],
+    "href": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1",
+    "id": "5Ayl2bJtN5mdCsxZoxs9n1",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6799b9674066738256ee19f3",
+    "name": "Collie Buddz",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3D7cUXDEKLAFsoD10QRoiR",
+      "name": "Smokin' Love (with Collie Buddz)"
     }
   }
 ]
