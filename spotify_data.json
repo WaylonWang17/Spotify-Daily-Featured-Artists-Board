@@ -1,49 +1,46 @@
 [
   {
-    "followers": 36114726,
-    "genre": "dance",
+    "followers": 8389226,
+    "genre": "soul",
+    "genres": [
+      "r\u0026b"
+    ],
+    "href": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS",
+    "id": "57LYzLEk2LcFghVwuWbcuS",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7dccb6280ed3402110d43ce3",
+    "name": "Summer Walker",
+    "top_track": {
+      "href": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu",
+      "name": "Girls Need Love (with Drake) - Remix"
+    }
+  },
+  {
+    "followers": 12470177,
+    "genre": "pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF",
-    "id": "4nDoRrQiYLoBzwC5BhVJzF",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb76470faf6330235edbcb90a9",
-    "name": "Camila Cabello",
+    "href": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg",
+    "id": "0TnOYISbd1XYRBk9myaseg",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8d8ac7290d0fe2d12fb6e4d9",
+    "name": "Pitbull",
     "top_track": {
-      "href": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2",
-      "name": "Señorita"
+      "href": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W",
+      "name": "Give Me Everything (feat. Nayer)"
     }
   },
   {
-    "followers": 16514932,
-    "genre": "metal",
+    "followers": 4214380,
+    "genre": "country",
     "genres": [
-      "glam metal"
+      "country",
+      "acoustic country"
     ],
-    "href": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp",
-    "id": "58lV9VcRSjABbAbfWS6skp",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb52aade0d2ea19706074da4b9",
-    "name": "Bon Jovi",
+    "href": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV",
+    "id": "2IvkS5MXK0vPGnwyJsrEyV",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb31783fb959349f0c82e39bfe",
+    "name": "Eric Church",
     "top_track": {
-      "href": "https://open.spotify.com/track/0ee1DiZF94NSqqpG0XHUzH",
-      "name": "Livin' On A Prayer"
-    }
-  },
-  {
-    "followers": 456851,
-    "genre": "reggae",
-    "genres": [
-      "reggae",
-      "dancehall",
-      "roots reggae",
-      "ragga",
-      "reggae rock"
-    ],
-    "href": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1",
-    "id": "5Ayl2bJtN5mdCsxZoxs9n1",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6799b9674066738256ee19f3",
-    "name": "Collie Buddz",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3D7cUXDEKLAFsoD10QRoiR",
-      "name": "Smokin' Love (with Collie Buddz)"
+      "href": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB",
+      "name": "Springsteen"
     }
   }
 ]
