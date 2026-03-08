@@ -1,46 +1,48 @@
 [
   {
-    "followers": 8389226,
-    "genre": "soul",
-    "genres": [
-      "r\u0026b"
-    ],
-    "href": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS",
-    "id": "57LYzLEk2LcFghVwuWbcuS",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7dccb6280ed3402110d43ce3",
-    "name": "Summer Walker",
+    "followers": 18,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/5SQDh1o9xbCjBy6tK6vOJn",
+    "id": "5SQDh1o9xbCjBy6tK6vOJn",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c4163a72c8376f5f541593d0",
+    "name": "Malongkiri Tisso",
     "top_track": {
-      "href": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu",
-      "name": "Girls Need Love (with Drake) - Remix"
+      "href": "https://open.spotify.com/track/7lP8elDuy69FAXUayUF2X0",
+      "name": "TENGNE DET RI NANG //KARBI SONG"
     }
   },
   {
-    "followers": 12470177,
+    "followers": 51728357,
     "genre": "pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg",
-    "id": "0TnOYISbd1XYRBk9myaseg",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8d8ac7290d0fe2d12fb6e4d9",
-    "name": "Pitbull",
+    "href": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG",
+    "id": "1McMsnEElThX1knmY4oliG",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4",
+    "name": "Olivia Rodrigo",
     "top_track": {
-      "href": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W",
-      "name": "Give Me Everything (feat. Nayer)"
+      "href": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT",
+      "name": "traitor"
     }
   },
   {
-    "followers": 4214380,
-    "genre": "country",
+    "followers": 6591407,
+    "genre": "latin",
     "genres": [
-      "country",
-      "acoustic country"
+      "corridos tumbados",
+      "sad sierreño",
+      "corrido",
+      "sierreño",
+      "música mexicana",
+      "corridos bélicos"
     ],
-    "href": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV",
-    "id": "2IvkS5MXK0vPGnwyJsrEyV",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb31783fb959349f0c82e39bfe",
-    "name": "Eric Church",
+    "href": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR",
+    "id": "0XeEobZplHxzM9QzFQWLiR",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebefb9255bbd0acdcd6a32accb",
+    "name": "Eslabon Armado",
     "top_track": {
-      "href": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB",
-      "name": "Springsteen"
+      "href": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E",
+      "name": "Ella Baila Sola"
     }
   }
 ]
