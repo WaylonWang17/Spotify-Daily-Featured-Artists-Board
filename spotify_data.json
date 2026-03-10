@@ -1,49 +1,44 @@
 [
   {
-    "followers": 16578829,
-    "genre": "hip hop",
-    "genres": [
-      "emo rap",
-      "cloud rap"
-    ],
-    "href": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3",
-    "id": "2kCcBybjl3SAtIcwdWpUe3",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3d9d59e200e82fa53d8781a1",
-    "name": "Lil Peep",
+    "followers": 1279024,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz",
+    "id": "7eKkW1zo5uzW8kUntiiBvz",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9f6f7c2d12975d2a4b3a0fd8",
+    "name": "Malcolm Todd",
     "top_track": {
-      "href": "https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK",
-      "name": "nuts"
+      "href": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
+      "name": "Sweet Boy"
     }
   },
   {
-    "followers": 902689,
-    "genre": "jazz",
-    "genres": [
-      "jazz house",
-      "jazz"
-    ],
-    "href": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
-    "id": "3k3RY7kR8f0vp8Cq27P141",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
-    "name": "berlioz",
+    "followers": 1241161,
+    "genre": "classical",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA",
+    "id": "4rF7c8zpCKzuSXohs2HIpA",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5821a955623f4b2b76efdbaf",
+    "name": "Steven Universe",
     "top_track": {
-      "href": "https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg",
-      "name": "deep in it"
+      "href": "https://open.spotify.com/track/3z9OnsnvM6SFN2dzrSDdVO",
+      "name": "Love Like You (feat. Rebecca Sugar) - End Credits"
     }
   },
   {
-    "followers": 8393800,
-    "genre": "r\u0026b",
+    "followers": 18095584,
+    "genre": "rock",
     "genres": [
-      "r\u0026b"
+      "punk",
+      "pop punk"
     ],
-    "href": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS",
-    "id": "57LYzLEk2LcFghVwuWbcuS",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7dccb6280ed3402110d43ce3",
-    "name": "Summer Walker",
+    "href": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY",
+    "id": "7oPftvlwr6VrsViSDV7fJY",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6ff0cd5ef2ecf733804984bb",
+    "name": "Green Day",
     "top_track": {
-      "href": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu",
-      "name": "Girls Need Love (with Drake) - Remix"
+      "href": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj",
+      "name": "American Idiot"
     }
   }
 ]
