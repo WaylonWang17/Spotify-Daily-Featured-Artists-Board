@@ -1,44 +1,44 @@
 [
   {
-    "followers": 1279024,
-    "genre": "indie",
+    "followers": 3419769,
+    "genre": "jazz",
     "genres": [],
-    "href": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz",
-    "id": "7eKkW1zo5uzW8kUntiiBvz",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9f6f7c2d12975d2a4b3a0fd8",
-    "name": "Malcolm Todd",
+    "href": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw",
+    "id": "2HcwFjNelS49kFbfvMxQYw",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebec4b5ff594ae3d7c5622cf23",
+    "name": "Robbie Williams",
     "top_track": {
-      "href": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
-      "name": "Sweet Boy"
+      "href": "https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz",
+      "name": "Angels"
     }
   },
   {
-    "followers": 1241161,
-    "genre": "classical",
+    "followers": 3248995,
+    "genre": "reggae",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA",
-    "id": "4rF7c8zpCKzuSXohs2HIpA",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5821a955623f4b2b76efdbaf",
-    "name": "Steven Universe",
+    "href": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF",
+    "id": "0cQbJU1aAzvbEmTuljWLlF",
+    "image": "https://i.scdn.co/image/ab6772690000c46c2bc169ddd09632b994baf3b1",
+    "name": "No Doubt",
     "top_track": {
-      "href": "https://open.spotify.com/track/3z9OnsnvM6SFN2dzrSDdVO",
-      "name": "Love Like You (feat. Rebecca Sugar) - End Credits"
+      "href": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS",
+      "name": "Don't Speak"
     }
   },
   {
-    "followers": 18095584,
-    "genre": "rock",
+    "followers": 2138863,
+    "genre": "metal",
     "genres": [
-      "punk",
-      "pop punk"
+      "metalcore",
+      "metal"
     ],
-    "href": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY",
-    "id": "7oPftvlwr6VrsViSDV7fJY",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6ff0cd5ef2ecf733804984bb",
-    "name": "Green Day",
+    "href": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl",
+    "id": "6MwPCCR936cYfM1dLsGVnl",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc8be85688d01fa50d372886e",
+    "name": "Motionless In White",
     "top_track": {
-      "href": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj",
-      "name": "American Idiot"
+      "href": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr",
+      "name": "Afraid Of The Dark"
     }
   }
 ]
