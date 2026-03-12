@@ -1,44 +1,46 @@
 [
   {
-    "followers": 3419769,
-    "genre": "jazz",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw",
-    "id": "2HcwFjNelS49kFbfvMxQYw",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebec4b5ff594ae3d7c5622cf23",
-    "name": "Robbie Williams",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz",
-      "name": "Angels"
-    }
-  },
-  {
-    "followers": 3248995,
-    "genre": "reggae",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF",
-    "id": "0cQbJU1aAzvbEmTuljWLlF",
-    "image": "https://i.scdn.co/image/ab6772690000c46c2bc169ddd09632b994baf3b1",
-    "name": "No Doubt",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS",
-      "name": "Don't Speak"
-    }
-  },
-  {
-    "followers": 2138863,
-    "genre": "metal",
+    "followers": 74603,
+    "genre": "blues",
     "genres": [
-      "metalcore",
-      "metal"
+      "southern gothic"
     ],
-    "href": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl",
-    "id": "6MwPCCR936cYfM1dLsGVnl",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc8be85688d01fa50d372886e",
-    "name": "Motionless In White",
+    "href": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL",
+    "id": "0EEwD5PTnNLxUfAS22mErL",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfc368a2a57b953ec4fbb60ab",
+    "name": "Miles Caton",
     "top_track": {
-      "href": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr",
-      "name": "Afraid Of The Dark"
+      "href": "https://open.spotify.com/track/0XfwXFXOI7oys9rsZ2sjrt",
+      "name": "I Lied to You"
+    }
+  },
+  {
+    "followers": 19,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/14evISMUh0Z9cgBh8z13qh",
+    "id": "14evISMUh0Z9cgBh8z13qh",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d568624f6b825e0a4b63d1aa",
+    "name": "TW a banca",
+    "top_track": {
+      "href": "https://open.spotify.com/track/25dzLnvuhY4TLpvIQQTjSI",
+      "name": "Dm \u0026 Vs"
+    }
+  },
+  {
+    "followers": 13146158,
+    "genre": "dance",
+    "genres": [
+      "britpop",
+      "madchester"
+    ],
+    "href": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4",
+    "id": "2DaxqgrOhkeH0fpeiQq2f4",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb4ddbc39706ef0f2ae0f7c9b",
+    "name": "Oasis",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY",
+      "name": "Wonderwall - Remastered"
     }
   }
 ]
