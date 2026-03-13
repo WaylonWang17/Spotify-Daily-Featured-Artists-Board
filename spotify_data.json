@@ -1,46 +1,50 @@
 [
   {
-    "followers": 74603,
-    "genre": "blues",
-    "genres": [
-      "southern gothic"
-    ],
-    "href": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL",
-    "id": "0EEwD5PTnNLxUfAS22mErL",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebfc368a2a57b953ec4fbb60ab",
-    "name": "Miles Caton",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0XfwXFXOI7oys9rsZ2sjrt",
-      "name": "I Lied to You"
-    }
-  },
-  {
-    "followers": 19,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/14evISMUh0Z9cgBh8z13qh",
-    "id": "14evISMUh0Z9cgBh8z13qh",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d568624f6b825e0a4b63d1aa",
-    "name": "TW a banca",
-    "top_track": {
-      "href": "https://open.spotify.com/track/25dzLnvuhY4TLpvIQQTjSI",
-      "name": "Dm \u0026 Vs"
-    }
-  },
-  {
-    "followers": 13146158,
+    "followers": 23616576,
     "genre": "dance",
     "genres": [
-      "britpop",
-      "madchester"
+      "edm"
     ],
-    "href": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4",
-    "id": "2DaxqgrOhkeH0fpeiQq2f4",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb4ddbc39706ef0f2ae0f7c9b",
-    "name": "Oasis",
+    "href": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6",
+    "id": "1vCWHaC5f2uS3yhpwWbIA6",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebae07171f989fb39736674113",
+    "name": "Avicii",
     "top_track": {
-      "href": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY",
-      "name": "Wonderwall - Remastered"
+      "href": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2",
+      "name": "Wake Me Up"
+    }
+  },
+  {
+    "followers": 2278645,
+    "genre": "j-pop",
+    "genres": [
+      "j-pop",
+      "j-rock",
+      "anime",
+      "japanese indie"
+    ],
+    "href": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj",
+    "id": "38WbKH6oKAZskBhqDFA8Uj",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e",
+    "name": "ZUTOMAYO",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7xpUWbv1UfcRQJEOGabeaJ",
+      "name": "TAIDADA"
+    }
+  },
+  {
+    "followers": 108124311,
+    "genre": "hip hop",
+    "genres": [
+      "rap"
+    ],
+    "href": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+    "id": "3TVXtAsR1Inumwj472S9r4",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+    "name": "Drake",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0",
+      "name": "One Dance"
     }
   }
 ]
