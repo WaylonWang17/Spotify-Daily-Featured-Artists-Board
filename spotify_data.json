@@ -1,49 +1,52 @@
 [
   {
-    "followers": 1347286,
+    "followers": 23454719,
+    "genre": "rock",
+    "genres": [
+      "progressive rock",
+      "psychedelic rock",
+      "classic rock",
+      "art rock",
+      "rock"
+    ],
+    "href": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9",
+    "id": "0k17h0D3J5VfsdmQ1iZtE9",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb97885ce689d644c91dfba05c",
+    "name": "Pink Floyd",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1",
+      "name": "Wish You Were Here"
+    }
+  },
+  {
+    "followers": 2090459,
     "genre": "blues",
     "genres": [
-      "country"
+      "soul",
+      "soul blues",
+      "blues",
+      "vocal jazz"
     ],
-    "href": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ",
-    "id": "6IKlXZEFOvk9itrP1s0knJ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb1f87bfc1e824789e91573493",
-    "name": "The Red Clay Strays",
+    "href": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb",
+    "id": "0iOVhN3tnSvgDbcg25JoJb",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb058531dfd9746a96ad85265f",
+    "name": "Etta James",
     "top_track": {
-      "href": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb",
-      "name": "Wondering Why"
+      "href": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL",
+      "name": "I'd Rather Go Blind"
     }
   },
   {
-    "followers": 712351,
-    "genre": "punk",
-    "genres": [
-      "midwest emo",
-      "emo",
-      "pop punk",
-      "folk punk",
-      "math rock"
-    ],
-    "href": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8",
-    "id": "1HxXNvsraqrsgfmju1yKk8",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb61fb7bc248f90cd8e7b0223d",
-    "name": "Modern Baseball",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7hPLPHeKbwJrsuDHv4BCTA",
-      "name": "Tears Over Beers"
-    }
-  },
-  {
-    "followers": 208,
-    "genre": "k-pop",
+    "followers": 947,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1VQ6V83qiVWxmV6LWyBGkk",
-    "id": "1VQ6V83qiVWxmV6LWyBGkk",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ccce488691b32370ad05d00f",
-    "name": "Radhemohan Negi",
+    "href": "https://open.spotify.com/artist/4RtvigUVVb0pIlxMC8mNgL",
+    "id": "4RtvigUVVb0pIlxMC8mNgL",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ffa96a142fb09abcc03a4477",
+    "name": "Rndr",
     "top_track": {
-      "href": "https://open.spotify.com/track/1HwopTP8WrPuQPfsUOQj3c",
-      "name": "Zindagi Chu Golsang"
+      "href": "https://open.spotify.com/track/15FYE5ZjxYULfl4qg4DWnQ",
+      "name": "Tanjona"
     }
   }
 ]
