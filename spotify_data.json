@@ -1,52 +1,51 @@
 [
   {
-    "followers": 23454719,
-    "genre": "rock",
+    "followers": 12300921,
+    "genre": "metal",
     "genres": [
-      "progressive rock",
-      "psychedelic rock",
-      "classic rock",
-      "art rock",
-      "rock"
+      "industrial metal",
+      "metal",
+      "industrial rock",
+      "industrial"
     ],
-    "href": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9",
-    "id": "0k17h0D3J5VfsdmQ1iZtE9",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb97885ce689d644c91dfba05c",
-    "name": "Pink Floyd",
+    "href": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP",
+    "id": "6wWVKhxIU2cEi0K81v7HvP",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb32845b1556f9dbdfe8ee6575",
+    "name": "Rammstein",
     "top_track": {
-      "href": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1",
-      "name": "Wish You Were Here"
+      "href": "https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq",
+      "name": "Sonne"
     }
   },
   {
-    "followers": 2090459,
-    "genre": "blues",
+    "followers": 5022041,
+    "genre": "classical",
     "genres": [
-      "soul",
-      "soul blues",
-      "blues",
-      "vocal jazz"
+      "soundtrack",
+      "score"
     ],
-    "href": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb",
-    "id": "0iOVhN3tnSvgDbcg25JoJb",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb058531dfd9746a96ad85265f",
-    "name": "Etta James",
+    "href": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ",
+    "id": "0YC192cP3KPCRWx8zr8MfZ",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d",
+    "name": "Hans Zimmer",
     "top_track": {
-      "href": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL",
-      "name": "I'd Rather Go Blind"
+      "href": "https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP",
+      "name": "Cornfield Chase"
     }
   },
   {
-    "followers": 947,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4RtvigUVVb0pIlxMC8mNgL",
-    "id": "4RtvigUVVb0pIlxMC8mNgL",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ffa96a142fb09abcc03a4477",
-    "name": "Rndr",
+    "followers": 2611577,
+    "genre": "folk",
+    "genres": [
+      "singer-songwriter"
+    ],
+    "href": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
+    "id": "2CvCyf1gEVhI0mX6aFXmVI",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
+    "name": "Paul Simon",
     "top_track": {
-      "href": "https://open.spotify.com/track/15FYE5ZjxYULfl4qg4DWnQ",
-      "name": "Tanjona"
+      "href": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP",
+      "name": "You Can Call Me Al"
     }
   }
 ]
