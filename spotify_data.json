@@ -1,51 +1,45 @@
 [
   {
-    "followers": 12300921,
-    "genre": "metal",
-    "genres": [
-      "industrial metal",
-      "metal",
-      "industrial rock",
-      "industrial"
-    ],
-    "href": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP",
-    "id": "6wWVKhxIU2cEi0K81v7HvP",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb32845b1556f9dbdfe8ee6575",
-    "name": "Rammstein",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq",
-      "name": "Sonne"
-    }
-  },
-  {
-    "followers": 5022041,
+    "followers": 797926,
     "genre": "classical",
     "genres": [
-      "soundtrack",
-      "score"
+      "orchestral"
     ],
-    "href": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ",
-    "id": "0YC192cP3KPCRWx8zr8MfZ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d",
-    "name": "Hans Zimmer",
+    "href": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz",
+    "id": "6MERXsiRbur2oJZFgYRDKz",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfd195b6e348f0b9b1e67e257",
+    "name": "Vitamin String Quartet",
     "top_track": {
-      "href": "https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP",
-      "name": "Cornfield Chase"
+      "href": "https://open.spotify.com/track/35iyVLyvKlQJIsF4YIs2Rl",
+      "name": "Lose Control"
     }
   },
   {
-    "followers": 2611577,
-    "genre": "folk",
-    "genres": [
-      "singer-songwriter"
-    ],
-    "href": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-    "id": "2CvCyf1gEVhI0mX6aFXmVI",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
-    "name": "Paul Simon",
+    "followers": 746,
+    "genre": "hip hop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/7AUJ5xjiZaLesT26mrZG8M",
+    "id": "7AUJ5xjiZaLesT26mrZG8M",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb26505b76f0c8d793fea9e14c",
+    "name": "Rosecrans HopOut",
     "top_track": {
-      "href": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP",
-      "name": "You Can Call Me Al"
+      "href": "https://open.spotify.com/track/6vw6ZSgTVAatQPRBTERCYm",
+      "name": "Hot Shit"
+    }
+  },
+  {
+    "followers": 43050,
+    "genre": "reggae",
+    "genres": [
+      "shatta"
+    ],
+    "href": "https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt",
+    "id": "2myuqB0gKAo75dE2eSWgzt",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebef1d23a858d7a213b08fd12b",
+    "name": "Silent Addy",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza",
+      "name": "Shake It To The Max (FLY) - Remix"
     }
   }
 ]
