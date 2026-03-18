@@ -1,45 +1,46 @@
 [
   {
-    "followers": 797926,
+    "followers": 47,
+    "genre": "house",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
+    "id": "2KUI78zzOPJOCrDv3P4xnU",
+    "image": "",
+    "name": "Stereonova",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
+      "name": "Inutilmente"
+    }
+  },
+  {
+    "followers": 4403950,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE",
+    "id": "67nwj3Y5sZQLl72VNUHEYE",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb273bdadffd7138dcbd7b79c3",
+    "name": "Wale",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5yhKaacMZGRo4s6evJx9vk",
+      "name": "Bad (feat. Rihanna) - Remix"
+    }
+  },
+  {
+    "followers": 2777803,
     "genre": "classical",
     "genres": [
-      "orchestral"
+      "baroque",
+      "classical",
+      "concerto",
+      "early music"
     ],
-    "href": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz",
-    "id": "6MERXsiRbur2oJZFgYRDKz",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebfd195b6e348f0b9b1e67e257",
-    "name": "Vitamin String Quartet",
+    "href": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR",
+    "id": "2QOIawHpSlOwXDvSqQ9YJR",
+    "image": "https://i.scdn.co/image/9785700bae86f991f78183076861c7342a4bcf90",
+    "name": "Antonio Vivaldi",
     "top_track": {
-      "href": "https://open.spotify.com/track/35iyVLyvKlQJIsF4YIs2Rl",
-      "name": "Lose Control"
-    }
-  },
-  {
-    "followers": 746,
-    "genre": "hip hop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/7AUJ5xjiZaLesT26mrZG8M",
-    "id": "7AUJ5xjiZaLesT26mrZG8M",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb26505b76f0c8d793fea9e14c",
-    "name": "Rosecrans HopOut",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6vw6ZSgTVAatQPRBTERCYm",
-      "name": "Hot Shit"
-    }
-  },
-  {
-    "followers": 43050,
-    "genre": "reggae",
-    "genres": [
-      "shatta"
-    ],
-    "href": "https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt",
-    "id": "2myuqB0gKAo75dE2eSWgzt",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebef1d23a858d7a213b08fd12b",
-    "name": "Silent Addy",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza",
-      "name": "Shake It To The Max (FLY) - Remix"
+      "href": "https://open.spotify.com/track/3Dgmyz32dxvtxvUTPS0CUI",
+      "name": "Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156 by F. Christl)"
     }
   }
 ]
