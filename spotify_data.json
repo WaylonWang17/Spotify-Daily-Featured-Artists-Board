@@ -1,46 +1,47 @@
 [
   {
-    "followers": 47,
-    "genre": "house",
+    "followers": 111,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
-    "id": "2KUI78zzOPJOCrDv3P4xnU",
+    "href": "https://open.spotify.com/artist/2LM1BWm68jxZ7nqT2AbAyy",
+    "id": "2LM1BWm68jxZ7nqT2AbAyy",
     "image": "",
-    "name": "Stereonova",
+    "name": "Murder Party!",
     "top_track": {
-      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
-      "name": "Inutilmente"
+      "href": "https://open.spotify.com/track/7eKtKeSV8osLm7BxJmNz5V",
+      "name": "I'll Kill, I Swear"
     }
   },
   {
-    "followers": 4403950,
-    "genre": "r\u0026b",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE",
-    "id": "67nwj3Y5sZQLl72VNUHEYE",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb273bdadffd7138dcbd7b79c3",
-    "name": "Wale",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5yhKaacMZGRo4s6evJx9vk",
-      "name": "Bad (feat. Rihanna) - Remix"
-    }
-  },
-  {
-    "followers": 2777803,
-    "genre": "classical",
+    "followers": 1689439,
+    "genre": "dance",
     "genres": [
-      "baroque",
-      "classical",
-      "concerto",
-      "early music"
+      "melodic bass",
+      "future bass",
+      "edm"
     ],
-    "href": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR",
-    "id": "2QOIawHpSlOwXDvSqQ9YJR",
-    "image": "https://i.scdn.co/image/9785700bae86f991f78183076861c7342a4bcf90",
-    "name": "Antonio Vivaldi",
+    "href": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg",
+    "id": "45eNHdiiabvmbp4erw26rg",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb670c3c362b6b4e622e04fdc4",
+    "name": "ILLENIUM",
     "top_track": {
-      "href": "https://open.spotify.com/track/3Dgmyz32dxvtxvUTPS0CUI",
-      "name": "Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156 by F. Christl)"
+      "href": "https://open.spotify.com/track/6cLrGfKIIRHYQw7S0mCDhA",
+      "name": "All That Really Matters"
+    }
+  },
+  {
+    "followers": 3620108,
+    "genre": "pop",
+    "genres": [
+      "pop soul"
+    ],
+    "href": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW",
+    "id": "00x1fYSGhdqScXBRpSj3DW",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5c7577ad44daeb7ce4b941a1",
+    "name": "Olivia Dean",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+      "name": "Man I Need"
     }
   }
 ]
