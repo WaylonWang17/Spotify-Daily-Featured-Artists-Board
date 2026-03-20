@@ -1,47 +1,43 @@
 [
   {
-    "followers": 111,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2LM1BWm68jxZ7nqT2AbAyy",
-    "id": "2LM1BWm68jxZ7nqT2AbAyy",
-    "image": "",
-    "name": "Murder Party!",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7eKtKeSV8osLm7BxJmNz5V",
-      "name": "I'll Kill, I Swear"
-    }
-  },
-  {
-    "followers": 1689439,
-    "genre": "dance",
-    "genres": [
-      "melodic bass",
-      "future bass",
-      "edm"
-    ],
-    "href": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg",
-    "id": "45eNHdiiabvmbp4erw26rg",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb670c3c362b6b4e622e04fdc4",
-    "name": "ILLENIUM",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6cLrGfKIIRHYQw7S0mCDhA",
-      "name": "All That Really Matters"
-    }
-  },
-  {
-    "followers": 3620108,
+    "followers": 8932471,
     "genre": "pop",
-    "genres": [
-      "pop soul"
-    ],
-    "href": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW",
-    "id": "00x1fYSGhdqScXBRpSj3DW",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5c7577ad44daeb7ce4b941a1",
-    "name": "Olivia Dean",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5",
+    "id": "4tuJ0bMpJh08umKkEXKUI5",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf6d51e6f5342d2d363220920",
+    "name": "Gracie Abrams",
     "top_track": {
-      "href": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
-      "name": "Man I Need"
+      "href": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
+      "name": "That’s So True"
     }
+  },
+  {
+    "followers": 608701,
+    "genre": "punk",
+    "genres": [
+      "midwest emo",
+      "emo",
+      "indie punk",
+      "math rock"
+    ],
+    "href": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h",
+    "id": "6PsktPFR0UZptKdSqmlS5h",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb122f11f4a619b48f6750b602",
+    "name": "Mom Jeans.",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4yXKLDrHYrffSVmQOFdbDA",
+      "name": "Scott Pilgrim vs. My GPA"
+    }
+  },
+  {
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
   }
 ]
