@@ -1,43 +1,52 @@
 [
   {
-    "followers": 8932471,
-    "genre": "pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5",
-    "id": "4tuJ0bMpJh08umKkEXKUI5",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf6d51e6f5342d2d363220920",
-    "name": "Gracie Abrams",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
-      "name": "That’s So True"
-    }
-  },
-  {
-    "followers": 608701,
-    "genre": "punk",
+    "followers": 2161511,
+    "genre": "metal",
     "genres": [
-      "midwest emo",
-      "emo",
-      "indie punk",
-      "math rock"
+      "trap metal"
     ],
-    "href": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h",
-    "id": "6PsktPFR0UZptKdSqmlS5h",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb122f11f4a619b48f6750b602",
-    "name": "Mom Jeans.",
+    "href": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U",
+    "id": "62F9BiUmjqeXbBztCwiX1U",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcbd188dffc3c7be2c84e98e7",
+    "name": "Lil Darkie",
     "top_track": {
-      "href": "https://open.spotify.com/track/4yXKLDrHYrffSVmQOFdbDA",
-      "name": "Scott Pilgrim vs. My GPA"
+      "href": "https://open.spotify.com/track/1A40cWbsF9yQskTD8U6Ci5",
+      "name": "i can see clearly"
     }
   },
   {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
+    "followers": 4317178,
+    "genre": "j-pop",
+    "genres": [
+      "j-pop",
+      "anime",
+      "j-rock"
+    ],
+    "href": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2",
+    "id": "6wxfx1yhyqjCPYwwxJktR2",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4ec795dffef81475326da642",
+    "name": "King Gnu",
+    "top_track": {
+      "href": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9",
+      "name": "AIZO"
+    }
+  },
+  {
+    "followers": 5392314,
+    "genre": "country",
+    "genres": [
+      "country",
+      "classic country",
+      "traditional country",
+      "honky tonk"
+    ],
+    "href": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd",
+    "id": "5vngPClqofybhPERIqQMYd",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb77f28b2422efbabde324291c",
+    "name": "George Strait",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi",
+      "name": "Amarillo By Morning"
+    }
   }
 ]
