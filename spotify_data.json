@@ -1,52 +1,51 @@
 [
   {
-    "followers": 2161511,
-    "genre": "metal",
+    "followers": 4145401,
+    "genre": "folk",
     "genres": [
-      "trap metal"
+      "surf rock"
     ],
-    "href": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U",
-    "id": "62F9BiUmjqeXbBztCwiX1U",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcbd188dffc3c7be2c84e98e7",
-    "name": "Lil Darkie",
+    "href": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3",
+    "id": "3GBPw9NK25X1Wt2OUvOwY3",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0bf3ff1eaa4c0d6d664ccc3f",
+    "name": "Jack Johnson",
     "top_track": {
-      "href": "https://open.spotify.com/track/1A40cWbsF9yQskTD8U6Ci5",
-      "name": "i can see clearly"
+      "href": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC",
+      "name": "Upside Down"
     }
   },
   {
-    "followers": 4317178,
-    "genre": "j-pop",
+    "followers": 3344412,
+    "genre": "jazz",
     "genres": [
-      "j-pop",
-      "anime",
-      "j-rock"
+      "vocal jazz",
+      "soul jazz",
+      "soul",
+      "jazz",
+      "blues"
     ],
-    "href": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2",
-    "id": "6wxfx1yhyqjCPYwwxJktR2",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4ec795dffef81475326da642",
-    "name": "King Gnu",
+    "href": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
+    "id": "7G1GBhoKtEPnP86X2PvEYO",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
+    "name": "Nina Simone",
     "top_track": {
-      "href": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9",
-      "name": "AIZO"
+      "href": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e",
+      "name": "Feeling Good"
     }
   },
   {
-    "followers": 5392314,
-    "genre": "country",
+    "followers": 4145401,
+    "genre": "indie",
     "genres": [
-      "country",
-      "classic country",
-      "traditional country",
-      "honky tonk"
+      "surf rock"
     ],
-    "href": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd",
-    "id": "5vngPClqofybhPERIqQMYd",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb77f28b2422efbabde324291c",
-    "name": "George Strait",
+    "href": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3",
+    "id": "3GBPw9NK25X1Wt2OUvOwY3",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0bf3ff1eaa4c0d6d664ccc3f",
+    "name": "Jack Johnson",
     "top_track": {
-      "href": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi",
-      "name": "Amarillo By Morning"
+      "href": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC",
+      "name": "Upside Down"
     }
   }
 ]
