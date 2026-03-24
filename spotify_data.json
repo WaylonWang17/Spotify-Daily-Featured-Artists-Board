@@ -1,40 +1,46 @@
 [
   {
-    "followers": 2527625,
-    "genre": "soul",
+    "followers": 3483839,
+    "genre": "country",
     "genres": [
-      "r\u0026b"
+      "country",
+      "classic country",
+      "acoustic country",
+      "honky tonk"
     ],
-    "href": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ",
-    "id": "2mxe0TnaNL039ysAj51xPQ",
-    "image": "https://i.scdn.co/image/b81390065f0c65c26270a4ca1d2ceae3e30efed6",
-    "name": "R. Kelly",
+    "href": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz",
+    "id": "0XKOBt59crntr7HQXXO8Yz",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3ef457349ecbd1285b4a0d81",
+    "name": "Brooks \u0026 Dunn",
     "top_track": {
-      "href": "https://open.spotify.com/track/5dNfHmqgr128gMY2tc5CeJ",
-      "name": "Ignition - Remix"
+      "href": "https://open.spotify.com/track/2M38X60UJnupGPbFTkVPNQ",
+      "name": "Neon Moon"
     }
   },
   {
-    "followers": 9,
-    "genre": "house",
+    "followers": 6890194,
+    "genre": "r\u0026b",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
-    "id": "6RIYo7z2qQimAwsKtIM6JY",
-    "image": "",
-    "name": "DJ Yayyay",
-    "top_track": null
+    "href": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp",
+    "id": "57vWImR43h4CaDao012Ofp",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb2297f6d794be503fc5fd031f",
+    "name": "Steve Lacy",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy",
+      "name": "Bad Habit"
+    }
   },
   {
-    "followers": 24796,
-    "genre": "blues",
+    "followers": 2142339,
+    "genre": "soul",
     "genres": [],
-    "href": "https://open.spotify.com/artist/7jnEJXIT7Ur1VLF1BC48eD",
-    "id": "7jnEJXIT7Ur1VLF1BC48eD",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8d404432c21a11ef27bf96c7",
-    "name": "My Boy Arlo",
+    "href": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF",
+    "id": "7kFfY4UjNdNyaeUgLIEbIF",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebaa465515228cb4dc810db8c4",
+    "name": "DeJ Loaf",
     "top_track": {
-      "href": "https://open.spotify.com/track/3be5225YmWfELtUIQ6c6HA",
-      "name": "URL To Her Body"
+      "href": "https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25",
+      "name": "Me U \u0026 Hennessy (feat. Lil Wayne)"
     }
   }
 ]
