@@ -1,46 +1,46 @@
 [
   {
-    "followers": 3483839,
-    "genre": "country",
+    "followers": 9,
+    "genre": "house",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
+    "id": "6RIYo7z2qQimAwsKtIM6JY",
+    "image": "",
+    "name": "DJ Yayyay",
+    "top_track": null
+  },
+  {
+    "followers": 346749,
+    "genre": "j-pop",
     "genres": [
-      "country",
-      "classic country",
-      "acoustic country",
-      "honky tonk"
+      "bossa nova",
+      "brazilian jazz",
+      "latin jazz",
+      "vocal jazz",
+      "adult standards"
     ],
-    "href": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz",
-    "id": "0XKOBt59crntr7HQXXO8Yz",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3ef457349ecbd1285b4a0d81",
-    "name": "Brooks \u0026 Dunn",
+    "href": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF",
+    "id": "5rX2c1zow6hCph8PnnU3kF",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b48a079c5273b6141af2dc35",
+    "name": "Astrud Gilberto",
     "top_track": {
-      "href": "https://open.spotify.com/track/2M38X60UJnupGPbFTkVPNQ",
-      "name": "Neon Moon"
+      "href": "https://open.spotify.com/track/3FUtFM4GCbrnitRh2t77d9",
+      "name": "Corcovado (Quiet Nights Of Quiet Stars)"
     }
   },
   {
-    "followers": 6890194,
-    "genre": "r\u0026b",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp",
-    "id": "57vWImR43h4CaDao012Ofp",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb2297f6d794be503fc5fd031f",
-    "name": "Steve Lacy",
+    "followers": 110502022,
+    "genre": "pop",
+    "genres": [
+      "pop"
+    ],
+    "href": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR",
+    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6725802588d7dc1aba076ca5",
+    "name": "Ariana Grande",
     "top_track": {
-      "href": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy",
-      "name": "Bad Habit"
-    }
-  },
-  {
-    "followers": 2142339,
-    "genre": "soul",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF",
-    "id": "7kFfY4UjNdNyaeUgLIEbIF",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebaa465515228cb4dc810db8c4",
-    "name": "DeJ Loaf",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25",
-      "name": "Me U \u0026 Hennessy (feat. Lil Wayne)"
+      "href": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4",
+      "name": "we can't be friends (wait for your love)"
     }
   }
 ]
