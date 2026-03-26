@@ -1,46 +1,43 @@
 [
   {
-    "followers": 9,
-    "genre": "house",
+    "followers": 4474072,
+    "genre": "indie",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
-    "id": "6RIYo7z2qQimAwsKtIM6JY",
-    "image": "",
-    "name": "DJ Yayyay",
-    "top_track": null
-  },
-  {
-    "followers": 346749,
-    "genre": "j-pop",
-    "genres": [
-      "bossa nova",
-      "brazilian jazz",
-      "latin jazz",
-      "vocal jazz",
-      "adult standards"
-    ],
-    "href": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF",
-    "id": "5rX2c1zow6hCph8PnnU3kF",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b48a079c5273b6141af2dc35",
-    "name": "Astrud Gilberto",
+    "href": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm",
+    "id": "5p9HO3XC5P3BLxJs5Mtrhm",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4113d395582d3667b7978430",
+    "name": "Djo",
     "top_track": {
-      "href": "https://open.spotify.com/track/3FUtFM4GCbrnitRh2t77d9",
-      "name": "Corcovado (Quiet Nights Of Quiet Stars)"
+      "href": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
+      "name": "End of Beginning"
     }
   },
   {
-    "followers": 110502022,
-    "genre": "pop",
-    "genres": [
-      "pop"
-    ],
-    "href": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR",
-    "id": "66CXWjxzNUsdJxJ2JdwvnR",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6725802588d7dc1aba076ca5",
-    "name": "Ariana Grande",
+    "followers": 268539,
+    "genre": "blues",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O",
+    "id": "2a84LFOuPFQX3qGB26eu9O",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb197fe394a4e0e05659289134",
+    "name": "Steven Rodriguez",
     "top_track": {
-      "href": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4",
-      "name": "we can't be friends (wait for your love)"
+      "href": "https://open.spotify.com/track/3Hp8GJDsH3E7fumfAACH2k",
+      "name": "Love in Paradise"
+    }
+  },
+  {
+    "followers": 43092591,
+    "genre": "hip hop",
+    "genres": [
+      "rap"
+    ],
+    "href": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
+    "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+    "name": "Travis Scott",
+    "top_track": {
+      "href": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA",
+      "name": "FE!N (feat. Playboi Carti)"
     }
   }
 ]
