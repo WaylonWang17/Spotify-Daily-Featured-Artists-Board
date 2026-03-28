@@ -1,42 +1,41 @@
 [
   {
-    "followers": 9223538,
-    "genre": "r\u0026b",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX",
-    "id": "0cGUm45nv7Z6M6qdXYQGTX",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcf865d7d399a41e1bd036149",
-    "name": "Kehlani",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA",
-      "name": "Folded"
-    }
-  },
-  {
-    "followers": 14866549,
+    "followers": 10543450,
     "genre": "pop",
-    "genres": [
-      "yacht rock",
-      "classic rock",
-      "soft rock"
-    ],
-    "href": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-    "id": "08GQAI4eElDnROBrJRGE0X",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
-    "name": "Fleetwood Mac",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym",
+    "id": "45dkTj5sMRSjrmBSBeiHym",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbed8016bd64422793ff3bc75",
+    "name": "Tate McRae",
     "top_track": {
-      "href": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz",
-      "name": "Dreams - 2004 Remaster"
+      "href": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3",
+      "name": "Just Keep Watching (From F1® The Movie)"
     }
   },
   {
-    "followers": 25,
-    "genre": "rap",
+    "followers": 86,
+    "genre": "soul",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4luuP9dbWk4nsjR2gVieDP",
-    "id": "4luuP9dbWk4nsjR2gVieDP",
-    "image": "",
-    "name": "Prince Skellet",
-    "top_track": null
+    "href": "https://open.spotify.com/artist/1PQcUfV3745a7j1b5m6zxx",
+    "id": "1PQcUfV3745a7j1b5m6zxx",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0110752b727d862d166d82a3",
+    "name": "Gentle Souls",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0Fx7TJd1FVG8gPdXMExe5d",
+      "name": "Relaxing Melodic Thunder"
+    }
+  },
+  {
+    "followers": 1671134,
+    "genre": "country",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424",
+    "id": "70kkdajctXSbqSMJbQO424",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb81a4837fda8c9e356bfb6252",
+    "name": "Kacey Musgraves",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG",
+      "name": "I Remember Everything (feat. Kacey Musgraves)"
+    }
   }
 ]
