@@ -1,41 +1,29 @@
 [
   {
-    "followers": 10543450,
-    "genre": "pop",
+    "followers": 510,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym",
-    "id": "45dkTj5sMRSjrmBSBeiHym",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebbed8016bd64422793ff3bc75",
-    "name": "Tate McRae",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3",
-      "name": "Just Keep Watching (From F1® The Movie)"
-    }
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
+    "image": "",
+    "name": "Rutuu",
+    "top_track": null
   },
   {
-    "followers": 86,
-    "genre": "soul",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/1PQcUfV3745a7j1b5m6zxx",
-    "id": "1PQcUfV3745a7j1b5m6zxx",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0110752b727d862d166d82a3",
-    "name": "Gentle Souls",
+    "followers": 4334931,
+    "genre": "j-pop",
+    "genres": [
+      "j-pop",
+      "anime",
+      "j-rock"
+    ],
+    "href": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2",
+    "id": "6wxfx1yhyqjCPYwwxJktR2",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4ec795dffef81475326da642",
+    "name": "King Gnu",
     "top_track": {
-      "href": "https://open.spotify.com/track/0Fx7TJd1FVG8gPdXMExe5d",
-      "name": "Relaxing Melodic Thunder"
-    }
-  },
-  {
-    "followers": 1671134,
-    "genre": "country",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424",
-    "id": "70kkdajctXSbqSMJbQO424",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb81a4837fda8c9e356bfb6252",
-    "name": "Kacey Musgraves",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG",
-      "name": "I Remember Everything (feat. Kacey Musgraves)"
+      "href": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9",
+      "name": "AIZO"
     }
   }
 ]
