@@ -1,29 +1,46 @@
 [
   {
-    "followers": 510,
+    "followers": 36,
     "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
+    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
+    "id": "4kjS5eC0smSDzKaTxgAGPW",
     "image": "",
-    "name": "Rutuu",
-    "top_track": null
+    "name": "Take My Chances",
+    "top_track": {
+      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
+      "name": "Handy With The Tongue Sword"
+    }
   },
   {
-    "followers": 4334931,
-    "genre": "j-pop",
-    "genres": [
-      "j-pop",
-      "anime",
-      "j-rock"
-    ],
-    "href": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2",
-    "id": "6wxfx1yhyqjCPYwwxJktR2",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4ec795dffef81475326da642",
-    "name": "King Gnu",
+    "followers": 47,
+    "genre": "house",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
+    "id": "2KUI78zzOPJOCrDv3P4xnU",
+    "image": "",
+    "name": "Stereonova",
     "top_track": {
-      "href": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9",
-      "name": "AIZO"
+      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
+      "name": "Inutilmente"
+    }
+  },
+  {
+    "followers": 39923,
+    "genre": "classical",
+    "genres": [
+      "classical",
+      "baroque",
+      "concerto",
+      "orchestral"
+    ],
+    "href": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9",
+    "id": "6NUhQz7eAEsZvjEHTKHux9",
+    "image": "https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae",
+    "name": "Sir Neville Marriner",
+    "top_track": {
+      "href": "https://open.spotify.com/track/712Pm7DCa8lL8dGZ7LdXQS",
+      "name": "Pachelbel: Canon and Gigue in D Major: Canon"
     }
   }
 ]
