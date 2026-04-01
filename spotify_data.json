@@ -1,22 +1,54 @@
 [
   {
-    "followers": 9,
-    "genre": "house",
+    "followers": 1763704,
+    "genre": "blues",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
-    "id": "6RIYo7z2qQimAwsKtIM6JY",
-    "image": "",
-    "name": "DJ Yayyay",
-    "top_track": null
+    "href": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh",
+    "id": "16GcWuvvybAoaHr0NqT8Eh",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4105f301191c32ee27c93b42",
+    "name": "Alabama Shakes",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz",
+      "name": "Hold On"
+    }
   },
   {
-    "followers": 34,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/70rqovkeGi1zCI9SVC9HHY",
-    "id": "70rqovkeGi1zCI9SVC9HHY",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb513a5464eff14d9d0388882",
-    "name": "FrancoXxX",
-    "top_track": null
+    "followers": 26937779,
+    "genre": "pop",
+    "genres": [
+      "corrido",
+      "corridos tumbados",
+      "corridos bélicos",
+      "música mexicana",
+      "sierreño",
+      "sad sierreño",
+      "banda"
+    ],
+    "href": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ",
+    "id": "12GqGscKJx3aE4t07u7eVZ",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe5283f5b671cf618b82a2696",
+    "name": "Peso Pluma",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC",
+      "name": "dopamina"
+    }
+  },
+  {
+    "followers": 1192676,
+    "genre": "j-pop",
+    "genres": [
+      "vocal jazz",
+      "jazz",
+      "jazz pop",
+      "smooth jazz"
+    ],
+    "href": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL",
+    "id": "5z1VAFwT35EVvCp1XlZZuL",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd1bfc97e11bb4c1f90f287a6",
+    "name": "Diana Krall",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3",
+      "name": "The Look Of Love"
+    }
   }
 ]
