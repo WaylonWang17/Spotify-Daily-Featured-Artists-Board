@@ -1,54 +1,45 @@
 [
   {
-    "followers": 1763704,
-    "genre": "blues",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh",
-    "id": "16GcWuvvybAoaHr0NqT8Eh",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4105f301191c32ee27c93b42",
-    "name": "Alabama Shakes",
+    "followers": 12961904,
+    "genre": "punk",
+    "genres": [
+      "emo"
+    ],
+    "href": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK",
+    "id": "20JZFwl6HVl6yg8a4H3ZqK",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb256ae9a4b82bfff97776ae2",
+    "name": "Panic! At The Disco",
     "top_track": {
-      "href": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz",
-      "name": "Hold On"
+      "href": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom",
+      "name": "High Hopes"
     }
   },
   {
-    "followers": 26937779,
+    "followers": 2589,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/27OhxQ6xHY6N8HHXyNo2QS",
+    "id": "27OhxQ6xHY6N8HHXyNo2QS",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e226d298c6e3bd486aeb984f",
+    "name": "Siddharth Nitin",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3Z13Vp4XxrMQY5u60fmO3B",
+      "name": "Mala Bhuli Gaya R Raja Ek Pal Ma"
+    }
+  },
+  {
+    "followers": 39930070,
     "genre": "pop",
     "genres": [
-      "corrido",
-      "corridos tumbados",
-      "corridos bélicos",
-      "música mexicana",
-      "sierreño",
-      "sad sierreño",
-      "banda"
+      "pop"
     ],
-    "href": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ",
-    "id": "12GqGscKJx3aE4t07u7eVZ",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe5283f5b671cf618b82a2696",
-    "name": "Peso Pluma",
+    "href": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X",
+    "id": "6jJ0s89eD6GaHleKKya26X",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4be5330bd48527f9dd620663",
+    "name": "Katy Perry",
     "top_track": {
-      "href": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC",
-      "name": "dopamina"
-    }
-  },
-  {
-    "followers": 1192676,
-    "genre": "j-pop",
-    "genres": [
-      "vocal jazz",
-      "jazz",
-      "jazz pop",
-      "smooth jazz"
-    ],
-    "href": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL",
-    "id": "5z1VAFwT35EVvCp1XlZZuL",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd1bfc97e11bb4c1f90f287a6",
-    "name": "Diana Krall",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3",
-      "name": "The Look Of Love"
+      "href": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ",
+      "name": "Last Friday Night (T.G.I.F.)"
     }
   }
 ]
