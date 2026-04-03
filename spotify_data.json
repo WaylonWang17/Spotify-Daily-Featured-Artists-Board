@@ -1,45 +1,40 @@
 [
   {
-    "followers": 12961904,
-    "genre": "punk",
-    "genres": [
-      "emo"
-    ],
-    "href": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK",
-    "id": "20JZFwl6HVl6yg8a4H3ZqK",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb256ae9a4b82bfff97776ae2",
-    "name": "Panic! At The Disco",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom",
-      "name": "High Hopes"
-    }
-  },
-  {
-    "followers": 2589,
-    "genre": "k-pop",
+    "followers": 179871,
+    "genre": "reggae",
     "genres": [],
-    "href": "https://open.spotify.com/artist/27OhxQ6xHY6N8HHXyNo2QS",
-    "id": "27OhxQ6xHY6N8HHXyNo2QS",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e226d298c6e3bd486aeb984f",
-    "name": "Siddharth Nitin",
+    "href": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6",
+    "id": "6eBYLQONaYZhZNAVK061t6",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb99130a511f82caacd3fecc03",
+    "name": "Nina Sky",
     "top_track": {
-      "href": "https://open.spotify.com/track/3Z13Vp4XxrMQY5u60fmO3B",
-      "name": "Mala Bhuli Gaya R Raja Ek Pal Ma"
+      "href": "https://open.spotify.com/track/2D5xADKFIU69jBddGcpXR9",
+      "name": "Oye Mi Canto (with Tego Calderón, Nina Sky, Gemstar, Big Mato) - Original Dirty Mix"
     }
   },
   {
-    "followers": 39930070,
-    "genre": "pop",
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 23975592,
+    "genre": "hip hop",
     "genres": [
-      "pop"
+      "rap"
     ],
-    "href": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X",
-    "id": "6jJ0s89eD6GaHleKKya26X",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4be5330bd48527f9dd620663",
-    "name": "Katy Perry",
+    "href": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i",
+    "id": "1RyvyyTE3xzB2ZywiAwp0i",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7565b356bc9d9394eefa2ccb",
+    "name": "Future",
     "top_track": {
-      "href": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ",
-      "name": "Last Friday Night (T.G.I.F.)"
+      "href": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK",
+      "name": "WAIT FOR U (feat. Drake \u0026 Tems)"
     }
   }
 ]
