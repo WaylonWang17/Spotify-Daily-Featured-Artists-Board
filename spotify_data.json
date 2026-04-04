@@ -1,40 +1,39 @@
 [
   {
-    "followers": 179871,
-    "genre": "reggae",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6",
-    "id": "6eBYLQONaYZhZNAVK061t6",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb99130a511f82caacd3fecc03",
-    "name": "Nina Sky",
+    "followers": 3890517,
+    "genre": "metal",
+    "genres": [
+      "industrial metal",
+      "industrial rock",
+      "alternative metal",
+      "metal",
+      "nu metal"
+    ],
+    "href": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5",
+    "id": "3HVdAiMNjYrQIKlOGxoGh5",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf0e838d90c5a7b7676ff4c43",
+    "name": "Rob Zombie",
     "top_track": {
-      "href": "https://open.spotify.com/track/2D5xADKFIU69jBddGcpXR9",
-      "name": "Oye Mi Canto (with Tego Calderón, Nina Sky, Gemstar, Big Mato) - Original Dirty Mix"
+      "href": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF",
+      "name": "Dragula"
     }
   },
   {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
-  },
-  {
-    "followers": 23975592,
-    "genre": "hip hop",
+    "followers": 1009339,
+    "genre": "jazz",
     "genres": [
-      "rap"
+      "smooth jazz",
+      "yacht rock",
+      "jazz funk",
+      "soul jazz"
     ],
-    "href": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i",
-    "id": "1RyvyyTE3xzB2ZywiAwp0i",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7565b356bc9d9394eefa2ccb",
-    "name": "Future",
+    "href": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv",
+    "id": "4N8BwYTEC6XqykGvXXlmfv",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb487b00fa17362b8eab3b16c8",
+    "name": "George Benson",
     "top_track": {
-      "href": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK",
-      "name": "WAIT FOR U (feat. Drake \u0026 Tems)"
+      "href": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ",
+      "name": "Nothing's Gonna Change My Love for You"
     }
   }
 ]
