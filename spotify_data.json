@@ -1,39 +1,35 @@
 [
   {
-    "followers": 3890517,
-    "genre": "metal",
-    "genres": [
-      "industrial metal",
-      "industrial rock",
-      "alternative metal",
-      "metal",
-      "nu metal"
-    ],
-    "href": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5",
-    "id": "3HVdAiMNjYrQIKlOGxoGh5",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf0e838d90c5a7b7676ff4c43",
-    "name": "Rob Zombie",
+    "followers": 9,
+    "genre": "house",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
+    "id": "6RIYo7z2qQimAwsKtIM6JY",
+    "image": "",
+    "name": "DJ Yayyay",
+    "top_track": null
+  },
+  {
+    "followers": 4921396,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32",
+    "id": "5y8tKLUfMvliMe8IKamR32",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebee632cde061121a5fe48c1d6",
+    "name": "d4vd",
     "top_track": {
-      "href": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF",
-      "name": "Dragula"
+      "href": "https://open.spotify.com/track/0NLm9bQG7ikL5k9x9TtYT7",
+      "name": "Here With Me"
     }
   },
   {
-    "followers": 1009339,
-    "genre": "jazz",
-    "genres": [
-      "smooth jazz",
-      "yacht rock",
-      "jazz funk",
-      "soul jazz"
-    ],
-    "href": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv",
-    "id": "4N8BwYTEC6XqykGvXXlmfv",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb487b00fa17362b8eab3b16c8",
-    "name": "George Benson",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ",
-      "name": "Nothing's Gonna Change My Love for You"
-    }
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
   }
 ]
