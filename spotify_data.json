@@ -1,35 +1,53 @@
 [
   {
-    "followers": 9,
-    "genre": "house",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
-    "id": "6RIYo7z2qQimAwsKtIM6JY",
-    "image": "",
-    "name": "DJ Yayyay",
-    "top_track": null
-  },
-  {
-    "followers": 4921396,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32",
-    "id": "5y8tKLUfMvliMe8IKamR32",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebee632cde061121a5fe48c1d6",
-    "name": "d4vd",
+    "followers": 21925545,
+    "genre": "latin",
+    "genres": [
+      "mariachi",
+      "bolero",
+      "latin pop",
+      "ranchera",
+      "villancicos"
+    ],
+    "href": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW",
+    "id": "2nszmSgqreHSdJA3zWPyrW",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
+    "name": "Luis Miguel",
     "top_track": {
-      "href": "https://open.spotify.com/track/0NLm9bQG7ikL5k9x9TtYT7",
-      "name": "Here With Me"
+      "href": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E",
+      "name": "Ahora Te Puedes Marchar"
     }
   },
   {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
+    "followers": 213171,
+    "genre": "classical",
+    "genres": [
+      "classical",
+      "opera",
+      "orchestral"
+    ],
+    "href": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY",
+    "id": "5zCaQxjl110XTrm4LQ1CxY",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd",
+    "name": "Herbert von Karajan",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6pt8oGfiwgidz03nGw1zTb",
+      "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air \"on the G String\""
+    }
+  },
+  {
+    "followers": 7905252,
+    "genre": "rock",
+    "genres": [
+      "soft rock"
+    ],
+    "href": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e",
+    "id": "6zFYqv1mOsgBRQbae3JJ9e",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8",
+    "name": "Billy Joel",
+    "top_track": {
+      "href": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ",
+      "name": "Piano Man"
+    }
   }
 ]
