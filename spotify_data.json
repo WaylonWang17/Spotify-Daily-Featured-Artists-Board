@@ -1,53 +1,48 @@
 [
   {
-    "followers": 21925545,
-    "genre": "latin",
+    "followers": 3838702,
+    "genre": "pop",
     "genres": [
-      "mariachi",
-      "bolero",
-      "latin pop",
-      "ranchera",
-      "villancicos"
+      "pop soul"
     ],
-    "href": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW",
-    "id": "2nszmSgqreHSdJA3zWPyrW",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
-    "name": "Luis Miguel",
+    "href": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW",
+    "id": "00x1fYSGhdqScXBRpSj3DW",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5c7577ad44daeb7ce4b941a1",
+    "name": "Olivia Dean",
     "top_track": {
-      "href": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E",
-      "name": "Ahora Te Puedes Marchar"
+      "href": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+      "name": "Man I Need"
     }
   },
   {
-    "followers": 213171,
-    "genre": "classical",
-    "genres": [
-      "classical",
-      "opera",
-      "orchestral"
-    ],
-    "href": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY",
-    "id": "5zCaQxjl110XTrm4LQ1CxY",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd",
-    "name": "Herbert von Karajan",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6pt8oGfiwgidz03nGw1zTb",
-      "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air \"on the G String\""
-    }
-  },
-  {
-    "followers": 7905252,
+    "followers": 15639708,
     "genre": "rock",
     "genres": [
-      "soft rock"
+      "art rock",
+      "alternative rock"
     ],
-    "href": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e",
-    "id": "6zFYqv1mOsgBRQbae3JJ9e",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8",
-    "name": "Billy Joel",
+    "href": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb",
+    "id": "4Z8W4fKeB5YxbusRsdQVPb",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4104fbd80f1f795728abbd59",
+    "name": "Radiohead",
     "top_track": {
-      "href": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ",
-      "name": "Piano Man"
+      "href": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r",
+      "name": "Creep"
+    }
+  },
+  {
+    "followers": 12040573,
+    "genre": "hip hop",
+    "genres": [
+      "brazilian hip hop"
+    ],
+    "href": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK",
+    "id": "0vLuOi2k62sHujIfplInlK",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7c82ddc68c54bcffb9f7a034",
+    "name": "Hungria",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6ZEKE3RR5EMhAMTJzjGOB6",
+      "name": "Amor e Fé - Acústico"
     }
   }
 ]
