@@ -1,38 +1,46 @@
 [
   {
-    "followers": 36726331,
-    "genre": "dance",
+    "followers": 673,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5",
-    "id": "5cj0lLjcoR7YOSnhnX0Po5",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8a0644455ebfa7d3976f5101",
-    "name": "Doja Cat",
+    "href": "https://open.spotify.com/artist/1cysTZK0UAVSjgyYDUWlk7",
+    "id": "1cysTZK0UAVSjgyYDUWlk7",
+    "image": "",
+    "name": "Goldsboro",
     "top_track": {
-      "href": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz",
-      "name": "Kiss Me More (feat. SZA)"
+      "href": "https://open.spotify.com/track/2mGYXQDK1Zs0GvW0FA0jly",
+      "name": "Cori Loves Darmanitan, Fashion, and Dinosaur"
     }
   },
   {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
+    "followers": 8386558,
+    "genre": "indie",
+    "genres": [
+      "alternative rock"
+    ],
+    "href": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu",
+    "id": "0C0XlULifJtAgn6ZNCW2eu",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a",
+    "name": "The Killers",
+    "top_track": {
+      "href": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B",
+      "name": "Mr. Brightside"
+    }
   },
   {
-    "followers": 40441072,
-    "genre": "soul",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm",
-    "id": "3fMbdgg4jU18AjLCKBhRSm",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd",
-    "name": "Michael Jackson",
+    "followers": 2171177,
+    "genre": "metal",
+    "genres": [
+      "metalcore",
+      "metal"
+    ],
+    "href": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl",
+    "id": "6MwPCCR936cYfM1dLsGVnl",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc8be85688d01fa50d372886e",
+    "name": "Motionless In White",
     "top_track": {
-      "href": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj",
-      "name": "Billie Jean"
+      "href": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr",
+      "name": "Afraid Of The Dark"
     }
   }
 ]
