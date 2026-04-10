@@ -1,46 +1,41 @@
 [
   {
-    "followers": 673,
-    "genre": "alternative",
+    "followers": 1,
+    "genre": "techno",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1cysTZK0UAVSjgyYDUWlk7",
-    "id": "1cysTZK0UAVSjgyYDUWlk7",
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
     "image": "",
-    "name": "Goldsboro",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 1632865,
+    "genre": "soul",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU",
+    "id": "53KwLdlmrlCelAZMaLVZqU",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebeea5ea7752893d8898dbd163",
+    "name": "James Blake",
     "top_track": {
-      "href": "https://open.spotify.com/track/2mGYXQDK1Zs0GvW0FA0jly",
-      "name": "Cori Loves Darmanitan, Fashion, and Dinosaur"
+      "href": "https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe",
+      "name": "Doesn't Just Happen"
     }
   },
   {
-    "followers": 8386558,
+    "followers": 6703663,
     "genre": "indie",
     "genres": [
-      "alternative rock"
+      "grunge",
+      "post-grunge"
     ],
-    "href": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu",
-    "id": "0C0XlULifJtAgn6ZNCW2eu",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a",
-    "name": "The Killers",
+    "href": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL",
+    "id": "64tNsm6TnZe2zpcMVMOoHL",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
+    "name": "Alice In Chains",
     "top_track": {
-      "href": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B",
-      "name": "Mr. Brightside"
-    }
-  },
-  {
-    "followers": 2171177,
-    "genre": "metal",
-    "genres": [
-      "metalcore",
-      "metal"
-    ],
-    "href": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl",
-    "id": "6MwPCCR936cYfM1dLsGVnl",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc8be85688d01fa50d372886e",
-    "name": "Motionless In White",
-    "top_track": {
-      "href": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr",
-      "name": "Afraid Of The Dark"
+      "href": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ",
+      "name": "Nutshell"
     }
   }
 ]
