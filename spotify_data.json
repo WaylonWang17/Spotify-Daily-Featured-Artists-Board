@@ -1,47 +1,33 @@
 [
   {
-    "followers": 6718,
-    "genre": "classical",
-    "genres": [
-      "medieval"
-    ],
-    "href": "https://open.spotify.com/artist/2OIlvh6Jpe9ZCD8VC1cQY7",
-    "id": "2OIlvh6Jpe9ZCD8VC1cQY7",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb63c27fafb477e5c1ecafc9c8",
-    "name": "Harmony Tales",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6d9lFZZlkQvvW01FoIne2x",
-      "name": "Eternal Dream"
-    }
-  },
-  {
-    "followers": 9846501,
-    "genre": "j-pop",
+    "followers": 67,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO",
-    "id": "7gW0r5CkdEUMm42w9XpyZO",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc751deb23ed62e7cadfb669a",
-    "name": "Laufey",
+    "href": "https://open.spotify.com/artist/6Va5kgOs0IWmpj0M3cEvAy",
+    "id": "6Va5kgOs0IWmpj0M3cEvAy",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb66c685a656e5be90d1ea715f",
+    "name": "Prince Geezy",
     "top_track": {
-      "href": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN",
-      "name": "From The Start"
+      "href": "https://open.spotify.com/track/04SjpMHcwpjtNo5xqXAUAN",
+      "name": "Ain't Gotta Go"
     }
   },
   {
-    "followers": 1227084,
+    "followers": 3481867,
     "genre": "folk",
     "genres": [
-      "indie folk",
-      "folk",
-      "folk pop"
+      "classic rock",
+      "folk rock",
+      "singer-songwriter",
+      "roots rock"
     ],
-    "href": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt",
-    "id": "5sXaGoRLSpd7VeyZrLkKwt",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4528d0f9bb51b241561a16f3",
-    "name": "Gregory Alan Isakov",
+    "href": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm",
+    "id": "6v8FB84lnmJs434UJf2Mrm",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbae8276dffd864ebac759b76",
+    "name": "Neil Young",
     "top_track": {
-      "href": "https://open.spotify.com/track/7gSZkeBr9Koc9Rfm3pp769",
-      "name": "Sweet Heat Lightning"
+      "href": "https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb",
+      "name": "Heart of Gold"
     }
   }
 ]
