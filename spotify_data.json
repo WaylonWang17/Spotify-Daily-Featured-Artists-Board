@@ -1,33 +1,33 @@
 [
   {
-    "followers": 67,
-    "genre": "rap",
+    "followers": 52537856,
+    "genre": "pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6Va5kgOs0IWmpj0M3cEvAy",
-    "id": "6Va5kgOs0IWmpj0M3cEvAy",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb66c685a656e5be90d1ea715f",
-    "name": "Prince Geezy",
+    "href": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG",
+    "id": "1McMsnEElThX1knmY4oliG",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb24bf95fba063cbca2f748462",
+    "name": "Olivia Rodrigo",
     "top_track": {
-      "href": "https://open.spotify.com/track/04SjpMHcwpjtNo5xqXAUAN",
-      "name": "Ain't Gotta Go"
+      "href": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT",
+      "name": "traitor"
     }
   },
   {
-    "followers": 3481867,
-    "genre": "folk",
+    "followers": 1022573,
+    "genre": "blues",
     "genres": [
-      "classic rock",
-      "folk rock",
-      "singer-songwriter",
-      "roots rock"
+      "blues",
+      "blues rock",
+      "modern blues",
+      "classic blues"
     ],
-    "href": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm",
-    "id": "6v8FB84lnmJs434UJf2Mrm",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebbae8276dffd864ebac759b76",
-    "name": "Neil Young",
+    "href": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ",
+    "id": "2SNzxY1OsSCHBLVi77mpPQ",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc3c63b0298a7db23423685ae",
+    "name": "Joe Bonamassa",
     "top_track": {
-      "href": "https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb",
-      "name": "Heart of Gold"
+      "href": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm",
+      "name": "Blues Deluxe"
     }
   }
 ]
