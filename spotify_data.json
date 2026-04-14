@@ -1,33 +1,47 @@
 [
   {
-    "followers": 52537856,
-    "genre": "pop",
+    "followers": 1827736,
+    "genre": "folk",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG",
-    "id": "1McMsnEElThX1knmY4oliG",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb24bf95fba063cbca2f748462",
-    "name": "Olivia Rodrigo",
+    "href": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS",
+    "id": "1GmsPCcpKgF9OhlNXjOsbS",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb912df0c93a5dc290d3c8816e",
+    "name": "Lizzy McAlpine",
     "top_track": {
-      "href": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT",
-      "name": "traitor"
+      "href": "https://open.spotify.com/track/3tcCT8WhAIeRW2Ey9M4bL5",
+      "name": "Staying"
     }
   },
   {
-    "followers": 1022573,
-    "genre": "blues",
+    "followers": 397089,
+    "genre": "reggae",
     "genres": [
-      "blues",
-      "blues rock",
-      "modern blues",
-      "classic blues"
+      "nz reggae",
+      "reggae"
     ],
-    "href": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ",
-    "id": "2SNzxY1OsSCHBLVi77mpPQ",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc3c63b0298a7db23423685ae",
-    "name": "Joe Bonamassa",
+    "href": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA",
+    "id": "6EKzehEG2fwJtRMH4KbjsA",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9e96d5930f3db2d124a91c4c",
+    "name": "Maoli",
     "top_track": {
-      "href": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm",
-      "name": "Blues Deluxe"
+      "href": "https://open.spotify.com/track/47NGRxSaEtJznNQ17dFg4c",
+      "name": "Every Night Every Morning"
+    }
+  },
+  {
+    "followers": 1906040,
+    "genre": "punk",
+    "genres": [
+      "emo",
+      "pop punk"
+    ],
+    "href": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s",
+    "id": "3Ayl7mCk0nScecqOzvNp6s",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe223ff60b74bbc40b04ce46c",
+    "name": "Jimmy Eat World",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO",
+      "name": "The Middle"
     }
   }
 ]
