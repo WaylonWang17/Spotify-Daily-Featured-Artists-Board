@@ -1,47 +1,31 @@
 [
   {
-    "followers": 1827736,
-    "genre": "folk",
+    "followers": 210,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS",
-    "id": "1GmsPCcpKgF9OhlNXjOsbS",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb912df0c93a5dc290d3c8816e",
-    "name": "Lizzy McAlpine",
+    "href": "https://open.spotify.com/artist/4YbRk8v96Z5sTTnMkn3dIu",
+    "id": "4YbRk8v96Z5sTTnMkn3dIu",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe6070c3cb13227f66861a366",
+    "name": "A.Y.U.",
     "top_track": {
-      "href": "https://open.spotify.com/track/3tcCT8WhAIeRW2Ey9M4bL5",
-      "name": "Staying"
+      "href": "https://open.spotify.com/track/17XJ5yoaPmRTyKLN4PY2w5",
+      "name": "Cypher"
     }
   },
   {
-    "followers": 397089,
-    "genre": "reggae",
+    "followers": 398388,
+    "genre": "blues",
     "genres": [
-      "nz reggae",
-      "reggae"
+      "modern blues",
+      "blues rock"
     ],
-    "href": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA",
-    "id": "6EKzehEG2fwJtRMH4KbjsA",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9e96d5930f3db2d124a91c4c",
-    "name": "Maoli",
+    "href": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a",
+    "id": "0FeWKiZSwBRdGzqeCdlH1a",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb61b1755ae106870fd27b03e0",
+    "name": "Marcus King",
     "top_track": {
-      "href": "https://open.spotify.com/track/47NGRxSaEtJznNQ17dFg4c",
-      "name": "Every Night Every Morning"
-    }
-  },
-  {
-    "followers": 1906040,
-    "genre": "punk",
-    "genres": [
-      "emo",
-      "pop punk"
-    ],
-    "href": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s",
-    "id": "3Ayl7mCk0nScecqOzvNp6s",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe223ff60b74bbc40b04ce46c",
-    "name": "Jimmy Eat World",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO",
-      "name": "The Middle"
+      "href": "https://open.spotify.com/track/0osQqNcvhl7pD6FtjOcT9T",
+      "name": "Sucker (from the series Arcane League of Legends)"
     }
   }
 ]
