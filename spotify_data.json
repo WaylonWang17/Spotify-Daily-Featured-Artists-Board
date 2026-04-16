@@ -1,31 +1,53 @@
 [
   {
-    "followers": 210,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4YbRk8v96Z5sTTnMkn3dIu",
-    "id": "4YbRk8v96Z5sTTnMkn3dIu",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe6070c3cb13227f66861a366",
-    "name": "A.Y.U.",
+    "followers": 6084714,
+    "genre": "folk",
+    "genres": [
+      "folk rock",
+      "folk"
+    ],
+    "href": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE",
+    "id": "70cRZdQywnSFp9pnc2WTCE",
+    "image": "https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6",
+    "name": "Simon \u0026 Garfunkel",
     "top_track": {
-      "href": "https://open.spotify.com/track/17XJ5yoaPmRTyKLN4PY2w5",
-      "name": "Cypher"
+      "href": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC",
+      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack"
     }
   },
   {
-    "followers": 398388,
-    "genre": "blues",
+    "followers": 3949550,
+    "genre": "j-pop",
     "genres": [
-      "modern blues",
-      "blues rock"
+      "j-pop",
+      "j-rock",
+      "kayōkyoku"
     ],
-    "href": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a",
-    "id": "0FeWKiZSwBRdGzqeCdlH1a",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb61b1755ae106870fd27b03e0",
-    "name": "Marcus King",
+    "href": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY",
+    "id": "1qma7XhwZotCAucL7NHVLY",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb41c848bbc09aaee85e93675d",
+    "name": "Mr.Children",
     "top_track": {
-      "href": "https://open.spotify.com/track/0osQqNcvhl7pD6FtjOcT9T",
-      "name": "Sucker (from the series Arcane League of Legends)"
+      "href": "https://open.spotify.com/track/1K2WDtqX9flfGGktr4sCRU",
+      "name": "Again"
+    }
+  },
+  {
+    "followers": 10454148,
+    "genre": "metal",
+    "genres": [
+      "nu metal",
+      "metal",
+      "rap metal",
+      "alternative metal"
+    ],
+    "href": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD",
+    "id": "3RNrq3jvMZxD9ZyoOZbQOD",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb29af2ffb6f4ddd6324f878bc",
+    "name": "Korn",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu",
+      "name": "Freak On a Leash"
     }
   }
 ]
