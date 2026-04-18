@@ -1,6 +1,27 @@
 [
   {
-    "followers": 32942403,
+    "followers": 15088965,
+    "genre": "latin",
+    "genres": [
+      "corrido",
+      "corridos tumbados",
+      "corridos bélicos",
+      "electro corridos",
+      "sierreño",
+      "dembow belico",
+      "música mexicana"
+    ],
+    "href": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG",
+    "id": "5eumcnUkdmGvkvcsx1WFNG",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6aaf8a0d393605e8489447f3",
+    "name": "Tito Double P",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC",
+      "name": "dopamina"
+    }
+  },
+  {
+    "followers": 32954635,
     "genre": "hip hop",
     "genres": [
       "rap"
@@ -12,32 +33,6 @@
     "top_track": {
       "href": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
       "name": "Flashing Lights"
-    }
-  },
-  {
-    "followers": 47,
-    "genre": "house",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
-    "id": "2KUI78zzOPJOCrDv3P4xnU",
-    "image": "",
-    "name": "Stereonova",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
-      "name": "Inutilmente"
-    }
-  },
-  {
-    "followers": 100,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/62oplEPd2xQBbhBbYtNX8i",
-    "id": "62oplEPd2xQBbhBbYtNX8i",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb34f373c874d2531d8c6bfe95",
-    "name": "Eterno",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6O3VurtVZbJ887E0QomQYP",
-      "name": "Déjame Solo"
     }
   }
 ]
