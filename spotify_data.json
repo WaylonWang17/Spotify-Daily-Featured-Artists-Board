@@ -1,38 +1,43 @@
 [
   {
-    "followers": 15088965,
-    "genre": "latin",
+    "followers": 2952348,
+    "genre": "jazz",
     "genres": [
-      "corrido",
-      "corridos tumbados",
-      "corridos bélicos",
-      "electro corridos",
-      "sierreño",
-      "dembow belico",
-      "música mexicana"
+      "acid jazz"
     ],
-    "href": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG",
-    "id": "5eumcnUkdmGvkvcsx1WFNG",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6aaf8a0d393605e8489447f3",
-    "name": "Tito Double P",
+    "href": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid",
+    "id": "6J7biCazzYhU3gM9j1wfid",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7e6dca959714339b69e9718d",
+    "name": "Jamiroquai",
     "top_track": {
-      "href": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC",
-      "name": "dopamina"
+      "href": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
+      "name": "Virtual Insanity - Remastered 2006"
     }
   },
   {
-    "followers": 32954635,
-    "genre": "hip hop",
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 7992306,
+    "genre": "latin",
     "genres": [
-      "rap"
+      "grupera",
+      "ranchera"
     ],
-    "href": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
-    "id": "5K4W6rqBFWDnAN6FQUkS6x",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
-    "name": "Kanye West",
+    "href": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3",
+    "id": "3YbOSxo85kla7RID8ugnW3",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb282bed40bfeb28455afeeed2",
+    "name": "Los Temerarios",
     "top_track": {
-      "href": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
-      "name": "Flashing Lights"
+      "href": "https://open.spotify.com/track/6jkEUTIKec0nXvXYC3HZdo",
+      "name": "Acepta Mi Error"
     }
   }
 ]
