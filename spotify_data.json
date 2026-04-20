@@ -1,43 +1,45 @@
 [
   {
-    "followers": 2952348,
-    "genre": "jazz",
-    "genres": [
-      "acid jazz"
-    ],
-    "href": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid",
-    "id": "6J7biCazzYhU3gM9j1wfid",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7e6dca959714339b69e9718d",
-    "name": "Jamiroquai",
+    "followers": 13384816,
+    "genre": "hip hop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk",
+    "id": "4r63FhuTkUYltbVAg5TQnk",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3552638b88297e6ec45a3934",
+    "name": "DaBaby",
     "top_track": {
-      "href": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
-      "name": "Virtual Insanity - Remastered 2006"
+      "href": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF",
+      "name": "Levitating (feat. DaBaby)"
     }
   },
   {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
+    "followers": 2668404,
+    "genre": "jazz",
+    "genres": [
+      "christmas",
+      "adult standards",
+      "vocal jazz"
+    ],
+    "href": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7",
+    "id": "7v4imS0moSyGdXyLgVTIV7",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9754b38c722fc1882174c874",
+    "name": "Nat King Cole",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy",
+      "name": "L-O-V-E"
+    }
   },
   {
-    "followers": 7992306,
-    "genre": "latin",
-    "genres": [
-      "grupera",
-      "ranchera"
-    ],
-    "href": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3",
-    "id": "3YbOSxo85kla7RID8ugnW3",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb282bed40bfeb28455afeeed2",
-    "name": "Los Temerarios",
+    "followers": 673,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1cysTZK0UAVSjgyYDUWlk7",
+    "id": "1cysTZK0UAVSjgyYDUWlk7",
+    "image": "",
+    "name": "Goldsboro",
     "top_track": {
-      "href": "https://open.spotify.com/track/6jkEUTIKec0nXvXYC3HZdo",
-      "name": "Acepta Mi Error"
+      "href": "https://open.spotify.com/track/2mGYXQDK1Zs0GvW0FA0jly",
+      "name": "Cori Loves Darmanitan, Fashion, and Dinosaur"
     }
   }
 ]
