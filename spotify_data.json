@@ -1,45 +1,46 @@
 [
   {
-    "followers": 13384816,
-    "genre": "hip hop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk",
-    "id": "4r63FhuTkUYltbVAg5TQnk",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3552638b88297e6ec45a3934",
-    "name": "DaBaby",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF",
-      "name": "Levitating (feat. DaBaby)"
-    }
-  },
-  {
-    "followers": 2668404,
-    "genre": "jazz",
+    "followers": 13514782,
+    "genre": "rock",
     "genres": [
-      "christmas",
-      "adult standards",
-      "vocal jazz"
+      "rock",
+      "post-grunge",
+      "alternative rock",
+      "grunge"
     ],
-    "href": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7",
-    "id": "7v4imS0moSyGdXyLgVTIV7",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9754b38c722fc1882174c874",
-    "name": "Nat King Cole",
+    "href": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD",
+    "id": "7jy3rLJdDQY21OgRLCZ9sD",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb1db35bc9c01d2b1c151e44ce",
+    "name": "Foo Fighters",
     "top_track": {
-      "href": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy",
-      "name": "L-O-V-E"
+      "href": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk",
+      "name": "Everlong"
     }
   },
   {
-    "followers": 673,
+    "followers": 13073677,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea",
+    "id": "4Uc8Dsxct0oMqx0P6i60ea",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4c2b62d4748524454a6f99b0",
+    "name": "Conan Gray",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA",
+      "name": "Heather"
+    }
+  },
+  {
+    "followers": 36,
     "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1cysTZK0UAVSjgyYDUWlk7",
-    "id": "1cysTZK0UAVSjgyYDUWlk7",
+    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
+    "id": "4kjS5eC0smSDzKaTxgAGPW",
     "image": "",
-    "name": "Goldsboro",
+    "name": "Take My Chances",
     "top_track": {
-      "href": "https://open.spotify.com/track/2mGYXQDK1Zs0GvW0FA0jly",
-      "name": "Cori Loves Darmanitan, Fashion, and Dinosaur"
+      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
+      "name": "Handy With The Tongue Sword"
     }
   }
 ]
