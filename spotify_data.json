@@ -1,46 +1,47 @@
 [
   {
-    "followers": 13514782,
-    "genre": "rock",
+    "followers": 1610198,
+    "genre": "jazz",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa",
+    "id": "4fwuXg6XQHfdlOdmw36OHa",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7265a79cf26c2e4b3fed8d66",
+    "name": "Paloma Faith",
+    "top_track": {
+      "href": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8",
+      "name": "Only Love Can Hurt Like This"
+    }
+  },
+  {
+    "followers": 16692539,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7",
+    "id": "31TPClRtHm23RisEBtV3X7",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7a5cfe2597665a3d160e805e",
+    "name": "Justin Timberlake",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR",
+      "name": "SexyBack (feat. Timbaland)"
+    }
+  },
+  {
+    "followers": 6460155,
+    "genre": "latin",
     "genres": [
-      "rock",
-      "post-grunge",
-      "alternative rock",
-      "grunge"
+      "sad sierreño",
+      "corridos tumbados",
+      "sierreño",
+      "música mexicana",
+      "corrido"
     ],
-    "href": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD",
-    "id": "7jy3rLJdDQY21OgRLCZ9sD",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb1db35bc9c01d2b1c151e44ce",
-    "name": "Foo Fighters",
+    "href": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV",
+    "id": "6PH3FLQAxtqYy46Zv08bpV",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0a052faab8058ca12cd9ff9b",
+    "name": "Ivan Cornejo",
     "top_track": {
-      "href": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk",
-      "name": "Everlong"
-    }
-  },
-  {
-    "followers": 13073677,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea",
-    "id": "4Uc8Dsxct0oMqx0P6i60ea",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4c2b62d4748524454a6f99b0",
-    "name": "Conan Gray",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA",
-      "name": "Heather"
-    }
-  },
-  {
-    "followers": 36,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
-    "id": "4kjS5eC0smSDzKaTxgAGPW",
-    "image": "",
-    "name": "Take My Chances",
-    "top_track": {
-      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
-      "name": "Handy With The Tongue Sword"
+      "href": "https://open.spotify.com/track/51sN3VDJBVmKJVgp0trc7M",
+      "name": "Atención"
     }
   }
 ]
