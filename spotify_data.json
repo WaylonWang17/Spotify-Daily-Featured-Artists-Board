@@ -1,47 +1,50 @@
 [
   {
-    "followers": 1610198,
-    "genre": "jazz",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa",
-    "id": "4fwuXg6XQHfdlOdmw36OHa",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7265a79cf26c2e4b3fed8d66",
-    "name": "Paloma Faith",
-    "top_track": {
-      "href": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8",
-      "name": "Only Love Can Hurt Like This"
-    }
-  },
-  {
-    "followers": 16692539,
-    "genre": "pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7",
-    "id": "31TPClRtHm23RisEBtV3X7",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7a5cfe2597665a3d160e805e",
-    "name": "Justin Timberlake",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR",
-      "name": "SexyBack (feat. Timbaland)"
-    }
-  },
-  {
-    "followers": 6460155,
-    "genre": "latin",
+    "followers": 1274640,
+    "genre": "rock",
     "genres": [
-      "sad sierreño",
-      "corridos tumbados",
-      "sierreño",
-      "música mexicana",
-      "corrido"
+      "red dirt",
+      "texas country",
+      "southern rock",
+      "country",
+      "outlaw country",
+      "country rock"
     ],
-    "href": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV",
-    "id": "6PH3FLQAxtqYy46Zv08bpV",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0a052faab8058ca12cd9ff9b",
-    "name": "Ivan Cornejo",
+    "href": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc",
+    "id": "26opZSJcXshCmCwxgZQmBc",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5404ec64bfa0bd5fb100ca1d",
+    "name": "Whiskey Myers",
     "top_track": {
-      "href": "https://open.spotify.com/track/51sN3VDJBVmKJVgp0trc7M",
-      "name": "Atención"
+      "href": "https://open.spotify.com/track/1VOSSXuWRcBj2rpfxNdX9v",
+      "name": "Broken Window Serenade"
+    }
+  },
+  {
+    "followers": 196853,
+    "genre": "reggae",
+    "genres": [
+      "musicals"
+    ],
+    "href": "https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5",
+    "id": "1gV480zBnPy4ktKHfHKxZ5",
+    "image": "https://i.scdn.co/image/ab67616d0000b273aab8e079e15c7ef2f9259814",
+    "name": "Cast of EPIC: The Musical",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1P6qJ2YZjVlsxO8JMiYUqw",
+      "name": "Wouldn't You Like"
+    }
+  },
+  {
+    "followers": 9318380,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX",
+    "id": "0cGUm45nv7Z6M6qdXYQGTX",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcf865d7d399a41e1bd036149",
+    "name": "Kehlani",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA",
+      "name": "Folded"
     }
   }
 ]
