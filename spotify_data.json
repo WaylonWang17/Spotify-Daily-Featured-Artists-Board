@@ -1,50 +1,39 @@
 [
   {
-    "followers": 1274640,
-    "genre": "rock",
-    "genres": [
-      "red dirt",
-      "texas country",
-      "southern rock",
-      "country",
-      "outlaw country",
-      "country rock"
-    ],
-    "href": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc",
-    "id": "26opZSJcXshCmCwxgZQmBc",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5404ec64bfa0bd5fb100ca1d",
-    "name": "Whiskey Myers",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1VOSSXuWRcBj2rpfxNdX9v",
-      "name": "Broken Window Serenade"
-    }
-  },
-  {
-    "followers": 196853,
-    "genre": "reggae",
-    "genres": [
-      "musicals"
-    ],
-    "href": "https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5",
-    "id": "1gV480zBnPy4ktKHfHKxZ5",
-    "image": "https://i.scdn.co/image/ab67616d0000b273aab8e079e15c7ef2f9259814",
-    "name": "Cast of EPIC: The Musical",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1P6qJ2YZjVlsxO8JMiYUqw",
-      "name": "Wouldn't You Like"
-    }
-  },
-  {
-    "followers": 9318380,
-    "genre": "r\u0026b",
+    "followers": 1,
+    "genre": "techno",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX",
-    "id": "0cGUm45nv7Z6M6qdXYQGTX",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcf865d7d399a41e1bd036149",
-    "name": "Kehlani",
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 2830342,
+    "genre": "j-pop",
+    "genres": [
+      "anime",
+      "j-pop",
+      "j-rock"
+    ],
+    "href": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm",
+    "id": "0bAsR2unSRpn6BQPEnNlZm",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebecb2f33d56d05407f877aa81",
+    "name": "Aimer",
     "top_track": {
-      "href": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA",
-      "name": "Folded"
+      "href": "https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB",
+      "name": "残響散歌"
     }
+  },
+  {
+    "followers": 509,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
+    "image": "",
+    "name": "Rutuu",
+    "top_track": null
   }
 ]
