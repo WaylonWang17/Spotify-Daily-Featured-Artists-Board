@@ -1,39 +1,44 @@
 [
   {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
-  },
-  {
-    "followers": 2830342,
-    "genre": "j-pop",
+    "followers": 92069,
+    "genre": "reggae",
     "genres": [
-      "anime",
-      "j-pop",
-      "j-rock"
+      "reggae rock",
+      "reggae"
     ],
-    "href": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm",
-    "id": "0bAsR2unSRpn6BQPEnNlZm",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebecb2f33d56d05407f877aa81",
-    "name": "Aimer",
+    "href": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK",
+    "id": "5V46QXboFTCK5MP40SwVRK",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebec198b9be245ee0ec512877d",
+    "name": "The Hip Abduction",
     "top_track": {
-      "href": "https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB",
-      "name": "残響散歌"
+      "href": "https://open.spotify.com/track/63iwhg49U6FgWtTDzkEVnL",
+      "name": "Pacific Coast Highway (with Trevor Hall) - Reggae Remix"
     }
   },
   {
-    "followers": 509,
-    "genre": "alternative",
+    "followers": 57,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
-    "image": "",
-    "name": "Rutuu",
-    "top_track": null
+    "href": "https://open.spotify.com/artist/4Oap3iRWhYGPCJrjFvUeKH",
+    "id": "4Oap3iRWhYGPCJrjFvUeKH",
+    "image": "https://i.scdn.co/image/ab67616d0000b27325d7c574bd3452b646362119",
+    "name": "Braga",
+    "top_track": {
+      "href": "https://open.spotify.com/track/03jx9eGVNYksRW603oTLHl",
+      "name": "Topo"
+    }
+  },
+  {
+    "followers": 6,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1TgOtex5r4mum892K30yxJ",
+    "id": "1TgOtex5r4mum892K30yxJ",
+    "image": "https://i.scdn.co/image/ab67616d0000b273bdc7f65f763946593ed6c8ae",
+    "name": "Bibhash",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2G2UhaTCvolVRaxl0eon8S",
+      "name": "Duba Re Dil Tore Pyar Me"
+    }
   }
 ]
