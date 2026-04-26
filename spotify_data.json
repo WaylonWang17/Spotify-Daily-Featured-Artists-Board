@@ -1,44 +1,35 @@
 [
   {
-    "followers": 92069,
-    "genre": "reggae",
-    "genres": [
-      "reggae rock",
-      "reggae"
-    ],
-    "href": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK",
-    "id": "5V46QXboFTCK5MP40SwVRK",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebec198b9be245ee0ec512877d",
-    "name": "The Hip Abduction",
-    "top_track": {
-      "href": "https://open.spotify.com/track/63iwhg49U6FgWtTDzkEVnL",
-      "name": "Pacific Coast Highway (with Trevor Hall) - Reggae Remix"
-    }
+    "followers": 9,
+    "genre": "house",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
+    "id": "6RIYo7z2qQimAwsKtIM6JY",
+    "image": "",
+    "name": "DJ Yayyay",
+    "top_track": null
   },
   {
-    "followers": 57,
+    "followers": 25,
     "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4Oap3iRWhYGPCJrjFvUeKH",
-    "id": "4Oap3iRWhYGPCJrjFvUeKH",
-    "image": "https://i.scdn.co/image/ab67616d0000b27325d7c574bd3452b646362119",
-    "name": "Braga",
-    "top_track": {
-      "href": "https://open.spotify.com/track/03jx9eGVNYksRW603oTLHl",
-      "name": "Topo"
-    }
+    "href": "https://open.spotify.com/artist/42740LBMj53t98kRJHjvRQ",
+    "id": "42740LBMj53t98kRJHjvRQ",
+    "image": "",
+    "name": "Doreno",
+    "top_track": null
   },
   {
-    "followers": 6,
-    "genre": "k-pop",
+    "followers": 26389088,
+    "genre": "punk",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1TgOtex5r4mum892K30yxJ",
-    "id": "1TgOtex5r4mum892K30yxJ",
-    "image": "https://i.scdn.co/image/ab67616d0000b273bdc7f65f763946593ed6c8ae",
-    "name": "Bibhash",
+    "href": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx",
+    "id": "3YQKmKGau1PzlVlkL1iodx",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb61a7ea26d33ded218cd1e59d",
+    "name": "Twenty One Pilots",
     "top_track": {
-      "href": "https://open.spotify.com/track/2G2UhaTCvolVRaxl0eon8S",
-      "name": "Duba Re Dil Tore Pyar Me"
+      "href": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn",
+      "name": "Stressed Out"
     }
   }
 ]
