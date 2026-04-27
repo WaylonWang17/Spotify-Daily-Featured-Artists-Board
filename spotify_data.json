@@ -1,35 +1,36 @@
 [
   {
-    "followers": 9,
-    "genre": "house",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6RIYo7z2qQimAwsKtIM6JY",
-    "id": "6RIYo7z2qQimAwsKtIM6JY",
-    "image": "",
-    "name": "DJ Yayyay",
-    "top_track": null
-  },
-  {
-    "followers": 25,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/42740LBMj53t98kRJHjvRQ",
-    "id": "42740LBMj53t98kRJHjvRQ",
-    "image": "",
-    "name": "Doreno",
-    "top_track": null
-  },
-  {
-    "followers": 26389088,
-    "genre": "punk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx",
-    "id": "3YQKmKGau1PzlVlkL1iodx",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb61a7ea26d33ded218cd1e59d",
-    "name": "Twenty One Pilots",
+    "followers": 3653105,
+    "genre": "rock",
+    "genres": [
+      "reggae rock",
+      "ska punk",
+      "ska"
+    ],
+    "href": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J",
+    "id": "0EdvGhlC1FkGItLOWQzG4J",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe726280500259dbdb97a8be4",
+    "name": "Sublime",
     "top_track": {
-      "href": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn",
-      "name": "Stressed Out"
+      "href": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f",
+      "name": "Santeria"
+    }
+  },
+  {
+    "followers": 2679304,
+    "genre": "punk",
+    "genres": [
+      "emo",
+      "post-hardcore",
+      "screamo"
+    ],
+    "href": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA",
+    "id": "3N8Hy6xQnQv1F1XCiyGQqA",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb158c15958b0b6bd270a11fbc",
+    "name": "Sleeping With Sirens",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2Tc9VznHtQUmfOgE3L1RdN",
+      "name": "If You Can't Hang"
     }
   }
 ]
