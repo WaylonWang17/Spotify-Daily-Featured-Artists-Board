@@ -1,36 +1,50 @@
 [
   {
-    "followers": 3653105,
-    "genre": "rock",
+    "followers": 7210306,
+    "genre": "indie",
     "genres": [
-      "reggae rock",
-      "ska punk",
-      "ska"
+      "new wave",
+      "post-punk",
+      "gothic rock",
+      "darkwave"
     ],
-    "href": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J",
-    "id": "0EdvGhlC1FkGItLOWQzG4J",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe726280500259dbdb97a8be4",
-    "name": "Sublime",
+    "href": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s",
+    "id": "7bu3H8JO7d0UbMoVzbo70s",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebdd427c765c409ec02dc3a868",
+    "name": "The Cure",
     "top_track": {
-      "href": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f",
-      "name": "Santeria"
+      "href": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375",
+      "name": "Boys Don't Cry - Single Version"
     }
   },
   {
-    "followers": 2679304,
-    "genre": "punk",
+    "followers": 3606108,
+    "genre": "country",
     "genres": [
-      "emo",
-      "post-hardcore",
-      "screamo"
+      "country",
+      "country christian",
+      "classic country"
     ],
-    "href": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA",
-    "id": "3N8Hy6xQnQv1F1XCiyGQqA",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb158c15958b0b6bd270a11fbc",
-    "name": "Sleeping With Sirens",
+    "href": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS",
+    "id": "4mxWe1mtYIYfP040G38yvS",
+    "image": "https://i.scdn.co/image/ab6772690000c46c1dce50b93ca0b1e2f459d9e6",
+    "name": "Alan Jackson",
     "top_track": {
-      "href": "https://open.spotify.com/track/2Tc9VznHtQUmfOgE3L1RdN",
-      "name": "If You Can't Hang"
+      "href": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm",
+      "name": "Chattahoochee"
+    }
+  },
+  {
+    "followers": 673,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1cysTZK0UAVSjgyYDUWlk7",
+    "id": "1cysTZK0UAVSjgyYDUWlk7",
+    "image": "",
+    "name": "Goldsboro",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2mGYXQDK1Zs0GvW0FA0jly",
+      "name": "Cori Loves Darmanitan, Fashion, and Dinosaur"
     }
   }
 ]
