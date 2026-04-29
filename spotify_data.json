@@ -1,50 +1,46 @@
 [
   {
-    "followers": 7210306,
+    "followers": 2817774,
+    "genre": "classical",
+    "genres": [
+      "new age",
+      "celtic"
+    ],
+    "href": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4",
+    "id": "6uothxMWeLWIhsGeF7cyo4",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9ce996547e0b307c94f662e6",
+    "name": "Enya",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5KZ4DC772dYcRBAizx0yYk",
+      "name": "Caribbean Blue - 2009 Remaster"
+    }
+  },
+  {
+    "followers": 34918871,
+    "genre": "dance",
+    "genres": [
+      "edm"
+    ],
+    "href": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T",
+    "id": "64KEffDW9EtZ1y2vBYgq8T",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfa62d7b4d09a4ea9b4c5f05d",
+    "name": "Marshmello",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1",
+      "name": "Happier"
+    }
+  },
+  {
+    "followers": 2163524,
     "genre": "indie",
-    "genres": [
-      "new wave",
-      "post-punk",
-      "gothic rock",
-      "darkwave"
-    ],
-    "href": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s",
-    "id": "7bu3H8JO7d0UbMoVzbo70s",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebdd427c765c409ec02dc3a868",
-    "name": "The Cure",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375",
-      "name": "Boys Don't Cry - Single Version"
-    }
-  },
-  {
-    "followers": 3606108,
-    "genre": "country",
-    "genres": [
-      "country",
-      "country christian",
-      "classic country"
-    ],
-    "href": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS",
-    "id": "4mxWe1mtYIYfP040G38yvS",
-    "image": "https://i.scdn.co/image/ab6772690000c46c1dce50b93ca0b1e2f459d9e6",
-    "name": "Alan Jackson",
-    "top_track": {
-      "href": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm",
-      "name": "Chattahoochee"
-    }
-  },
-  {
-    "followers": 673,
-    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1cysTZK0UAVSjgyYDUWlk7",
-    "id": "1cysTZK0UAVSjgyYDUWlk7",
-    "image": "",
-    "name": "Goldsboro",
+    "href": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo",
+    "id": "1iCnM8foFssWlPRLfAbIwo",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd58f13475be93b37bb63893f",
+    "name": "Gigi Perez",
     "top_track": {
-      "href": "https://open.spotify.com/track/2mGYXQDK1Zs0GvW0FA0jly",
-      "name": "Cori Loves Darmanitan, Fashion, and Dinosaur"
+      "href": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap",
+      "name": "Sailor Song"
     }
   }
 ]
