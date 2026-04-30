@@ -1,46 +1,44 @@
 [
   {
-    "followers": 2817774,
-    "genre": "classical",
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 605870,
+    "genre": "j-pop",
     "genres": [
-      "new age",
-      "celtic"
+      "j-pop"
     ],
-    "href": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4",
-    "id": "6uothxMWeLWIhsGeF7cyo4",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9ce996547e0b307c94f662e6",
-    "name": "Enya",
+    "href": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP",
+    "id": "4wCW8kZ8LL7QIdcE8EOKPP",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb822a23f850972ba0b9075ecd",
+    "name": "BE:FIRST",
     "top_track": {
-      "href": "https://open.spotify.com/track/5KZ4DC772dYcRBAizx0yYk",
-      "name": "Caribbean Blue - 2009 Remaster"
+      "href": "https://open.spotify.com/track/7KNY1e9x1MDvpBAmIAN3tz",
+      "name": "夢中"
     }
   },
   {
-    "followers": 34918871,
+    "followers": 2577858,
     "genre": "dance",
     "genres": [
+      "stutter house",
+      "house",
       "edm"
     ],
-    "href": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T",
-    "id": "64KEffDW9EtZ1y2vBYgq8T",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebfa62d7b4d09a4ea9b4c5f05d",
-    "name": "Marshmello",
+    "href": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe",
+    "id": "4oLeXFyACqeem2VImYeBFe",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb381c41adc678e4ce864eb274",
+    "name": "Fred again..",
     "top_track": {
-      "href": "https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1",
-      "name": "Happier"
-    }
-  },
-  {
-    "followers": 2163524,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo",
-    "id": "1iCnM8foFssWlPRLfAbIwo",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd58f13475be93b37bb63893f",
-    "name": "Gigi Perez",
-    "top_track": {
-      "href": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap",
-      "name": "Sailor Song"
+      "href": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP",
+      "name": "Victory Lap"
     }
   }
 ]
