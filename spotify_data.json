@@ -1,44 +1,49 @@
 [
   {
-    "followers": 1,
-    "genre": "techno",
+    "followers": 47,
+    "genre": "house",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
+    "id": "2KUI78zzOPJOCrDv3P4xnU",
     "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
-  },
-  {
-    "followers": 605870,
-    "genre": "j-pop",
-    "genres": [
-      "j-pop"
-    ],
-    "href": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP",
-    "id": "4wCW8kZ8LL7QIdcE8EOKPP",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb822a23f850972ba0b9075ecd",
-    "name": "BE:FIRST",
+    "name": "Stereonova",
     "top_track": {
-      "href": "https://open.spotify.com/track/7KNY1e9x1MDvpBAmIAN3tz",
-      "name": "夢中"
+      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
+      "name": "Inutilmente"
     }
   },
   {
-    "followers": 2577858,
-    "genre": "dance",
+    "followers": 13261991,
+    "genre": "hip hop",
     "genres": [
-      "stutter house",
-      "house",
-      "edm"
+      "tamil hip hop",
+      "tamil pop",
+      "kollywood",
+      "tamil dance",
+      "tamil indie"
     ],
-    "href": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe",
-    "id": "4oLeXFyACqeem2VImYeBFe",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb381c41adc678e4ce864eb274",
-    "name": "Fred again..",
+    "href": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q",
+    "id": "7zFBW2JxM4bgTTKxCRcS8Q",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb67a9c256bee82482d82f2716",
+    "name": "Hiphop Tamizha",
     "top_track": {
-      "href": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP",
-      "name": "Victory Lap"
+      "href": "https://open.spotify.com/track/4UxNXDaE5bCaNhiPEtHsHx",
+      "name": "Aura 10/10 (From \"Meesaya Murukku 2\")"
+    }
+  },
+  {
+    "followers": 637989,
+    "genre": "soul",
+    "genres": [
+      "dark r\u0026b"
+    ],
+    "href": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6",
+    "id": "7LVC96BEVGugTAp38AajV6",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb47a65f889ae6db1fc109f1f0",
+    "name": "Lithe",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7sEnjOJydpPeYjt2csODOj",
+      "name": "Cannonball (feat. Don Toliver)"
     }
   }
 ]
