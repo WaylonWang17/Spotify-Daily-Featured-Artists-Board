@@ -1,49 +1,54 @@
 [
   {
-    "followers": 47,
-    "genre": "house",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
-    "id": "2KUI78zzOPJOCrDv3P4xnU",
-    "image": "",
-    "name": "Stereonova",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
-      "name": "Inutilmente"
-    }
-  },
-  {
-    "followers": 13261991,
+    "followers": 543097,
     "genre": "hip hop",
     "genres": [
-      "tamil hip hop",
-      "tamil pop",
-      "kollywood",
-      "tamil dance",
-      "tamil indie"
+      "j-rap",
+      "hip hop"
     ],
-    "href": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q",
-    "id": "7zFBW2JxM4bgTTKxCRcS8Q",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb67a9c256bee82482d82f2716",
-    "name": "Hiphop Tamizha",
+    "href": "https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2",
+    "id": "3FCZbxRcaSgYfklG2HCFh2",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc698767fca74c57fc23c3ec3",
+    "name": "BAD HOP",
     "top_track": {
-      "href": "https://open.spotify.com/track/4UxNXDaE5bCaNhiPEtHsHx",
-      "name": "Aura 10/10 (From \"Meesaya Murukku 2\")"
+      "href": "https://open.spotify.com/track/2Ge6tpzWlMT4Sgdkp7paVX",
+      "name": "High Land (feat. Tiji Jojo, Vingo \u0026 YZERR)"
     }
   },
   {
-    "followers": 637989,
-    "genre": "soul",
+    "followers": 4581235,
+    "genre": "punk",
     "genres": [
-      "dark r\u0026b"
+      "emo",
+      "rap metal"
     ],
-    "href": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6",
-    "id": "7LVC96BEVGugTAp38AajV6",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb47a65f889ae6db1fc109f1f0",
-    "name": "Lithe",
+    "href": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz",
+    "id": "2CmaKO2zEGJ1NWpS1yfVGz",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4a733f510df96652c3bea05b",
+    "name": "Falling In Reverse",
     "top_track": {
-      "href": "https://open.spotify.com/track/7sEnjOJydpPeYjt2csODOj",
-      "name": "Cannonball (feat. Don Toliver)"
+      "href": "https://open.spotify.com/track/4myFsmx2v6znDOJfn3IkbD",
+      "name": "Popular Monster"
+    }
+  },
+  {
+    "followers": 19821940,
+    "genre": "latin",
+    "genres": [
+      "banda",
+      "norteño",
+      "grupera",
+      "música mexicana",
+      "ranchera",
+      "corrido"
+    ],
+    "href": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh",
+    "id": "2C6i0I5RiGzDKN9IAF8reh",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf49a3377cacbeb4fc157949d",
+    "name": "Banda MS de Sergio Lizárraga",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1ugCJElyPMmDj2FYPgbD4d",
+      "name": "A Lo Mejor"
     }
   }
 ]
