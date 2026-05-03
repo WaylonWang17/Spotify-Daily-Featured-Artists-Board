@@ -1,54 +1,34 @@
 [
   {
-    "followers": 543097,
-    "genre": "hip hop",
+    "followers": 22168589,
+    "genre": "folk",
     "genres": [
-      "j-rap",
-      "hip hop"
-    ],
-    "href": "https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2",
-    "id": "3FCZbxRcaSgYfklG2HCFh2",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc698767fca74c57fc23c3ec3",
-    "name": "BAD HOP",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2Ge6tpzWlMT4Sgdkp7paVX",
-      "name": "High Land (feat. Tiji Jojo, Vingo \u0026 YZERR)"
-    }
-  },
-  {
-    "followers": 4581235,
-    "genre": "punk",
-    "genres": [
-      "emo",
-      "rap metal"
-    ],
-    "href": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz",
-    "id": "2CmaKO2zEGJ1NWpS1yfVGz",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4a733f510df96652c3bea05b",
-    "name": "Falling In Reverse",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4myFsmx2v6znDOJfn3IkbD",
-      "name": "Popular Monster"
-    }
-  },
-  {
-    "followers": 19821940,
-    "genre": "latin",
-    "genres": [
-      "banda",
-      "norteño",
-      "grupera",
-      "música mexicana",
+      "mariachi",
+      "bolero",
+      "latin pop",
       "ranchera",
-      "corrido"
+      "villancicos"
     ],
-    "href": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh",
-    "id": "2C6i0I5RiGzDKN9IAF8reh",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf49a3377cacbeb4fc157949d",
-    "name": "Banda MS de Sergio Lizárraga",
+    "href": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW",
+    "id": "2nszmSgqreHSdJA3zWPyrW",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
+    "name": "Luis Miguel",
     "top_track": {
-      "href": "https://open.spotify.com/track/1ugCJElyPMmDj2FYPgbD4d",
-      "name": "A Lo Mejor"
+      "href": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E",
+      "name": "Ahora Te Puedes Marchar"
+    }
+  },
+  {
+    "followers": 4450267,
+    "genre": "soul",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE",
+    "id": "67nwj3Y5sZQLl72VNUHEYE",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb273bdadffd7138dcbd7b79c3",
+    "name": "Wale",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5yhKaacMZGRo4s6evJx9vk",
+      "name": "Bad (feat. Rihanna) - Remix"
     }
   }
 ]
