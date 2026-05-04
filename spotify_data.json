@@ -1,34 +1,38 @@
 [
   {
-    "followers": 22168589,
-    "genre": "folk",
-    "genres": [
-      "mariachi",
-      "bolero",
-      "latin pop",
-      "ranchera",
-      "villancicos"
-    ],
-    "href": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW",
-    "id": "2nszmSgqreHSdJA3zWPyrW",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6481401e529e475116702a29",
-    "name": "Luis Miguel",
+    "followers": 1258144,
+    "genre": "classical",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA",
+    "id": "4rF7c8zpCKzuSXohs2HIpA",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5821a955623f4b2b76efdbaf",
+    "name": "Steven Universe",
     "top_track": {
-      "href": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E",
-      "name": "Ahora Te Puedes Marchar"
+      "href": "https://open.spotify.com/track/3z9OnsnvM6SFN2dzrSDdVO",
+      "name": "Love Like You (feat. Rebecca Sugar) - End Credits"
     }
   },
   {
-    "followers": 4450267,
-    "genre": "soul",
+    "followers": 117,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE",
-    "id": "67nwj3Y5sZQLl72VNUHEYE",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb273bdadffd7138dcbd7b79c3",
-    "name": "Wale",
+    "href": "https://open.spotify.com/artist/3ubnIIy4W4LSpsdaKRsuki",
+    "id": "3ubnIIy4W4LSpsdaKRsuki",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb86119a9a453cdc2402b5a83e",
+    "name": "BabyBoiG",
+    "top_track": null
+  },
+  {
+    "followers": 1708383,
+    "genre": "country",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH",
+    "id": "3y2cIKLjiOlp1Np37WiUdH",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebeb786bf6ceec60d49c2f39f0",
+    "name": "Shaboozey",
     "top_track": {
-      "href": "https://open.spotify.com/track/5yhKaacMZGRo4s6evJx9vk",
-      "name": "Bad (feat. Rihanna) - Remix"
+      "href": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K",
+      "name": "A Bar Song (Tipsy)"
     }
   }
 ]
