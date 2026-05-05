@@ -1,38 +1,44 @@
 [
   {
-    "followers": 1258144,
-    "genre": "classical",
+    "followers": 4905757,
+    "genre": "indie",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA",
-    "id": "4rF7c8zpCKzuSXohs2HIpA",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5821a955623f4b2b76efdbaf",
-    "name": "Steven Universe",
+    "href": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32",
+    "id": "5y8tKLUfMvliMe8IKamR32",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebee632cde061121a5fe48c1d6",
+    "name": "d4vd",
     "top_track": {
-      "href": "https://open.spotify.com/track/3z9OnsnvM6SFN2dzrSDdVO",
-      "name": "Love Like You (feat. Rebecca Sugar) - End Credits"
+      "href": "https://open.spotify.com/track/51TCxtQ1u4Qi655ekjDCZD",
+      "name": "Feel It"
     }
   },
   {
-    "followers": 117,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3ubnIIy4W4LSpsdaKRsuki",
-    "id": "3ubnIIy4W4LSpsdaKRsuki",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb86119a9a453cdc2402b5a83e",
-    "name": "BabyBoiG",
-    "top_track": null
+    "followers": 480150,
+    "genre": "classical",
+    "genres": [
+      "score",
+      "soundtrack"
+    ],
+    "href": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL",
+    "id": "24eDfi2MSYo3A87hCcgpIL",
+    "image": "https://i.scdn.co/image/e7a97b420e09f4f125cd3e14fca5e7ea174e74e0",
+    "name": "Ludwig Göransson",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA",
+      "name": "Can You Hear The Music"
+    }
   },
   {
-    "followers": 1708383,
+    "followers": 9492143,
     "genre": "country",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH",
-    "id": "3y2cIKLjiOlp1Np37WiUdH",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebeb786bf6ceec60d49c2f39f0",
-    "name": "Shaboozey",
+    "href": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS",
+    "id": "2FXC3k01G6Gw61bmprjgqS",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a",
+    "name": "Hozier",
     "top_track": {
-      "href": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K",
-      "name": "A Bar Song (Tipsy)"
+      "href": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5",
+      "name": "Too Sweet"
     }
   }
 ]
