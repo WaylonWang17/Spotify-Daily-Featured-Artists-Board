@@ -1,44 +1,52 @@
 [
   {
-    "followers": 4905757,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32",
-    "id": "5y8tKLUfMvliMe8IKamR32",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebee632cde061121a5fe48c1d6",
-    "name": "d4vd",
-    "top_track": {
-      "href": "https://open.spotify.com/track/51TCxtQ1u4Qi655ekjDCZD",
-      "name": "Feel It"
-    }
-  },
-  {
-    "followers": 480150,
-    "genre": "classical",
+    "followers": 40488254,
+    "genre": "latin",
     "genres": [
-      "score",
-      "soundtrack"
+      "reggaeton",
+      "latin",
+      "urbano latino"
     ],
-    "href": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL",
-    "id": "24eDfi2MSYo3A87hCcgpIL",
-    "image": "https://i.scdn.co/image/e7a97b420e09f4f125cd3e14fca5e7ea174e74e0",
-    "name": "Ludwig Göransson",
+    "href": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau",
+    "id": "1r4hJ1h58CWwUQe3MxPuau",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
+    "name": "Maluma",
     "top_track": {
-      "href": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA",
-      "name": "Can You Hear The Music"
+      "href": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN",
+      "name": "Borro Cassette"
     }
   },
   {
-    "followers": 9492143,
-    "genre": "country",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS",
-    "id": "2FXC3k01G6Gw61bmprjgqS",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a",
-    "name": "Hozier",
+    "followers": 716492,
+    "genre": "punk",
+    "genres": [
+      "hyperpop",
+      "electroclash"
+    ],
+    "href": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG",
+    "id": "72NhFAGG5Pt91VbheJeEPG",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb9985019fc44017baaa671ab",
+    "name": "2hollis",
     "top_track": {
-      "href": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5",
-      "name": "Too Sweet"
+      "href": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ",
+      "name": "poster boy"
+    }
+  },
+  {
+    "followers": 4733414,
+    "genre": "metal",
+    "genres": [
+      "post-grunge",
+      "alternative metal",
+      "rock"
+    ],
+    "href": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI",
+    "id": "70BYFdaZbEKbeauJ670ysI",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcf14abc10b18bc3c2373491f",
+    "name": "Shinedown",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0CwYG1UnRmOx8Q1EzElCIL",
+      "name": "Second Chance"
     }
   }
 ]
