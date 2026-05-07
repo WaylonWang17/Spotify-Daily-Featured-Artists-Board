@@ -1,52 +1,51 @@
 [
   {
-    "followers": 40488254,
-    "genre": "latin",
+    "followers": 2966052,
+    "genre": "folk",
     "genres": [
-      "reggaeton",
-      "latin",
-      "urbano latino"
+      "folk rock",
+      "singer-songwriter",
+      "soft rock"
     ],
-    "href": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau",
-    "id": "1r4hJ1h58CWwUQe3MxPuau",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
-    "name": "Maluma",
+    "href": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P",
+    "id": "0vn7UBvSQECKJm2817Yf1P",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5921cb8f2ec7bf6b5e725bcc",
+    "name": "James Taylor",
     "top_track": {
-      "href": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN",
-      "name": "Borro Cassette"
+      "href": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO",
+      "name": "Fire and Rain - 2019 Remaster"
     }
   },
   {
-    "followers": 716492,
-    "genre": "punk",
+    "followers": 12734356,
+    "genre": "rock",
     "genres": [
-      "hyperpop",
-      "electroclash"
+      "classic rock",
+      "yacht rock",
+      "soft rock"
     ],
-    "href": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG",
-    "id": "72NhFAGG5Pt91VbheJeEPG",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb9985019fc44017baaa671ab",
-    "name": "2hollis",
+    "href": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL",
+    "id": "0ECwFtbIWEVNwjlrfc6xoL",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb",
+    "name": "Eagles",
     "top_track": {
-      "href": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ",
-      "name": "poster boy"
+      "href": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv",
+      "name": "Hotel California - 2013 Remaster"
     }
   },
   {
-    "followers": 4733414,
-    "genre": "metal",
+    "followers": 34941831,
+    "genre": "dance",
     "genres": [
-      "post-grunge",
-      "alternative metal",
-      "rock"
+      "edm"
     ],
-    "href": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI",
-    "id": "70BYFdaZbEKbeauJ670ysI",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcf14abc10b18bc3c2373491f",
-    "name": "Shinedown",
+    "href": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T",
+    "id": "64KEffDW9EtZ1y2vBYgq8T",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfa62d7b4d09a4ea9b4c5f05d",
+    "name": "Marshmello",
     "top_track": {
-      "href": "https://open.spotify.com/track/0CwYG1UnRmOx8Q1EzElCIL",
-      "name": "Second Chance"
+      "href": "https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1",
+      "name": "Happier"
     }
   }
 ]
