@@ -1,51 +1,46 @@
 [
   {
-    "followers": 2966052,
-    "genre": "folk",
+    "followers": 5050209,
+    "genre": "country",
     "genres": [
-      "folk rock",
-      "singer-songwriter",
-      "soft rock"
+      "country"
     ],
-    "href": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P",
-    "id": "0vn7UBvSQECKJm2817Yf1P",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5921cb8f2ec7bf6b5e725bcc",
-    "name": "James Taylor",
+    "href": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O",
+    "id": "3grHWM9bx2E9vwJCdlRv9O",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb472bbba543d587e59d769178",
+    "name": "Kenny Chesney",
     "top_track": {
-      "href": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO",
-      "name": "Fire and Rain - 2019 Remaster"
+      "href": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV",
+      "name": "American Kids"
     }
   },
   {
-    "followers": 12734356,
-    "genre": "rock",
-    "genres": [
-      "classic rock",
-      "yacht rock",
-      "soft rock"
-    ],
-    "href": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL",
-    "id": "0ECwFtbIWEVNwjlrfc6xoL",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb",
-    "name": "Eagles",
+    "followers": 10127261,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO",
+    "id": "7gW0r5CkdEUMm42w9XpyZO",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc751deb23ed62e7cadfb669a",
+    "name": "Laufey",
     "top_track": {
-      "href": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv",
-      "name": "Hotel California - 2013 Remaster"
+      "href": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN",
+      "name": "From The Start"
     }
   },
   {
-    "followers": 34941831,
-    "genre": "dance",
+    "followers": 15539,
+    "genre": "jazz",
     "genres": [
-      "edm"
+      "jazz",
+      "ambient jazz"
     ],
-    "href": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T",
-    "id": "64KEffDW9EtZ1y2vBYgq8T",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebfa62d7b4d09a4ea9b4c5f05d",
-    "name": "Marshmello",
+    "href": "https://open.spotify.com/artist/2b9qemp1Y8NuEbY4RMYHY1",
+    "id": "2b9qemp1Y8NuEbY4RMYHY1",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe2850af480173596cefd48c1",
+    "name": "Jazzy Coffee",
     "top_track": {
-      "href": "https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1",
-      "name": "Happier"
+      "href": "https://open.spotify.com/track/68VraGrtliBhItjbOs3Gao",
+      "name": "Jazz and Sentimental"
     }
   }
 ]
