@@ -1,46 +1,54 @@
 [
   {
-    "followers": 5050209,
-    "genre": "country",
+    "followers": 873953,
+    "genre": "classical",
     "genres": [
-      "country"
+      "classical",
+      "classical piano",
+      "concerto"
     ],
-    "href": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O",
-    "id": "3grHWM9bx2E9vwJCdlRv9O",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb472bbba543d587e59d769178",
-    "name": "Kenny Chesney",
+    "href": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51",
+    "id": "0Kekt6CKSo0m5mivKcoH51",
+    "image": "https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59",
+    "name": "Sergei Rachmaninoff",
     "top_track": {
-      "href": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV",
-      "name": "American Kids"
+      "href": "https://open.spotify.com/track/4ObQ0m7VUtrgdEwpFeCKua",
+      "name": "12 Songs, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)"
     }
   },
   {
-    "followers": 10127261,
-    "genre": "pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO",
-    "id": "7gW0r5CkdEUMm42w9XpyZO",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc751deb23ed62e7cadfb669a",
-    "name": "Laufey",
+    "followers": 13177075,
+    "genre": "hip hop",
+    "genres": [
+      "rap",
+      "trap",
+      "melodic rap"
+    ],
+    "href": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn",
+    "id": "50co4Is1HCEo8bhOyUWKpn",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9f2fb33940aac624dc5d100d",
+    "name": "Young Thug",
     "top_track": {
-      "href": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN",
-      "name": "From The Start"
+      "href": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J",
+      "name": "Trance (with Travis Scott \u0026 Young Thug)"
     }
   },
   {
-    "followers": 15539,
-    "genre": "jazz",
+    "followers": 379144,
+    "genre": "blues",
     "genres": [
-      "jazz",
-      "ambient jazz"
+      "blues rock",
+      "blues",
+      "modern blues",
+      "southern rock"
     ],
-    "href": "https://open.spotify.com/artist/2b9qemp1Y8NuEbY4RMYHY1",
-    "id": "2b9qemp1Y8NuEbY4RMYHY1",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe2850af480173596cefd48c1",
-    "name": "Jazzy Coffee",
+    "href": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p",
+    "id": "1riHqX633Kup3mJAw8WR8p",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3eee6b4773c7ce505bdb0fab",
+    "name": "Kenny Wayne Shepherd",
     "top_track": {
-      "href": "https://open.spotify.com/track/68VraGrtliBhItjbOs3Gao",
-      "name": "Jazz and Sentimental"
+      "href": "https://open.spotify.com/track/7GRq9NUgqhxPGUUksX02fk",
+      "name": "Blue on Black"
     }
   }
 ]
