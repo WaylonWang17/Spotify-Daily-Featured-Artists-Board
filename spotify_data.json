@@ -1,54 +1,44 @@
 [
   {
-    "followers": 873953,
-    "genre": "classical",
-    "genres": [
-      "classical",
-      "classical piano",
-      "concerto"
-    ],
-    "href": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51",
-    "id": "0Kekt6CKSo0m5mivKcoH51",
-    "image": "https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59",
-    "name": "Sergei Rachmaninoff",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4ObQ0m7VUtrgdEwpFeCKua",
-      "name": "12 Songs, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)"
-    }
-  },
-  {
-    "followers": 13177075,
-    "genre": "hip hop",
-    "genres": [
-      "rap",
-      "trap",
-      "melodic rap"
-    ],
-    "href": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn",
-    "id": "50co4Is1HCEo8bhOyUWKpn",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9f2fb33940aac624dc5d100d",
-    "name": "Young Thug",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J",
-      "name": "Trance (with Travis Scott \u0026 Young Thug)"
-    }
-  },
-  {
-    "followers": 379144,
+    "followers": 24720,
     "genre": "blues",
-    "genres": [
-      "blues rock",
-      "blues",
-      "modern blues",
-      "southern rock"
-    ],
-    "href": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p",
-    "id": "1riHqX633Kup3mJAw8WR8p",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3eee6b4773c7ce505bdb0fab",
-    "name": "Kenny Wayne Shepherd",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6XaBypUtiwR6GprovTMHPa",
+    "id": "6XaBypUtiwR6GprovTMHPa",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6f7eaffa6c097ee348d00bd8",
+    "name": "Lone Star Lyric House",
     "top_track": {
-      "href": "https://open.spotify.com/track/7GRq9NUgqhxPGUUksX02fk",
-      "name": "Blue on Black"
+      "href": "https://open.spotify.com/track/3D6PUzdBKGyUFO9SpwQU0H",
+      "name": "Mama raised a problem,not a fool - writer's cut"
+    }
+  },
+  {
+    "followers": 8,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2YJgh2hiPPMRyvAi4aQboj",
+    "id": "2YJgh2hiPPMRyvAi4aQboj",
+    "image": "https://i.scdn.co/image/ab67616d0000b273365bc57c4ee670d16aeabdf1",
+    "name": "Akshu Negi",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1HM9huEbD2ld5UOEzlP1MP",
+      "name": "Kinnauri Mix Edm"
+    }
+  },
+  {
+    "followers": 10911105,
+    "genre": "rock",
+    "genres": [
+      "neo-psychedelic",
+      "indie"
+    ],
+    "href": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb",
+    "id": "5INjqkS1o8h1imAzPqGZBb",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
+    "name": "Tame Impala",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM",
+      "name": "Dracula - JENNIE Remix"
     }
   }
 ]
