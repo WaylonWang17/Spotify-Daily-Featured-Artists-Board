@@ -1,44 +1,44 @@
 [
   {
-    "followers": 24720,
-    "genre": "blues",
+    "followers": 12277669,
+    "genre": "r\u0026b",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6XaBypUtiwR6GprovTMHPa",
-    "id": "6XaBypUtiwR6GprovTMHPa",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6f7eaffa6c097ee348d00bd8",
-    "name": "Lone Star Lyric House",
+    "href": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP",
+    "id": "6XpaIBNiVzIetEPCWDvAFP",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcd9f60ab57585bf3b77ecc51",
+    "name": "Whitney Houston",
     "top_track": {
-      "href": "https://open.spotify.com/track/3D6PUzdBKGyUFO9SpwQU0H",
-      "name": "Mama raised a problem,not a fool - writer's cut"
+      "href": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
+      "name": "I Wanna Dance with Somebody (Who Loves Me)"
     }
   },
   {
-    "followers": 8,
-    "genre": "k-pop",
+    "followers": 295140,
+    "genre": "soul",
     "genres": [],
-    "href": "https://open.spotify.com/artist/2YJgh2hiPPMRyvAi4aQboj",
-    "id": "2YJgh2hiPPMRyvAi4aQboj",
-    "image": "https://i.scdn.co/image/ab67616d0000b273365bc57c4ee670d16aeabdf1",
-    "name": "Akshu Negi",
+    "href": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC",
+    "id": "3aly4xJOy3LVznzvRIvFYC",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7f4f23b9eba34d35ac86e6a8",
+    "name": "F1 The Album",
     "top_track": {
-      "href": "https://open.spotify.com/track/1HM9huEbD2ld5UOEzlP1MP",
-      "name": "Kinnauri Mix Edm"
+      "href": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3",
+      "name": "Just Keep Watching (From F1® The Movie)"
     }
   },
   {
-    "followers": 10911105,
-    "genre": "rock",
+    "followers": 2560065,
+    "genre": "metal",
     "genres": [
-      "neo-psychedelic",
-      "indie"
+      "rap rock",
+      "rap metal"
     ],
-    "href": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb",
-    "id": "5INjqkS1o8h1imAzPqGZBb",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
-    "name": "Tame Impala",
+    "href": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E",
+    "id": "0CEFCo8288kQU7mJi25s6E",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb2acd404781f3d9ee6ae0c56d",
+    "name": "Hollywood Undead",
     "top_track": {
-      "href": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM",
-      "name": "Dracula - JENNIE Remix"
+      "href": "https://open.spotify.com/track/1czaCgWLWgqp0eRIZ0BcXh",
+      "name": "Everywhere I Go"
     }
   }
 ]
