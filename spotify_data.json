@@ -1,44 +1,30 @@
 [
   {
-    "followers": 12277669,
-    "genre": "r\u0026b",
+    "followers": 47,
+    "genre": "house",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP",
-    "id": "6XpaIBNiVzIetEPCWDvAFP",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcd9f60ab57585bf3b77ecc51",
-    "name": "Whitney Houston",
+    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
+    "id": "2KUI78zzOPJOCrDv3P4xnU",
+    "image": "",
+    "name": "Stereonova",
     "top_track": {
-      "href": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
-      "name": "I Wanna Dance with Somebody (Who Loves Me)"
+      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
+      "name": "Inutilmente"
     }
   },
   {
-    "followers": 295140,
-    "genre": "soul",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC",
-    "id": "3aly4xJOy3LVznzvRIvFYC",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7f4f23b9eba34d35ac86e6a8",
-    "name": "F1 The Album",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3",
-      "name": "Just Keep Watching (From F1® The Movie)"
-    }
-  },
-  {
-    "followers": 2560065,
-    "genre": "metal",
+    "followers": 2446991,
+    "genre": "dance",
     "genres": [
-      "rap rock",
-      "rap metal"
+      "house"
     ],
-    "href": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E",
-    "id": "0CEFCo8288kQU7mJi25s6E",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb2acd404781f3d9ee6ae0c56d",
-    "name": "Hollywood Undead",
+    "href": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et",
+    "id": "6nS5roXSAGhTGr34W6n7Et",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0b084ede947f009beade9a6a",
+    "name": "Disclosure",
     "top_track": {
-      "href": "https://open.spotify.com/track/1czaCgWLWgqp0eRIZ0BcXh",
-      "name": "Everywhere I Go"
+      "href": "https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr",
+      "name": "Latch"
     }
   }
 ]
