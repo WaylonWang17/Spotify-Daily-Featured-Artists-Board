@@ -1,51 +1,56 @@
 [
   {
-    "followers": 10934422,
-    "genre": "rock",
+    "followers": 3024808,
+    "genre": "punk",
     "genres": [
-      "neo-psychedelic",
-      "indie"
+      "punk",
+      "hardcore punk"
     ],
-    "href": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb",
-    "id": "5INjqkS1o8h1imAzPqGZBb",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
-    "name": "Tame Impala",
+    "href": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O",
+    "id": "6Wr3hh341P84m3EI8qdn9O",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb071291b50cd2f68a7bfe1337",
+    "name": "Rise Against",
     "top_track": {
-      "href": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM",
-      "name": "Dracula - JENNIE Remix"
+      "href": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB",
+      "name": "Savior"
     }
   },
   {
-    "followers": 986877,
-    "genre": "classical",
-    "genres": [
-      "impressionism",
-      "classical piano",
-      "classical"
-    ],
-    "href": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK",
-    "id": "459INk8vcC0ebEef82WjIK",
-    "image": "https://i.scdn.co/image/dd55078caac8105a3799c9d29f5172410da0c904",
-    "name": "Erik Satie",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5OPT7l9b5SMwfTQgLPoNl7",
-      "name": "Gymnopédie No. 1"
-    }
-  },
-  {
-    "followers": 9641395,
+    "followers": 1162702,
     "genre": "country",
     "genres": [
+      "red dirt",
+      "texas country",
       "country",
-      "acoustic country"
+      "country rock"
     ],
-    "href": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I",
-    "id": "0BvkDsjIUla7X0k6CSWh1I",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3054c68decf0969f35305ed2",
-    "name": "Luke Bryan",
+    "href": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ",
+    "id": "1Tie3AZgLQZqYEp8Fv4zOZ",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8f72b4e3af602d0f98cd3b5d",
+    "name": "Koe Wetzel",
     "top_track": {
-      "href": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC",
-      "name": "Country Girl (Shake It For Me)"
+      "href": "https://open.spotify.com/track/1FhgmMvNlh3nJ1Ldc2eE6H",
+      "name": "High Road (feat. Jessie Murph)"
+    }
+  },
+  {
+    "followers": 14566284,
+    "genre": "folk",
+    "genres": [
+      "ranchera",
+      "banda",
+      "mariachi",
+      "grupera",
+      "norteño",
+      "música mexicana"
+    ],
+    "href": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1",
+    "id": "7FsRH5bw8iWpSbMX1G7xf1",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0320f28bac81532a14c0349d",
+    "name": "Joan Sebastian",
+    "top_track": {
+      "href": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts",
+      "name": "Tatuajes"
     }
   }
 ]
