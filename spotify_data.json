@@ -1,56 +1,53 @@
 [
   {
-    "followers": 3024808,
-    "genre": "punk",
+    "followers": 1276891,
+    "genre": "reggae",
     "genres": [
-      "punk",
-      "hardcore punk"
+      "reggae rock",
+      "funk rock",
+      "rap rock"
     ],
-    "href": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O",
-    "id": "6Wr3hh341P84m3EI8qdn9O",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb071291b50cd2f68a7bfe1337",
-    "name": "Rise Against",
+    "href": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K",
+    "id": "41Q0HrwWBtuUkJc7C1Rp6K",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb16b06f19229dc1ceb654a250",
+    "name": "311",
     "top_track": {
-      "href": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB",
-      "name": "Savior"
+      "href": "https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl",
+      "name": "Amber"
     }
   },
   {
-    "followers": 1162702,
+    "followers": 212268,
+    "genre": "blues",
+    "genres": [
+      "modern blues",
+      "jam band",
+      "southern rock",
+      "blues",
+      "blues rock"
+    ],
+    "href": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv",
+    "id": "1Jl8u1U1GtBlwocZK5LWZv",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5567a29f98781cbd742567af",
+    "name": "JJ Grey \u0026 Mofro",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2qHgLPv3LujD4mc4LZs3gG",
+      "name": "Orange Blossoms"
+    }
+  },
+  {
+    "followers": 7652404,
     "genre": "country",
     "genres": [
-      "red dirt",
-      "texas country",
-      "country",
-      "country rock"
+      "country"
     ],
-    "href": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ",
-    "id": "1Tie3AZgLQZqYEp8Fv4zOZ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8f72b4e3af602d0f98cd3b5d",
-    "name": "Koe Wetzel",
+    "href": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw",
+    "id": "1UTPBmNbXNTittyMJrNkvw",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebaa03b29eb3a550f139fbb955",
+    "name": "Blake Shelton",
     "top_track": {
-      "href": "https://open.spotify.com/track/1FhgmMvNlh3nJ1Ldc2eE6H",
-      "name": "High Road (feat. Jessie Murph)"
-    }
-  },
-  {
-    "followers": 14566284,
-    "genre": "folk",
-    "genres": [
-      "ranchera",
-      "banda",
-      "mariachi",
-      "grupera",
-      "norteño",
-      "música mexicana"
-    ],
-    "href": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1",
-    "id": "7FsRH5bw8iWpSbMX1G7xf1",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0320f28bac81532a14c0349d",
-    "name": "Joan Sebastian",
-    "top_track": {
-      "href": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts",
-      "name": "Tatuajes"
+      "href": "https://open.spotify.com/track/0mNzElhEofvgMWAJoOA4q9",
+      "name": "Pour Me A Drink (Feat. Blake Shelton)"
     }
   }
 ]
