@@ -1,53 +1,37 @@
 [
   {
-    "followers": 1276891,
-    "genre": "reggae",
+    "followers": 9106524,
+    "genre": "folk",
     "genres": [
-      "reggae rock",
-      "funk rock",
-      "rap rock"
+      "mariachi",
+      "ranchera",
+      "latin pop",
+      "bolero"
     ],
-    "href": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K",
-    "id": "41Q0HrwWBtuUkJc7C1Rp6K",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb16b06f19229dc1ceb654a250",
-    "name": "311",
+    "href": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9",
+    "id": "6sq1yF0OZEWA4xoXVKW1L9",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb452691cfa37fdd5b3417ed0d",
+    "name": "Alejandro Fernández",
     "top_track": {
-      "href": "https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl",
-      "name": "Amber"
+      "href": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr",
+      "name": "Me Dediqué a Perderte"
     }
   },
   {
-    "followers": 212268,
-    "genre": "blues",
+    "followers": 7722011,
+    "genre": "j-pop",
     "genres": [
-      "modern blues",
-      "jam band",
-      "southern rock",
-      "blues",
-      "blues rock"
+      "j-pop",
+      "anime",
+      "j-rock"
     ],
-    "href": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv",
-    "id": "1Jl8u1U1GtBlwocZK5LWZv",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5567a29f98781cbd742567af",
-    "name": "JJ Grey \u0026 Mofro",
+    "href": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj",
+    "id": "5Vo1hnCRmCM6M4thZCInCj",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba603edbfe14a6bced859d7e1",
+    "name": "OFFICIAL HIGE DANDISM",
     "top_track": {
-      "href": "https://open.spotify.com/track/2qHgLPv3LujD4mc4LZs3gG",
-      "name": "Orange Blossoms"
-    }
-  },
-  {
-    "followers": 7652404,
-    "genre": "country",
-    "genres": [
-      "country"
-    ],
-    "href": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw",
-    "id": "1UTPBmNbXNTittyMJrNkvw",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebaa03b29eb3a550f139fbb955",
-    "name": "Blake Shelton",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0mNzElhEofvgMWAJoOA4q9",
-      "name": "Pour Me A Drink (Feat. Blake Shelton)"
+      "href": "https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU",
+      "name": "Pretender"
     }
   }
 ]
