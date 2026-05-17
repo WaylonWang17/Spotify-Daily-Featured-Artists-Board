@@ -1,37 +1,42 @@
 [
   {
-    "followers": 9106524,
-    "genre": "folk",
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 32380454,
+    "genre": "pop",
     "genres": [
-      "mariachi",
-      "ranchera",
-      "latin pop",
-      "bolero"
+      "pop"
     ],
-    "href": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9",
-    "id": "6sq1yF0OZEWA4xoXVKW1L9",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb452691cfa37fdd5b3417ed0d",
-    "name": "Alejandro Fernández",
+    "href": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B",
+    "id": "74KM79TiuVKeVCqs8QtB0B",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb78e45cfa4697ce3c437cb455",
+    "name": "Sabrina Carpenter",
     "top_track": {
-      "href": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr",
-      "name": "Me Dediqué a Perderte"
+      "href": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9",
+      "name": "Manchild"
     }
   },
   {
-    "followers": 7722011,
-    "genre": "j-pop",
+    "followers": 3479504,
+    "genre": "jazz",
     "genres": [
-      "j-pop",
-      "anime",
-      "j-rock"
+      "jazz pop"
     ],
-    "href": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj",
-    "id": "5Vo1hnCRmCM6M4thZCInCj",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba603edbfe14a6bced859d7e1",
-    "name": "OFFICIAL HIGE DANDISM",
+    "href": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
+    "id": "2Kx7MNY7cI1ENniW7vT30N",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
+    "name": "Norah Jones",
     "top_track": {
-      "href": "https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU",
-      "name": "Pretender"
+      "href": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
+      "name": "Don't Know Why"
     }
   }
 ]
