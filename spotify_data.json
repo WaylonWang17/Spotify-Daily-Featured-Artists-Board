@@ -1,42 +1,47 @@
 [
   {
-    "followers": 1,
-    "genre": "techno",
+    "followers": 9223263,
+    "genre": "metal",
+    "genres": [
+      "nu metal",
+      "rap metal",
+      "alternative metal",
+      "rap rock"
+    ],
+    "href": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb",
+    "id": "165ZgPlLkK7bf5bDoFc6Sb",
+    "image": "https://i.scdn.co/image/4654955890cb62a6abe9daadfd2b3ecdee8036e4",
+    "name": "Limp Bizkit",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
+      "name": "Break Stuff"
+    }
+  },
+  {
+    "followers": 1713910,
+    "genre": "dance",
+    "genres": [
+      "melodic bass",
+      "future bass",
+      "edm"
+    ],
+    "href": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg",
+    "id": "45eNHdiiabvmbp4erw26rg",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb670c3c362b6b4e622e04fdc4",
+    "name": "ILLENIUM",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6cLrGfKIIRHYQw7S0mCDhA",
+      "name": "All That Really Matters"
+    }
+  },
+  {
+    "followers": 506,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
     "image": "",
-    "name": "Andy Lyon",
+    "name": "Rutuu",
     "top_track": null
-  },
-  {
-    "followers": 32380454,
-    "genre": "pop",
-    "genres": [
-      "pop"
-    ],
-    "href": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B",
-    "id": "74KM79TiuVKeVCqs8QtB0B",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb78e45cfa4697ce3c437cb455",
-    "name": "Sabrina Carpenter",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9",
-      "name": "Manchild"
-    }
-  },
-  {
-    "followers": 3479504,
-    "genre": "jazz",
-    "genres": [
-      "jazz pop"
-    ],
-    "href": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-    "id": "2Kx7MNY7cI1ENniW7vT30N",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
-    "name": "Norah Jones",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
-      "name": "Don't Know Why"
-    }
   }
 ]
