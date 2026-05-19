@@ -1,47 +1,50 @@
 [
   {
-    "followers": 9223263,
-    "genre": "metal",
+    "followers": 14611319,
+    "genre": "folk",
     "genres": [
-      "nu metal",
-      "rap metal",
-      "alternative metal",
-      "rap rock"
+      "ranchera",
+      "banda",
+      "mariachi",
+      "grupera",
+      "norteño",
+      "música mexicana"
     ],
-    "href": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb",
-    "id": "165ZgPlLkK7bf5bDoFc6Sb",
-    "image": "https://i.scdn.co/image/4654955890cb62a6abe9daadfd2b3ecdee8036e4",
-    "name": "Limp Bizkit",
+    "href": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1",
+    "id": "7FsRH5bw8iWpSbMX1G7xf1",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0320f28bac81532a14c0349d",
+    "name": "Joan Sebastian",
     "top_track": {
-      "href": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
-      "name": "Break Stuff"
+      "href": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts",
+      "name": "Tatuajes"
     }
   },
   {
-    "followers": 1713910,
-    "genre": "dance",
+    "followers": 2087560,
+    "genre": "reggae",
     "genres": [
-      "melodic bass",
-      "future bass",
-      "edm"
+      "latin alternative"
     ],
-    "href": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg",
-    "id": "45eNHdiiabvmbp4erw26rg",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb670c3c362b6b4e622e04fdc4",
-    "name": "ILLENIUM",
+    "href": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM",
+    "id": "6wH6iStAh4KIaWfuhf0NYM",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf3373500e9ae4be34f94ae84",
+    "name": "Manu Chao",
     "top_track": {
-      "href": "https://open.spotify.com/track/6cLrGfKIIRHYQw7S0mCDhA",
-      "name": "All That Really Matters"
+      "href": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6",
+      "name": "Me Gustas Tu"
     }
   },
   {
-    "followers": 506,
-    "genre": "alternative",
+    "followers": 2,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
+    "href": "https://open.spotify.com/artist/6XDVIAEZTTh06doidbvD2M",
+    "id": "6XDVIAEZTTh06doidbvD2M",
     "image": "",
-    "name": "Rutuu",
-    "top_track": null
+    "name": "TBig21",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3E2MuIwWPJgs5dCErFBz9l",
+      "name": "Se Joga!"
+    }
   }
 ]
