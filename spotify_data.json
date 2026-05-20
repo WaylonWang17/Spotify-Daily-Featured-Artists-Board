@@ -1,50 +1,46 @@
 [
   {
-    "followers": 14611319,
-    "genre": "folk",
-    "genres": [
-      "ranchera",
-      "banda",
-      "mariachi",
-      "grupera",
-      "norteño",
-      "música mexicana"
-    ],
-    "href": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1",
-    "id": "7FsRH5bw8iWpSbMX1G7xf1",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0320f28bac81532a14c0349d",
-    "name": "Joan Sebastian",
-    "top_track": {
-      "href": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts",
-      "name": "Tatuajes"
-    }
-  },
-  {
-    "followers": 2087560,
-    "genre": "reggae",
-    "genres": [
-      "latin alternative"
-    ],
-    "href": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM",
-    "id": "6wH6iStAh4KIaWfuhf0NYM",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf3373500e9ae4be34f94ae84",
-    "name": "Manu Chao",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6",
-      "name": "Me Gustas Tu"
-    }
-  },
-  {
-    "followers": 2,
-    "genre": "rap",
+    "followers": 4053324,
+    "genre": "r\u0026b",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6XDVIAEZTTh06doidbvD2M",
-    "id": "6XDVIAEZTTh06doidbvD2M",
-    "image": "",
-    "name": "TBig21",
+    "href": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2",
+    "id": "5KKpBU5eC2tJDzf0wmlRp2",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd9b6eb671700503c0e6205a9",
+    "name": "RAYE",
     "top_track": {
-      "href": "https://open.spotify.com/track/3E2MuIwWPJgs5dCErFBz9l",
-      "name": "Se Joga!"
+      "href": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k",
+      "name": "WHERE IS MY HUSBAND!"
+    }
+  },
+  {
+    "followers": 16843351,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7",
+    "id": "31TPClRtHm23RisEBtV3X7",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7a5cfe2597665a3d160e805e",
+    "name": "Justin Timberlake",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR",
+      "name": "SexyBack (feat. Timbaland)"
+    }
+  },
+  {
+    "followers": 7590967,
+    "genre": "j-pop",
+    "genres": [
+      "j-pop",
+      "anime",
+      "vocaloid",
+      "j-rock"
+    ],
+    "href": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl",
+    "id": "6mEQK9m2krja6X1cfsAjfl",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbcb1c184c322688f10cdce7a",
+    "name": "Ado",
+    "top_track": {
+      "href": "https://open.spotify.com/track/61KYsWS25JXUO4fGb1138X",
+      "name": "Usseewa"
     }
   }
 ]
