@@ -1,41 +1,38 @@
 [
   {
-    "followers": 1809284,
-    "genre": "reggae",
+    "followers": 315,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c",
-    "id": "0DxeaLnv6SyYk2DOqkLO8c",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb43a7fd3594d354aef0d6340c",
-    "name": "MAGIC!",
+    "href": "https://open.spotify.com/artist/5RPdjRxa7gr22KRz95PALe",
+    "id": "5RPdjRxa7gr22KRz95PALe",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ae78140bb27c30a7fdd552ed",
+    "name": "Vicky Negi, Praveen PJ Negi, JP Negi",
     "top_track": {
-      "href": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp",
-      "name": "Rude"
+      "href": "https://open.spotify.com/track/5li4gKjL5Q5DIR7qYv0wuj",
+      "name": "Vintage Fusion"
     }
   },
   {
-    "followers": 37222329,
-    "genre": "pop",
+    "followers": 1,
+    "genre": "techno",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5",
-    "id": "5cj0lLjcoR7YOSnhnX0Po5",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8a0644455ebfa7d3976f5101",
-    "name": "Doja Cat",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz",
-      "name": "Kiss Me More (feat. SZA)"
-    }
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
   },
   {
-    "followers": 12313964,
-    "genre": "r\u0026b",
+    "followers": 9524114,
+    "genre": "country",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP",
-    "id": "6XpaIBNiVzIetEPCWDvAFP",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcd9f60ab57585bf3b77ecc51",
-    "name": "Whitney Houston",
+    "href": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS",
+    "id": "2FXC3k01G6Gw61bmprjgqS",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a",
+    "name": "Hozier",
     "top_track": {
-      "href": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
-      "name": "I Wanna Dance with Somebody (Who Loves Me)"
+      "href": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5",
+      "name": "Too Sweet"
     }
   }
 ]
