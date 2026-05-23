@@ -1,38 +1,40 @@
 [
   {
-    "followers": 315,
-    "genre": "k-pop",
+    "followers": 506,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5RPdjRxa7gr22KRz95PALe",
-    "id": "5RPdjRxa7gr22KRz95PALe",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ae78140bb27c30a7fdd552ed",
-    "name": "Vicky Negi, Praveen PJ Negi, JP Negi",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5li4gKjL5Q5DIR7qYv0wuj",
-      "name": "Vintage Fusion"
-    }
-  },
-  {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
     "image": "",
-    "name": "Andy Lyon",
+    "name": "Rutuu",
     "top_track": null
   },
   {
-    "followers": 9524114,
-    "genre": "country",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS",
-    "id": "2FXC3k01G6Gw61bmprjgqS",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a",
-    "name": "Hozier",
+    "followers": 8661295,
+    "genre": "r\u0026b",
+    "genres": [
+      "r\u0026b"
+    ],
+    "href": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG",
+    "id": "3tlXnStJ1fFhdScmQeLpuG",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb582fbf712f5b6a9bf65d9b84",
+    "name": "Brent Faiyaz",
     "top_track": {
-      "href": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5",
-      "name": "Too Sweet"
+      "href": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu",
+      "name": "butterflies."
+    }
+  },
+  {
+    "followers": 91134886,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s",
+    "id": "1uNFoZAHBGtllmzznpCI3s",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebaf20f7db5288bce9beede034",
+    "name": "Justin Bieber",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7",
+      "name": "Beauty And A Beat"
     }
   }
 ]
