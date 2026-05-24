@@ -1,16 +1,35 @@
 [
   {
-    "followers": 506,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
-    "image": "",
-    "name": "Rutuu",
-    "top_track": null
+    "followers": 4302136,
+    "genre": "country",
+    "genres": [
+      "country",
+      "acoustic country"
+    ],
+    "href": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo",
+    "id": "6yJCxee7QumYr820xdIsjo",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5ce86e86ff94ea8995587ff2",
+    "name": "Zac Brown Band",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc",
+      "name": "Chicken Fried"
+    }
   },
   {
-    "followers": 8661295,
+    "followers": 3265486,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG",
+    "id": "1r1uxoy19fzMxunt3ONAkG",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb626686e362d30246e816cc5b",
+    "name": "Phoebe Bridgers",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp",
+      "name": "Scott Street"
+    }
+  },
+  {
+    "followers": 8664831,
     "genre": "r\u0026b",
     "genres": [
       "r\u0026b"
@@ -22,19 +41,6 @@
     "top_track": {
       "href": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu",
       "name": "butterflies."
-    }
-  },
-  {
-    "followers": 91134886,
-    "genre": "pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s",
-    "id": "1uNFoZAHBGtllmzznpCI3s",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebaf20f7db5288bce9beede034",
-    "name": "Justin Bieber",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7",
-      "name": "Beauty And A Beat"
     }
   }
 ]
