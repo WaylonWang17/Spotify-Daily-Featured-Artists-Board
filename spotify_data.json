@@ -1,43 +1,52 @@
 [
   {
-    "followers": 1847721,
-    "genre": "country",
+    "followers": 12335794,
+    "genre": "soul",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP",
+    "id": "6XpaIBNiVzIetEPCWDvAFP",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcd9f60ab57585bf3b77ecc51",
+    "name": "Whitney Houston",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
+      "name": "I Wanna Dance with Somebody (Who Loves Me)"
+    }
+  },
+  {
+    "followers": 8931335,
+    "genre": "jazz",
     "genres": [
-      "country"
+      "christmas",
+      "big band",
+      "adult standards",
+      "swing music",
+      "jazz",
+      "vocal jazz"
     ],
-    "href": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC",
-    "id": "6tPHARSq45lQ8BSALCfkFC",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6567547c5bac1a70f23678f3",
-    "name": "Lainey Wilson",
+    "href": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0",
+    "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "image": "https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411",
+    "name": "Frank Sinatra",
     "top_track": {
-      "href": "https://open.spotify.com/track/2z865bsdfckaBVck8MSAm8",
-      "name": "4×4×U"
+      "href": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe",
+      "name": "My Way"
     }
   },
   {
-    "followers": 47,
-    "genre": "house",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
-    "id": "2KUI78zzOPJOCrDv3P4xnU",
-    "image": "",
-    "name": "Stereonova",
+    "followers": 4065991,
+    "genre": "metal",
+    "genres": [
+      "post-grunge",
+      "alternative metal",
+      "rock"
+    ],
+    "href": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW",
+    "id": "6B5c4sch27tWHAGdarpPaW",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbab1b739387a6e515dd2f160",
+    "name": "Seether",
     "top_track": {
-      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
-      "name": "Inutilmente"
-    }
-  },
-  {
-    "followers": 8133546,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET",
-    "id": "22wbnEMDvgVIAGdFeek6ET",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb68234e1a673acc3d873d3e6",
-    "name": "Benson Boone",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii",
-      "name": "Beautiful Things"
+      "href": "https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6",
+      "name": "Fine Again"
     }
   }
 ]
