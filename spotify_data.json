@@ -1,52 +1,49 @@
 [
   {
-    "followers": 12335794,
-    "genre": "soul",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP",
-    "id": "6XpaIBNiVzIetEPCWDvAFP",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcd9f60ab57585bf3b77ecc51",
-    "name": "Whitney Houston",
+    "followers": 1604598,
+    "genre": "classical",
+    "genres": [
+      "ballet",
+      "classical",
+      "orchestral"
+    ],
+    "href": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA",
+    "id": "3MKCzCnpzw3TjUYs2v7vDA",
+    "image": "https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0",
+    "name": "Pyotr Ilyich Tchaikovsky",
     "top_track": {
-      "href": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
-      "name": "I Wanna Dance with Somebody (Who Loves Me)"
+      "href": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
+      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato"
     }
   },
   {
-    "followers": 8931335,
-    "genre": "jazz",
+    "followers": 23805732,
+    "genre": "dance",
     "genres": [
-      "christmas",
-      "big band",
-      "adult standards",
-      "swing music",
-      "jazz",
-      "vocal jazz"
+      "edm"
     ],
-    "href": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0",
-    "id": "1Mxqyy3pSjf8kZZL4QVxS0",
-    "image": "https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411",
-    "name": "Frank Sinatra",
+    "href": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6",
+    "id": "1vCWHaC5f2uS3yhpwWbIA6",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebae07171f989fb39736674113",
+    "name": "Avicii",
     "top_track": {
-      "href": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe",
-      "name": "My Way"
+      "href": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2",
+      "name": "Wake Me Up"
     }
   },
   {
-    "followers": 4065991,
-    "genre": "metal",
+    "followers": 3485437,
+    "genre": "j-pop",
     "genres": [
-      "post-grunge",
-      "alternative metal",
-      "rock"
+      "jazz pop"
     ],
-    "href": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW",
-    "id": "6B5c4sch27tWHAGdarpPaW",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebbab1b739387a6e515dd2f160",
-    "name": "Seether",
+    "href": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
+    "id": "2Kx7MNY7cI1ENniW7vT30N",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
+    "name": "Norah Jones",
     "top_track": {
-      "href": "https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6",
-      "name": "Fine Again"
+      "href": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
+      "name": "Don't Know Why"
     }
   }
 ]
