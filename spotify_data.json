@@ -1,49 +1,44 @@
 [
   {
-    "followers": 1604598,
-    "genre": "classical",
-    "genres": [
-      "ballet",
-      "classical",
-      "orchestral"
-    ],
-    "href": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA",
-    "id": "3MKCzCnpzw3TjUYs2v7vDA",
-    "image": "https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0",
-    "name": "Pyotr Ilyich Tchaikovsky",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
-      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato"
-    }
-  },
-  {
-    "followers": 23805732,
+    "followers": 36516621,
     "genre": "dance",
-    "genres": [
-      "edm"
-    ],
-    "href": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6",
-    "id": "1vCWHaC5f2uS3yhpwWbIA6",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebae07171f989fb39736674113",
-    "name": "Avicii",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF",
+    "id": "4nDoRrQiYLoBzwC5BhVJzF",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb76470faf6330235edbcb90a9",
+    "name": "Camila Cabello",
     "top_track": {
-      "href": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2",
-      "name": "Wake Me Up"
+      "href": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2",
+      "name": "Señorita"
     }
   },
   {
-    "followers": 3485437,
-    "genre": "j-pop",
+    "followers": 21045684,
+    "genre": "hip hop",
     "genres": [
-      "jazz pop"
+      "old school hip hop",
+      "east coast hip hop"
     ],
-    "href": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-    "id": "2Kx7MNY7cI1ENniW7vT30N",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
-    "name": "Norah Jones",
+    "href": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh",
+    "id": "3q7HBObVc0L8jNeTe5Gofh",
+    "image": "https://i.scdn.co/image/dd031b9c5d1b6eba4a691cd89c954255aae787f2",
+    "name": "50 Cent",
     "top_track": {
-      "href": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
-      "name": "Don't Know Why"
+      "href": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8",
+      "name": "In Da Club"
+    }
+  },
+  {
+    "followers": 2693382,
+    "genre": "blues",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI",
+    "id": "3pFCERyEiP5xeN2EsPXhjI",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb97996e2b05450ffbeafe15da",
+    "name": "Joe Cocker",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu",
+      "name": "Up Where We Belong - From \"An Officer And A Gentleman\""
     }
   }
 ]
