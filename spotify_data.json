@@ -1,44 +1,50 @@
 [
   {
-    "followers": 36516621,
-    "genre": "dance",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF",
-    "id": "4nDoRrQiYLoBzwC5BhVJzF",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb76470faf6330235edbcb90a9",
-    "name": "Camila Cabello",
+    "followers": 966676,
+    "genre": "reggae",
+    "genres": [
+      "reggae",
+      "reggae rock",
+      "roots reggae"
+    ],
+    "href": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R",
+    "id": "5SXEylV07TC57eanSxxg4R",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba0f1123095d7e00b8d9fc8ed",
+    "name": "Stick Figure",
     "top_track": {
-      "href": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2",
-      "name": "Señorita"
+      "href": "https://open.spotify.com/track/6hBHSglQeZDkfkDYPBxG4i",
+      "name": "Angels Above Me"
     }
   },
   {
-    "followers": 21045684,
+    "followers": 54060358,
     "genre": "hip hop",
     "genres": [
-      "old school hip hop",
-      "east coast hip hop"
+      "emo rap"
     ],
-    "href": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh",
-    "id": "3q7HBObVc0L8jNeTe5Gofh",
-    "image": "https://i.scdn.co/image/dd031b9c5d1b6eba4a691cd89c954255aae787f2",
-    "name": "50 Cent",
+    "href": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4",
+    "id": "15UsOTVnJzReFVN1VCnxy4",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf0c20db5ef6c6fbe5135d2e4",
+    "name": "XXXTENTACION",
     "top_track": {
-      "href": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8",
-      "name": "In Da Club"
+      "href": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL",
+      "name": "Moonlight"
     }
   },
   {
-    "followers": 2693382,
-    "genre": "blues",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI",
-    "id": "3pFCERyEiP5xeN2EsPXhjI",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb97996e2b05450ffbeafe15da",
-    "name": "Joe Cocker",
+    "followers": 226562,
+    "genre": "classical",
+    "genres": [
+      "orchestral",
+      "classical"
+    ],
+    "href": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1",
+    "id": "0MvSBMGRQJY3mRwIbJsqF1",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf9cd4a9062ded7cb2b8a351b",
+    "name": "Royal Philharmonic Orchestra",
     "top_track": {
-      "href": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu",
-      "name": "Up Where We Belong - From \"An Officer And A Gentleman\""
+      "href": "https://open.spotify.com/track/2MRJ3Oqb5yAONPvQyoWnQ9",
+      "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra"
     }
   }
 ]
