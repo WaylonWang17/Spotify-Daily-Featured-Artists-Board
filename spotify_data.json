@@ -1,50 +1,44 @@
 [
   {
-    "followers": 966676,
-    "genre": "reggae",
-    "genres": [
-      "reggae",
-      "reggae rock",
-      "roots reggae"
-    ],
-    "href": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R",
-    "id": "5SXEylV07TC57eanSxxg4R",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba0f1123095d7e00b8d9fc8ed",
-    "name": "Stick Figure",
+    "followers": 36,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
+    "id": "4kjS5eC0smSDzKaTxgAGPW",
+    "image": "",
+    "name": "Take My Chances",
     "top_track": {
-      "href": "https://open.spotify.com/track/6hBHSglQeZDkfkDYPBxG4i",
-      "name": "Angels Above Me"
+      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
+      "name": "Handy With The Tongue Sword"
     }
   },
   {
-    "followers": 54060358,
+    "followers": 2592,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/27OhxQ6xHY6N8HHXyNo2QS",
+    "id": "27OhxQ6xHY6N8HHXyNo2QS",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e226d298c6e3bd486aeb984f",
+    "name": "Siddharth Nitin",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3Z13Vp4XxrMQY5u60fmO3B",
+      "name": "Mala Bhuli Gaya R Raja Ek Pal Ma"
+    }
+  },
+  {
+    "followers": 45484383,
     "genre": "hip hop",
     "genres": [
+      "melodic rap",
       "emo rap"
     ],
-    "href": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4",
-    "id": "15UsOTVnJzReFVN1VCnxy4",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf0c20db5ef6c6fbe5135d2e4",
-    "name": "XXXTENTACION",
+    "href": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz",
+    "id": "4MCBfE4596Uoi2O4DtmEMz",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb23a60030944f7853c21565ef",
+    "name": "Juice WRLD",
     "top_track": {
-      "href": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL",
-      "name": "Moonlight"
-    }
-  },
-  {
-    "followers": 226562,
-    "genre": "classical",
-    "genres": [
-      "orchestral",
-      "classical"
-    ],
-    "href": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1",
-    "id": "0MvSBMGRQJY3mRwIbJsqF1",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf9cd4a9062ded7cb2b8a351b",
-    "name": "Royal Philharmonic Orchestra",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2MRJ3Oqb5yAONPvQyoWnQ9",
-      "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra"
+      "href": "https://open.spotify.com/track/15og0pCEcTFWEXOFKdcJlU",
+      "name": "Hate Me"
     }
   }
 ]
