@@ -1,44 +1,52 @@
 [
   {
-    "followers": 36,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
-    "id": "4kjS5eC0smSDzKaTxgAGPW",
-    "image": "",
-    "name": "Take My Chances",
-    "top_track": {
-      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
-      "name": "Handy With The Tongue Sword"
-    }
-  },
-  {
-    "followers": 2592,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/27OhxQ6xHY6N8HHXyNo2QS",
-    "id": "27OhxQ6xHY6N8HHXyNo2QS",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e226d298c6e3bd486aeb984f",
-    "name": "Siddharth Nitin",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3Z13Vp4XxrMQY5u60fmO3B",
-      "name": "Mala Bhuli Gaya R Raja Ek Pal Ma"
-    }
-  },
-  {
-    "followers": 45484383,
-    "genre": "hip hop",
+    "followers": 9295902,
+    "genre": "metal",
     "genres": [
-      "melodic rap",
-      "emo rap"
+      "nu metal",
+      "rap metal",
+      "alternative metal",
+      "rap rock"
     ],
-    "href": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz",
-    "id": "4MCBfE4596Uoi2O4DtmEMz",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb23a60030944f7853c21565ef",
-    "name": "Juice WRLD",
+    "href": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb",
+    "id": "165ZgPlLkK7bf5bDoFc6Sb",
+    "image": "https://i.scdn.co/image/4654955890cb62a6abe9daadfd2b3ecdee8036e4",
+    "name": "Limp Bizkit",
     "top_track": {
-      "href": "https://open.spotify.com/track/15og0pCEcTFWEXOFKdcJlU",
-      "name": "Hate Me"
+      "href": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
+      "name": "Break Stuff"
+    }
+  },
+  {
+    "followers": 21087479,
+    "genre": "j-pop",
+    "genres": [
+      "indonesian pop",
+      "indonesian jazz",
+      "indonesian indie"
+    ],
+    "href": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi",
+    "id": "2iDVt6mFbtbDEZG5ax0dTi",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb53462891ab7799f2934b568e",
+    "name": "Tulus",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL",
+      "name": "Monokrom"
+    }
+  },
+  {
+    "followers": 6710348,
+    "genre": "r\u0026b",
+    "genres": [
+      "r\u0026b"
+    ],
+    "href": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK",
+    "id": "360IAlyVv4PCEVjgyMZrxK",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb35e36c368fdcd26aba296bd1",
+    "name": "Miguel",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV",
+      "name": "Sure Thing"
     }
   }
 ]
