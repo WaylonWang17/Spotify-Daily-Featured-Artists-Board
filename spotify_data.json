@@ -1,52 +1,40 @@
 [
   {
-    "followers": 9295902,
-    "genre": "metal",
-    "genres": [
-      "nu metal",
-      "rap metal",
-      "alternative metal",
-      "rap rock"
-    ],
-    "href": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb",
-    "id": "165ZgPlLkK7bf5bDoFc6Sb",
-    "image": "https://i.scdn.co/image/4654955890cb62a6abe9daadfd2b3ecdee8036e4",
-    "name": "Limp Bizkit",
+    "followers": 9733669,
+    "genre": "dance",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS",
+    "id": "1l7ZsJRRS8wlW3WfJfPfNS",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4a69ef1c3d566709985ce452",
+    "name": "Christina Aguilera",
     "top_track": {
-      "href": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
-      "name": "Break Stuff"
+      "href": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl",
+      "name": "Feel This Moment (feat. Christina Aguilera)"
     }
   },
   {
-    "followers": 21087479,
-    "genre": "j-pop",
-    "genres": [
-      "indonesian pop",
-      "indonesian jazz",
-      "indonesian indie"
-    ],
-    "href": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi",
-    "id": "2iDVt6mFbtbDEZG5ax0dTi",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb53462891ab7799f2934b568e",
-    "name": "Tulus",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL",
-      "name": "Monokrom"
-    }
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
   },
   {
-    "followers": 6710348,
-    "genre": "r\u0026b",
+    "followers": 8117089,
+    "genre": "soul",
     "genres": [
-      "r\u0026b"
+      "trap soul"
     ],
-    "href": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK",
-    "id": "360IAlyVv4PCEVjgyMZrxK",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb35e36c368fdcd26aba296bd1",
-    "name": "Miguel",
+    "href": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq",
+    "id": "7c0XG5cIJTrrAgEC3ULPiq",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4ef6e245168c33922bc6df1a",
+    "name": "Ty Dolla $ign",
     "top_track": {
-      "href": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV",
-      "name": "Sure Thing"
+      "href": "https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO",
+      "name": "Or Nah (feat. The Weeknd, Wiz Khalifa \u0026 DJ Mustard) - Remix"
     }
   }
 ]
