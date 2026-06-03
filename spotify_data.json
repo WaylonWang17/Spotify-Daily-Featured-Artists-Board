@@ -1,40 +1,57 @@
 [
   {
-    "followers": 9733669,
-    "genre": "dance",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS",
-    "id": "1l7ZsJRRS8wlW3WfJfPfNS",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4a69ef1c3d566709985ce452",
-    "name": "Christina Aguilera",
+    "followers": 760045,
+    "genre": "reggae",
+    "genres": [
+      "reggae",
+      "roots reggae",
+      "ragga"
+    ],
+    "href": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1",
+    "id": "0CIwCGmQMqHqiblnZlFia1",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb200689e15f3b95aaf47a05c8",
+    "name": "Stephen Marley",
     "top_track": {
-      "href": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl",
-      "name": "Feel This Moment (feat. Christina Aguilera)"
+      "href": "https://open.spotify.com/track/1Bsl6Jw7bJtQ4pc7OQREog",
+      "name": "Hey Baby"
     }
   },
   {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
+    "followers": 3062277,
+    "genre": "pop",
+    "genres": [
+      "christian",
+      "christian pop",
+      "christian hip hop",
+      "worship",
+      "christian lo-fi",
+      "christian r\u0026b"
+    ],
+    "href": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ",
+    "id": "1scVfBymTr3CeZ4imMj1QJ",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfc23429951b765040e928baf",
+    "name": "Forrest Frank",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM",
+      "name": "YOUR WAY'S BETTER"
+    }
   },
   {
-    "followers": 8117089,
-    "genre": "soul",
+    "followers": 16641613,
+    "genre": "latin",
     "genres": [
-      "trap soul"
+      "reggaeton",
+      "colombian pop",
+      "latin",
+      "pop urbano"
     ],
-    "href": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq",
-    "id": "7c0XG5cIJTrrAgEC3ULPiq",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4ef6e245168c33922bc6df1a",
-    "name": "Ty Dolla $ign",
+    "href": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B",
+    "id": "0tmwSHipWxN12fsoLcFU3B",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7c0ac15129ffed0e383958f0",
+    "name": "Manuel Turizo",
     "top_track": {
-      "href": "https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO",
-      "name": "Or Nah (feat. The Weeknd, Wiz Khalifa \u0026 DJ Mustard) - Remix"
+      "href": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ",
+      "name": "La Bachata"
     }
   }
 ]
