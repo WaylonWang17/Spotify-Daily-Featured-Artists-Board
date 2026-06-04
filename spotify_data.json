@@ -1,57 +1,52 @@
 [
   {
-    "followers": 760045,
-    "genre": "reggae",
+    "followers": 1309146,
+    "genre": "country",
     "genres": [
-      "reggae",
-      "roots reggae",
-      "ragga"
+      "red dirt",
+      "texas country",
+      "southern rock",
+      "country",
+      "outlaw country",
+      "country rock"
     ],
-    "href": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1",
-    "id": "0CIwCGmQMqHqiblnZlFia1",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb200689e15f3b95aaf47a05c8",
-    "name": "Stephen Marley",
+    "href": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc",
+    "id": "26opZSJcXshCmCwxgZQmBc",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5404ec64bfa0bd5fb100ca1d",
+    "name": "Whiskey Myers",
     "top_track": {
-      "href": "https://open.spotify.com/track/1Bsl6Jw7bJtQ4pc7OQREog",
-      "name": "Hey Baby"
+      "href": "https://open.spotify.com/track/1VOSSXuWRcBj2rpfxNdX9v",
+      "name": "Broken Window Serenade"
     }
   },
   {
-    "followers": 3062277,
-    "genre": "pop",
+    "followers": 19358754,
+    "genre": "dance",
     "genres": [
-      "christian",
-      "christian pop",
-      "christian hip hop",
-      "worship",
-      "christian lo-fi",
-      "christian r\u0026b"
+      "pop"
     ],
-    "href": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ",
-    "id": "1scVfBymTr3CeZ4imMj1QJ",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebfc23429951b765040e928baf",
-    "name": "Forrest Frank",
+    "href": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4",
+    "id": "26dSoYclwsYLMAKD3tpOr4",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf2bcdcea5247d29042b55372",
+    "name": "Britney Spears",
     "top_track": {
-      "href": "https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM",
-      "name": "YOUR WAY'S BETTER"
+      "href": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak",
+      "name": "Toxic"
     }
   },
   {
-    "followers": 16641613,
-    "genre": "latin",
+    "followers": 1423141,
+    "genre": "j-pop",
     "genres": [
-      "reggaeton",
-      "colombian pop",
-      "latin",
-      "pop urbano"
+      "indie soul"
     ],
-    "href": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B",
-    "id": "0tmwSHipWxN12fsoLcFU3B",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7c0ac15129ffed0e383958f0",
-    "name": "Manuel Turizo",
+    "href": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye",
+    "id": "1uiEZYehlNivdK3iQyAbye",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd13583bc1c845d1fedbe059f",
+    "name": "Tom Misch",
     "top_track": {
-      "href": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ",
-      "name": "La Bachata"
+      "href": "https://open.spotify.com/track/1CGzOkrxB9bNaMf95Nd3EF",
+      "name": "Slow Tonight"
     }
   }
 ]
