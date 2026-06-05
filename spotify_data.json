@@ -1,52 +1,45 @@
 [
   {
-    "followers": 1309146,
-    "genre": "country",
-    "genres": [
-      "red dirt",
-      "texas country",
-      "southern rock",
-      "country",
-      "outlaw country",
-      "country rock"
-    ],
-    "href": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc",
-    "id": "26opZSJcXshCmCwxgZQmBc",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5404ec64bfa0bd5fb100ca1d",
-    "name": "Whiskey Myers",
+    "followers": 47,
+    "genre": "house",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
+    "id": "2KUI78zzOPJOCrDv3P4xnU",
+    "image": "",
+    "name": "Stereonova",
     "top_track": {
-      "href": "https://open.spotify.com/track/1VOSSXuWRcBj2rpfxNdX9v",
-      "name": "Broken Window Serenade"
+      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
+      "name": "Inutilmente"
     }
   },
   {
-    "followers": 19358754,
-    "genre": "dance",
-    "genres": [
-      "pop"
-    ],
-    "href": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4",
-    "id": "26dSoYclwsYLMAKD3tpOr4",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf2bcdcea5247d29042b55372",
-    "name": "Britney Spears",
+    "followers": 37395899,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5",
+    "id": "5cj0lLjcoR7YOSnhnX0Po5",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8a0644455ebfa7d3976f5101",
+    "name": "Doja Cat",
     "top_track": {
-      "href": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak",
-      "name": "Toxic"
+      "href": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz",
+      "name": "Kiss Me More (feat. SZA)"
     }
   },
   {
-    "followers": 1423141,
+    "followers": 4485406,
     "genre": "j-pop",
     "genres": [
-      "indie soul"
+      "j-pop",
+      "j-r\u0026b",
+      "anime"
     ],
-    "href": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye",
-    "id": "1uiEZYehlNivdK3iQyAbye",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd13583bc1c845d1fedbe059f",
-    "name": "Tom Misch",
+    "href": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2",
+    "id": "7lbSsjYACZHn1MSDXPxNF2",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebec39ca0a437af73deb84a09a",
+    "name": "Hikaru Utada",
     "top_track": {
-      "href": "https://open.spotify.com/track/1CGzOkrxB9bNaMf95Nd3EF",
-      "name": "Slow Tonight"
+      "href": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl",
+      "name": "JANE DOE"
     }
   }
 ]
