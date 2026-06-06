@@ -1,45 +1,41 @@
 [
   {
-    "followers": 47,
-    "genre": "house",
+    "followers": 5,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
-    "id": "2KUI78zzOPJOCrDv3P4xnU",
+    "href": "https://open.spotify.com/artist/2XZjLi8SVNp9mH7ECZclt0",
+    "id": "2XZjLi8SVNp9mH7ECZclt0",
     "image": "",
-    "name": "Stereonova",
+    "name": "Swkhang Debbarma",
     "top_track": {
-      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
-      "name": "Inutilmente"
+      "href": "https://open.spotify.com/track/6dHN48kTCc81OxM7sjFVMV",
+      "name": "Phaikha Tring"
     }
   },
   {
-    "followers": 37395899,
-    "genre": "pop",
+    "followers": 1269091,
+    "genre": "punk",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5",
-    "id": "5cj0lLjcoR7YOSnhnX0Po5",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8a0644455ebfa7d3976f5101",
-    "name": "Doja Cat",
+    "href": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd",
+    "id": "2iEvnFsWxR0Syqu2JNopAd",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd58661b3aa9d077580e8aa4e",
+    "name": "Smash Mouth",
     "top_track": {
-      "href": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz",
-      "name": "Kiss Me More (feat. SZA)"
+      "href": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK",
+      "name": "All Star"
     }
   },
   {
-    "followers": 4485406,
-    "genre": "j-pop",
-    "genres": [
-      "j-pop",
-      "j-r\u0026b",
-      "anime"
-    ],
-    "href": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2",
-    "id": "7lbSsjYACZHn1MSDXPxNF2",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebec39ca0a437af73deb84a09a",
-    "name": "Hikaru Utada",
+    "followers": 650223,
+    "genre": "folk",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh",
+    "id": "4lhUHpVOXmkEBGGHV71QCh",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7376fb270e5feaae5428c053",
+    "name": "Chance Peña",
     "top_track": {
-      "href": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl",
-      "name": "JANE DOE"
+      "href": "https://open.spotify.com/track/70eyG7pqKozUvKPKXLXmpI",
+      "name": "i am not who i was"
     }
   }
 ]
