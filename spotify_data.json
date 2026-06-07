@@ -1,41 +1,42 @@
 [
   {
-    "followers": 5,
-    "genre": "k-pop",
+    "followers": 1,
+    "genre": "techno",
     "genres": [],
-    "href": "https://open.spotify.com/artist/2XZjLi8SVNp9mH7ECZclt0",
-    "id": "2XZjLi8SVNp9mH7ECZclt0",
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
     "image": "",
-    "name": "Swkhang Debbarma",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 2058692,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz",
+    "id": "7eKkW1zo5uzW8kUntiiBvz",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9f6f7c2d12975d2a4b3a0fd8",
+    "name": "Malcolm Todd",
     "top_track": {
-      "href": "https://open.spotify.com/track/6dHN48kTCc81OxM7sjFVMV",
-      "name": "Phaikha Tring"
+      "href": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
+      "name": "Earrings"
     }
   },
   {
-    "followers": 1269091,
-    "genre": "punk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd",
-    "id": "2iEvnFsWxR0Syqu2JNopAd",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd58661b3aa9d077580e8aa4e",
-    "name": "Smash Mouth",
+    "followers": 879560,
+    "genre": "classical",
+    "genres": [
+      "classical",
+      "classical piano",
+      "concerto"
+    ],
+    "href": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51",
+    "id": "0Kekt6CKSo0m5mivKcoH51",
+    "image": "https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59",
+    "name": "Sergei Rachmaninoff",
     "top_track": {
-      "href": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK",
-      "name": "All Star"
-    }
-  },
-  {
-    "followers": 650223,
-    "genre": "folk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh",
-    "id": "4lhUHpVOXmkEBGGHV71QCh",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7376fb270e5feaae5428c053",
-    "name": "Chance Peña",
-    "top_track": {
-      "href": "https://open.spotify.com/track/70eyG7pqKozUvKPKXLXmpI",
-      "name": "i am not who i was"
+      "href": "https://open.spotify.com/track/4ObQ0m7VUtrgdEwpFeCKua",
+      "name": "12 Songs, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)"
     }
   }
 ]
