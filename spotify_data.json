@@ -1,42 +1,45 @@
 [
   {
-    "followers": 1,
-    "genre": "techno",
+    "followers": 36,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
+    "id": "4kjS5eC0smSDzKaTxgAGPW",
     "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
-  },
-  {
-    "followers": 2058692,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz",
-    "id": "7eKkW1zo5uzW8kUntiiBvz",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9f6f7c2d12975d2a4b3a0fd8",
-    "name": "Malcolm Todd",
+    "name": "Take My Chances",
     "top_track": {
-      "href": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
-      "name": "Earrings"
+      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
+      "name": "Handy With The Tongue Sword"
     }
   },
   {
-    "followers": 879560,
-    "genre": "classical",
-    "genres": [
-      "classical",
-      "classical piano",
-      "concerto"
-    ],
-    "href": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51",
-    "id": "0Kekt6CKSo0m5mivKcoH51",
-    "image": "https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59",
-    "name": "Sergei Rachmaninoff",
+    "followers": 2592,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/27OhxQ6xHY6N8HHXyNo2QS",
+    "id": "27OhxQ6xHY6N8HHXyNo2QS",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e226d298c6e3bd486aeb984f",
+    "name": "Siddharth Nitin",
     "top_track": {
-      "href": "https://open.spotify.com/track/4ObQ0m7VUtrgdEwpFeCKua",
-      "name": "12 Songs, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)"
+      "href": "https://open.spotify.com/track/3Z13Vp4XxrMQY5u60fmO3B",
+      "name": "Mala Bhuli Gaya R Raja Ek Pal Ma"
+    }
+  },
+  {
+    "followers": 4491393,
+    "genre": "j-pop",
+    "genres": [
+      "j-pop",
+      "j-r\u0026b",
+      "anime"
+    ],
+    "href": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2",
+    "id": "7lbSsjYACZHn1MSDXPxNF2",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebec39ca0a437af73deb84a09a",
+    "name": "Hikaru Utada",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl",
+      "name": "JANE DOE"
     }
   }
 ]
