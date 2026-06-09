@@ -1,45 +1,41 @@
 [
   {
-    "followers": 36,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
-    "id": "4kjS5eC0smSDzKaTxgAGPW",
-    "image": "",
-    "name": "Take My Chances",
-    "top_track": {
-      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
-      "name": "Handy With The Tongue Sword"
-    }
-  },
-  {
-    "followers": 2592,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/27OhxQ6xHY6N8HHXyNo2QS",
-    "id": "27OhxQ6xHY6N8HHXyNo2QS",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e226d298c6e3bd486aeb984f",
-    "name": "Siddharth Nitin",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3Z13Vp4XxrMQY5u60fmO3B",
-      "name": "Mala Bhuli Gaya R Raja Ek Pal Ma"
-    }
-  },
-  {
-    "followers": 4491393,
-    "genre": "j-pop",
+    "followers": 34659987,
+    "genre": "indie",
     "genres": [
-      "j-pop",
-      "j-r\u0026b",
-      "anime"
+      "indie",
+      "garage rock"
     ],
-    "href": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2",
-    "id": "7lbSsjYACZHn1MSDXPxNF2",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebec39ca0a437af73deb84a09a",
-    "name": "Hikaru Utada",
+    "href": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH",
+    "id": "7Ln80lUS6He07XvHI8qqHH",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
+    "name": "Arctic Monkeys",
     "top_track": {
-      "href": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl",
-      "name": "JANE DOE"
+      "href": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n",
+      "name": "I Wanna Be Yours"
     }
+  },
+  {
+    "followers": 5905949,
+    "genre": "soul",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
+    "id": "47zz7sob9NUcODy0BTDvKx",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+    "name": "Sade",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R",
+      "name": "Smooth Operator - Single Version"
+    }
+  },
+  {
+    "followers": 25,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/42740LBMj53t98kRJHjvRQ",
+    "id": "42740LBMj53t98kRJHjvRQ",
+    "image": "",
+    "name": "Doreno",
+    "top_track": null
   }
 ]
