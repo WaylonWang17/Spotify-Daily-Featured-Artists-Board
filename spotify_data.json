@@ -1,41 +1,43 @@
 [
   {
-    "followers": 34659987,
-    "genre": "indie",
-    "genres": [
-      "indie",
-      "garage rock"
-    ],
-    "href": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH",
-    "id": "7Ln80lUS6He07XvHI8qqHH",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
-    "name": "Arctic Monkeys",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n",
-      "name": "I Wanna Be Yours"
-    }
-  },
-  {
-    "followers": 5905949,
-    "genre": "soul",
+    "followers": 506,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
-    "id": "47zz7sob9NUcODy0BTDvKx",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
-    "name": "Sade",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R",
-      "name": "Smooth Operator - Single Version"
-    }
-  },
-  {
-    "followers": 25,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/42740LBMj53t98kRJHjvRQ",
-    "id": "42740LBMj53t98kRJHjvRQ",
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
     "image": "",
-    "name": "Doreno",
+    "name": "Rutuu",
     "top_track": null
+  },
+  {
+    "followers": 220,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0s4JRhiI6djokTbOhqUd7f",
+    "id": "0s4JRhiI6djokTbOhqUd7f",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738134e797356b04becdec4444",
+    "name": "SWAPAN DEBBARMA",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0hlnibK7prBmuYeUvxw3Wi",
+      "name": "Ang Rwchapkhe"
+    }
+  },
+  {
+    "followers": 49089976,
+    "genre": "latin",
+    "genres": [
+      "reggaeton",
+      "trap latino",
+      "urbano latino",
+      "latin"
+    ],
+    "href": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66",
+    "id": "2R21vXR83lH98kGeO99Y66",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba23ceb177745632b517cb7b2",
+    "name": "Anuel AA",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5sX4UiPdOdndSEWA6asUgh",
+      "name": "Cuando No Era Cantante RMX - Remix"
+    }
   }
 ]
