@@ -1,43 +1,52 @@
 [
   {
-    "followers": 506,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
-    "image": "",
-    "name": "Rutuu",
-    "top_track": null
-  },
-  {
-    "followers": 220,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0s4JRhiI6djokTbOhqUd7f",
-    "id": "0s4JRhiI6djokTbOhqUd7f",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738134e797356b04becdec4444",
-    "name": "SWAPAN DEBBARMA",
+    "followers": 24530530,
+    "genre": "hip hop",
+    "genres": [
+      "rap"
+    ],
+    "href": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i",
+    "id": "1RyvyyTE3xzB2ZywiAwp0i",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7565b356bc9d9394eefa2ccb",
+    "name": "Future",
     "top_track": {
-      "href": "https://open.spotify.com/track/0hlnibK7prBmuYeUvxw3Wi",
-      "name": "Ang Rwchapkhe"
+      "href": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph",
+      "name": "Ran To Atlanta (feat. Future \u0026 Molly Santana)"
     }
   },
   {
-    "followers": 49089976,
-    "genre": "latin",
+    "followers": 925862,
+    "genre": "j-pop",
     "genres": [
-      "reggaeton",
-      "trap latino",
-      "urbano latino",
-      "latin"
+      "bossa nova",
+      "brazilian jazz",
+      "mpb",
+      "latin jazz"
     ],
-    "href": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66",
-    "id": "2R21vXR83lH98kGeO99Y66",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba23ceb177745632b517cb7b2",
-    "name": "Anuel AA",
+    "href": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG",
+    "id": "3pO5VjZ4wOHCMBXOvbMISG",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb18561c395151b4ab0e3c17ee",
+    "name": "Antônio Carlos Jobim",
     "top_track": {
-      "href": "https://open.spotify.com/track/5sX4UiPdOdndSEWA6asUgh",
-      "name": "Cuando No Era Cantante RMX - Remix"
+      "href": "https://open.spotify.com/track/1AxAPXcUcH3nXXeCeG0kGV",
+      "name": "The Girl From Ipanema"
+    }
+  },
+  {
+    "followers": 4441300,
+    "genre": "punk",
+    "genres": [
+      "emo",
+      "screamo",
+      "post-hardcore"
+    ],
+    "href": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv",
+    "id": "4iJLPqClelZOBCBifm8Fzv",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
+    "name": "Pierce The Veil",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI",
+      "name": "So Far So Fake"
     }
   }
 ]
