@@ -1,52 +1,30 @@
 [
   {
-    "followers": 24530530,
-    "genre": "hip hop",
+    "followers": 2465108,
+    "genre": "dance",
     "genres": [
-      "rap"
+      "house"
     ],
-    "href": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i",
-    "id": "1RyvyyTE3xzB2ZywiAwp0i",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7565b356bc9d9394eefa2ccb",
-    "name": "Future",
+    "href": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et",
+    "id": "6nS5roXSAGhTGr34W6n7Et",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0b084ede947f009beade9a6a",
+    "name": "Disclosure",
     "top_track": {
-      "href": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph",
-      "name": "Ran To Atlanta (feat. Future \u0026 Molly Santana)"
+      "href": "https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr",
+      "name": "Latch"
     }
   },
   {
-    "followers": 925862,
-    "genre": "j-pop",
-    "genres": [
-      "bossa nova",
-      "brazilian jazz",
-      "mpb",
-      "latin jazz"
-    ],
-    "href": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG",
-    "id": "3pO5VjZ4wOHCMBXOvbMISG",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb18561c395151b4ab0e3c17ee",
-    "name": "Antônio Carlos Jobim",
+    "followers": 92196737,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s",
+    "id": "1uNFoZAHBGtllmzznpCI3s",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebaf20f7db5288bce9beede034",
+    "name": "Justin Bieber",
     "top_track": {
-      "href": "https://open.spotify.com/track/1AxAPXcUcH3nXXeCeG0kGV",
-      "name": "The Girl From Ipanema"
-    }
-  },
-  {
-    "followers": 4441300,
-    "genre": "punk",
-    "genres": [
-      "emo",
-      "screamo",
-      "post-hardcore"
-    ],
-    "href": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv",
-    "id": "4iJLPqClelZOBCBifm8Fzv",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6f8f8d13be17bf486219edc7",
-    "name": "Pierce The Veil",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI",
-      "name": "So Far So Fake"
+      "href": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7",
+      "name": "Beauty And A Beat"
     }
   }
 ]
