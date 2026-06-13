@@ -1,30 +1,49 @@
 [
   {
-    "followers": 2465108,
-    "genre": "dance",
+    "followers": 12481,
+    "genre": "jazz",
     "genres": [
-      "house"
+      "jazz",
+      "ambient jazz"
     ],
-    "href": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et",
-    "id": "6nS5roXSAGhTGr34W6n7Et",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0b084ede947f009beade9a6a",
-    "name": "Disclosure",
+    "href": "https://open.spotify.com/artist/0qjWYusrckF9BpkvWaoKRO",
+    "id": "0qjWYusrckF9BpkvWaoKRO",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7be2b0db4df55c1463e41f39",
+    "name": "Cozy Coffee Shop",
     "top_track": {
-      "href": "https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr",
-      "name": "Latch"
+      "href": "https://open.spotify.com/track/68VraGrtliBhItjbOs3Gao",
+      "name": "Jazz and Sentimental"
     }
   },
   {
-    "followers": 92196737,
-    "genre": "pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s",
-    "id": "1uNFoZAHBGtllmzznpCI3s",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebaf20f7db5288bce9beede034",
-    "name": "Justin Bieber",
+    "followers": 16806753,
+    "genre": "rock",
+    "genres": [
+      "classic rock",
+      "rock",
+      "hard rock",
+      "rock and roll"
+    ],
+    "href": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp",
+    "id": "36QJpDe2go2KgaRleHCDTp",
+    "image": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e",
+    "name": "Led Zeppelin",
     "top_track": {
-      "href": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7",
-      "name": "Beauty And A Beat"
+      "href": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc",
+      "name": "Stairway to Heaven - Remaster"
+    }
+  },
+  {
+    "followers": 604083,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8",
+    "id": "4Z8MrrKMBHMPa8d04Ivur8",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb961f7d53d55f126b339e1659",
+    "name": "Bella Kay",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV",
+      "name": "iloveitiloveitiloveit"
     }
   }
 ]
