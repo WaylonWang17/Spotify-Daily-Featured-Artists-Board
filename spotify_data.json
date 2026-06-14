@@ -1,49 +1,47 @@
 [
   {
-    "followers": 12481,
-    "genre": "jazz",
+    "followers": 1877721,
+    "genre": "country",
     "genres": [
-      "jazz",
-      "ambient jazz"
+      "country"
     ],
-    "href": "https://open.spotify.com/artist/0qjWYusrckF9BpkvWaoKRO",
-    "id": "0qjWYusrckF9BpkvWaoKRO",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7be2b0db4df55c1463e41f39",
-    "name": "Cozy Coffee Shop",
+    "href": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC",
+    "id": "6tPHARSq45lQ8BSALCfkFC",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6567547c5bac1a70f23678f3",
+    "name": "Lainey Wilson",
     "top_track": {
-      "href": "https://open.spotify.com/track/68VraGrtliBhItjbOs3Gao",
-      "name": "Jazz and Sentimental"
+      "href": "https://open.spotify.com/track/2z865bsdfckaBVck8MSAm8",
+      "name": "4×4×U"
     }
   },
   {
-    "followers": 16806753,
-    "genre": "rock",
-    "genres": [
-      "classic rock",
-      "rock",
-      "hard rock",
-      "rock and roll"
-    ],
-    "href": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp",
-    "id": "36QJpDe2go2KgaRleHCDTp",
-    "image": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e",
-    "name": "Led Zeppelin",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc",
-      "name": "Stairway to Heaven - Remaster"
-    }
-  },
-  {
-    "followers": 604083,
-    "genre": "indie",
+    "followers": 75,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8",
-    "id": "4Z8MrrKMBHMPa8d04Ivur8",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb961f7d53d55f126b339e1659",
-    "name": "Bella Kay",
+    "href": "https://open.spotify.com/artist/4dRWzaLBKsC8KfhaYB24o5",
+    "id": "4dRWzaLBKsC8KfhaYB24o5",
+    "image": "https://i.scdn.co/image/ab67616d0000b27342c1d097a7391545398a038b",
+    "name": "GabrielCaminha",
     "top_track": {
-      "href": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV",
-      "name": "iloveitiloveitiloveit"
+      "href": "https://open.spotify.com/track/1FFR76dn32sJL6Oqi0Xlol",
+      "name": "Diamonds"
+    }
+  },
+  {
+    "followers": 5449801,
+    "genre": "metal",
+    "genres": [
+      "alternative metal",
+      "post-grunge",
+      "rock"
+    ],
+    "href": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP",
+    "id": "5BtHciL0e0zOP7prIHn3pP",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9cbd38486695e98966852388",
+    "name": "Breaking Benjamin",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ",
+      "name": "The Diary of Jane - Single Version"
     }
   }
 ]
