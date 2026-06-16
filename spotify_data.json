@@ -1,34 +1,42 @@
 [
   {
-    "followers": 920129,
-    "genre": "reggae",
-    "genres": [
-      "reggae rock",
-      "reggae"
-    ],
-    "href": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f",
-    "id": "6GkJh85o22LfD2vgL9DP6f",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3adce5a7bfd3c6d972e5bf7b",
-    "name": "Dirty Heads",
+    "followers": 6784360,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV",
+    "id": "0z4gvV4rjIZ9wHck67ucSV",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3adb5ae14cf81ab05cf3a9e5",
+    "name": "Akon",
     "top_track": {
-      "href": "https://open.spotify.com/track/1gV4GZAVR9hcxC29J0lDH5",
-      "name": "Vacation"
+      "href": "https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5",
+      "name": "Smack That"
     }
   },
   {
-    "followers": 3051826,
-    "genre": "punk",
+    "followers": 19183277,
+    "genre": "latin",
     "genres": [
-      "new wave",
-      "post-punk"
+      "reggaeton",
+      "trap latino",
+      "urbano latino"
     ],
-    "href": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC",
-    "id": "2x9SpqnPi8rlE9pjHBwmSC",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebbb4de17ec7fc20b1c489e4ff",
-    "name": "Talking Heads",
+    "href": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X",
+    "id": "4SsVbpTthjScTS7U2hmr1X",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7aab347977373ccf5cb172c1",
+    "name": "Arcángel",
     "top_track": {
-      "href": "https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD",
-      "name": "Psycho Killer"
+      "href": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj",
+      "name": "Pa' Que La Pases Bien"
     }
+  },
+  {
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
   }
 ]
