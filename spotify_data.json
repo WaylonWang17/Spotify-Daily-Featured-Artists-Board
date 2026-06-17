@@ -1,42 +1,49 @@
 [
   {
-    "followers": 6784360,
-    "genre": "pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV",
-    "id": "0z4gvV4rjIZ9wHck67ucSV",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3adb5ae14cf81ab05cf3a9e5",
-    "name": "Akon",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5",
-      "name": "Smack That"
-    }
-  },
-  {
-    "followers": 19183277,
-    "genre": "latin",
+    "followers": 6106933,
+    "genre": "classical",
     "genres": [
-      "reggaeton",
-      "trap latino",
-      "urbano latino"
+      "classical",
+      "classical piano",
+      "opera",
+      "chamber music",
+      "concerto"
     ],
-    "href": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X",
-    "id": "4SsVbpTthjScTS7U2hmr1X",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7aab347977373ccf5cb172c1",
-    "name": "Arcángel",
+    "href": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS",
+    "id": "4NJhFmfw43RLBLjQvxDuRS",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88",
+    "name": "Wolfgang Amadeus Mozart",
     "top_track": {
-      "href": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj",
-      "name": "Pa' Que La Pases Bien"
+      "href": "https://open.spotify.com/track/7mgIQzCDcafYFkMMS3Bqvb",
+      "name": "Sequence: VI. Lacrimosa dies illa"
     }
   },
   {
-    "followers": 1,
-    "genre": "techno",
+    "followers": 150682,
+    "genre": "blues",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
+    "href": "https://open.spotify.com/artist/6kqeHxe4IG1RCR15nMT34L",
+    "id": "6kqeHxe4IG1RCR15nMT34L",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738da4cb380ad60a868eed8fdd",
+    "name": "Owen James",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0Md5wZpexG1RBDFsDIRITA",
+      "name": "When I Stand"
+    }
+  },
+  {
+    "followers": 708678,
+    "genre": "punk",
+    "genres": [
+      "metalcore"
+    ],
+    "href": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF",
+    "id": "1cJ5tVoeAEFcZBAwSZ0CtF",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb2dd9c6cd81b1324ba68c8ac1",
+    "name": "The Plot In You",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
+      "name": "FEEL NOTHING"
+    }
   }
 ]
