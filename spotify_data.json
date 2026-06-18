@@ -1,49 +1,48 @@
 [
   {
-    "followers": 6106933,
+    "followers": 817227,
+    "genre": "folk",
+    "genres": [
+      "indie folk",
+      "folk"
+    ],
+    "href": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix",
+    "id": "0wyMPXGfOuQzNR54ujR9Ix",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe0098f9c6d8275ee0a2d2eca",
+    "name": "Caamp",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3mg2GWeQoe9QnXizWvyAr2",
+      "name": "All the Debts I Owe"
+    }
+  },
+  {
+    "followers": 16301798,
+    "genre": "dance",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
+    "id": "0LcJLqbBmaGUft1e9Mm8HV",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb144d2bd5d672fcb0f38be00b",
+    "name": "ABBA",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr",
+      "name": "Dancing Queen"
+    }
+  },
+  {
+    "followers": 1693385,
     "genre": "classical",
     "genres": [
+      "impressionism",
       "classical",
-      "classical piano",
-      "opera",
-      "chamber music",
-      "concerto"
+      "classical piano"
     ],
-    "href": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS",
-    "id": "4NJhFmfw43RLBLjQvxDuRS",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88",
-    "name": "Wolfgang Amadeus Mozart",
+    "href": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP",
+    "id": "1Uff91EOsvd99rtAupatMP",
+    "image": "https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882",
+    "name": "Claude Debussy",
     "top_track": {
-      "href": "https://open.spotify.com/track/7mgIQzCDcafYFkMMS3Bqvb",
-      "name": "Sequence: VI. Lacrimosa dies illa"
-    }
-  },
-  {
-    "followers": 150682,
-    "genre": "blues",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6kqeHxe4IG1RCR15nMT34L",
-    "id": "6kqeHxe4IG1RCR15nMT34L",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738da4cb380ad60a868eed8fdd",
-    "name": "Owen James",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0Md5wZpexG1RBDFsDIRITA",
-      "name": "When I Stand"
-    }
-  },
-  {
-    "followers": 708678,
-    "genre": "punk",
-    "genres": [
-      "metalcore"
-    ],
-    "href": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF",
-    "id": "1cJ5tVoeAEFcZBAwSZ0CtF",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb2dd9c6cd81b1324ba68c8ac1",
-    "name": "The Plot In You",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4xDwCYhobDehSBGUmd5H6Y",
-      "name": "FEEL NOTHING"
+      "href": "https://open.spotify.com/track/1cmigB9I6IRpFqjIbzvSQB",
+      "name": "Suite bergamasque, L. 75: III. Clair de lune"
     }
   }
 ]
