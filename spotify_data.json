@@ -1,48 +1,33 @@
 [
   {
-    "followers": 817227,
+    "followers": 692882,
     "genre": "folk",
-    "genres": [
-      "indie folk",
-      "folk"
-    ],
-    "href": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix",
-    "id": "0wyMPXGfOuQzNR54ujR9Ix",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe0098f9c6d8275ee0a2d2eca",
-    "name": "Caamp",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3mg2GWeQoe9QnXizWvyAr2",
-      "name": "All the Debts I Owe"
-    }
-  },
-  {
-    "followers": 16301798,
-    "genre": "dance",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
-    "id": "0LcJLqbBmaGUft1e9Mm8HV",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb144d2bd5d672fcb0f38be00b",
-    "name": "ABBA",
+    "href": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI",
+    "id": "69tiO1fG8VWduDl3ji2qhI",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7c92602e66076f1b0bf5843b",
+    "name": "Mt. Joy",
     "top_track": {
-      "href": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr",
-      "name": "Dancing Queen"
+      "href": "https://open.spotify.com/track/13xVnZKZDEGbmXkzBFpJDD",
+      "name": "Silver Lining"
     }
   },
   {
-    "followers": 1693385,
-    "genre": "classical",
+    "followers": 3994995,
+    "genre": "j-pop",
     "genres": [
-      "impressionism",
-      "classical",
-      "classical piano"
+      "j-pop",
+      "japanese indie",
+      "anime",
+      "j-rock"
     ],
-    "href": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP",
-    "id": "1Uff91EOsvd99rtAupatMP",
-    "image": "https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882",
-    "name": "Claude Debussy",
+    "href": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru",
+    "id": "2IUl3m1H1EQ7QfNbNWvgru",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb718d2d3988005d3a72f22c9",
+    "name": "Vaundy",
     "top_track": {
-      "href": "https://open.spotify.com/track/1cmigB9I6IRpFqjIbzvSQB",
-      "name": "Suite bergamasque, L. 75: III. Clair de lune"
+      "href": "https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0",
+      "name": "Kaiju no Hanauta"
     }
   }
 ]
