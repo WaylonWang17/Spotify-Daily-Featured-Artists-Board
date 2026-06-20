@@ -1,33 +1,33 @@
 [
   {
-    "followers": 692882,
-    "genre": "folk",
+    "followers": 47,
+    "genre": "house",
     "genres": [],
-    "href": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI",
-    "id": "69tiO1fG8VWduDl3ji2qhI",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7c92602e66076f1b0bf5843b",
-    "name": "Mt. Joy",
+    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
+    "id": "2KUI78zzOPJOCrDv3P4xnU",
+    "image": "",
+    "name": "Stereonova",
     "top_track": {
-      "href": "https://open.spotify.com/track/13xVnZKZDEGbmXkzBFpJDD",
-      "name": "Silver Lining"
+      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
+      "name": "Inutilmente"
     }
   },
   {
-    "followers": 3994995,
-    "genre": "j-pop",
+    "followers": 2924462,
+    "genre": "blues",
     "genres": [
-      "j-pop",
-      "japanese indie",
-      "anime",
-      "j-rock"
+      "blues",
+      "classic blues",
+      "soul blues",
+      "blues rock"
     ],
-    "href": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru",
-    "id": "2IUl3m1H1EQ7QfNbNWvgru",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb718d2d3988005d3a72f22c9",
-    "name": "Vaundy",
+    "href": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U",
+    "id": "5xLSa7l4IV1gsQfhAMvl0U",
+    "image": "https://i.scdn.co/image/ffb3ff26238fe635a230bb0feb59dd0a5b209b6f",
+    "name": "B.B. King",
     "top_track": {
-      "href": "https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0",
-      "name": "Kaiju no Hanauta"
+      "href": "https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM",
+      "name": "The Thrill Is Gone"
     }
   }
 ]
