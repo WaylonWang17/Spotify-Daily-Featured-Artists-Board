@@ -1,33 +1,43 @@
 [
   {
-    "followers": 47,
-    "genre": "house",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
-    "id": "2KUI78zzOPJOCrDv3P4xnU",
-    "image": "",
-    "name": "Stereonova",
+    "followers": 1240333,
+    "genre": "blues",
+    "genres": [
+      "retro soul"
+    ],
+    "href": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6",
+    "id": "6eU0jV2eEZ8XTM7EmlguK6",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb39d27eaedd0adde305e9c98f",
+    "name": "Black Pumas",
     "top_track": {
-      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
-      "name": "Inutilmente"
+      "href": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK",
+      "name": "Colors"
     }
   },
   {
-    "followers": 2924462,
-    "genre": "blues",
-    "genres": [
-      "blues",
-      "classic blues",
-      "soul blues",
-      "blues rock"
-    ],
-    "href": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U",
-    "id": "5xLSa7l4IV1gsQfhAMvl0U",
-    "image": "https://i.scdn.co/image/ffb3ff26238fe635a230bb0feb59dd0a5b209b6f",
-    "name": "B.B. King",
+    "followers": 12972159,
+    "genre": "dance",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg",
+    "id": "0TnOYISbd1XYRBk9myaseg",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8d8ac7290d0fe2d12fb6e4d9",
+    "name": "Pitbull",
     "top_track": {
-      "href": "https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM",
-      "name": "The Thrill Is Gone"
+      "href": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN",
+      "name": "On The Floor"
+    }
+  },
+  {
+    "followers": 1068789,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb",
+    "id": "0nnBZ8FXWjG9wZgM2cpfeb",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc6c4f4aaf40ebee92b8a8228",
+    "name": "Leon Thomas",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt",
+      "name": "MUTT"
     }
   }
 ]
