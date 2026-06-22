@@ -1,43 +1,41 @@
 [
   {
-    "followers": 1240333,
-    "genre": "blues",
-    "genres": [
-      "retro soul"
-    ],
-    "href": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6",
-    "id": "6eU0jV2eEZ8XTM7EmlguK6",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb39d27eaedd0adde305e9c98f",
-    "name": "Black Pumas",
+    "followers": 243717,
+    "genre": "punk",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K",
+    "id": "4eZer1QvRM8Pna0rLToV1K",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc2415aef247b0bbccaeb32f5",
+    "name": "Alyssa Grace",
     "top_track": {
-      "href": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK",
-      "name": "Colors"
+      "href": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO",
+      "name": "bloodstream"
     }
   },
   {
-    "followers": 12972159,
-    "genre": "dance",
+    "followers": 220,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg",
-    "id": "0TnOYISbd1XYRBk9myaseg",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8d8ac7290d0fe2d12fb6e4d9",
-    "name": "Pitbull",
+    "href": "https://open.spotify.com/artist/0s4JRhiI6djokTbOhqUd7f",
+    "id": "0s4JRhiI6djokTbOhqUd7f",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738134e797356b04becdec4444",
+    "name": "SWAPAN DEBBARMA",
     "top_track": {
-      "href": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN",
-      "name": "On The Floor"
+      "href": "https://open.spotify.com/track/0hlnibK7prBmuYeUvxw3Wi",
+      "name": "Ang Rwchapkhe"
     }
   },
   {
-    "followers": 1068789,
-    "genre": "r\u0026b",
+    "followers": 4494059,
+    "genre": "indie",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb",
-    "id": "0nnBZ8FXWjG9wZgM2cpfeb",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc6c4f4aaf40ebee92b8a8228",
-    "name": "Leon Thomas",
+    "href": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3",
+    "id": "26T3LtbuGT1Fu9m0eRq5X3",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb766df8f443e0160f7b35545d",
+    "name": "Cage The Elephant",
     "top_track": {
-      "href": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt",
-      "name": "MUTT"
+      "href": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0",
+      "name": "Cigarette Daydreams"
     }
   }
 ]
