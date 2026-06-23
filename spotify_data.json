@@ -1,41 +1,45 @@
 [
   {
-    "followers": 243717,
-    "genre": "punk",
+    "followers": 60099260,
+    "genre": "pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K",
-    "id": "4eZer1QvRM8Pna0rLToV1K",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc2415aef247b0bbccaeb32f5",
-    "name": "Alyssa Grace",
+    "href": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q",
+    "id": "53XhwfbYqKCa1cC15pYq2q",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebab47d8dae2b24f5afe7f9d38",
+    "name": "Imagine Dragons",
     "top_track": {
-      "href": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO",
-      "name": "bloodstream"
+      "href": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
+      "name": "Believer"
     }
   },
   {
-    "followers": 220,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0s4JRhiI6djokTbOhqUd7f",
-    "id": "0s4JRhiI6djokTbOhqUd7f",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738134e797356b04becdec4444",
-    "name": "SWAPAN DEBBARMA",
+    "followers": 24793378,
+    "genre": "rock",
+    "genres": [
+      "funk rock",
+      "alternative rock",
+      "rock"
+    ],
+    "href": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5",
+    "id": "0L8ExT028jH3ddEcZwqJJ5",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8",
+    "name": "Red Hot Chili Peppers",
     "top_track": {
-      "href": "https://open.spotify.com/track/0hlnibK7prBmuYeUvxw3Wi",
-      "name": "Ang Rwchapkhe"
+      "href": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "name": "Can't Stop"
     }
   },
   {
-    "followers": 4494059,
-    "genre": "indie",
+    "followers": 483653,
+    "genre": "soul",
     "genres": [],
-    "href": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3",
-    "id": "26T3LtbuGT1Fu9m0eRq5X3",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb766df8f443e0160f7b35545d",
-    "name": "Cage The Elephant",
+    "href": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn",
+    "id": "5T0MSzX9RC5NA6gAI6irSn",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb253991558853fd60bd319a34",
+    "name": "Estelle",
     "top_track": {
-      "href": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0",
-      "name": "Cigarette Daydreams"
+      "href": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh",
+      "name": "American Boy"
     }
   }
 ]
