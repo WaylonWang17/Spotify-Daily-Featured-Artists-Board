@@ -1,45 +1,52 @@
 [
   {
-    "followers": 60099260,
-    "genre": "pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q",
-    "id": "53XhwfbYqKCa1cC15pYq2q",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebab47d8dae2b24f5afe7f9d38",
-    "name": "Imagine Dragons",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
-      "name": "Believer"
-    }
-  },
-  {
-    "followers": 24793378,
-    "genre": "rock",
+    "followers": 878165,
+    "genre": "punk",
     "genres": [
-      "funk rock",
-      "alternative rock",
-      "rock"
+      "post-hardcore",
+      "screamo",
+      "emo",
+      "metalcore",
+      "math rock"
     ],
-    "href": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5",
-    "id": "0L8ExT028jH3ddEcZwqJJ5",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8",
-    "name": "Red Hot Chili Peppers",
+    "href": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k",
+    "id": "6guC9FqvlVboSKTI77NG2k",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb82fc5e0ee0a525bfc037d4d7",
+    "name": "Dance Gavin Dance",
     "top_track": {
-      "href": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
-      "name": "Can't Stop"
+      "href": "https://open.spotify.com/track/7xCcUcMcGsIYGKUVgBZUw5",
+      "name": "We Own the Night"
     }
   },
   {
-    "followers": 483653,
-    "genre": "soul",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn",
-    "id": "5T0MSzX9RC5NA6gAI6irSn",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb253991558853fd60bd319a34",
-    "name": "Estelle",
+    "followers": 429661,
+    "genre": "j-pop",
+    "genres": [
+      "j-pop"
+    ],
+    "href": "https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ",
+    "id": "4jhJ8cnJ9vYKyCh289nuwQ",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb88f8a66a56a8eb9340fb194c",
+    "name": "M!LK",
     "top_track": {
-      "href": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh",
-      "name": "American Boy"
+      "href": "https://open.spotify.com/track/4Re9Zb9uYlMtMiZy7HFFw5",
+      "name": "Sukisugite METSU!"
+    }
+  },
+  {
+    "followers": 11627309,
+    "genre": "latin",
+    "genres": [
+      "reggaeton",
+      "urbano latino"
+    ],
+    "href": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX",
+    "id": "1TA5sGRlKUJXBN4ZyJuDIX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0dc44404c0cbb9311d9e192d",
+    "name": "Blessd",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3jqk4fue7CILssCv8UpJe0",
+      "name": "YOGURCITO REMIX (feat. Kris R., ROA)"
     }
   }
 ]
