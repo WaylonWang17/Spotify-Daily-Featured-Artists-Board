@@ -1,52 +1,56 @@
 [
   {
-    "followers": 878165,
-    "genre": "punk",
+    "followers": 6049396,
+    "genre": "rock",
     "genres": [
-      "post-hardcore",
-      "screamo",
-      "emo",
-      "metalcore",
-      "math rock"
+      "rock",
+      "glam metal",
+      "hard rock",
+      "classic rock"
     ],
-    "href": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k",
-    "id": "6guC9FqvlVboSKTI77NG2k",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb82fc5e0ee0a525bfc037d4d7",
-    "name": "Dance Gavin Dance",
+    "href": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx",
+    "id": "2qk9voo8llSGYcZ6xrBzKx",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5e97fb0c8918ed67408f9edc",
+    "name": "Kings of Leon",
     "top_track": {
-      "href": "https://open.spotify.com/track/7xCcUcMcGsIYGKUVgBZUw5",
-      "name": "We Own the Night"
+      "href": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45",
+      "name": "Sex on Fire"
     }
   },
   {
-    "followers": 429661,
-    "genre": "j-pop",
+    "followers": 31725114,
+    "genre": "soul",
     "genres": [
-      "j-pop"
+      "motown",
+      "classic soul",
+      "soul",
+      "northern soul",
+      "quiet storm"
     ],
-    "href": "https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ",
-    "id": "4jhJ8cnJ9vYKyCh289nuwQ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb88f8a66a56a8eb9340fb194c",
-    "name": "M!LK",
+    "href": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z",
+    "id": "7bXgB6jMjp9ATFy66eO08Z",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb913ab85302df0ddfb77131e9",
+    "name": "Chris Brown",
     "top_track": {
-      "href": "https://open.spotify.com/track/4Re9Zb9uYlMtMiZy7HFFw5",
-      "name": "Sukisugite METSU!"
+      "href": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC",
+      "name": "International Love (feat. Chris Brown)"
     }
   },
   {
-    "followers": 11627309,
-    "genre": "latin",
+    "followers": 9892281,
+    "genre": "dance",
     "genres": [
-      "reggaeton",
-      "urbano latino"
+      "edm",
+      "trance",
+      "big room"
     ],
-    "href": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX",
-    "id": "1TA5sGRlKUJXBN4ZyJuDIX",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0dc44404c0cbb9311d9e192d",
-    "name": "Blessd",
+    "href": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX",
+    "id": "6LqNN22kT3074XbTVUrhzX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb1c43cbfb50d7ac393df96ae5",
+    "name": "Kesha",
     "top_track": {
-      "href": "https://open.spotify.com/track/3jqk4fue7CILssCv8UpJe0",
-      "name": "YOGURCITO REMIX (feat. Kris R., ROA)"
+      "href": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS",
+      "name": "Timber"
     }
   }
 ]
