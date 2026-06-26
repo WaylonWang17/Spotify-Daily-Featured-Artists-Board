@@ -1,56 +1,45 @@
 [
   {
-    "followers": 6049396,
-    "genre": "rock",
+    "followers": 10527838,
+    "genre": "jazz",
     "genres": [
-      "rock",
-      "glam metal",
-      "hard rock",
-      "classic rock"
+      "bossa nova",
+      "brazilian jazz",
+      "mpb",
+      "latin jazz"
     ],
-    "href": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx",
-    "id": "2qk9voo8llSGYcZ6xrBzKx",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5e97fb0c8918ed67408f9edc",
-    "name": "Kings of Leon",
+    "href": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO",
+    "id": "7gW0r5CkdEUMm42w9XpyZO",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc751deb23ed62e7cadfb669a",
+    "name": "Laufey",
     "top_track": {
-      "href": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45",
-      "name": "Sex on Fire"
+      "href": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN",
+      "name": "From The Start"
     }
   },
   {
-    "followers": 31725114,
-    "genre": "soul",
-    "genres": [
-      "motown",
-      "classic soul",
-      "soul",
-      "northern soul",
-      "quiet storm"
-    ],
-    "href": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z",
-    "id": "7bXgB6jMjp9ATFy66eO08Z",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb913ab85302df0ddfb77131e9",
-    "name": "Chris Brown",
-    "top_track": {
-      "href": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC",
-      "name": "International Love (feat. Chris Brown)"
-    }
+    "followers": 25,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/42740LBMj53t98kRJHjvRQ",
+    "id": "42740LBMj53t98kRJHjvRQ",
+    "image": "",
+    "name": "Doreno",
+    "top_track": null
   },
   {
-    "followers": 9892281,
-    "genre": "dance",
+    "followers": 4044551,
+    "genre": "blues",
     "genres": [
-      "edm",
-      "trance",
-      "big room"
+      "jam band"
     ],
-    "href": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX",
-    "id": "6LqNN22kT3074XbTVUrhzX",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb1c43cbfb50d7ac393df96ae5",
-    "name": "Kesha",
+    "href": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P",
+    "id": "6GI52t8N5F02MxU0g5U69P",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb09882b1b7b33732abd60fc38",
+    "name": "Santana",
     "top_track": {
-      "href": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS",
-      "name": "Timber"
+      "href": "https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze",
+      "name": "Maria Maria (feat. The Product G\u0026B)"
     }
   }
 ]
