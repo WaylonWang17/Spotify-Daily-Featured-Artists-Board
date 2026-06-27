@@ -1,45 +1,43 @@
 [
   {
-    "followers": 10527838,
-    "genre": "jazz",
-    "genres": [
-      "bossa nova",
-      "brazilian jazz",
-      "mpb",
-      "latin jazz"
-    ],
-    "href": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO",
-    "id": "7gW0r5CkdEUMm42w9XpyZO",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc751deb23ed62e7cadfb669a",
-    "name": "Laufey",
+    "followers": 8312879,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN",
+    "id": "7GlBOeep6PqTfFi59PTUUN",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
+    "name": "Chappell Roan",
     "top_track": {
-      "href": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN",
-      "name": "From The Start"
+      "href": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu",
+      "name": "Good Luck, Babe!"
     }
   },
   {
-    "followers": 25,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/42740LBMj53t98kRJHjvRQ",
-    "id": "42740LBMj53t98kRJHjvRQ",
-    "image": "",
-    "name": "Doreno",
-    "top_track": null
+    "followers": 15783908,
+    "genre": "country",
+    "genres": [
+      "country"
+    ],
+    "href": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM",
+    "id": "4oUHIQIBe0LHzYfvXNW4QM",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb47de0bbc22f08b5ebe14bd6e",
+    "name": "Morgan Wallen",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB",
+      "name": "I Had Some Help (Feat. Morgan Wallen)"
+    }
   },
   {
-    "followers": 4044551,
-    "genre": "blues",
-    "genres": [
-      "jam band"
-    ],
-    "href": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P",
-    "id": "6GI52t8N5F02MxU0g5U69P",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb09882b1b7b33732abd60fc38",
-    "name": "Santana",
+    "followers": 113014241,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR",
+    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb766397ec42a573a53eb5fb87",
+    "name": "Ariana Grande",
     "top_track": {
-      "href": "https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze",
-      "name": "Maria Maria (feat. The Product G\u0026B)"
+      "href": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
+      "name": "hate that i made you love me"
     }
   }
 ]
