@@ -1,43 +1,52 @@
 [
   {
-    "followers": 8312879,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN",
-    "id": "7GlBOeep6PqTfFi59PTUUN",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
-    "name": "Chappell Roan",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu",
-      "name": "Good Luck, Babe!"
-    }
-  },
-  {
-    "followers": 15783908,
-    "genre": "country",
+    "followers": 23460689,
+    "genre": "hip hop",
     "genres": [
+      "country hip hop",
       "country"
     ],
-    "href": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM",
-    "id": "4oUHIQIBe0LHzYfvXNW4QM",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb47de0bbc22f08b5ebe14bd6e",
-    "name": "Morgan Wallen",
+    "href": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK",
+    "id": "5f7VJjfbwm532GiveGC0ZK",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb514da623c55dc9d2155705dd",
+    "name": "Lil Baby",
     "top_track": {
-      "href": "https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB",
-      "name": "I Had Some Help (Feat. Morgan Wallen)"
+      "href": "https://open.spotify.com/track/5MPPttjfGap2C6j6eKcO6J",
+      "name": "Baby (Lil Baby feat. DaBaby)"
     }
   },
   {
-    "followers": 113014241,
-    "genre": "pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR",
-    "id": "66CXWjxzNUsdJxJ2JdwvnR",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb766397ec42a573a53eb5fb87",
-    "name": "Ariana Grande",
+    "followers": 604281,
+    "genre": "reggae",
+    "genres": [
+      "reggae",
+      "dancehall",
+      "roots reggae",
+      "ragga",
+      "reggae rock"
+    ],
+    "href": "https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8",
+    "id": "3Je8tRazTtqZxGkbeJDGL8",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb208ad5e17edb871e3ca550e8",
+    "name": "Kolohe Kai",
     "top_track": {
-      "href": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
-      "name": "hate that i made you love me"
+      "href": "https://open.spotify.com/track/6uJaTP7EbaHXJ5PM09s0uV",
+      "name": "Cool Down"
+    }
+  },
+  {
+    "followers": 6441751,
+    "genre": "r\u0026b",
+    "genres": [
+      "alternative r\u0026b"
+    ],
+    "href": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy",
+    "id": "3aQeKQSyrW4qWr35idm0cy",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb23981d9ba3b853b4534b80a9",
+    "name": "T-Pain",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3rfhI32Il2hVRKDkuGeeen",
+      "name": "Hey Baby (Drop It to the Floor) (feat. T-Pain)"
     }
   }
 ]
