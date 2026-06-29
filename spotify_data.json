@@ -1,52 +1,38 @@
 [
   {
-    "followers": 23460689,
-    "genre": "hip hop",
-    "genres": [
-      "country hip hop",
-      "country"
-    ],
-    "href": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK",
-    "id": "5f7VJjfbwm532GiveGC0ZK",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb514da623c55dc9d2155705dd",
-    "name": "Lil Baby",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5MPPttjfGap2C6j6eKcO6J",
-      "name": "Baby (Lil Baby feat. DaBaby)"
-    }
-  },
-  {
-    "followers": 604281,
-    "genre": "reggae",
-    "genres": [
-      "reggae",
-      "dancehall",
-      "roots reggae",
-      "ragga",
-      "reggae rock"
-    ],
-    "href": "https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8",
-    "id": "3Je8tRazTtqZxGkbeJDGL8",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb208ad5e17edb871e3ca550e8",
-    "name": "Kolohe Kai",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6uJaTP7EbaHXJ5PM09s0uV",
-      "name": "Cool Down"
-    }
-  },
-  {
-    "followers": 6441751,
+    "followers": 12724311,
     "genre": "r\u0026b",
-    "genres": [
-      "alternative r\u0026b"
-    ],
-    "href": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy",
-    "id": "3aQeKQSyrW4qWr35idm0cy",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb23981d9ba3b853b4534b80a9",
-    "name": "T-Pain",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y",
+    "id": "07YZf4WDAMNwqr4jfgOZ8y",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfb65e1af01cf95c25bd29ed1",
+    "name": "Jason Derulo",
     "top_track": {
-      "href": "https://open.spotify.com/track/3rfhI32Il2hVRKDkuGeeen",
-      "name": "Hey Baby (Drop It to the Floor) (feat. T-Pain)"
+      "href": "https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8",
+      "name": "Whatcha Say"
+    }
+  },
+  {
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 1124552,
+    "genre": "classical",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq",
+    "id": "5wTAi7QkpP6kp8a54lmTOq",
+    "image": "https://i.scdn.co/image/d5c6af18beb1411ab49c2976647e0d370bf66a88",
+    "name": "Johannes Brahms",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2oLjhx7w8Hyd3gry9cCXr7",
+      "name": "21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)"
     }
   }
 ]
