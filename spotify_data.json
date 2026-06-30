@@ -1,38 +1,38 @@
 [
   {
-    "followers": 12724311,
-    "genre": "r\u0026b",
+    "followers": 7864568,
+    "genre": "indie",
     "genres": [],
-    "href": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y",
-    "id": "07YZf4WDAMNwqr4jfgOZ8y",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebfb65e1af01cf95c25bd29ed1",
-    "name": "Jason Derulo",
+    "href": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT",
+    "id": "3eqjTLE0HfPfh78zjh6TqT",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb81df2fa2f937029ec986bbb8",
+    "name": "Bruce Springsteen",
     "top_track": {
-      "href": "https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8",
-      "name": "Whatcha Say"
+      "href": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE",
+      "name": "Dancing In the Dark"
     }
   },
   {
-    "followers": 1,
-    "genre": "techno",
+    "followers": 47,
+    "genre": "house",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "href": "https://open.spotify.com/artist/2KUI78zzOPJOCrDv3P4xnU",
+    "id": "2KUI78zzOPJOCrDv3P4xnU",
     "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
+    "name": "Stereonova",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3Izhmgs5NiJZJ2gftM2Exv",
+      "name": "Inutilmente"
+    }
   },
   {
-    "followers": 1124552,
-    "genre": "classical",
+    "followers": 505,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq",
-    "id": "5wTAi7QkpP6kp8a54lmTOq",
-    "image": "https://i.scdn.co/image/d5c6af18beb1411ab49c2976647e0d370bf66a88",
-    "name": "Johannes Brahms",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2oLjhx7w8Hyd3gry9cCXr7",
-      "name": "21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)"
-    }
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
+    "image": "",
+    "name": "Rutuu",
+    "top_track": null
   }
 ]
