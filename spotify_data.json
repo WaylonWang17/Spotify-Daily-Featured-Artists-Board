@@ -1,48 +1,46 @@
 [
   {
-    "followers": 12673208,
+    "followers": 8,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2YJgh2hiPPMRyvAi4aQboj",
+    "id": "2YJgh2hiPPMRyvAi4aQboj",
+    "image": "https://i.scdn.co/image/ab67616d0000b273365bc57c4ee670d16aeabdf1",
+    "name": "Akshu Negi",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1HM9huEbD2ld5UOEzlP1MP",
+      "name": "Kinnauri Mix Edm"
+    }
+  },
+  {
+    "followers": 119167935,
+    "genre": "latin",
+    "genres": [
+      "reggaeton",
+      "trap latino",
+      "latin",
+      "urbano latino"
+    ],
+    "href": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X",
+    "id": "4q3ewBCX7sLwd24euuV69X",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
+    "name": "Bad Bunny",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
+      "name": "DtMF"
+    }
+  },
+  {
+    "followers": 8130770,
     "genre": "hip hop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop",
-    "id": "137W8MRPWKqSmrBGDBFSop",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc66b0a8c3268f0b6556f64a8",
-    "name": "Wiz Khalifa",
+    "href": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu",
+    "id": "0fA0VVWsXO9YnASrzqfmYu",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5f00bb6dd7a7008d14156630",
+    "name": "Kid Cudi",
     "top_track": {
-      "href": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc",
-      "name": "See You Again (feat. Charlie Puth)"
-    }
-  },
-  {
-    "followers": 337037,
-    "genre": "j-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp",
-    "id": "5lMia1loNJEa8ofqQkKFAp",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0c75da892a1952d1ac9ca2e5",
-    "name": "AKUGETSU",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4iHYQwgtrY26p2uQG8Nstr",
-      "name": "Blink Gone (VIVINOS - ALNST Original Soundtrack Part.8)"
-    }
-  },
-  {
-    "followers": 9013251,
-    "genre": "jazz",
-    "genres": [
-      "christmas",
-      "big band",
-      "adult standards",
-      "swing music",
-      "jazz",
-      "vocal jazz"
-    ],
-    "href": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0",
-    "id": "1Mxqyy3pSjf8kZZL4QVxS0",
-    "image": "https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411",
-    "name": "Frank Sinatra",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe",
-      "name": "My Way"
+      "href": "https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n",
+      "name": "Memories (feat. Kid Cudi)"
     }
   }
 ]
