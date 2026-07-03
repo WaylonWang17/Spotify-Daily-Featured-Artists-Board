@@ -1,46 +1,42 @@
 [
   {
-    "followers": 8,
-    "genre": "k-pop",
+    "followers": 1,
+    "genre": "techno",
     "genres": [],
-    "href": "https://open.spotify.com/artist/2YJgh2hiPPMRyvAi4aQboj",
-    "id": "2YJgh2hiPPMRyvAi4aQboj",
-    "image": "https://i.scdn.co/image/ab67616d0000b273365bc57c4ee670d16aeabdf1",
-    "name": "Akshu Negi",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1HM9huEbD2ld5UOEzlP1MP",
-      "name": "Kinnauri Mix Edm"
-    }
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
   },
   {
-    "followers": 119167935,
-    "genre": "latin",
+    "followers": 8788150,
+    "genre": "r\u0026b",
     "genres": [
-      "reggaeton",
-      "trap latino",
-      "latin",
-      "urbano latino"
+      "r\u0026b"
     ],
-    "href": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X",
-    "id": "4q3ewBCX7sLwd24euuV69X",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
-    "name": "Bad Bunny",
+    "href": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG",
+    "id": "3tlXnStJ1fFhdScmQeLpuG",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb582fbf712f5b6a9bf65d9b84",
+    "name": "Brent Faiyaz",
     "top_track": {
-      "href": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
-      "name": "DtMF"
+      "href": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu",
+      "name": "butterflies."
     }
   },
   {
-    "followers": 8130770,
-    "genre": "hip hop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu",
-    "id": "0fA0VVWsXO9YnASrzqfmYu",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5f00bb6dd7a7008d14156630",
-    "name": "Kid Cudi",
+    "followers": 4609545,
+    "genre": "pop",
+    "genres": [
+      "pop soul"
+    ],
+    "href": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW",
+    "id": "00x1fYSGhdqScXBRpSj3DW",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5c7577ad44daeb7ce4b941a1",
+    "name": "Olivia Dean",
     "top_track": {
-      "href": "https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n",
-      "name": "Memories (feat. Kid Cudi)"
+      "href": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+      "name": "Man I Need"
     }
   }
 ]
