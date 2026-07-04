@@ -1,42 +1,46 @@
 [
   {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
-  },
-  {
-    "followers": 8788150,
+    "followers": 31811008,
     "genre": "r\u0026b",
     "genres": [
       "r\u0026b"
     ],
-    "href": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG",
-    "id": "3tlXnStJ1fFhdScmQeLpuG",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb582fbf712f5b6a9bf65d9b84",
-    "name": "Brent Faiyaz",
+    "href": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z",
+    "id": "7bXgB6jMjp9ATFy66eO08Z",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb913ab85302df0ddfb77131e9",
+    "name": "Chris Brown",
     "top_track": {
-      "href": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu",
-      "name": "butterflies."
+      "href": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC",
+      "name": "International Love (feat. Chris Brown)"
     }
   },
   {
-    "followers": 4609545,
-    "genre": "pop",
+    "followers": 12671,
+    "genre": "jazz",
     "genres": [
-      "pop soul"
+      "jazz",
+      "ambient jazz"
     ],
-    "href": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW",
-    "id": "00x1fYSGhdqScXBRpSj3DW",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5c7577ad44daeb7ce4b941a1",
-    "name": "Olivia Dean",
+    "href": "https://open.spotify.com/artist/0qjWYusrckF9BpkvWaoKRO",
+    "id": "0qjWYusrckF9BpkvWaoKRO",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7be2b0db4df55c1463e41f39",
+    "name": "Cozy Coffee Shop",
     "top_track": {
-      "href": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
-      "name": "Man I Need"
+      "href": "https://open.spotify.com/track/68VraGrtliBhItjbOs3Gao",
+      "name": "Jazz and Sentimental"
+    }
+  },
+  {
+    "followers": 11077855,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym",
+    "id": "45dkTj5sMRSjrmBSBeiHym",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbed8016bd64422793ff3bc75",
+    "name": "Tate McRae",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3",
+      "name": "Just Keep Watching (From F1® The Movie)"
     }
   }
 ]
