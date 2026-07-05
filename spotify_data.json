@@ -1,46 +1,30 @@
 [
   {
-    "followers": 31811008,
-    "genre": "r\u0026b",
+    "followers": 51744,
+    "genre": "reggae",
     "genres": [
-      "r\u0026b"
+      "musicals"
     ],
-    "href": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z",
-    "id": "7bXgB6jMjp9ATFy66eO08Z",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb913ab85302df0ddfb77131e9",
-    "name": "Chris Brown",
+    "href": "https://open.spotify.com/artist/1iM9uHQqsPQvZ087a5pf5w",
+    "id": "1iM9uHQqsPQvZ087a5pf5w",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb2899b89157f68eefaf17bf71",
+    "name": "Teagan Earley",
     "top_track": {
-      "href": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC",
-      "name": "International Love (feat. Chris Brown)"
+      "href": "https://open.spotify.com/track/6wWakPsI8Hs4ZHHJ4CHMQ5",
+      "name": "Warrior of the Mind"
     }
   },
   {
-    "followers": 12671,
-    "genre": "jazz",
-    "genres": [
-      "jazz",
-      "ambient jazz"
-    ],
-    "href": "https://open.spotify.com/artist/0qjWYusrckF9BpkvWaoKRO",
-    "id": "0qjWYusrckF9BpkvWaoKRO",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7be2b0db4df55c1463e41f39",
-    "name": "Cozy Coffee Shop",
-    "top_track": {
-      "href": "https://open.spotify.com/track/68VraGrtliBhItjbOs3Gao",
-      "name": "Jazz and Sentimental"
-    }
-  },
-  {
-    "followers": 11077855,
-    "genre": "pop",
+    "followers": 277901,
+    "genre": "blues",
     "genres": [],
-    "href": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym",
-    "id": "45dkTj5sMRSjrmBSBeiHym",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebbed8016bd64422793ff3bc75",
-    "name": "Tate McRae",
+    "href": "https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O",
+    "id": "2a84LFOuPFQX3qGB26eu9O",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb01b2e97e78bd96e8ee6679a4",
+    "name": "Steven Rodriguez",
     "top_track": {
-      "href": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3",
-      "name": "Just Keep Watching (From F1® The Movie)"
+      "href": "https://open.spotify.com/track/3Hp8GJDsH3E7fumfAACH2k",
+      "name": "Love in Paradise"
     }
   }
 ]
