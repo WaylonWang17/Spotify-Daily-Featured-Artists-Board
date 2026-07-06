@@ -1,30 +1,50 @@
 [
   {
-    "followers": 51744,
-    "genre": "reggae",
+    "followers": 31863209,
+    "genre": "r\u0026b",
     "genres": [
-      "musicals"
+      "r\u0026b"
     ],
-    "href": "https://open.spotify.com/artist/1iM9uHQqsPQvZ087a5pf5w",
-    "id": "1iM9uHQqsPQvZ087a5pf5w",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb2899b89157f68eefaf17bf71",
-    "name": "Teagan Earley",
+    "href": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z",
+    "id": "7bXgB6jMjp9ATFy66eO08Z",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb913ab85302df0ddfb77131e9",
+    "name": "Chris Brown",
     "top_track": {
-      "href": "https://open.spotify.com/track/6wWakPsI8Hs4ZHHJ4CHMQ5",
-      "name": "Warrior of the Mind"
+      "href": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC",
+      "name": "International Love (feat. Chris Brown)"
     }
   },
   {
-    "followers": 277901,
-    "genre": "blues",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O",
-    "id": "2a84LFOuPFQX3qGB26eu9O",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb01b2e97e78bd96e8ee6679a4",
-    "name": "Steven Rodriguez",
+    "followers": 872023,
+    "genre": "reggae",
+    "genres": [
+      "reggae rock",
+      "reggae"
+    ],
+    "href": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb",
+    "id": "6MxlVTY6PmY8Nyn16fvxtb",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf3af2f80187b55795f42d7f0",
+    "name": "Slightly Stoopid",
     "top_track": {
-      "href": "https://open.spotify.com/track/3Hp8GJDsH3E7fumfAACH2k",
-      "name": "Love in Paradise"
+      "href": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n",
+      "name": "World on Fire (feat. Slightly Stoopid)"
+    }
+  },
+  {
+    "followers": 57888731,
+    "genre": "rock",
+    "genres": [
+      "classic rock",
+      "rock",
+      "glam rock"
+    ],
+    "href": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d",
+    "id": "1dfeR4HaWDbWqFHLkxsg1d",
+    "image": "https://i.scdn.co/image/ab6772690000c46c47488c35a509d42072c23976",
+    "name": "Queen",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J",
+      "name": "Bohemian Rhapsody - Remastered 2011"
     }
   }
 ]
