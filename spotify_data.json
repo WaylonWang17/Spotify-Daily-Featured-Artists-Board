@@ -1,50 +1,32 @@
 [
   {
-    "followers": 31863209,
-    "genre": "r\u0026b",
+    "followers": 65510126,
+    "genre": "latin",
     "genres": [
-      "r\u0026b"
+      "reggaeton",
+      "latin",
+      "urbano latino"
     ],
-    "href": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z",
-    "id": "7bXgB6jMjp9ATFy66eO08Z",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb913ab85302df0ddfb77131e9",
-    "name": "Chris Brown",
+    "href": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla",
+    "id": "790FomKkXshlbRYZFtlgla",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb66041ce9eb4497057cbc3496",
+    "name": "KAROL G",
     "top_track": {
-      "href": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC",
-      "name": "International Love (feat. Chris Brown)"
+      "href": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32",
+      "name": "Si Antes Te Hubiera Conocido"
     }
   },
   {
-    "followers": 872023,
-    "genre": "reggae",
-    "genres": [
-      "reggae rock",
-      "reggae"
-    ],
-    "href": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb",
-    "id": "6MxlVTY6PmY8Nyn16fvxtb",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf3af2f80187b55795f42d7f0",
-    "name": "Slightly Stoopid",
+    "followers": 7122986,
+    "genre": "hip hop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J",
+    "id": "2tIP7SsRs7vjIcLrU85W8J",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebec28585ddac052aece0faae5",
+    "name": "The Kid LAROI",
     "top_track": {
-      "href": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n",
-      "name": "World on Fire (feat. Slightly Stoopid)"
-    }
-  },
-  {
-    "followers": 57888731,
-    "genre": "rock",
-    "genres": [
-      "classic rock",
-      "rock",
-      "glam rock"
-    ],
-    "href": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d",
-    "id": "1dfeR4HaWDbWqFHLkxsg1d",
-    "image": "https://i.scdn.co/image/ab6772690000c46c47488c35a509d42072c23976",
-    "name": "Queen",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J",
-      "name": "Bohemian Rhapsody - Remastered 2011"
+      "href": "https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo",
+      "name": "STAY (with Justin Bieber)"
     }
   }
 ]
