@@ -1,32 +1,34 @@
 [
   {
-    "followers": 65510126,
-    "genre": "latin",
+    "followers": 1696806,
+    "genre": "classical",
     "genres": [
-      "reggaeton",
-      "latin",
-      "urbano latino"
+      "impressionism",
+      "classical",
+      "classical piano"
     ],
-    "href": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla",
-    "id": "790FomKkXshlbRYZFtlgla",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb66041ce9eb4497057cbc3496",
-    "name": "KAROL G",
+    "href": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP",
+    "id": "1Uff91EOsvd99rtAupatMP",
+    "image": "https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882",
+    "name": "Claude Debussy",
     "top_track": {
-      "href": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32",
-      "name": "Si Antes Te Hubiera Conocido"
+      "href": "https://open.spotify.com/track/1cmigB9I6IRpFqjIbzvSQB",
+      "name": "Suite bergamasque, L. 75: III. Clair de lune"
     }
   },
   {
-    "followers": 7122986,
-    "genre": "hip hop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J",
-    "id": "2tIP7SsRs7vjIcLrU85W8J",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebec28585ddac052aece0faae5",
-    "name": "The Kid LAROI",
+    "followers": 1795653,
+    "genre": "blues",
+    "genres": [
+      "soft rock"
+    ],
+    "href": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug",
+    "id": "0FI0kxP0BWurTz8cB8BBug",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb94b957255b1e4d4ddcc470ce",
+    "name": "Mark Knopfler",
     "top_track": {
-      "href": "https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo",
-      "name": "STAY (with Justin Bieber)"
+      "href": "https://open.spotify.com/track/1RVZH0clK31T3qB4eZykLp",
+      "name": "What It Is"
     }
   }
 ]
