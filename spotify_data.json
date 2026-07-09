@@ -1,34 +1,49 @@
 [
   {
-    "followers": 1696806,
-    "genre": "classical",
-    "genres": [
-      "impressionism",
-      "classical",
-      "classical piano"
-    ],
-    "href": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP",
-    "id": "1Uff91EOsvd99rtAupatMP",
-    "image": "https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882",
-    "name": "Claude Debussy",
+    "followers": 42,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/674eXu23AnmQs8Vgd7FxvN",
+    "id": "674eXu23AnmQs8Vgd7FxvN",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf01887e46e9e709a897c27c5",
+    "name": "El TuertoJoints",
     "top_track": {
-      "href": "https://open.spotify.com/track/1cmigB9I6IRpFqjIbzvSQB",
-      "name": "Suite bergamasque, L. 75: III. Clair de lune"
+      "href": "https://open.spotify.com/track/1pX9GYhsftAx9QP5AmHUAX",
+      "name": "Tonyrasta"
     }
   },
   {
-    "followers": 1795653,
-    "genre": "blues",
+    "followers": 4337449,
+    "genre": "country",
     "genres": [
-      "soft rock"
+      "country",
+      "acoustic country"
     ],
-    "href": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug",
-    "id": "0FI0kxP0BWurTz8cB8BBug",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb94b957255b1e4d4ddcc470ce",
-    "name": "Mark Knopfler",
+    "href": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo",
+    "id": "6yJCxee7QumYr820xdIsjo",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5ce86e86ff94ea8995587ff2",
+    "name": "Zac Brown Band",
     "top_track": {
-      "href": "https://open.spotify.com/track/1RVZH0clK31T3qB4eZykLp",
-      "name": "What It Is"
+      "href": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc",
+      "name": "Chicken Fried"
+    }
+  },
+  {
+    "followers": 49550437,
+    "genre": "latin",
+    "genres": [
+      "reggaeton",
+      "trap latino",
+      "urbano latino",
+      "latin"
+    ],
+    "href": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66",
+    "id": "2R21vXR83lH98kGeO99Y66",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba23ceb177745632b517cb7b2",
+    "name": "Anuel AA",
+    "top_track": {
+      "href": "https://open.spotify.com/track/56V7nzrqr6Sq1uFym4odwa",
+      "name": "Cuando No Era Cantante RMX - Remix"
     }
   }
 ]
