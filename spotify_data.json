@@ -1,49 +1,28 @@
 [
   {
-    "followers": 42,
-    "genre": "rap",
+    "followers": 148401,
+    "genre": "punk",
     "genres": [],
-    "href": "https://open.spotify.com/artist/674eXu23AnmQs8Vgd7FxvN",
-    "id": "674eXu23AnmQs8Vgd7FxvN",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf01887e46e9e709a897c27c5",
-    "name": "El TuertoJoints",
+    "href": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg",
+    "id": "2kU94AZG0xEVKnOUKDbEfg",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf970ac79bd5cc71fc1f5a6ee",
+    "name": "i wanna be a jack-o-lantern",
     "top_track": {
-      "href": "https://open.spotify.com/track/1pX9GYhsftAx9QP5AmHUAX",
-      "name": "Tonyrasta"
+      "href": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G",
+      "name": "Nope your too late i already died"
     }
   },
   {
-    "followers": 4337449,
-    "genre": "country",
-    "genres": [
-      "country",
-      "acoustic country"
-    ],
-    "href": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo",
-    "id": "6yJCxee7QumYr820xdIsjo",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5ce86e86ff94ea8995587ff2",
-    "name": "Zac Brown Band",
+    "followers": 8305327,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET",
+    "id": "22wbnEMDvgVIAGdFeek6ET",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfe3bab531cafaf7189d7b1a4",
+    "name": "Benson Boone",
     "top_track": {
-      "href": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc",
-      "name": "Chicken Fried"
-    }
-  },
-  {
-    "followers": 49550437,
-    "genre": "latin",
-    "genres": [
-      "reggaeton",
-      "trap latino",
-      "urbano latino",
-      "latin"
-    ],
-    "href": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66",
-    "id": "2R21vXR83lH98kGeO99Y66",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba23ceb177745632b517cb7b2",
-    "name": "Anuel AA",
-    "top_track": {
-      "href": "https://open.spotify.com/track/56V7nzrqr6Sq1uFym4odwa",
-      "name": "Cuando No Era Cantante RMX - Remix"
+      "href": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii",
+      "name": "Beautiful Things"
     }
   }
 ]
