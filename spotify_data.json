@@ -1,28 +1,53 @@
 [
   {
-    "followers": 148401,
-    "genre": "punk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg",
-    "id": "2kU94AZG0xEVKnOUKDbEfg",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf970ac79bd5cc71fc1f5a6ee",
-    "name": "i wanna be a jack-o-lantern",
+    "followers": 1296294,
+    "genre": "reggae",
+    "genres": [
+      "reggae en español"
+    ],
+    "href": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2",
+    "id": "2AbQwU2cuEGfD465wCXlg2",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
+    "name": "Rawayana",
     "top_track": {
-      "href": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G",
-      "name": "Nope your too late i already died"
+      "href": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA",
+      "name": "Inglés En Miami"
     }
   },
   {
-    "followers": 8305327,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET",
-    "id": "22wbnEMDvgVIAGdFeek6ET",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebfe3bab531cafaf7189d7b1a4",
-    "name": "Benson Boone",
+    "followers": 29082424,
+    "genre": "pop",
+    "genres": [
+      "corrido",
+      "corridos tumbados",
+      "corridos bélicos",
+      "música mexicana",
+      "sad sierreño",
+      "banda"
+    ],
+    "href": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ",
+    "id": "12GqGscKJx3aE4t07u7eVZ",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe5283f5b671cf618b82a2696",
+    "name": "Peso Pluma",
     "top_track": {
-      "href": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii",
-      "name": "Beautiful Things"
+      "href": "https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR",
+      "name": "daño"
+    }
+  },
+  {
+    "followers": 629769,
+    "genre": "rock",
+    "genres": [
+      "country",
+      "red dirt"
+    ],
+    "href": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y",
+    "id": "5jG6uRqinuI83luutMpW6y",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb221886585391cbb7d7b77abd",
+    "name": "Gavin Adcock",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4JAmBKnHyq2avqNvJ81Mao",
+      "name": "Last One To Know"
     }
   }
 ]
