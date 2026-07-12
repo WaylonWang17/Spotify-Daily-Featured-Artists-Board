@@ -1,53 +1,38 @@
 [
   {
-    "followers": 1296294,
-    "genre": "reggae",
-    "genres": [
-      "reggae en español"
-    ],
-    "href": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2",
-    "id": "2AbQwU2cuEGfD465wCXlg2",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5d52d93053343dc60653bbde",
-    "name": "Rawayana",
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 1504364,
+    "genre": "soul",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp",
+    "id": "3hv9jJF3adDNsBSIQDqcjp",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4",
+    "name": "Mark Ronson",
     "top_track": {
-      "href": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA",
-      "name": "Inglés En Miami"
+      "href": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS",
+      "name": "Uptown Funk (feat. Bruno Mars)"
     }
   },
   {
-    "followers": 29082424,
-    "genre": "pop",
-    "genres": [
-      "corrido",
-      "corridos tumbados",
-      "corridos bélicos",
-      "música mexicana",
-      "sad sierreño",
-      "banda"
-    ],
-    "href": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ",
-    "id": "12GqGscKJx3aE4t07u7eVZ",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe5283f5b671cf618b82a2696",
-    "name": "Peso Pluma",
-    "top_track": {
-      "href": "https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR",
-      "name": "daño"
-    }
-  },
-  {
-    "followers": 629769,
+    "followers": 13101,
     "genre": "rock",
-    "genres": [
-      "country",
-      "red dirt"
-    ],
-    "href": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y",
-    "id": "5jG6uRqinuI83luutMpW6y",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb221886585391cbb7d7b77abd",
-    "name": "Gavin Adcock",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/10JZkvi2NuyvCIuRDppggx",
+    "id": "10JZkvi2NuyvCIuRDppggx",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d6b1abafc5724e017bdef5c0",
+    "name": "Gene Rockwell",
     "top_track": {
-      "href": "https://open.spotify.com/track/4JAmBKnHyq2avqNvJ81Mao",
-      "name": "Last One To Know"
+      "href": "https://open.spotify.com/track/5CqWvv4ebi73LPeUGzzMSP",
+      "name": "Heart"
     }
   }
 ]
