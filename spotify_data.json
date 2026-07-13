@@ -1,5 +1,31 @@
 [
   {
+    "followers": 220,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0s4JRhiI6djokTbOhqUd7f",
+    "id": "0s4JRhiI6djokTbOhqUd7f",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738134e797356b04becdec4444",
+    "name": "SWAPAN DEBBARMA",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0hlnibK7prBmuYeUvxw3Wi",
+      "name": "Ang Rwchapkhe"
+    }
+  },
+  {
+    "followers": 6470657,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy",
+    "id": "3aQeKQSyrW4qWr35idm0cy",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb23981d9ba3b853b4534b80a9",
+    "name": "T-Pain",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3rfhI32Il2hVRKDkuGeeen",
+      "name": "Hey Baby (Drop It to the Floor) (feat. T-Pain)"
+    }
+  },
+  {
     "followers": 1,
     "genre": "techno",
     "genres": [],
@@ -8,31 +34,5 @@
     "image": "",
     "name": "Andy Lyon",
     "top_track": null
-  },
-  {
-    "followers": 1504364,
-    "genre": "soul",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp",
-    "id": "3hv9jJF3adDNsBSIQDqcjp",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4",
-    "name": "Mark Ronson",
-    "top_track": {
-      "href": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS",
-      "name": "Uptown Funk (feat. Bruno Mars)"
-    }
-  },
-  {
-    "followers": 13101,
-    "genre": "rock",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/10JZkvi2NuyvCIuRDppggx",
-    "id": "10JZkvi2NuyvCIuRDppggx",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d6b1abafc5724e017bdef5c0",
-    "name": "Gene Rockwell",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5CqWvv4ebi73LPeUGzzMSP",
-      "name": "Heart"
-    }
   }
 ]
