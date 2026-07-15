@@ -1,45 +1,45 @@
 [
   {
-    "followers": 4673871,
+    "followers": 4257978,
+    "genre": "indie",
+    "genres": [
+      "surf rock"
+    ],
+    "href": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3",
+    "id": "3GBPw9NK25X1Wt2OUvOwY3",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0bf3ff1eaa4c0d6d664ccc3f",
+    "name": "Jack Johnson",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC",
+      "name": "Upside Down"
+    }
+  },
+  {
+    "followers": 9507648,
     "genre": "metal",
     "genres": [
-      "emo",
-      "rap metal"
+      "nu metal",
+      "rap metal",
+      "alternative metal",
+      "rap rock"
     ],
-    "href": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz",
-    "id": "2CmaKO2zEGJ1NWpS1yfVGz",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4a733f510df96652c3bea05b",
-    "name": "Falling In Reverse",
+    "href": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb",
+    "id": "165ZgPlLkK7bf5bDoFc6Sb",
+    "image": "https://i.scdn.co/image/4654955890cb62a6abe9daadfd2b3ecdee8036e4",
+    "name": "Limp Bizkit",
     "top_track": {
-      "href": "https://open.spotify.com/track/4myFsmx2v6znDOJfn3IkbD",
-      "name": "Popular Monster"
+      "href": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
+      "name": "Break Stuff"
     }
   },
   {
-    "followers": 41147925,
-    "genre": "latin",
-    "genres": [
-      "reggaeton",
-      "latin",
-      "urbano latino"
-    ],
-    "href": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau",
-    "id": "1r4hJ1h58CWwUQe3MxPuau",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb1b0d196ca84f4a0d076b4570",
-    "name": "Maluma",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN",
-      "name": "Borro Cassette"
-    }
-  },
-  {
-    "followers": 65,
-    "genre": "rap",
+    "followers": 1,
+    "genre": "techno",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4ANS1ArQnz5zOpjVwzDfku",
-    "id": "4ANS1ArQnz5zOpjVwzDfku",
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
     "image": "",
-    "name": "Squad Sui",
+    "name": "Andy Lyon",
     "top_track": null
   }
 ]
