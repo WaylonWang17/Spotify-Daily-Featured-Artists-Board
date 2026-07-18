@@ -1,45 +1,43 @@
 [
   {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
-  },
-  {
-    "followers": 3260475,
-    "genre": "punk",
+    "followers": 1572777,
+    "genre": "country",
     "genres": [
-      "pop punk",
-      "emo",
-      "punk"
+      "country"
     ],
-    "href": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo",
-    "id": "46gyXjRIvN1NL1eCB8GBxo",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8625dac822c90c5f8c605170",
-    "name": "All Time Low",
+    "href": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0",
+    "id": "5Ppie0uPnbnvGBYRwYmlt0",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb23435361a7e5cef9e8b73d1e",
+    "name": "Megan Moroney",
     "top_track": {
-      "href": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe",
-      "name": "Dear Maria, Count Me In"
+      "href": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ",
+      "name": "Tennessee Orange"
     }
   },
   {
-    "followers": 8492757,
-    "genre": "rock",
-    "genres": [
-      "post-grunge",
-      "rock"
-    ],
-    "href": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF",
-    "id": "6deZN1bslXzeGvOLaLMOIF",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb2b4ea46f1ccb49ec25e74273",
-    "name": "Nickelback",
+    "followers": 36,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
+    "id": "4kjS5eC0smSDzKaTxgAGPW",
+    "image": "",
+    "name": "Take My Chances",
     "top_track": {
-      "href": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf",
-      "name": "How You Remind Me"
+      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
+      "name": "Handy With The Tongue Sword"
+    }
+  },
+  {
+    "followers": 29,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6uVJEZc4O05OtlV8UpoEb2",
+    "id": "6uVJEZc4O05OtlV8UpoEb2",
+    "image": "",
+    "name": "Shan Debbarma",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6kpPsQrHmEiIu0KHDv0O09",
+      "name": "Bubagra Bubagra"
     }
   }
 ]
