@@ -1,43 +1,35 @@
 [
   {
-    "followers": 1572777,
-    "genre": "country",
+    "followers": 7330955,
+    "genre": "j-pop",
     "genres": [
-      "country"
+      "j-pop",
+      "j-rock",
+      "anime"
     ],
-    "href": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0",
-    "id": "5Ppie0uPnbnvGBYRwYmlt0",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb23435361a7e5cef9e8b73d1e",
-    "name": "Megan Moroney",
+    "href": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9",
+    "id": "4QvgGvpgzgyUOo8Yp8LDm9",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0b6fd24c14a46a5027d65e47",
+    "name": "Mrs. GREEN APPLE",
     "top_track": {
-      "href": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ",
-      "name": "Tennessee Orange"
+      "href": "https://open.spotify.com/track/21VsLvoE7elUmJZLSawaMh",
+      "name": "ライラック"
     }
   },
   {
-    "followers": 36,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
-    "id": "4kjS5eC0smSDzKaTxgAGPW",
-    "image": "",
-    "name": "Take My Chances",
+    "followers": 875474,
+    "genre": "reggae",
+    "genres": [
+      "reggae rock",
+      "reggae"
+    ],
+    "href": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb",
+    "id": "6MxlVTY6PmY8Nyn16fvxtb",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf3af2f80187b55795f42d7f0",
+    "name": "Slightly Stoopid",
     "top_track": {
-      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
-      "name": "Handy With The Tongue Sword"
-    }
-  },
-  {
-    "followers": 29,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6uVJEZc4O05OtlV8UpoEb2",
-    "id": "6uVJEZc4O05OtlV8UpoEb2",
-    "image": "",
-    "name": "Shan Debbarma",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6kpPsQrHmEiIu0KHDv0O09",
-      "name": "Bubagra Bubagra"
+      "href": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n",
+      "name": "World on Fire (feat. Slightly Stoopid)"
     }
   }
 ]
