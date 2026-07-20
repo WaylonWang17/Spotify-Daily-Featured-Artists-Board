@@ -1,35 +1,32 @@
 [
   {
-    "followers": 7330955,
-    "genre": "j-pop",
+    "followers": 5593336,
+    "genre": "metal",
     "genres": [
-      "j-pop",
-      "j-rock",
-      "anime"
+      "grunge",
+      "post-grunge",
+      "alternative metal"
     ],
-    "href": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9",
-    "id": "4QvgGvpgzgyUOo8Yp8LDm9",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0b6fd24c14a46a5027d65e47",
-    "name": "Mrs. GREEN APPLE",
+    "href": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn",
+    "id": "2ziB7fzrXBoh1HUPS6sVFn",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5a865295befda9e060a72cb0",
+    "name": "Audioslave",
     "top_track": {
-      "href": "https://open.spotify.com/track/21VsLvoE7elUmJZLSawaMh",
-      "name": "ライラック"
+      "href": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei",
+      "name": "Like a Stone"
     }
   },
   {
-    "followers": 875474,
-    "genre": "reggae",
-    "genres": [
-      "reggae rock",
-      "reggae"
-    ],
-    "href": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb",
-    "id": "6MxlVTY6PmY8Nyn16fvxtb",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf3af2f80187b55795f42d7f0",
-    "name": "Slightly Stoopid",
+    "followers": 508772,
+    "genre": "punk",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp",
+    "id": "5mgr0FFpvy267wKVAYg8qp",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb278fa39c5a3d46f20d6d12c3",
+    "name": "Lit",
     "top_track": {
-      "href": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n",
-      "name": "World on Fire (feat. Slightly Stoopid)"
+      "href": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z",
+      "name": "My Own Worst Enemy"
     }
   }
 ]
