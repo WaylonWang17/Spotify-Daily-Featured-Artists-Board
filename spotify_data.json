@@ -1,49 +1,43 @@
 [
   {
-    "followers": 6936416,
-    "genre": "rock",
-    "genres": [
-      "garage rock",
-      "indie rock",
-      "alternative rock"
-    ],
-    "href": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V",
-    "id": "0epOFNiUfyON9EYx7Tpr6V",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb98856eea770468af6dd999d9",
-    "name": "The Strokes",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
-      "name": "The Adults Are Talking"
-    }
-  },
-  {
-    "followers": 3272761,
+    "followers": 1099278,
     "genre": "r\u0026b",
-    "genres": [
-      "alternative r\u0026b"
-    ],
-    "href": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD",
-    "id": "0NIIxcxNHmOoyBx03SfTCD",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb2aa31460f72545bb40d3fdd7",
-    "name": "Tinashe",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb",
+    "id": "0nnBZ8FXWjG9wZgM2cpfeb",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc6c4f4aaf40ebee92b8a8228",
+    "name": "Leon Thomas",
     "top_track": {
-      "href": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj",
-      "name": "No Broke Boys"
+      "href": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt",
+      "name": "MUTT"
     }
   },
   {
-    "followers": 391366,
-    "genre": "classical",
+    "followers": 7409581,
+    "genre": "metal",
     "genres": [
-      "musicals"
+      "rap metal",
+      "rap rock",
+      "alternative metal",
+      "nu metal"
     ],
-    "href": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG",
-    "id": "4aP1lp10BRYZO658B2NwkG",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb1246c5886ac87c6334cd3a33",
-    "name": "Andrew Lloyd Webber",
+    "href": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj",
+    "id": "2d0hyoQ5ynDBnkvAbJKORj",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebda4bd2b213cae330e2a4a901",
+    "name": "Rage Against The Machine",
     "top_track": {
-      "href": "https://open.spotify.com/track/3oPiyTWNUPODOXfXMSXwB2",
-      "name": "The Phantom of the Opera"
+      "href": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp",
+      "name": "Killing In The Name"
     }
+  },
+  {
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
   }
 ]
