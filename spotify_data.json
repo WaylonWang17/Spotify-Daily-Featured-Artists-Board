@@ -1,28 +1,31 @@
 [
   {
-    "followers": 7,
-    "genre": "k-pop",
+    "followers": 38,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/2YJgh2hiPPMRyvAi4aQboj",
-    "id": "2YJgh2hiPPMRyvAi4aQboj",
-    "image": "https://i.scdn.co/image/ab67616d0000b273365bc57c4ee670d16aeabdf1",
-    "name": "Akshu Negi",
+    "href": "https://open.spotify.com/artist/5U9qhC9qG9Cp14zSFX5Qat",
+    "id": "5U9qhC9qG9Cp14zSFX5Qat",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc9dc1e9b488524db9b4b57e0",
+    "name": "Karpamal",
     "top_track": {
-      "href": "https://open.spotify.com/track/1HM9huEbD2ld5UOEzlP1MP",
-      "name": "Kinnauri Mix Edm"
+      "href": "https://open.spotify.com/track/2K4EPR6rb0CA9Ln291Ie4Y",
+      "name": "Sintonia da Evolução"
     }
   },
   {
-    "followers": 3184864,
+    "followers": 17114451,
     "genre": "metal",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM",
-    "id": "7dOBabd5O4CvKrg4iriHTM",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb2306846cafba63385008dc21",
-    "name": "Kid Rock",
+    "genres": [
+      "classic rock",
+      "rock"
+    ],
+    "href": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH",
+    "id": "7Ey4PD4MYsKc5I2dolUwbH",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d",
+    "name": "Aerosmith",
     "top_track": {
-      "href": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych",
-      "name": "All Summer Long"
+      "href": "https://open.spotify.com/track/5Ih9gbqyxCzTJ43nuSuKnC",
+      "name": "Dream On"
     }
   }
 ]
