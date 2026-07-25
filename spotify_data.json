@@ -1,31 +1,38 @@
 [
   {
-    "followers": 38,
-    "genre": "rap",
+    "followers": 1,
+    "genre": "techno",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5U9qhC9qG9Cp14zSFX5Qat",
-    "id": "5U9qhC9qG9Cp14zSFX5Qat",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc9dc1e9b488524db9b4b57e0",
-    "name": "Karpamal",
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 2683687,
+    "genre": "dance",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj",
+    "id": "5Pb27ujIyYb33zBqVysBkj",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb14324c06b24ca79a0fea7aec",
+    "name": "RÜFÜS DU SOL",
     "top_track": {
-      "href": "https://open.spotify.com/track/2K4EPR6rb0CA9Ln291Ie4Y",
-      "name": "Sintonia da Evolução"
+      "href": "https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0",
+      "name": "Innerbloom"
     }
   },
   {
-    "followers": 17114451,
-    "genre": "metal",
-    "genres": [
-      "classic rock",
-      "rock"
-    ],
-    "href": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH",
-    "id": "7Ey4PD4MYsKc5I2dolUwbH",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d",
-    "name": "Aerosmith",
+    "followers": 36,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
+    "id": "4kjS5eC0smSDzKaTxgAGPW",
+    "image": "",
+    "name": "Take My Chances",
     "top_track": {
-      "href": "https://open.spotify.com/track/5Ih9gbqyxCzTJ43nuSuKnC",
-      "name": "Dream On"
+      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
+      "name": "Handy With The Tongue Sword"
     }
   }
 ]
