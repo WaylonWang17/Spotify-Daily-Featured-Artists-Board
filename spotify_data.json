@@ -1,5 +1,18 @@
 [
   {
+    "followers": 15251593,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W",
+    "id": "0Y6dVaC9DZtPNH4591M42W",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
+    "name": "TV Girl",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
+      "name": "Lovers Rock"
+    }
+  },
+  {
     "followers": 1,
     "genre": "techno",
     "genres": [],
@@ -10,29 +23,16 @@
     "top_track": null
   },
   {
-    "followers": 2683687,
+    "followers": 85978138,
     "genre": "dance",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj",
-    "id": "5Pb27ujIyYb33zBqVysBkj",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb14324c06b24ca79a0fea7aec",
-    "name": "RÜFÜS DU SOL",
+    "href": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C",
+    "id": "0du5cEVh5yTK9QJze8zA0C",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc7688aad1bf03986934d7e26",
+    "name": "Bruno Mars",
     "top_track": {
-      "href": "https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0",
-      "name": "Innerbloom"
-    }
-  },
-  {
-    "followers": 36,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
-    "id": "4kjS5eC0smSDzKaTxgAGPW",
-    "image": "",
-    "name": "Take My Chances",
-    "top_track": {
-      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
-      "name": "Handy With The Tongue Sword"
+      "href": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ",
+      "name": "Die With A Smile"
     }
   }
 ]
