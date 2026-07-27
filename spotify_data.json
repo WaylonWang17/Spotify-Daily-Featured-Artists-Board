@@ -1,38 +1,30 @@
 [
   {
-    "followers": 15251593,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W",
-    "id": "0Y6dVaC9DZtPNH4591M42W",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
-    "name": "TV Girl",
+    "followers": 28722497,
+    "genre": "hip hop",
+    "genres": [
+      "rap"
+    ],
+    "href": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5",
+    "id": "6l3HvQ5sa6mXTsMTB19rO5",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc401ea77e86ee984b1ba9fc2",
+    "name": "J. Cole",
     "top_track": {
-      "href": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
-      "name": "Lovers Rock"
+      "href": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr",
+      "name": "No Role Modelz"
     }
   },
   {
-    "followers": 1,
-    "genre": "techno",
+    "followers": 4184130,
+    "genre": "rock",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
-  },
-  {
-    "followers": 85978138,
-    "genre": "dance",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C",
-    "id": "0du5cEVh5yTK9QJze8zA0C",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc7688aad1bf03986934d7e26",
-    "name": "Bruno Mars",
+    "href": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA",
+    "id": "2sil8z5kiy4r76CRTXxBCA",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe7b66b8c4ba729848574df7a",
+    "name": "The Goo Goo Dolls",
     "top_track": {
-      "href": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ",
-      "name": "Die With A Smile"
+      "href": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs",
+      "name": "Iris"
     }
   }
 ]
