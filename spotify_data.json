@@ -1,30 +1,43 @@
 [
   {
-    "followers": 28722497,
-    "genre": "hip hop",
+    "followers": 4689476,
+    "genre": "punk",
     "genres": [
-      "rap"
+      "emo",
+      "rap metal"
     ],
-    "href": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5",
-    "id": "6l3HvQ5sa6mXTsMTB19rO5",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc401ea77e86ee984b1ba9fc2",
-    "name": "J. Cole",
+    "href": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz",
+    "id": "2CmaKO2zEGJ1NWpS1yfVGz",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4a733f510df96652c3bea05b",
+    "name": "Falling In Reverse",
     "top_track": {
-      "href": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr",
-      "name": "No Role Modelz"
+      "href": "https://open.spotify.com/track/4myFsmx2v6znDOJfn3IkbD",
+      "name": "Popular Monster"
     }
   },
   {
-    "followers": 4184130,
-    "genre": "rock",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA",
-    "id": "2sil8z5kiy4r76CRTXxBCA",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe7b66b8c4ba729848574df7a",
-    "name": "The Goo Goo Dolls",
+    "followers": 8860501,
+    "genre": "r\u0026b",
+    "genres": [
+      "r\u0026b"
+    ],
+    "href": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG",
+    "id": "3tlXnStJ1fFhdScmQeLpuG",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb582fbf712f5b6a9bf65d9b84",
+    "name": "Brent Faiyaz",
     "top_track": {
-      "href": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs",
-      "name": "Iris"
+      "href": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu",
+      "name": "butterflies."
     }
+  },
+  {
+    "followers": 504,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
+    "image": "",
+    "name": "Rutuu",
+    "top_track": null
   }
 ]
