@@ -1,43 +1,28 @@
 [
   {
-    "followers": 4689476,
-    "genre": "punk",
-    "genres": [
-      "emo",
-      "rap metal"
-    ],
-    "href": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz",
-    "id": "2CmaKO2zEGJ1NWpS1yfVGz",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4a733f510df96652c3bea05b",
-    "name": "Falling In Reverse",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4myFsmx2v6znDOJfn3IkbD",
-      "name": "Popular Monster"
-    }
-  },
-  {
-    "followers": 8860501,
-    "genre": "r\u0026b",
-    "genres": [
-      "r\u0026b"
-    ],
-    "href": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG",
-    "id": "3tlXnStJ1fFhdScmQeLpuG",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb582fbf712f5b6a9bf65d9b84",
-    "name": "Brent Faiyaz",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu",
-      "name": "butterflies."
-    }
-  },
-  {
-    "followers": 504,
-    "genre": "alternative",
+    "followers": 500779,
+    "genre": "soul",
     "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
-    "image": "",
-    "name": "Rutuu",
-    "top_track": null
+    "href": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn",
+    "id": "5T0MSzX9RC5NA6gAI6irSn",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb253991558853fd60bd319a34",
+    "name": "Estelle",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh",
+      "name": "American Boy"
+    }
+  },
+  {
+    "followers": 94,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0QylSv6q2MlFpf0bVCrdzX",
+    "id": "0QylSv6q2MlFpf0bVCrdzX",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebadc466e10a97276c6bec5a5e",
+    "name": "6Flame",
+    "top_track": {
+      "href": "https://open.spotify.com/track/693ENiif6tN26YpNXiNpJL",
+      "name": "Pergunta aos Céus"
+    }
   }
 ]
