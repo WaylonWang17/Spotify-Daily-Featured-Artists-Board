@@ -1,28 +1,49 @@
 [
   {
-    "followers": 500779,
-    "genre": "soul",
+    "followers": 63,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn",
-    "id": "5T0MSzX9RC5NA6gAI6irSn",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb253991558853fd60bd319a34",
-    "name": "Estelle",
+    "href": "https://open.spotify.com/artist/1sxcXGAxs9YCKdjXjBO8aY",
+    "id": "1sxcXGAxs9YCKdjXjBO8aY",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd4b352c565518494f9e03643",
+    "name": "Wesley Voox",
     "top_track": {
-      "href": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh",
-      "name": "American Boy"
+      "href": "https://open.spotify.com/track/2SLhYNWtHcoKafGKOtXLwQ",
+      "name": "Cash na Minha Bag"
     }
   },
   {
-    "followers": 94,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0QylSv6q2MlFpf0bVCrdzX",
-    "id": "0QylSv6q2MlFpf0bVCrdzX",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebadc466e10a97276c6bec5a5e",
-    "name": "6Flame",
+    "followers": 5242114,
+    "genre": "classical",
+    "genres": [
+      "soundtrack",
+      "score"
+    ],
+    "href": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ",
+    "id": "0YC192cP3KPCRWx8zr8MfZ",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d",
+    "name": "Hans Zimmer",
     "top_track": {
-      "href": "https://open.spotify.com/track/693ENiif6tN26YpNXiNpJL",
-      "name": "Pergunta aos Céus"
+      "href": "https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP",
+      "name": "Cornfield Chase"
+    }
+  },
+  {
+    "followers": 1039446,
+    "genre": "blues",
+    "genres": [
+      "blues rock",
+      "modern blues",
+      "blues",
+      "classic blues"
+    ],
+    "href": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ",
+    "id": "2SNzxY1OsSCHBLVi77mpPQ",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc3c63b0298a7db23423685ae",
+    "name": "Joe Bonamassa",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm",
+      "name": "Blues Deluxe"
     }
   }
 ]
