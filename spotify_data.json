@@ -1,49 +1,33 @@
 [
   {
-    "followers": 63,
-    "genre": "rap",
+    "followers": 2163987,
+    "genre": "jazz",
+    "genres": [
+      "jazz",
+      "vocal jazz",
+      "big band",
+      "swing music"
+    ],
+    "href": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp",
+    "id": "1YzCsTRb22dQkh9lghPIrp",
+    "image": "https://i.scdn.co/image/4efa6b6871a0f672b78b3d16fd5a03c6cd212d58",
+    "name": "Billie Holiday",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5",
+      "name": "I'll Be Seeing You"
+    }
+  },
+  {
+    "followers": 27412887,
+    "genre": "hip hop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1sxcXGAxs9YCKdjXjBO8aY",
-    "id": "1sxcXGAxs9YCKdjXjBO8aY",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd4b352c565518494f9e03643",
-    "name": "Wesley Voox",
+    "href": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB",
+    "id": "4kYSro6naA4h99UJvo89HB",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba23286f24edd4a7dbdc6311d",
+    "name": "Cardi B",
     "top_track": {
-      "href": "https://open.spotify.com/track/2SLhYNWtHcoKafGKOtXLwQ",
-      "name": "Cash na Minha Bag"
-    }
-  },
-  {
-    "followers": 5242114,
-    "genre": "classical",
-    "genres": [
-      "soundtrack",
-      "score"
-    ],
-    "href": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ",
-    "id": "0YC192cP3KPCRWx8zr8MfZ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d",
-    "name": "Hans Zimmer",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP",
-      "name": "Cornfield Chase"
-    }
-  },
-  {
-    "followers": 1039446,
-    "genre": "blues",
-    "genres": [
-      "blues rock",
-      "modern blues",
-      "blues",
-      "classic blues"
-    ],
-    "href": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ",
-    "id": "2SNzxY1OsSCHBLVi77mpPQ",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc3c63b0298a7db23423685ae",
-    "name": "Joe Bonamassa",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm",
-      "name": "Blues Deluxe"
+      "href": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z",
+      "name": "I Like It"
     }
   }
 ]
