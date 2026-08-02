@@ -1,33 +1,28 @@
 [
   {
-    "followers": 6977870,
-    "genre": "metal",
-    "genres": [
-      "groove metal",
-      "metal",
-      "thrash metal",
-      "heavy metal"
-    ],
-    "href": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18",
-    "id": "14pVkFUHDL207LzLHtSA18",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
-    "name": "Pantera",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR",
-      "name": "Walk"
-    }
+    "followers": 25,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/42740LBMj53t98kRJHjvRQ",
+    "id": "42740LBMj53t98kRJHjvRQ",
+    "image": "",
+    "name": "Doreno",
+    "top_track": null
   },
   {
-    "followers": 663244,
-    "genre": "folk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh",
-    "id": "4lhUHpVOXmkEBGGHV71QCh",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf55d267001e9ca2e174772b4",
-    "name": "Chance Peña",
+    "followers": 5672694,
+    "genre": "jazz",
+    "genres": [
+      "funk",
+      "disco"
+    ],
+    "href": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg",
+    "id": "4QQgXkCYTt3BlENzhyNETg",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9722e16a886767adf1178f92",
+    "name": "Earth, Wind \u0026 Fire",
     "top_track": {
-      "href": "https://open.spotify.com/track/70eyG7pqKozUvKPKXLXmpI",
-      "name": "i am not who i was"
+      "href": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs",
+      "name": "September"
     }
   }
 ]
