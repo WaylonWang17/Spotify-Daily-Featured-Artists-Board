@@ -1,52 +1,46 @@
 [
   {
-    "followers": 2594,
-    "genre": "k-pop",
+    "followers": 8431047,
+    "genre": "latin",
+    "genres": [
+      "reggaeton chileno",
+      "chilean trap",
+      "chilean mambo",
+      "reggaeton"
+    ],
+    "href": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE",
+    "id": "1Yj5Xey7kTwvZla8sqdsdE",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb199654eb9083bcc0a5551549",
+    "name": "Cris MJ",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy",
+      "name": "Gata Only"
+    }
+  },
+  {
+    "followers": 5678301,
+    "genre": "jazz",
+    "genres": [
+      "funk",
+      "disco"
+    ],
+    "href": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg",
+    "id": "4QQgXkCYTt3BlENzhyNETg",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9722e16a886767adf1178f92",
+    "name": "Earth, Wind \u0026 Fire",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs",
+      "name": "September"
+    }
+  },
+  {
+    "followers": 1,
+    "genre": "techno",
     "genres": [],
-    "href": "https://open.spotify.com/artist/27OhxQ6xHY6N8HHXyNo2QS",
-    "id": "27OhxQ6xHY6N8HHXyNo2QS",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e226d298c6e3bd486aeb984f",
-    "name": "Siddharth Nitin",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3Z13Vp4XxrMQY5u60fmO3B",
-      "name": "Mala Bhuli Gaya R Raja Ek Pal Ma"
-    }
-  },
-  {
-    "followers": 16870115,
-    "genre": "pop",
-    "genres": [
-      "corrido",
-      "corridos tumbados",
-      "corridos bélicos",
-      "electro corridos",
-      "dembow belico",
-      "música mexicana"
-    ],
-    "href": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG",
-    "id": "5eumcnUkdmGvkvcsx1WFNG",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc35bac74230ed53af510265f",
-    "name": "Tito Double P",
-    "top_track": {
-      "href": "https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR",
-      "name": "daño"
-    }
-  },
-  {
-    "followers": 3049025,
-    "genre": "punk",
-    "genres": [
-      "pop punk",
-      "punk",
-      "emo"
-    ],
-    "href": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS",
-    "id": "5aYyPjAsLj7UzANzdupwnS",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc4d383def970a8566db1cd2a",
-    "name": "Good Charlotte",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu",
-      "name": "The Anthem"
-    }
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
   }
 ]
