@@ -1,46 +1,36 @@
 [
   {
-    "followers": 8431047,
-    "genre": "latin",
+    "followers": 399998,
+    "genre": "classical",
     "genres": [
-      "reggaeton chileno",
-      "chilean trap",
-      "chilean mambo",
-      "reggaeton"
+      "classical",
+      "orchestral",
+      "ballet",
+      "opera"
     ],
-    "href": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE",
-    "id": "1Yj5Xey7kTwvZla8sqdsdE",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb199654eb9083bcc0a5551549",
-    "name": "Cris MJ",
+    "href": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc",
+    "id": "5yxyJsFanEAuwSM5kOuZKc",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5a5d168879568c94e86c61aa",
+    "name": "London Symphony Orchestra",
     "top_track": {
-      "href": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy",
-      "name": "Gata Only"
+      "href": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
+      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato"
     }
   },
   {
-    "followers": 5678301,
+    "followers": 13037,
     "genre": "jazz",
     "genres": [
-      "funk",
-      "disco"
+      "jazz",
+      "ambient jazz"
     ],
-    "href": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg",
-    "id": "4QQgXkCYTt3BlENzhyNETg",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9722e16a886767adf1178f92",
-    "name": "Earth, Wind \u0026 Fire",
+    "href": "https://open.spotify.com/artist/0qjWYusrckF9BpkvWaoKRO",
+    "id": "0qjWYusrckF9BpkvWaoKRO",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7be2b0db4df55c1463e41f39",
+    "name": "Cozy Coffee Shop",
     "top_track": {
-      "href": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs",
-      "name": "September"
+      "href": "https://open.spotify.com/track/68VraGrtliBhItjbOs3Gao",
+      "name": "Jazz and Sentimental"
     }
-  },
-  {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
   }
 ]
