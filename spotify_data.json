@@ -1,36 +1,47 @@
 [
   {
-    "followers": 399998,
-    "genre": "classical",
-    "genres": [
-      "classical",
-      "orchestral",
-      "ballet",
-      "opera"
-    ],
-    "href": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc",
-    "id": "5yxyJsFanEAuwSM5kOuZKc",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5a5d168879568c94e86c61aa",
-    "name": "London Symphony Orchestra",
+    "followers": 1684462,
+    "genre": "folk",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt",
+    "id": "3bO19AOone0ubCsfDXDtYt",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf6dd14e3074508978d579a22",
+    "name": "Myles Smith",
     "top_track": {
-      "href": "https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt",
-      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato"
+      "href": "https://open.spotify.com/track/7hk9hVBgdKCbkQOnjxl8bC",
+      "name": "Stargazing"
     }
   },
   {
-    "followers": 13037,
+    "followers": 833816,
     "genre": "jazz",
     "genres": [
       "jazz",
-      "ambient jazz"
+      "cool jazz",
+      "jazz ballads",
+      "bebop",
+      "hard bop"
     ],
-    "href": "https://open.spotify.com/artist/0qjWYusrckF9BpkvWaoKRO",
-    "id": "0qjWYusrckF9BpkvWaoKRO",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7be2b0db4df55c1463e41f39",
-    "name": "Cozy Coffee Shop",
+    "href": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF",
+    "id": "4jXfFzeP66Zy67HM2mvIIF",
+    "image": "https://i.scdn.co/image/ab6772690000c46cb96765d063ef075b79dd3a99",
+    "name": "Bill Evans",
     "top_track": {
-      "href": "https://open.spotify.com/track/68VraGrtliBhItjbOs3Gao",
-      "name": "Jazz and Sentimental"
+      "href": "https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD",
+      "name": "Gary's Theme - Remastered 2003"
+    }
+  },
+  {
+    "followers": 8182957,
+    "genre": "hip hop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu",
+    "id": "0fA0VVWsXO9YnASrzqfmYu",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5f00bb6dd7a7008d14156630",
+    "name": "Kid Cudi",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n",
+      "name": "Memories (feat. Kid Cudi)"
     }
   }
 ]
