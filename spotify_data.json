@@ -1,27 +1,46 @@
 [
   {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
+    "followers": 12501956,
+    "genre": "hip hop",
+    "genres": [
+      "brazilian hip hop"
+    ],
+    "href": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK",
+    "id": "0vLuOi2k62sHujIfplInlK",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7c82ddc68c54bcffb9f7a034",
+    "name": "Hungria",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6ZEKE3RR5EMhAMTJzjGOB6",
+      "name": "Amor e Fé - Acústico"
+    }
   },
   {
-    "followers": 44602478,
-    "genre": "latin",
-    "genres": [
-      "latin pop"
-    ],
-    "href": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp",
-    "id": "0EmeFodog0BfCgMzAIvKQp",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb17f15f351cba70561ad8bcac",
-    "name": "Shakira",
+    "followers": 161,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/7qXUwXwFZpEgF0xpSCuVGq",
+    "id": "7qXUwXwFZpEgF0xpSCuVGq",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736ab0ea886a7a62f0a29073d9",
+    "name": "Neovaldo Paulo",
     "top_track": {
-      "href": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL",
-      "name": "Dai Dai"
+      "href": "https://open.spotify.com/track/3SWKtWbPEgQt2BEG3NhJRw",
+      "name": "Suka Satana"
+    }
+  },
+  {
+    "followers": 7277701,
+    "genre": "indie",
+    "genres": [
+      "hyperpop",
+      "art pop"
+    ],
+    "href": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5",
+    "id": "25uiPmTg16RbhZWAqwLBy5",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6fa76436a2bba83b9f1d6fd1",
+    "name": "Charli xcx",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5Fdj0DtH4ZhymltyN5xEv2",
+      "name": "Camera"
     }
   }
 ]
