@@ -1,46 +1,54 @@
 [
   {
-    "followers": 12501956,
-    "genre": "hip hop",
+    "followers": 757938,
+    "genre": "punk",
     "genres": [
-      "brazilian hip hop"
+      "midwest emo",
+      "emo",
+      "pop punk",
+      "math rock",
+      "folk punk"
     ],
-    "href": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK",
-    "id": "0vLuOi2k62sHujIfplInlK",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7c82ddc68c54bcffb9f7a034",
-    "name": "Hungria",
+    "href": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8",
+    "id": "1HxXNvsraqrsgfmju1yKk8",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb61fb7bc248f90cd8e7b0223d",
+    "name": "Modern Baseball",
     "top_track": {
-      "href": "https://open.spotify.com/track/6ZEKE3RR5EMhAMTJzjGOB6",
-      "name": "Amor e Fé - Acústico"
+      "href": "https://open.spotify.com/track/7hPLPHeKbwJrsuDHv4BCTA",
+      "name": "Tears Over Beers"
     }
   },
   {
-    "followers": 161,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/7qXUwXwFZpEgF0xpSCuVGq",
-    "id": "7qXUwXwFZpEgF0xpSCuVGq",
-    "image": "https://i.scdn.co/image/ab67616d0000b2736ab0ea886a7a62f0a29073d9",
-    "name": "Neovaldo Paulo",
+    "followers": 901989,
+    "genre": "jazz",
+    "genres": [
+      "jazz fusion",
+      "city pop",
+      "jazz funk"
+    ],
+    "href": "https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d",
+    "id": "2Ex4vjQ6mSh5woTlDWto6d",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd675cbb190672fb7c8c7a9dd",
+    "name": "Masayoshi Takanaka",
     "top_track": {
-      "href": "https://open.spotify.com/track/3SWKtWbPEgQt2BEG3NhJRw",
-      "name": "Suka Satana"
+      "href": "https://open.spotify.com/track/5floNyItopWZyB4IzKrJtW",
+      "name": "トーキョーレギー"
     }
   },
   {
-    "followers": 7277701,
-    "genre": "indie",
+    "followers": 790299,
+    "genre": "dance",
     "genres": [
-      "hyperpop",
-      "art pop"
+      "house",
+      "tech house"
     ],
-    "href": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5",
-    "id": "25uiPmTg16RbhZWAqwLBy5",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6fa76436a2bba83b9f1d6fd1",
-    "name": "Charli xcx",
+    "href": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205",
+    "id": "7kNqXtgeIwFtelmRjWv205",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb20662b32f3dbabad755dfb53",
+    "name": "John Summit",
     "top_track": {
-      "href": "https://open.spotify.com/track/5Fdj0DtH4ZhymltyN5xEv2",
-      "name": "Camera"
+      "href": "https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk",
+      "name": "Where You Are"
     }
   }
 ]
