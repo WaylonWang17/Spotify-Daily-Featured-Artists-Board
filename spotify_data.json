@@ -1,54 +1,50 @@
 [
   {
-    "followers": 757938,
-    "genre": "punk",
-    "genres": [
-      "midwest emo",
-      "emo",
-      "pop punk",
-      "math rock",
-      "folk punk"
-    ],
-    "href": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8",
-    "id": "1HxXNvsraqrsgfmju1yKk8",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb61fb7bc248f90cd8e7b0223d",
-    "name": "Modern Baseball",
+    "followers": 7946543,
+    "genre": "folk",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT",
+    "id": "3eqjTLE0HfPfh78zjh6TqT",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb81df2fa2f937029ec986bbb8",
+    "name": "Bruce Springsteen",
     "top_track": {
-      "href": "https://open.spotify.com/track/7hPLPHeKbwJrsuDHv4BCTA",
-      "name": "Tears Over Beers"
+      "href": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE",
+      "name": "Dancing In the Dark"
     }
   },
   {
-    "followers": 901989,
-    "genre": "jazz",
-    "genres": [
-      "jazz fusion",
-      "city pop",
-      "jazz funk"
-    ],
-    "href": "https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d",
-    "id": "2Ex4vjQ6mSh5woTlDWto6d",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd675cbb190672fb7c8c7a9dd",
-    "name": "Masayoshi Takanaka",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5floNyItopWZyB4IzKrJtW",
-      "name": "トーキョーレギー"
-    }
-  },
-  {
-    "followers": 790299,
+    "followers": 5697194,
     "genre": "dance",
     "genres": [
-      "house",
-      "tech house"
+      "funk",
+      "disco"
     ],
-    "href": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205",
-    "id": "7kNqXtgeIwFtelmRjWv205",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb20662b32f3dbabad755dfb53",
-    "name": "John Summit",
+    "href": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg",
+    "id": "4QQgXkCYTt3BlENzhyNETg",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9722e16a886767adf1178f92",
+    "name": "Earth, Wind \u0026 Fire",
     "top_track": {
-      "href": "https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk",
-      "name": "Where You Are"
+      "href": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs",
+      "name": "September"
+    }
+  },
+  {
+    "followers": 8132455,
+    "genre": "metal",
+    "genres": [
+      "metal",
+      "nu metal",
+      "alternative metal",
+      "rap metal",
+      "hard rock"
+    ],
+    "href": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa",
+    "id": "3TOqt5oJwL9BE2NG9MEwDa",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6823b6df396ecf49931e34a1",
+    "name": "Disturbed",
+    "top_track": {
+      "href": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t",
+      "name": "The Sound of Silence - CYRIL Remix"
     }
   }
 ]
