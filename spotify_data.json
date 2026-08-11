@@ -1,50 +1,46 @@
 [
   {
-    "followers": 7946543,
-    "genre": "folk",
+    "followers": 16655056,
+    "genre": "hip hop",
+    "genres": [
+      "rage rap"
+    ],
+    "href": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
+    "id": "699OTQXzgjhIYAHMy9RyPD",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+    "name": "Playboi Carti",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS",
+      "name": "Timeless (feat Playboi Carti)"
+    }
+  },
+  {
+    "followers": 29,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT",
-    "id": "3eqjTLE0HfPfh78zjh6TqT",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb81df2fa2f937029ec986bbb8",
-    "name": "Bruce Springsteen",
+    "href": "https://open.spotify.com/artist/6uVJEZc4O05OtlV8UpoEb2",
+    "id": "6uVJEZc4O05OtlV8UpoEb2",
+    "image": "",
+    "name": "Shan Debbarma",
     "top_track": {
-      "href": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE",
-      "name": "Dancing In the Dark"
+      "href": "https://open.spotify.com/track/6kpPsQrHmEiIu0KHDv0O09",
+      "name": "Bubagra Bubagra"
     }
   },
   {
-    "followers": 5697194,
-    "genre": "dance",
+    "followers": 985726,
+    "genre": "country",
     "genres": [
-      "funk",
-      "disco"
+      "country",
+      "honky tonk"
     ],
-    "href": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg",
-    "id": "4QQgXkCYTt3BlENzhyNETg",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9722e16a886767adf1178f92",
-    "name": "Earth, Wind \u0026 Fire",
+    "href": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH",
+    "id": "4FGPzWzgjURDNT7JQ8pYgH",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb72a213bdf3a6c7cea7b26014",
+    "name": "Zach Top",
     "top_track": {
-      "href": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs",
-      "name": "September"
-    }
-  },
-  {
-    "followers": 8132455,
-    "genre": "metal",
-    "genres": [
-      "metal",
-      "nu metal",
-      "alternative metal",
-      "rap metal",
-      "hard rock"
-    ],
-    "href": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa",
-    "id": "3TOqt5oJwL9BE2NG9MEwDa",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6823b6df396ecf49931e34a1",
-    "name": "Disturbed",
-    "top_track": {
-      "href": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t",
-      "name": "The Sound of Silence - CYRIL Remix"
+      "href": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc",
+      "name": "I Never Lie"
     }
   }
 ]
