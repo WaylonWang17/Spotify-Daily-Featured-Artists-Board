@@ -1,46 +1,18 @@
 [
   {
-    "followers": 16655056,
-    "genre": "hip hop",
+    "followers": 764754,
+    "genre": "classical",
     "genres": [
-      "rage rap"
+      "soundtrack",
+      "score"
     ],
-    "href": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
-    "id": "699OTQXzgjhIYAHMy9RyPD",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-    "name": "Playboi Carti",
+    "href": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8",
+    "id": "1hCkSJcXREhrodeIHQdav8",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
+    "name": "Ramin Djawadi",
     "top_track": {
-      "href": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS",
-      "name": "Timeless (feat Playboi Carti)"
-    }
-  },
-  {
-    "followers": 29,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6uVJEZc4O05OtlV8UpoEb2",
-    "id": "6uVJEZc4O05OtlV8UpoEb2",
-    "image": "",
-    "name": "Shan Debbarma",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6kpPsQrHmEiIu0KHDv0O09",
-      "name": "Bubagra Bubagra"
-    }
-  },
-  {
-    "followers": 985726,
-    "genre": "country",
-    "genres": [
-      "country",
-      "honky tonk"
-    ],
-    "href": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH",
-    "id": "4FGPzWzgjURDNT7JQ8pYgH",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb72a213bdf3a6c7cea7b26014",
-    "name": "Zach Top",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc",
-      "name": "I Never Lie"
+      "href": "https://open.spotify.com/track/2q6fxAvSpqXR4jx9Ne7RGz",
+      "name": "Main Title"
     }
   }
 ]
