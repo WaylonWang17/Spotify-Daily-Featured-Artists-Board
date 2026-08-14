@@ -1,49 +1,42 @@
 [
   {
-    "followers": 30,
+    "followers": 1,
     "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1JwZZ2aT4iu3AtFn2y5137",
-    "id": "1JwZZ2aT4iu3AtFn2y5137",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3b45d9675d68da56cc9cb8a1",
-    "name": "FLIPPER",
+    "href": "https://open.spotify.com/artist/2N6Ov1EPj58fPfT71zioHd",
+    "id": "2N6Ov1EPj58fPfT71zioHd",
+    "image": "",
+    "name": "Zed Beton Bled",
+    "top_track": null
+  },
+  {
+    "followers": 88530125,
+    "genre": "pop",
+    "genres": [
+      "k-pop"
+    ],
+    "href": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX",
+    "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
+    "name": "BTS",
     "top_track": {
-      "href": "https://open.spotify.com/track/40aro4LxD8BDydlDJ0018r",
-      "name": "Henny Plug"
+      "href": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712",
+      "name": "SWIM"
     }
   },
   {
-    "followers": 217065,
-    "genre": "blues",
+    "followers": 8738477,
+    "genre": "soul",
     "genres": [
-      "modern blues",
-      "jam band",
-      "southern rock",
-      "blues rock"
+      "r\u0026b"
     ],
-    "href": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv",
-    "id": "1Jl8u1U1GtBlwocZK5LWZv",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5567a29f98781cbd742567af",
-    "name": "JJ Grey \u0026 Mofro",
+    "href": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS",
+    "id": "57LYzLEk2LcFghVwuWbcuS",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7dccb6280ed3402110d43ce3",
+    "name": "Summer Walker",
     "top_track": {
-      "href": "https://open.spotify.com/track/2qHgLPv3LujD4mc4LZs3gG",
-      "name": "Orange Blossoms"
-    }
-  },
-  {
-    "followers": 650340,
-    "genre": "country",
-    "genres": [
-      "country",
-      "red dirt"
-    ],
-    "href": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y",
-    "id": "5jG6uRqinuI83luutMpW6y",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc5ee8bfe5570f052b7ec85ae",
-    "name": "Gavin Adcock",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4JAmBKnHyq2avqNvJ81Mao",
-      "name": "Last One To Know"
+      "href": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu",
+      "name": "Girls Need Love (with Drake) - Remix"
     }
   }
 ]
