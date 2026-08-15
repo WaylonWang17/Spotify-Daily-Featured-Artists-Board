@@ -1,42 +1,47 @@
 [
   {
-    "followers": 1,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2N6Ov1EPj58fPfT71zioHd",
-    "id": "2N6Ov1EPj58fPfT71zioHd",
-    "image": "",
-    "name": "Zed Beton Bled",
-    "top_track": null
-  },
-  {
-    "followers": 88530125,
-    "genre": "pop",
+    "followers": 287430,
+    "genre": "reggae",
     "genres": [
-      "k-pop"
+      "reggae rock",
+      "reggae"
     ],
-    "href": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX",
-    "id": "3Nrfpe0tUJi4K4DXYWgMUX",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
-    "name": "BTS",
+    "href": "https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9",
+    "id": "2OpHxx1SArSMlBrIMM0aV9",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe833cf6e2cd0a2149600798a",
+    "name": "The Expendables",
     "top_track": {
-      "href": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712",
-      "name": "SWIM"
+      "href": "https://open.spotify.com/track/7wCgKgkuthR3K568qESxDp",
+      "name": "Bowl For Two"
     }
   },
   {
-    "followers": 8738477,
-    "genre": "soul",
-    "genres": [
-      "r\u0026b"
-    ],
-    "href": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS",
-    "id": "57LYzLEk2LcFghVwuWbcuS",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7dccb6280ed3402110d43ce3",
-    "name": "Summer Walker",
+    "followers": 397591,
+    "genre": "folk",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K",
+    "id": "4eZer1QvRM8Pna0rLToV1K",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbdd45b55f2d0969721846fcc",
+    "name": "Alyssa Grace",
     "top_track": {
-      "href": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu",
-      "name": "Girls Need Love (with Drake) - Remix"
+      "href": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO",
+      "name": "bloodstream"
+    }
+  },
+  {
+    "followers": 636090,
+    "genre": "blues",
+    "genres": [
+      "classic rock",
+      "blues rock"
+    ],
+    "href": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC",
+    "id": "2e53aHBQdCMKWqHDuyJsjC",
+    "image": "https://i.scdn.co/image/b0710c8d0247d0710cfb5a2cd153908dc42ca08f",
+    "name": "Free",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q",
+      "name": "All Right Now"
     }
   }
 ]
