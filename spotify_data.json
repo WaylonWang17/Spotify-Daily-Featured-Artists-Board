@@ -1,47 +1,57 @@
 [
   {
-    "followers": 287430,
-    "genre": "reggae",
+    "followers": 585674,
+    "genre": "jazz",
     "genres": [
-      "reggae rock",
-      "reggae"
+      "bossa nova",
+      "jazz",
+      "brazilian jazz",
+      "cool jazz",
+      "latin jazz",
+      "jazz ballads"
     ],
-    "href": "https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9",
-    "id": "2OpHxx1SArSMlBrIMM0aV9",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe833cf6e2cd0a2149600798a",
-    "name": "The Expendables",
+    "href": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8",
+    "id": "0FMucZsEnCxs5pqBjHjIc8",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb45dd470659deedf47618968e",
+    "name": "Stan Getz",
     "top_track": {
-      "href": "https://open.spotify.com/track/7wCgKgkuthR3K568qESxDp",
-      "name": "Bowl For Two"
+      "href": "https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z",
+      "name": "The Girl From Ipanema"
     }
   },
   {
-    "followers": 397591,
-    "genre": "folk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K",
-    "id": "4eZer1QvRM8Pna0rLToV1K",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebbdd45b55f2d0969721846fcc",
-    "name": "Alyssa Grace",
+    "followers": 111664091,
+    "genre": "hip hop",
+    "genres": [
+      "rap",
+      "hip hop"
+    ],
+    "href": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR",
+    "id": "7dGJo4pcD2V6oG8kP0tJRR",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b",
+    "name": "Eminem",
     "top_track": {
-      "href": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO",
-      "name": "bloodstream"
+      "href": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
+      "name": "Without Me"
     }
   },
   {
-    "followers": 636090,
-    "genre": "blues",
+    "followers": 13486833,
+    "genre": "latin",
     "genres": [
-      "classic rock",
-      "blues rock"
+      "banda",
+      "norteño",
+      "grupera",
+      "corrido",
+      "ranchera"
     ],
-    "href": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC",
-    "id": "2e53aHBQdCMKWqHDuyJsjC",
-    "image": "https://i.scdn.co/image/b0710c8d0247d0710cfb5a2cd153908dc42ca08f",
-    "name": "Free",
+    "href": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC",
+    "id": "1bfl0AU8SqmLkElptOprhC",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfb9cc6446b008d6d3d7b7998",
+    "name": "Julión Álvarez y su Norteño Banda",
     "top_track": {
-      "href": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q",
-      "name": "All Right Now"
+      "href": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi",
+      "name": "Regalo De Dios"
     }
   }
 ]
