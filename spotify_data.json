@@ -1,57 +1,47 @@
 [
   {
-    "followers": 585674,
-    "genre": "jazz",
+    "followers": 4712028,
+    "genre": "metal",
     "genres": [
-      "bossa nova",
-      "jazz",
-      "brazilian jazz",
-      "cool jazz",
-      "latin jazz",
-      "jazz ballads"
+      "emo",
+      "rap metal"
     ],
-    "href": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8",
-    "id": "0FMucZsEnCxs5pqBjHjIc8",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb45dd470659deedf47618968e",
-    "name": "Stan Getz",
+    "href": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz",
+    "id": "2CmaKO2zEGJ1NWpS1yfVGz",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4a733f510df96652c3bea05b",
+    "name": "Falling In Reverse",
     "top_track": {
-      "href": "https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z",
-      "name": "The Girl From Ipanema"
+      "href": "https://open.spotify.com/track/4myFsmx2v6znDOJfn3IkbD",
+      "name": "Popular Monster"
     }
   },
   {
-    "followers": 111664091,
-    "genre": "hip hop",
-    "genres": [
-      "rap",
-      "hip hop"
-    ],
-    "href": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR",
-    "id": "7dGJo4pcD2V6oG8kP0tJRR",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b",
-    "name": "Eminem",
+    "followers": 9910263,
+    "genre": "dance",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS",
+    "id": "1l7ZsJRRS8wlW3WfJfPfNS",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4a69ef1c3d566709985ce452",
+    "name": "Christina Aguilera",
     "top_track": {
-      "href": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
-      "name": "Without Me"
+      "href": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl",
+      "name": "Feel This Moment (feat. Christina Aguilera)"
     }
   },
   {
-    "followers": 13486833,
-    "genre": "latin",
+    "followers": 35300249,
+    "genre": "rock",
     "genres": [
-      "banda",
-      "norteño",
-      "grupera",
-      "corrido",
-      "ranchera"
+      "indie",
+      "garage rock"
     ],
-    "href": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC",
-    "id": "1bfl0AU8SqmLkElptOprhC",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebfb9cc6446b008d6d3d7b7998",
-    "name": "Julión Álvarez y su Norteño Banda",
+    "href": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH",
+    "id": "7Ln80lUS6He07XvHI8qqHH",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
+    "name": "Arctic Monkeys",
     "top_track": {
-      "href": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi",
-      "name": "Regalo De Dios"
+      "href": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n",
+      "name": "I Wanna Be Yours"
     }
   }
 ]
