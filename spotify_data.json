@@ -1,47 +1,46 @@
 [
   {
-    "followers": 4712028,
-    "genre": "metal",
-    "genres": [
-      "emo",
-      "rap metal"
-    ],
-    "href": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz",
-    "id": "2CmaKO2zEGJ1NWpS1yfVGz",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4a733f510df96652c3bea05b",
-    "name": "Falling In Reverse",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4myFsmx2v6znDOJfn3IkbD",
-      "name": "Popular Monster"
-    }
-  },
-  {
-    "followers": 9910263,
-    "genre": "dance",
+    "followers": 36,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS",
-    "id": "1l7ZsJRRS8wlW3WfJfPfNS",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4a69ef1c3d566709985ce452",
-    "name": "Christina Aguilera",
+    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
+    "id": "4kjS5eC0smSDzKaTxgAGPW",
+    "image": "",
+    "name": "Take My Chances",
     "top_track": {
-      "href": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl",
-      "name": "Feel This Moment (feat. Christina Aguilera)"
+      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
+      "name": "Handy With The Tongue Sword"
     }
   },
   {
-    "followers": 35300249,
+    "followers": 17543,
     "genre": "rock",
     "genres": [
-      "indie",
-      "garage rock"
+      "j-dance"
     ],
-    "href": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH",
-    "id": "7Ln80lUS6He07XvHI8qqHH",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
-    "name": "Arctic Monkeys",
+    "href": "https://open.spotify.com/artist/2BTv9lh3eK1jzB1vc3tW6x",
+    "id": "2BTv9lh3eK1jzB1vc3tW6x",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebab823bdd0ee416d0fd95e2ae",
+    "name": "Genki Rockets",
     "top_track": {
-      "href": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n",
-      "name": "I Wanna Be Yours"
+      "href": "https://open.spotify.com/track/0qylf8OFOMUyVgao81ENFq",
+      "name": "Touch me"
+    }
+  },
+  {
+    "followers": 6181266,
+    "genre": "folk",
+    "genres": [
+      "folk pop",
+      "indie folk"
+    ],
+    "href": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg",
+    "id": "16oZKvXb6WkQlVAjwo2Wbg",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0f882273183345499155d6ed",
+    "name": "The Lumineers",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0DwClY2t9YAWHBROMIgrXb",
+      "name": "Ho Hey"
     }
   }
 ]
