@@ -1,43 +1,46 @@
 [
   {
-    "followers": 1295601,
-    "genre": "punk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd",
-    "id": "2iEvnFsWxR0Syqu2JNopAd",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd58661b3aa9d077580e8aa4e",
-    "name": "Smash Mouth",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK",
-      "name": "All Star"
-    }
-  },
-  {
-    "followers": 1129916,
-    "genre": "country",
+    "followers": 4982567,
+    "genre": "jazz",
     "genres": [
-      "country"
+      "pop soul"
     ],
-    "href": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a",
-    "id": "08GfvCW09pv2QP4y9sle2a",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3cee164a9017847b35ebcf32",
-    "name": "Sam Barber",
+    "href": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW",
+    "id": "00x1fYSGhdqScXBRpSj3DW",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5c7577ad44daeb7ce4b941a1",
+    "name": "Olivia Dean",
     "top_track": {
-      "href": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m",
-      "name": "Indigo (feat. Avery Anna)"
+      "href": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+      "name": "Man I Need"
     }
   },
   {
-    "followers": 12624116,
-    "genre": "soul",
+    "followers": 15602669,
+    "genre": "r\u0026b",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP",
-    "id": "6XpaIBNiVzIetEPCWDvAFP",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcd9f60ab57585bf3b77ecc51",
-    "name": "Whitney Houston",
+    "href": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL",
+    "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc3dc5429b676b16d451e5f77",
+    "name": "Childish Gambino",
     "top_track": {
-      "href": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
-      "name": "I Wanna Dance with Somebody (Who Loves Me)"
+      "href": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4",
+      "name": "Les"
+    }
+  },
+  {
+    "followers": 3382375,
+    "genre": "metal",
+    "genres": [
+      "progressive metal",
+      "metalcore"
+    ],
+    "href": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6",
+    "id": "2n2RSaZqBuUUukhbLlpnE6",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd00c2ff422829437e6b5f1e0",
+    "name": "Sleep Token",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1",
+      "name": "Caramel"
     }
   }
 ]
