@@ -1,46 +1,48 @@
 [
   {
-    "followers": 4982567,
-    "genre": "jazz",
-    "genres": [
-      "pop soul"
-    ],
-    "href": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW",
-    "id": "00x1fYSGhdqScXBRpSj3DW",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5c7577ad44daeb7ce4b941a1",
-    "name": "Olivia Dean",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
-      "name": "Man I Need"
-    }
-  },
-  {
-    "followers": 15602669,
-    "genre": "r\u0026b",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL",
-    "id": "73sIBHcqh3Z3NyqHKZ7FOL",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc3dc5429b676b16d451e5f77",
-    "name": "Childish Gambino",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4",
-      "name": "Les"
-    }
-  },
-  {
-    "followers": 3382375,
+    "followers": 2471530,
     "genre": "metal",
     "genres": [
-      "progressive metal",
       "metalcore"
     ],
-    "href": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6",
-    "id": "2n2RSaZqBuUUukhbLlpnE6",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd00c2ff422829437e6b5f1e0",
-    "name": "Sleep Token",
+    "href": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V",
+    "id": "3Ri4H12KFyu98LMjSoij5V",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3dc0577ed61ec73b498a56ee",
+    "name": "Bad Omens",
     "top_track": {
-      "href": "https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1",
-      "name": "Caramel"
+      "href": "https://open.spotify.com/track/31rneVrsMC6jefCoDyQKam",
+      "name": "Just Pretend"
+    }
+  },
+  {
+    "followers": 8936061,
+    "genre": "r\u0026b",
+    "genres": [
+      "r\u0026b"
+    ],
+    "href": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG",
+    "id": "3tlXnStJ1fFhdScmQeLpuG",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb582fbf712f5b6a9bf65d9b84",
+    "name": "Brent Faiyaz",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu",
+      "name": "butterflies."
+    }
+  },
+  {
+    "followers": 181583,
+    "genre": "classical",
+    "genres": [
+      "soundtrack",
+      "score"
+    ],
+    "href": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR",
+    "id": "7LbEDjJKrmWoMcN3OpaNnR",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb67e1d0b15132dcfc195aff8c",
+    "name": "Daniel Pemberton",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6odjHeBKXP6fvV9v0QRUOw",
+      "name": "Time Go Fishing - from \"Project Hail Mary\""
     }
   }
 ]
