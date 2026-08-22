@@ -1,48 +1,46 @@
 [
   {
-    "followers": 2471530,
-    "genre": "metal",
+    "followers": 1525271,
+    "genre": "jazz",
     "genres": [
-      "metalcore"
+      "trip hop",
+      "downtempo",
+      "nu jazz",
+      "electronic"
     ],
-    "href": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V",
-    "id": "3Ri4H12KFyu98LMjSoij5V",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3dc0577ed61ec73b498a56ee",
-    "name": "Bad Omens",
+    "href": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb",
+    "id": "0cmWgDlu9CwTgxPhf403hb",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc66e2d7422967d6f6f5ab905",
+    "name": "Bonobo",
     "top_track": {
-      "href": "https://open.spotify.com/track/31rneVrsMC6jefCoDyQKam",
-      "name": "Just Pretend"
+      "href": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF",
+      "name": "Always on Your Side"
     }
   },
   {
-    "followers": 8936061,
+    "followers": 1127434,
     "genre": "r\u0026b",
-    "genres": [
-      "r\u0026b"
-    ],
-    "href": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG",
-    "id": "3tlXnStJ1fFhdScmQeLpuG",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb582fbf712f5b6a9bf65d9b84",
-    "name": "Brent Faiyaz",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb",
+    "id": "0nnBZ8FXWjG9wZgM2cpfeb",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc6c4f4aaf40ebee92b8a8228",
+    "name": "Leon Thomas",
     "top_track": {
-      "href": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu",
-      "name": "butterflies."
+      "href": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt",
+      "name": "MUTT"
     }
   },
   {
-    "followers": 181583,
-    "genre": "classical",
-    "genres": [
-      "soundtrack",
-      "score"
-    ],
-    "href": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR",
-    "id": "7LbEDjJKrmWoMcN3OpaNnR",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb67e1d0b15132dcfc195aff8c",
-    "name": "Daniel Pemberton",
+    "followers": 4342455,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs",
+    "id": "6lcwlkAjBPSKnFBZjjZFJs",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcfa32469a372188d27bd17b7",
+    "name": "Alex G",
     "top_track": {
-      "href": "https://open.spotify.com/track/6odjHeBKXP6fvV9v0QRUOw",
-      "name": "Time Go Fishing - from \"Project Hail Mary\""
+      "href": "https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2",
+      "name": "Treehouse"
     }
   }
 ]
