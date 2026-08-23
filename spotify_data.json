@@ -1,46 +1,30 @@
 [
   {
-    "followers": 1525271,
-    "genre": "jazz",
-    "genres": [
-      "trip hop",
-      "downtempo",
-      "nu jazz",
-      "electronic"
-    ],
-    "href": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb",
-    "id": "0cmWgDlu9CwTgxPhf403hb",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc66e2d7422967d6f6f5ab905",
-    "name": "Bonobo",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF",
-      "name": "Always on Your Side"
-    }
-  },
-  {
-    "followers": 1127434,
-    "genre": "r\u0026b",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb",
-    "id": "0nnBZ8FXWjG9wZgM2cpfeb",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc6c4f4aaf40ebee92b8a8228",
-    "name": "Leon Thomas",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt",
-      "name": "MUTT"
-    }
-  },
-  {
-    "followers": 4342455,
+    "followers": 4841923,
     "genre": "indie",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs",
-    "id": "6lcwlkAjBPSKnFBZjjZFJs",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcfa32469a372188d27bd17b7",
-    "name": "Alex G",
+    "href": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq",
+    "id": "4yvcSjfu4PC0CYQyLy4wSq",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebeb2cc96b0ed023c5e3675b6f",
+    "name": "Glass Animals",
     "top_track": {
-      "href": "https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2",
-      "name": "Treehouse"
+      "href": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp",
+      "name": "Heat Waves"
+    }
+  },
+  {
+    "followers": 72135756,
+    "genre": "soul",
+    "genres": [
+      "soft pop"
+    ],
+    "href": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY",
+    "id": "4dpARuHxo51G3z768sgnrY",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17",
+    "name": "Adele",
+    "top_track": {
+      "href": "https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi",
+      "name": "Set Fire to the Rain"
     }
   }
 ]
