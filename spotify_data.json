@@ -1,44 +1,45 @@
 [
   {
-    "followers": 5738057,
-    "genre": "dance",
+    "followers": 1706794,
+    "genre": "classical",
     "genres": [
-      "funk",
-      "disco"
+      "impressionism",
+      "classical",
+      "classical piano"
     ],
-    "href": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg",
-    "id": "4QQgXkCYTt3BlENzhyNETg",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9722e16a886767adf1178f92",
-    "name": "Earth, Wind \u0026 Fire",
+    "href": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP",
+    "id": "1Uff91EOsvd99rtAupatMP",
+    "image": "https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882",
+    "name": "Claude Debussy",
     "top_track": {
-      "href": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs",
-      "name": "September"
+      "href": "https://open.spotify.com/track/1cmigB9I6IRpFqjIbzvSQB",
+      "name": "Suite bergamasque, L. 75: III. Clair de lune"
     }
   },
   {
-    "followers": 6186302,
-    "genre": "folk",
-    "genres": [
-      "folk pop",
-      "indie folk"
-    ],
-    "href": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg",
-    "id": "16oZKvXb6WkQlVAjwo2Wbg",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0f882273183345499155d6ed",
-    "name": "The Lumineers",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0DwClY2t9YAWHBROMIgrXb",
-      "name": "Ho Hey"
-    }
-  },
-  {
-    "followers": 504,
+    "followers": 36,
     "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
+    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
+    "id": "4kjS5eC0smSDzKaTxgAGPW",
     "image": "",
-    "name": "Rutuu",
-    "top_track": null
+    "name": "Take My Chances",
+    "top_track": {
+      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
+      "name": "Handy With The Tongue Sword"
+    }
+  },
+  {
+    "followers": 75,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4dRWzaLBKsC8KfhaYB24o5",
+    "id": "4dRWzaLBKsC8KfhaYB24o5",
+    "image": "https://i.scdn.co/image/ab67616d0000b27342c1d097a7391545398a038b",
+    "name": "GabrielCaminha",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1FFR76dn32sJL6Oqi0Xlol",
+      "name": "Diamonds"
+    }
   }
 ]
