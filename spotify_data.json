@@ -1,45 +1,48 @@
 [
   {
-    "followers": 1706794,
-    "genre": "classical",
+    "followers": 1099237,
+    "genre": "blues",
     "genres": [
-      "impressionism",
-      "classical",
-      "classical piano"
+      "classic rock",
+      "blues rock",
+      "southern rock"
     ],
-    "href": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP",
-    "id": "1Uff91EOsvd99rtAupatMP",
-    "image": "https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882",
-    "name": "Claude Debussy",
+    "href": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK",
+    "id": "4n31svBA9GGIYxGxgrQaRK",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb757998cdb9826e05ca888216",
+    "name": "George Thorogood \u0026 The Destroyers",
     "top_track": {
-      "href": "https://open.spotify.com/track/1cmigB9I6IRpFqjIbzvSQB",
-      "name": "Suite bergamasque, L. 75: III. Clair de lune"
+      "href": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk",
+      "name": "Bad To The Bone"
     }
   },
   {
-    "followers": 36,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
-    "id": "4kjS5eC0smSDzKaTxgAGPW",
-    "image": "",
-    "name": "Take My Chances",
+    "followers": 532144,
+    "genre": "jazz",
+    "genres": [
+      "soul jazz",
+      "smooth jazz"
+    ],
+    "href": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1",
+    "id": "05YVYeV4HxYp5rrWalvuE1",
+    "image": "https://i.scdn.co/image/40f39e48362c76c3c794a28466922e0f405d7b4a",
+    "name": "Grover Washington, Jr.",
     "top_track": {
-      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
-      "name": "Handy With The Tongue Sword"
+      "href": "https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD",
+      "name": "Just the Two of Us"
     }
   },
   {
-    "followers": 75,
-    "genre": "rap",
+    "followers": 2594,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4dRWzaLBKsC8KfhaYB24o5",
-    "id": "4dRWzaLBKsC8KfhaYB24o5",
-    "image": "https://i.scdn.co/image/ab67616d0000b27342c1d097a7391545398a038b",
-    "name": "GabrielCaminha",
+    "href": "https://open.spotify.com/artist/27OhxQ6xHY6N8HHXyNo2QS",
+    "id": "27OhxQ6xHY6N8HHXyNo2QS",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e226d298c6e3bd486aeb984f",
+    "name": "Siddharth Nitin",
     "top_track": {
-      "href": "https://open.spotify.com/track/1FFR76dn32sJL6Oqi0Xlol",
-      "name": "Diamonds"
+      "href": "https://open.spotify.com/track/3Z13Vp4XxrMQY5u60fmO3B",
+      "name": "Mala Bhuli Gaya R Raja Ek Pal Ma"
     }
   }
 ]
