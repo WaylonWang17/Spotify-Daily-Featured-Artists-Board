@@ -1,48 +1,34 @@
 [
   {
-    "followers": 1099237,
-    "genre": "blues",
+    "followers": 3440879,
+    "genre": "punk",
     "genres": [
-      "classic rock",
-      "blues rock",
-      "southern rock"
+      "pop punk",
+      "emo"
     ],
-    "href": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK",
-    "id": "4n31svBA9GGIYxGxgrQaRK",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb757998cdb9826e05ca888216",
-    "name": "George Thorogood \u0026 The Destroyers",
+    "href": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT",
+    "id": "3vAaWhdBR38Q02ohXqaNHT",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8a05b6b10635b63ebc45ae54",
+    "name": "The All-American Rejects",
     "top_track": {
-      "href": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk",
-      "name": "Bad To The Bone"
+      "href": "https://open.spotify.com/track/0gSNi1CGG7ExDV8UvUsSoj",
+      "name": "Dirty Little Secret"
     }
   },
   {
-    "followers": 532144,
-    "genre": "jazz",
+    "followers": 11743617,
+    "genre": "indie",
     "genres": [
-      "soul jazz",
-      "smooth jazz"
+      "neo-psychedelic",
+      "indie"
     ],
-    "href": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1",
-    "id": "05YVYeV4HxYp5rrWalvuE1",
-    "image": "https://i.scdn.co/image/40f39e48362c76c3c794a28466922e0f405d7b4a",
-    "name": "Grover Washington, Jr.",
+    "href": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb",
+    "id": "5INjqkS1o8h1imAzPqGZBb",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
+    "name": "Tame Impala",
     "top_track": {
-      "href": "https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD",
-      "name": "Just the Two of Us"
-    }
-  },
-  {
-    "followers": 2594,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/27OhxQ6xHY6N8HHXyNo2QS",
-    "id": "27OhxQ6xHY6N8HHXyNo2QS",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e226d298c6e3bd486aeb984f",
-    "name": "Siddharth Nitin",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3Z13Vp4XxrMQY5u60fmO3B",
-      "name": "Mala Bhuli Gaya R Raja Ek Pal Ma"
+      "href": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR",
+      "name": "Loser"
     }
   }
 ]
