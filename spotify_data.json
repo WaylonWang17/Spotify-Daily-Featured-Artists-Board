@@ -1,46 +1,38 @@
 [
   {
-    "followers": 762645,
-    "genre": "indie",
+    "followers": 774953,
+    "genre": "folk",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8",
-    "id": "4Z8MrrKMBHMPa8d04Ivur8",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3d7290ae36694e14b0655753",
-    "name": "Bella Kay",
+    "href": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR",
+    "id": "6dhXvR5MsnlwYguRuqoapR",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb712f78798ce31073c16673c8",
+    "name": "Cameron Whitcomb",
     "top_track": {
-      "href": "https://open.spotify.com/track/4ek0oGBCJal4Gxz8zEnMjn",
-      "name": "iloveitiloveitiloveit"
+      "href": "https://open.spotify.com/track/7LWcUluagGJ1Zt0oG9KlmD",
+      "name": "Kingdom of Fear"
     }
   },
   {
-    "followers": 2505810,
-    "genre": "dance",
-    "genres": [
-      "house"
-    ],
-    "href": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et",
-    "id": "6nS5roXSAGhTGr34W6n7Et",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0b084ede947f009beade9a6a",
-    "name": "Disclosure",
+    "followers": 11463711,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj",
+    "id": "21E3waRsmPlU7jZsS13rcj",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537",
+    "name": "Ne-Yo",
     "top_track": {
-      "href": "https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr",
-      "name": "Latch"
+      "href": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W",
+      "name": "Give Me Everything (feat. Nayer)"
     }
   },
   {
-    "followers": 206495,
-    "genre": "classical",
-    "genres": [
-      "medieval",
-      "soundtrack"
-    ],
-    "href": "https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v",
-    "id": "77yY2QmM6bYvjJ3y5L2R0v",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebeee6850d24bde3815a42f83f",
-    "name": "Jeremy Soule",
-    "top_track": {
-      "href": "https://open.spotify.com/track/38ineLIzGIXTGd8ICMvHXb",
-      "name": "Secunda"
-    }
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
   }
 ]
