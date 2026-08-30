@@ -1,38 +1,44 @@
 [
   {
-    "followers": 774953,
-    "genre": "folk",
+    "followers": 35130269,
+    "genre": "hip hop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR",
-    "id": "6dhXvR5MsnlwYguRuqoapR",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb712f78798ce31073c16673c8",
-    "name": "Cameron Whitcomb",
+    "href": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh",
+    "id": "0hCNtLu0JehylgoiP8L4Gh",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd",
+    "name": "Nicki Minaj",
     "top_track": {
-      "href": "https://open.spotify.com/track/7LWcUluagGJ1Zt0oG9KlmD",
-      "name": "Kingdom of Fear"
+      "href": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4",
+      "name": "Starships"
     }
   },
   {
-    "followers": 11463711,
-    "genre": "r\u0026b",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj",
-    "id": "21E3waRsmPlU7jZsS13rcj",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537",
-    "name": "Ne-Yo",
+    "followers": 1248821,
+    "genre": "classical",
+    "genres": [
+      "italo dance",
+      "eurodance"
+    ],
+    "href": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un",
+    "id": "1OAjDaKgg00KCUYqDe68un",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3547c85b33443eb3d8abd004",
+    "name": "GIGI D'AGOSTINO",
     "top_track": {
-      "href": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W",
-      "name": "Give Me Everything (feat. Nayer)"
+      "href": "https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE",
+      "name": "L'Amour Toujours"
     }
   },
   {
-    "followers": 1,
-    "genre": "techno",
+    "followers": 4365183,
+    "genre": "punk",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
+    "href": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs",
+    "id": "6lcwlkAjBPSKnFBZjjZFJs",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcfa32469a372188d27bd17b7",
+    "name": "Alex G",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2",
+      "name": "Treehouse"
+    }
   }
 ]
