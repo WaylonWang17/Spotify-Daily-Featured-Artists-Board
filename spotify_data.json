@@ -1,44 +1,45 @@
 [
   {
-    "followers": 35130269,
-    "genre": "hip hop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh",
-    "id": "0hCNtLu0JehylgoiP8L4Gh",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd",
-    "name": "Nicki Minaj",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4",
-      "name": "Starships"
-    }
-  },
-  {
-    "followers": 1248821,
-    "genre": "classical",
+    "followers": 3537819,
+    "genre": "jazz",
     "genres": [
-      "italo dance",
-      "eurodance"
+      "jazz pop"
     ],
-    "href": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un",
-    "id": "1OAjDaKgg00KCUYqDe68un",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3547c85b33443eb3d8abd004",
-    "name": "GIGI D'AGOSTINO",
+    "href": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
+    "id": "2Kx7MNY7cI1ENniW7vT30N",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
+    "name": "Norah Jones",
     "top_track": {
-      "href": "https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE",
-      "name": "L'Amour Toujours"
+      "href": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
+      "name": "Don't Know Why"
     }
   },
   {
-    "followers": 4365183,
-    "genre": "punk",
+    "followers": 36,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs",
-    "id": "6lcwlkAjBPSKnFBZjjZFJs",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcfa32469a372188d27bd17b7",
-    "name": "Alex G",
+    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
+    "id": "4kjS5eC0smSDzKaTxgAGPW",
+    "image": "",
+    "name": "Take My Chances",
     "top_track": {
-      "href": "https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2",
-      "name": "Treehouse"
+      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
+      "name": "Handy With The Tongue Sword"
+    }
+  },
+  {
+    "followers": 12514667,
+    "genre": "hip hop",
+    "genres": [
+      "melodic rap"
+    ],
+    "href": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ",
+    "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
+    "name": "Gunna",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe",
+      "name": "wgft (feat. Burna Boy)"
     }
   }
 ]
