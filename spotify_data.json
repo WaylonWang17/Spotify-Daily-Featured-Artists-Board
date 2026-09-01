@@ -1,45 +1,45 @@
 [
   {
-    "followers": 3537819,
-    "genre": "jazz",
-    "genres": [
-      "jazz pop"
-    ],
-    "href": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-    "id": "2Kx7MNY7cI1ENniW7vT30N",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
-    "name": "Norah Jones",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
-      "name": "Don't Know Why"
-    }
-  },
-  {
-    "followers": 36,
-    "genre": "alternative",
+    "followers": 29,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
-    "id": "4kjS5eC0smSDzKaTxgAGPW",
+    "href": "https://open.spotify.com/artist/6uVJEZc4O05OtlV8UpoEb2",
+    "id": "6uVJEZc4O05OtlV8UpoEb2",
     "image": "",
-    "name": "Take My Chances",
+    "name": "Shan Debbarma",
     "top_track": {
-      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
-      "name": "Handy With The Tongue Sword"
+      "href": "https://open.spotify.com/track/6kpPsQrHmEiIu0KHDv0O09",
+      "name": "Bubagra Bubagra"
     }
   },
   {
-    "followers": 12514667,
+    "followers": 15646459,
     "genre": "hip hop",
-    "genres": [
-      "melodic rap"
-    ],
-    "href": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ",
-    "id": "2hlmm7s2ICUX0LVIhVFlZQ",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
-    "name": "Gunna",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL",
+    "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc3dc5429b676b16d451e5f77",
+    "name": "Childish Gambino",
     "top_track": {
-      "href": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe",
-      "name": "wgft (feat. Burna Boy)"
+      "href": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4",
+      "name": "Les"
+    }
+  },
+  {
+    "followers": 1008497,
+    "genre": "reggae",
+    "genres": [
+      "reggae",
+      "reggae rock",
+      "roots reggae"
+    ],
+    "href": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R",
+    "id": "5SXEylV07TC57eanSxxg4R",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba0f1123095d7e00b8d9fc8ed",
+    "name": "Stick Figure",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0Xe2FjyQndr2LsRD820iR3",
+      "name": "Run Run River (Angels Above Me)"
     }
   }
 ]
