@@ -1,45 +1,41 @@
 [
   {
-    "followers": 29,
-    "genre": "k-pop",
+    "followers": 3,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6uVJEZc4O05OtlV8UpoEb2",
-    "id": "6uVJEZc4O05OtlV8UpoEb2",
+    "href": "https://open.spotify.com/artist/6XDVIAEZTTh06doidbvD2M",
+    "id": "6XDVIAEZTTh06doidbvD2M",
     "image": "",
-    "name": "Shan Debbarma",
+    "name": "TBig21",
     "top_track": {
-      "href": "https://open.spotify.com/track/6kpPsQrHmEiIu0KHDv0O09",
-      "name": "Bubagra Bubagra"
+      "href": "https://open.spotify.com/track/3E2MuIwWPJgs5dCErFBz9l",
+      "name": "Se Joga!"
     }
   },
   {
-    "followers": 15646459,
-    "genre": "hip hop",
+    "followers": 5188266,
+    "genre": "pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL",
-    "id": "73sIBHcqh3Z3NyqHKZ7FOL",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc3dc5429b676b16d451e5f77",
-    "name": "Childish Gambino",
+    "href": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S",
+    "id": "4G9NDjRyZFDlJKMRL8hx3S",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb78edaa6468cae153565c2c97",
+    "name": "sombr",
     "top_track": {
-      "href": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4",
-      "name": "Les"
+      "href": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe",
+      "name": "back to friends"
     }
   },
   {
-    "followers": 1008497,
-    "genre": "reggae",
-    "genres": [
-      "reggae",
-      "reggae rock",
-      "roots reggae"
-    ],
-    "href": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R",
-    "id": "5SXEylV07TC57eanSxxg4R",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba0f1123095d7e00b8d9fc8ed",
-    "name": "Stick Figure",
+    "followers": 12912554,
+    "genre": "punk",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j",
+    "id": "0p4nmQO2msCgU4IF37Wi3j",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcea575e8c9519d4367984256",
+    "name": "Avril Lavigne",
     "top_track": {
-      "href": "https://open.spotify.com/track/0Xe2FjyQndr2LsRD820iR3",
-      "name": "Run Run River (Angels Above Me)"
+      "href": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F",
+      "name": "Complicated"
     }
   }
 ]
