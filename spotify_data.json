@@ -1,41 +1,44 @@
 [
   {
-    "followers": 3,
-    "genre": "rap",
+    "followers": 1,
+    "genre": "techno",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6XDVIAEZTTh06doidbvD2M",
-    "id": "6XDVIAEZTTh06doidbvD2M",
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
     "image": "",
-    "name": "TBig21",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 5373970,
+    "genre": "country",
+    "genres": [
+      "country",
+      "classic country"
+    ],
+    "href": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd",
+    "id": "6roFdX1y5BYSbp60OTJWMd",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbd6977f3970a7a4a8d4becbe",
+    "name": "Tim McGraw",
     "top_track": {
-      "href": "https://open.spotify.com/track/3E2MuIwWPJgs5dCErFBz9l",
-      "name": "Se Joga!"
+      "href": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R",
+      "name": "I Like It, I Love It"
     }
   },
   {
-    "followers": 5188266,
-    "genre": "pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S",
-    "id": "4G9NDjRyZFDlJKMRL8hx3S",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb78edaa6468cae153565c2c97",
-    "name": "sombr",
+    "followers": 16577,
+    "genre": "jazz",
+    "genres": [
+      "jazz",
+      "ambient jazz"
+    ],
+    "href": "https://open.spotify.com/artist/2b9qemp1Y8NuEbY4RMYHY1",
+    "id": "2b9qemp1Y8NuEbY4RMYHY1",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe2850af480173596cefd48c1",
+    "name": "Jazzy Coffee",
     "top_track": {
-      "href": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe",
-      "name": "back to friends"
-    }
-  },
-  {
-    "followers": 12912554,
-    "genre": "punk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j",
-    "id": "0p4nmQO2msCgU4IF37Wi3j",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcea575e8c9519d4367984256",
-    "name": "Avril Lavigne",
-    "top_track": {
-      "href": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F",
-      "name": "Complicated"
+      "href": "https://open.spotify.com/track/68VraGrtliBhItjbOs3Gao",
+      "name": "Jazz and Sentimental"
     }
   }
 ]
