@@ -1,44 +1,51 @@
 [
   {
-    "followers": 1,
-    "genre": "techno",
+    "followers": 6256541,
+    "genre": "soul",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
-  },
-  {
-    "followers": 5373970,
-    "genre": "country",
-    "genres": [
-      "country",
-      "classic country"
-    ],
-    "href": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd",
-    "id": "6roFdX1y5BYSbp60OTJWMd",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebbd6977f3970a7a4a8d4becbe",
-    "name": "Tim McGraw",
+    "href": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
+    "id": "47zz7sob9NUcODy0BTDvKx",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+    "name": "Sade",
     "top_track": {
-      "href": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R",
-      "name": "I Like It, I Love It"
+      "href": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R",
+      "name": "Smooth Operator - Single Version"
     }
   },
   {
-    "followers": 16577,
+    "followers": 466242,
+    "genre": "classical",
+    "genres": [
+      "classical",
+      "concerto"
+    ],
+    "href": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0",
+    "id": "436sYg6CZhNefQJogaXeK0",
+    "image": "https://i.scdn.co/image/f565d81f8dcfdec438207f6d8b34689f3489232a",
+    "name": "Camille Saint-Saëns",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3U8Fx7zNTQrctytkj6Gqgd",
+      "name": "The Carnival of the Animals, R. 125: XIII. The Swan"
+    }
+  },
+  {
+    "followers": 9156314,
     "genre": "jazz",
     "genres": [
+      "christmas",
+      "big band",
+      "adult standards",
+      "swing music",
       "jazz",
-      "ambient jazz"
+      "vocal jazz"
     ],
-    "href": "https://open.spotify.com/artist/2b9qemp1Y8NuEbY4RMYHY1",
-    "id": "2b9qemp1Y8NuEbY4RMYHY1",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe2850af480173596cefd48c1",
-    "name": "Jazzy Coffee",
+    "href": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0",
+    "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+    "image": "https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411",
+    "name": "Frank Sinatra",
     "top_track": {
-      "href": "https://open.spotify.com/track/68VraGrtliBhItjbOs3Gao",
-      "name": "Jazz and Sentimental"
+      "href": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe",
+      "name": "My Way"
     }
   }
 ]
