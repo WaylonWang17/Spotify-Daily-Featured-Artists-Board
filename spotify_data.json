@@ -1,51 +1,53 @@
 [
   {
-    "followers": 6256541,
-    "genre": "soul",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx",
-    "id": "47zz7sob9NUcODy0BTDvKx",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
-    "name": "Sade",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R",
-      "name": "Smooth Operator - Single Version"
-    }
-  },
-  {
-    "followers": 466242,
-    "genre": "classical",
-    "genres": [
-      "classical",
-      "concerto"
-    ],
-    "href": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0",
-    "id": "436sYg6CZhNefQJogaXeK0",
-    "image": "https://i.scdn.co/image/f565d81f8dcfdec438207f6d8b34689f3489232a",
-    "name": "Camille Saint-Saëns",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3U8Fx7zNTQrctytkj6Gqgd",
-      "name": "The Carnival of the Animals, R. 125: XIII. The Swan"
-    }
-  },
-  {
-    "followers": 9156314,
+    "followers": 2892283,
     "genre": "jazz",
     "genres": [
-      "christmas",
-      "big band",
-      "adult standards",
-      "swing music",
       "jazz",
-      "vocal jazz"
+      "vocal jazz",
+      "swing music",
+      "big band",
+      "christmas"
     ],
-    "href": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0",
-    "id": "1Mxqyy3pSjf8kZZL4QVxS0",
-    "image": "https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411",
-    "name": "Frank Sinatra",
+    "href": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz",
+    "id": "5V0MlUE1Bft0mbLlND7FJz",
+    "image": "https://i.scdn.co/image/3c1d23141059785c8a863137d176319329dc17ef",
+    "name": "Ella Fitzgerald",
     "top_track": {
-      "href": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe",
-      "name": "My Way"
+      "href": "https://open.spotify.com/track/0KBvapFwuz8gPKu6Gw23WN",
+      "name": "Dream A Little Dream Of Me"
+    }
+  },
+  {
+    "followers": 11491274,
+    "genre": "dance",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj",
+    "id": "21E3waRsmPlU7jZsS13rcj",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537",
+    "name": "Ne-Yo",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W",
+      "name": "Give Me Everything (feat. Nayer)"
+    }
+  },
+  {
+    "followers": 6585626,
+    "genre": "soul",
+    "genres": [
+      "motown",
+      "classic soul",
+      "soul",
+      "northern soul",
+      "quiet storm"
+    ],
+    "href": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
+    "id": "3koiLjNrgRTNbOwViDipeA",
+    "image": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
+    "name": "Marvin Gaye",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX",
+      "name": "Ain't No Mountain High Enough"
     }
   }
 ]
