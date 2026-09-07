@@ -1,53 +1,44 @@
 [
   {
-    "followers": 8779861,
-    "genre": "soul",
-    "genres": [
-      "soft pop",
-      "neo soul"
-    ],
-    "href": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t",
-    "id": "5y2Xq6xcjJb2jVM54GHK3t",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb17510421a3d87ada21397a1f",
-    "name": "John Legend",
+    "followers": 932281,
+    "genre": "punk",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62",
+    "id": "0TvvDswOgvPbgSPK2RDf62",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb15ff476675200f8bed35d114",
+    "name": "wifiskeleton",
     "top_track": {
-      "href": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a",
-      "name": "All of Me"
+      "href": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G",
+      "name": "Nope your too late i already died"
     }
   },
   {
-    "followers": 234032,
-    "genre": "jazz",
+    "followers": 4437603,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2",
+    "id": "5KKpBU5eC2tJDzf0wmlRp2",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd9b6eb671700503c0e6205a9",
+    "name": "RAYE",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k",
+      "name": "WHERE IS MY HUSBAND!"
+    }
+  },
+  {
+    "followers": 498414,
+    "genre": "classical",
     "genres": [
+      "soundtrack",
       "score"
     ],
-    "href": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj",
-    "id": "2snm3HmsnDUDxbIChdl2Oj",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb152668866cc33ae3fe2f4ede",
-    "name": "Justin Hurwitz",
+    "href": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr",
+    "id": "4kLvhMAuCloLxoP1aVM7Lr",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9945209ac13720afd7eea2e3",
+    "name": "Michael Giacchino",
     "top_track": {
-      "href": "https://open.spotify.com/track/1Vk4yRsz0iBzDiZEoFMQyv",
-      "name": "Mia \u0026 Sebastian’s Theme"
-    }
-  },
-  {
-    "followers": 3396193,
-    "genre": "hip hop",
-    "genres": [
-      "christian",
-      "christian pop",
-      "christian hip hop",
-      "worship",
-      "christian lo-fi",
-      "christian r\u0026b"
-    ],
-    "href": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ",
-    "id": "1scVfBymTr3CeZ4imMj1QJ",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebfc23429951b765040e928baf",
-    "name": "Forrest Frank",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM",
-      "name": "YOUR WAY'S BETTER"
+      "href": "https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U",
+      "name": "Married Life"
     }
   }
 ]
