@@ -1,44 +1,43 @@
 [
   {
-    "followers": 932281,
-    "genre": "punk",
+    "followers": 7743911,
+    "genre": "soul",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62",
-    "id": "0TvvDswOgvPbgSPK2RDf62",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb15ff476675200f8bed35d114",
-    "name": "wifiskeleton",
+    "href": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg",
+    "id": "3KV3p5EY4AvKxOlhGHORLg",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8ddeab89a67542470e2631c8",
+    "name": "Jeremih",
     "top_track": {
-      "href": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G",
-      "name": "Nope your too late i already died"
+      "href": "https://open.spotify.com/track/4NpDZPwSXmL0cCTaJuVrCw",
+      "name": "Birthday Sex"
     }
   },
   {
-    "followers": 4437603,
-    "genre": "r\u0026b",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2",
-    "id": "5KKpBU5eC2tJDzf0wmlRp2",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd9b6eb671700503c0e6205a9",
-    "name": "RAYE",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k",
-      "name": "WHERE IS MY HUSBAND!"
-    }
-  },
-  {
-    "followers": 498414,
-    "genre": "classical",
+    "followers": 811511,
+    "genre": "indie",
     "genres": [
-      "soundtrack",
-      "score"
+      "hyperpop"
     ],
-    "href": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr",
-    "id": "4kLvhMAuCloLxoP1aVM7Lr",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9945209ac13720afd7eea2e3",
-    "name": "Michael Giacchino",
+    "href": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC",
+    "id": "4QM5QCHicznALtX885CnZC",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd475efee7c254f7e77a2d306",
+    "name": "Slayyyter",
     "top_track": {
-      "href": "https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U",
-      "name": "Married Life"
+      "href": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2",
+      "name": "brand new chanel$"
+    }
+  },
+  {
+    "followers": 5235250,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S",
+    "id": "4G9NDjRyZFDlJKMRL8hx3S",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb78edaa6468cae153565c2c97",
+    "name": "sombr",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe",
+      "name": "back to friends"
     }
   }
 ]
