@@ -1,43 +1,40 @@
 [
   {
-    "followers": 7743911,
-    "genre": "soul",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg",
-    "id": "3KV3p5EY4AvKxOlhGHORLg",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8ddeab89a67542470e2631c8",
-    "name": "Jeremih",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4NpDZPwSXmL0cCTaJuVrCw",
-      "name": "Birthday Sex"
-    }
-  },
-  {
-    "followers": 811511,
+    "followers": 2830836,
     "genre": "indie",
-    "genres": [
-      "hyperpop"
-    ],
-    "href": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC",
-    "id": "4QM5QCHicznALtX885CnZC",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd475efee7c254f7e77a2d306",
-    "name": "Slayyyter",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz",
+    "id": "7eKkW1zo5uzW8kUntiiBvz",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9f6f7c2d12975d2a4b3a0fd8",
+    "name": "Malcolm Todd",
     "top_track": {
-      "href": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2",
-      "name": "brand new chanel$"
+      "href": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
+      "name": "Earrings"
     }
   },
   {
-    "followers": 5235250,
-    "genre": "pop",
+    "followers": 504,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S",
-    "id": "4G9NDjRyZFDlJKMRL8hx3S",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb78edaa6468cae153565c2c97",
-    "name": "sombr",
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
+    "image": "",
+    "name": "Rutuu",
+    "top_track": null
+  },
+  {
+    "followers": 116480247,
+    "genre": "hip hop",
+    "genres": [
+      "rap"
+    ],
+    "href": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+    "id": "3TVXtAsR1Inumwj472S9r4",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+    "name": "Drake",
     "top_track": {
-      "href": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe",
-      "name": "back to friends"
+      "href": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz",
+      "name": "Janice STFU"
     }
   }
 ]
