@@ -1,40 +1,48 @@
 [
   {
-    "followers": 2830836,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz",
-    "id": "7eKkW1zo5uzW8kUntiiBvz",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9f6f7c2d12975d2a4b3a0fd8",
-    "name": "Malcolm Todd",
+    "followers": 7695780,
+    "genre": "r\u0026b",
+    "genres": [
+      "motown",
+      "classic soul",
+      "soul"
+    ],
+    "href": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi",
+    "id": "7guDJrEfX3qb6FEbdPA5qi",
+    "image": "https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108",
+    "name": "Stevie Wonder",
     "top_track": {
-      "href": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
-      "name": "Earrings"
+      "href": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs",
+      "name": "I Just Called To Say I Love You"
     }
   },
   {
-    "followers": 504,
-    "genre": "alternative",
+    "followers": 11403583,
+    "genre": "pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
-    "image": "",
-    "name": "Rutuu",
-    "top_track": null
+    "href": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym",
+    "id": "45dkTj5sMRSjrmBSBeiHym",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbed8016bd64422793ff3bc75",
+    "name": "Tate McRae",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t",
+      "name": "greedy"
+    }
   },
   {
-    "followers": 116480247,
-    "genre": "hip hop",
+    "followers": 103929,
+    "genre": "reggae",
     "genres": [
-      "rap"
+      "reggae rock",
+      "reggae"
     ],
-    "href": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
-    "id": "3TVXtAsR1Inumwj472S9r4",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
-    "name": "Drake",
+    "href": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK",
+    "id": "5V46QXboFTCK5MP40SwVRK",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebec198b9be245ee0ec512877d",
+    "name": "The Hip Abduction",
     "top_track": {
-      "href": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz",
-      "name": "Janice STFU"
+      "href": "https://open.spotify.com/track/63iwhg49U6FgWtTDzkEVnL",
+      "name": "Pacific Coast Highway (with Trevor Hall) - Reggae Remix"
     }
   }
 ]
