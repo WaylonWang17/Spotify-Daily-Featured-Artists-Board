@@ -1,48 +1,47 @@
 [
   {
-    "followers": 7695780,
+    "followers": 15380169,
     "genre": "r\u0026b",
     "genres": [
-      "motown",
-      "classic soul",
-      "soul"
+      "r\u0026b"
     ],
-    "href": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi",
-    "id": "7guDJrEfX3qb6FEbdPA5qi",
-    "image": "https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108",
-    "name": "Stevie Wonder",
+    "href": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj",
+    "id": "23zg3TcAtWQy7J6upgbUnj",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb13684907cd609d10d41f0b8",
+    "name": "USHER",
     "top_track": {
-      "href": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs",
-      "name": "I Just Called To Say I Love You"
+      "href": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX",
+      "name": "Yeah! (feat. Lil Jon \u0026 Ludacris)"
     }
   },
   {
-    "followers": 11403583,
-    "genre": "pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym",
-    "id": "45dkTj5sMRSjrmBSBeiHym",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebbed8016bd64422793ff3bc75",
-    "name": "Tate McRae",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t",
-      "name": "greedy"
-    }
-  },
-  {
-    "followers": 103929,
-    "genre": "reggae",
+    "followers": 544296,
+    "genre": "punk",
     "genres": [
-      "reggae rock",
-      "reggae"
+      "rap rock"
     ],
-    "href": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK",
-    "id": "5V46QXboFTCK5MP40SwVRK",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebec198b9be245ee0ec512877d",
-    "name": "The Hip Abduction",
+    "href": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX",
+    "id": "4exLIFE8sISLr28sqG1qNX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3",
+    "name": "Travis Barker",
     "top_track": {
-      "href": "https://open.spotify.com/track/63iwhg49U6FgWtTDzkEVnL",
-      "name": "Pacific Coast Highway (with Trevor Hall) - Reggae Remix"
+      "href": "https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg",
+      "name": "I Think I'm OKAY (with YUNGBLUD \u0026 Travis Barker)"
+    }
+  },
+  {
+    "followers": 5160732,
+    "genre": "country",
+    "genres": [
+      "country"
+    ],
+    "href": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O",
+    "id": "3grHWM9bx2E9vwJCdlRv9O",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebee7a9062a8b6bcc7dfcf8ea0",
+    "name": "Kenny Chesney",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV",
+      "name": "American Kids"
     }
   }
 ]
