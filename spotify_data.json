@@ -1,47 +1,38 @@
 [
   {
-    "followers": 15380169,
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 1830025,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v",
+    "id": "02gSuSAWEdWa5UOvqzjX6v",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfb0ab819bbd4502028cd1feb",
+    "name": "SIENNA SPIRO",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe",
+      "name": "Great Expectation"
+    }
+  },
+  {
+    "followers": 53180626,
     "genre": "r\u0026b",
-    "genres": [
-      "r\u0026b"
-    ],
-    "href": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj",
-    "id": "23zg3TcAtWQy7J6upgbUnj",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb13684907cd609d10d41f0b8",
-    "name": "USHER",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm",
+    "id": "3fMbdgg4jU18AjLCKBhRSm",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd",
+    "name": "Michael Jackson",
     "top_track": {
-      "href": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX",
-      "name": "Yeah! (feat. Lil Jon \u0026 Ludacris)"
-    }
-  },
-  {
-    "followers": 544296,
-    "genre": "punk",
-    "genres": [
-      "rap rock"
-    ],
-    "href": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX",
-    "id": "4exLIFE8sISLr28sqG1qNX",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3",
-    "name": "Travis Barker",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg",
-      "name": "I Think I'm OKAY (with YUNGBLUD \u0026 Travis Barker)"
-    }
-  },
-  {
-    "followers": 5160732,
-    "genre": "country",
-    "genres": [
-      "country"
-    ],
-    "href": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O",
-    "id": "3grHWM9bx2E9vwJCdlRv9O",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebee7a9062a8b6bcc7dfcf8ea0",
-    "name": "Kenny Chesney",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV",
-      "name": "American Kids"
+      "href": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj",
+      "name": "Billie Jean"
     }
   }
 ]
