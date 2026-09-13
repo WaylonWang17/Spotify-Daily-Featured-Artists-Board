@@ -1,38 +1,45 @@
 [
   {
-    "followers": 1,
-    "genre": "techno",
+    "followers": 504,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
     "image": "",
-    "name": "Andy Lyon",
+    "name": "Rutuu",
     "top_track": null
   },
   {
-    "followers": 1830025,
-    "genre": "pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v",
-    "id": "02gSuSAWEdWa5UOvqzjX6v",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebfb0ab819bbd4502028cd1feb",
-    "name": "SIENNA SPIRO",
+    "followers": 5038272,
+    "genre": "r\u0026b",
+    "genres": [
+      "afrobeats",
+      "afro r\u0026b",
+      "alté",
+      "afrobeat"
+    ],
+    "href": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq",
+    "id": "687cZJR45JO7jhk1LHIbgq",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb22d7d6f8981c7a27bf68a382",
+    "name": "Tems",
     "top_track": {
-      "href": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe",
-      "name": "Great Expectation"
+      "href": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz",
+      "name": "Raindance (feat. Tems)"
     }
   },
   {
-    "followers": 53180626,
-    "genre": "r\u0026b",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm",
-    "id": "3fMbdgg4jU18AjLCKBhRSm",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd",
-    "name": "Michael Jackson",
+    "followers": 2745404,
+    "genre": "hip hop",
+    "genres": [
+      "southern hip hop"
+    ],
+    "href": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I",
+    "id": "6qxpnaukVayrQn6ViNvu9I",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd6453796533f46670f34ceb8",
+    "name": "BigXthaPlug",
     "top_track": {
-      "href": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj",
-      "name": "Billie Jean"
+      "href": "https://open.spotify.com/track/3pAVk6Ydn0dcGpG8gDyxSJ",
+      "name": "Hell At Night (feat. Ella Langley)"
     }
   }
 ]
