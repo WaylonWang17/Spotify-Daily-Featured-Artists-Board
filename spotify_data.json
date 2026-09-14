@@ -1,45 +1,41 @@
 [
   {
-    "followers": 504,
-    "genre": "alternative",
+    "followers": 5956450,
+    "genre": "punk",
     "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
+    "href": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX",
+    "id": "6TIYQ3jFPwQSRmorSezPxX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb85e7615a199f8b17fabfcd61",
+    "name": "mgk",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0vrWrwDcDb78lyHyFTvxx2",
+      "name": "cliché"
+    }
+  },
+  {
+    "followers": 662921,
+    "genre": "blues",
+    "genres": [
+      "blues rock",
+      "psychedelic rock"
+    ],
+    "href": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE",
+    "id": "7nkLRaWHImCvWGHdNGnhVE",
+    "image": "https://i.scdn.co/image/2c825769bc2470bf5aaf04a5991db4612298c5dd",
+    "name": "Ten Years After",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7n3WO6ESKS1uCI9fgkGs66",
+      "name": "I'd Love to Change the World - 2004 Remaster"
+    }
+  },
+  {
+    "followers": 5,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/5ywWicnu4JpkkKNmT1gxN6",
+    "id": "5ywWicnu4JpkkKNmT1gxN6",
     "image": "",
-    "name": "Rutuu",
+    "name": "leacim said",
     "top_track": null
-  },
-  {
-    "followers": 5038272,
-    "genre": "r\u0026b",
-    "genres": [
-      "afrobeats",
-      "afro r\u0026b",
-      "alté",
-      "afrobeat"
-    ],
-    "href": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq",
-    "id": "687cZJR45JO7jhk1LHIbgq",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb22d7d6f8981c7a27bf68a382",
-    "name": "Tems",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz",
-      "name": "Raindance (feat. Tems)"
-    }
-  },
-  {
-    "followers": 2745404,
-    "genre": "hip hop",
-    "genres": [
-      "southern hip hop"
-    ],
-    "href": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I",
-    "id": "6qxpnaukVayrQn6ViNvu9I",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd6453796533f46670f34ceb8",
-    "name": "BigXthaPlug",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3pAVk6Ydn0dcGpG8gDyxSJ",
-      "name": "Hell At Night (feat. Ella Langley)"
-    }
   }
 ]
