@@ -1,51 +1,46 @@
 [
   {
-    "followers": 46782439,
-    "genre": "hip hop",
-    "genres": [
-      "melodic rap",
-      "emo rap"
-    ],
-    "href": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz",
-    "id": "4MCBfE4596Uoi2O4DtmEMz",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb23a60030944f7853c21565ef",
-    "name": "Juice WRLD",
-    "top_track": {
-      "href": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR",
-      "name": "Lucid Dreams"
-    }
-  },
-  {
-    "followers": 2720921,
-    "genre": "blues",
-    "genres": [
-      "blues rock",
-      "classic blues",
-      "blues",
-      "southern rock",
-      "modern blues",
-      "classic rock"
-    ],
-    "href": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1",
-    "id": "5fsDcuclIe8ZiBD5P787K1",
-    "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
-    "name": "Stevie Ray Vaughan",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo",
-      "name": "Pride and Joy"
-    }
-  },
-  {
-    "followers": 712024,
-    "genre": "folk",
+    "followers": 5280487,
+    "genre": "indie",
     "genres": [],
-    "href": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI",
-    "id": "69tiO1fG8VWduDl3ji2qhI",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7c92602e66076f1b0bf5843b",
-    "name": "Mt. Joy",
+    "href": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S",
+    "id": "4G9NDjRyZFDlJKMRL8hx3S",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb78edaa6468cae153565c2c97",
+    "name": "sombr",
     "top_track": {
-      "href": "https://open.spotify.com/track/13xVnZKZDEGbmXkzBFpJDD",
-      "name": "Silver Lining"
+      "href": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe",
+      "name": "back to friends"
+    }
+  },
+  {
+    "followers": 36,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
+    "id": "4kjS5eC0smSDzKaTxgAGPW",
+    "image": "",
+    "name": "Take My Chances",
+    "top_track": {
+      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
+      "name": "Handy With The Tongue Sword"
+    }
+  },
+  {
+    "followers": 17011465,
+    "genre": "latin",
+    "genres": [
+      "reggaeton",
+      "colombian pop",
+      "latin",
+      "pop urbano"
+    ],
+    "href": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B",
+    "id": "0tmwSHipWxN12fsoLcFU3B",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb1710c3b50dbb69b2aadb1089",
+    "name": "Manuel Turizo",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ",
+      "name": "La Bachata"
     }
   }
 ]
