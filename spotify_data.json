@@ -1,1 +1,52 @@
-null
+[
+  {
+    "followers": 2844599,
+    "genre": "classical",
+    "genres": [
+      "baroque",
+      "classical",
+      "concerto",
+      "early music"
+    ],
+    "href": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR",
+    "id": "2QOIawHpSlOwXDvSqQ9YJR",
+    "image": "https://i.scdn.co/image/9785700bae86f991f78183076861c7342a4bcf90",
+    "name": "Antonio Vivaldi",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3Dgmyz32dxvtxvUTPS0CUI",
+      "name": "Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156 by F. Christl)"
+    }
+  },
+  {
+    "followers": 7763017,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg",
+    "id": "3KV3p5EY4AvKxOlhGHORLg",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8ddeab89a67542470e2631c8",
+    "name": "Jeremih",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4NpDZPwSXmL0cCTaJuVrCw",
+      "name": "Birthday Sex"
+    }
+  },
+  {
+    "followers": 281990,
+    "genre": "blues",
+    "genres": [
+      "modern blues",
+      "southern rock",
+      "blues rock",
+      "jam band",
+      "country blues"
+    ],
+    "href": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9",
+    "id": "0tgaHqkU1p7QhBUIzKXVU9",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebea228047308787c8c959f665",
+    "name": "The Marcus King Band",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6lNGQqEos6i2KxISBn24Xc",
+      "name": "Goodbye Carolina"
+    }
+  }
+]
