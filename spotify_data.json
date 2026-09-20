@@ -1,52 +1,29 @@
 [
   {
-    "followers": 2844599,
-    "genre": "classical",
-    "genres": [
-      "baroque",
-      "classical",
-      "concerto",
-      "early music"
-    ],
-    "href": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR",
-    "id": "2QOIawHpSlOwXDvSqQ9YJR",
-    "image": "https://i.scdn.co/image/9785700bae86f991f78183076861c7342a4bcf90",
-    "name": "Antonio Vivaldi",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3Dgmyz32dxvtxvUTPS0CUI",
-      "name": "Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156 by F. Christl)"
-    }
-  },
-  {
-    "followers": 7763017,
-    "genre": "r\u0026b",
+    "followers": 505,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg",
-    "id": "3KV3p5EY4AvKxOlhGHORLg",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8ddeab89a67542470e2631c8",
-    "name": "Jeremih",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4NpDZPwSXmL0cCTaJuVrCw",
-      "name": "Birthday Sex"
-    }
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
+    "image": "",
+    "name": "Rutuu",
+    "top_track": null
   },
   {
-    "followers": 281990,
+    "followers": 1105656,
     "genre": "blues",
     "genres": [
-      "modern blues",
-      "southern rock",
+      "classic rock",
       "blues rock",
-      "jam band",
-      "country blues"
+      "southern rock"
     ],
-    "href": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9",
-    "id": "0tgaHqkU1p7QhBUIzKXVU9",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebea228047308787c8c959f665",
-    "name": "The Marcus King Band",
+    "href": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK",
+    "id": "4n31svBA9GGIYxGxgrQaRK",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb757998cdb9826e05ca888216",
+    "name": "George Thorogood \u0026 The Destroyers",
     "top_track": {
-      "href": "https://open.spotify.com/track/6lNGQqEos6i2KxISBn24Xc",
-      "name": "Goodbye Carolina"
+      "href": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk",
+      "name": "Bad To The Bone"
     }
   }
 ]
