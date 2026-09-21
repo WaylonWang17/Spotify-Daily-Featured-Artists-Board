@@ -1,29 +1,40 @@
 [
   {
-    "followers": 505,
-    "genre": "alternative",
+    "followers": 3856724,
+    "genre": "folk",
     "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
+    "href": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A",
+    "id": "44NX2ffIYHr6D4n7RaZF7A",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb61978f04a57032e5fec7819f",
+    "name": "Van Morrison",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4CNL4GBNTdVIU5Nk6hB4LC",
+      "name": "Brown Eyed Girl"
+    }
+  },
+  {
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
     "image": "",
-    "name": "Rutuu",
+    "name": "Andy Lyon",
     "top_track": null
   },
   {
-    "followers": 1105656,
-    "genre": "blues",
+    "followers": 34682455,
+    "genre": "hip hop",
     "genres": [
-      "classic rock",
-      "blues rock",
-      "southern rock"
+      "rap"
     ],
-    "href": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK",
-    "id": "4n31svBA9GGIYxGxgrQaRK",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb757998cdb9826e05ca888216",
-    "name": "George Thorogood \u0026 The Destroyers",
+    "href": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
+    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+    "name": "Kanye West",
     "top_track": {
-      "href": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk",
-      "name": "Bad To The Bone"
+      "href": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
+      "name": "Flashing Lights"
     }
   }
 ]
