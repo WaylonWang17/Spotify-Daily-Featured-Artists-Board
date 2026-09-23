@@ -1,43 +1,54 @@
 [
   {
-    "followers": 29,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6uVJEZc4O05OtlV8UpoEb2",
-    "id": "6uVJEZc4O05OtlV8UpoEb2",
-    "image": "",
-    "name": "Shan Debbarma",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6kpPsQrHmEiIu0KHDv0O09",
-      "name": "Bubagra Bubagra"
-    }
-  },
-  {
-    "followers": 3421701,
-    "genre": "folk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi",
-    "id": "6ogn9necmbUdCppmNnGOdi",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf6a97342ccd47692b7cdf8c0",
-    "name": "Alanis Morissette",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE",
-      "name": "Ironic - 2015 Remaster"
-    }
-  },
-  {
-    "followers": 19155438,
-    "genre": "hip hop",
+    "followers": 8782893,
+    "genre": "metal",
     "genres": [
-      "rap"
+      "metal",
+      "glam metal",
+      "heavy metal",
+      "hard rock"
     ],
-    "href": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
-    "id": "13ubrt8QOOCPljQ2FL1Kca",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
-    "name": "A$AP Rocky",
+    "href": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY",
+    "id": "6ZLTlhejhndI4Rh53vYhrY",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbe40717ab20a580f15ad3967",
+    "name": "Ozzy Osbourne",
     "top_track": {
-      "href": "https://open.spotify.com/track/3jnYCrF7UpSYAwwy1URW8d",
-      "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap \u0026 Clams Casino)"
+      "href": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU",
+      "name": "Crazy Train"
+    }
+  },
+  {
+    "followers": 1026719,
+    "genre": "reggae",
+    "genres": [
+      "punk",
+      "ska punk",
+      "ska",
+      "skate punk",
+      "hardcore punk"
+    ],
+    "href": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB",
+    "id": "6xTk3EK5T9UzudENVvu9YB",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9ef1337f472668ab2c5aedcd",
+    "name": "Rancid",
+    "top_track": {
+      "href": "https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177",
+      "name": "Time Bomb"
+    }
+  },
+  {
+    "followers": 5648263,
+    "genre": "rock",
+    "genres": [
+      "alternative rock"
+    ],
+    "href": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu",
+    "id": "3jOstUTkEu2JkjvRdBA5Gu",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebed4caac362c0498e92337a5c",
+    "name": "Weezer",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw",
+      "name": "Island In The Sun"
     }
   }
 ]
