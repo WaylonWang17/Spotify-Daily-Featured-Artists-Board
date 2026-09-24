@@ -1,54 +1,50 @@
 [
   {
-    "followers": 8782893,
-    "genre": "metal",
-    "genres": [
-      "metal",
-      "glam metal",
-      "heavy metal",
-      "hard rock"
-    ],
-    "href": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY",
-    "id": "6ZLTlhejhndI4Rh53vYhrY",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebbe40717ab20a580f15ad3967",
-    "name": "Ozzy Osbourne",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU",
-      "name": "Crazy Train"
-    }
-  },
-  {
-    "followers": 1026719,
+    "followers": 182186,
     "genre": "reggae",
     "genres": [
-      "punk",
-      "ska punk",
-      "ska",
-      "skate punk",
-      "hardcore punk"
+      "reggae rock",
+      "reggae"
     ],
-    "href": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB",
-    "id": "6xTk3EK5T9UzudENVvu9YB",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9ef1337f472668ab2c5aedcd",
-    "name": "Rancid",
+    "href": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr",
+    "id": "1qwdTaVUdjYJLLoxtFmsqr",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbc15dd94675b15eac52779e1",
+    "name": "The Movement",
     "top_track": {
-      "href": "https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177",
-      "name": "Time Bomb"
+      "href": "https://open.spotify.com/track/359uDQWA7BYzVEIpBJ7TFI",
+      "name": "Habit"
     }
   },
   {
-    "followers": 5648263,
-    "genre": "rock",
+    "followers": 4339996,
+    "genre": "classical",
     "genres": [
-      "alternative rock"
+      "neoclassical",
+      "classical",
+      "contemporary classical"
     ],
-    "href": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu",
-    "id": "3jOstUTkEu2JkjvRdBA5Gu",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebed4caac362c0498e92337a5c",
-    "name": "Weezer",
+    "href": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj",
+    "id": "2uFUBdaVGtyMqckSeCl0Qj",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb194e3f91e6c0c81e82ba4328",
+    "name": "Ludovico Einaudi",
     "top_track": {
-      "href": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw",
-      "name": "Island In The Sun"
+      "href": "https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj",
+      "name": "Experience"
+    }
+  },
+  {
+    "followers": 1116712,
+    "genre": "j-pop",
+    "genres": [
+      "j-pop"
+    ],
+    "href": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN",
+    "id": "7fmXV2O48buswss04YetaN",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbc476542962c8cf6b4dfc8a7",
+    "name": "HANA",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6hnk0Fesq9JOhWpck8HJsj",
+      "name": "Blue Jeans"
     }
   }
 ]
