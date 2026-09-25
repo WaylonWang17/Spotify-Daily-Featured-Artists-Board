@@ -1,50 +1,41 @@
 [
   {
-    "followers": 182186,
-    "genre": "reggae",
+    "followers": 3085880,
+    "genre": "punk",
     "genres": [
-      "reggae rock",
-      "reggae"
+      "punk",
+      "hardcore punk"
     ],
-    "href": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr",
-    "id": "1qwdTaVUdjYJLLoxtFmsqr",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebbc15dd94675b15eac52779e1",
-    "name": "The Movement",
+    "href": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O",
+    "id": "6Wr3hh341P84m3EI8qdn9O",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb08bcc7e9f7acc00ac67573d",
+    "name": "Rise Against",
     "top_track": {
-      "href": "https://open.spotify.com/track/359uDQWA7BYzVEIpBJ7TFI",
-      "name": "Habit"
+      "href": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB",
+      "name": "Savior"
     }
   },
   {
-    "followers": 4339996,
-    "genre": "classical",
-    "genres": [
-      "neoclassical",
-      "classical",
-      "contemporary classical"
-    ],
-    "href": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj",
-    "id": "2uFUBdaVGtyMqckSeCl0Qj",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb194e3f91e6c0c81e82ba4328",
-    "name": "Ludovico Einaudi",
+    "followers": 15735803,
+    "genre": "hip hop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL",
+    "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc3dc5429b676b16d451e5f77",
+    "name": "Childish Gambino",
     "top_track": {
-      "href": "https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj",
-      "name": "Experience"
+      "href": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4",
+      "name": "Les"
     }
   },
   {
-    "followers": 1116712,
-    "genre": "j-pop",
-    "genres": [
-      "j-pop"
-    ],
-    "href": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN",
-    "id": "7fmXV2O48buswss04YetaN",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebbc476542962c8cf6b4dfc8a7",
-    "name": "HANA",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6hnk0Fesq9JOhWpck8HJsj",
-      "name": "Blue Jeans"
-    }
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
   }
 ]
