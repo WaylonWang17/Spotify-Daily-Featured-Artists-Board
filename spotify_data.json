@@ -1,41 +1,34 @@
 [
   {
-    "followers": 3085880,
-    "genre": "punk",
+    "followers": 1823237,
+    "genre": "folk",
     "genres": [
-      "punk",
-      "hardcore punk"
+      "folk rock",
+      "singer-songwriter"
     ],
-    "href": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O",
-    "id": "6Wr3hh341P84m3EI8qdn9O",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb08bcc7e9f7acc00ac67573d",
-    "name": "Rise Against",
+    "href": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM",
+    "id": "1R6Hx1tJ2VOUyodEpC12xM",
+    "image": "https://i.scdn.co/image/9f9b40704e3361c93ea8a8b7a86a5d9ee755466e",
+    "name": "Jim Croce",
     "top_track": {
-      "href": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB",
-      "name": "Savior"
+      "href": "https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn",
+      "name": "Time in a Bottle"
     }
   },
   {
-    "followers": 15735803,
-    "genre": "hip hop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL",
-    "id": "73sIBHcqh3Z3NyqHKZ7FOL",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc3dc5429b676b16d451e5f77",
-    "name": "Childish Gambino",
+    "followers": 42211272,
+    "genre": "latin",
+    "genres": [
+      "reggaeton",
+      "latin"
+    ],
+    "href": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5",
+    "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0405b03342c2e56751b9923d",
+    "name": "J Balvin",
     "top_track": {
-      "href": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4",
-      "name": "Les"
+      "href": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18",
+      "name": "LA CANCIÓN"
     }
-  },
-  {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
   }
 ]
