@@ -1,34 +1,28 @@
 [
   {
-    "followers": 1823237,
-    "genre": "folk",
+    "followers": 543661,
+    "genre": "jazz",
     "genres": [
-      "folk rock",
-      "singer-songwriter"
+      "soul jazz",
+      "smooth jazz"
     ],
-    "href": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM",
-    "id": "1R6Hx1tJ2VOUyodEpC12xM",
-    "image": "https://i.scdn.co/image/9f9b40704e3361c93ea8a8b7a86a5d9ee755466e",
-    "name": "Jim Croce",
+    "href": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1",
+    "id": "05YVYeV4HxYp5rrWalvuE1",
+    "image": "https://i.scdn.co/image/40f39e48362c76c3c794a28466922e0f405d7b4a",
+    "name": "Grover Washington, Jr.",
     "top_track": {
-      "href": "https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn",
-      "name": "Time in a Bottle"
+      "href": "https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD",
+      "name": "Just the Two of Us"
     }
   },
   {
-    "followers": 42211272,
-    "genre": "latin",
-    "genres": [
-      "reggaeton",
-      "latin"
-    ],
-    "href": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5",
-    "id": "1vyhD5VmyZ7KMfW5gqLgo5",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0405b03342c2e56751b9923d",
-    "name": "J Balvin",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18",
-      "name": "LA CANCIÓN"
-    }
+    "followers": 505,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
+    "image": "",
+    "name": "Rutuu",
+    "top_track": null
   }
 ]
