@@ -1,49 +1,50 @@
 [
   {
-    "followers": 7564839,
-    "genre": "j-pop",
-    "genres": [
-      "j-pop",
-      "j-rock",
-      "anime"
-    ],
-    "href": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9",
-    "id": "4QvgGvpgzgyUOo8Yp8LDm9",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0b6fd24c14a46a5027d65e47",
-    "name": "Mrs. GREEN APPLE",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3Z8NMM7IRu4YKDHBo6vmX3",
-      "name": "Brand New"
-    }
-  },
-  {
-    "followers": 25311131,
+    "followers": 1121617,
     "genre": "latin",
     "genres": [
-      "reggaeton",
-      "trap latino",
-      "urbano latino"
+      "latin house",
+      "afro house",
+      "techengue",
+      "house"
     ],
-    "href": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W",
-    "id": "7iK8PXO48WeuP03g8YR51W",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8372345609bebaf1e948ef7f",
-    "name": "Myke Towers",
+    "href": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By",
+    "id": "5PlfkPxwCpRRWQJBxCa0By",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf2f0c84b86e48dd70d9bcc59",
+    "name": "HUGEL",
     "top_track": {
-      "href": "https://open.spotify.com/track/6bQsFck5fRznOrCfJMxF1c",
-      "name": "CARITA FELIZ"
+      "href": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay",
+      "name": "Jamaican (Bam Bam)"
     }
   },
   {
-    "followers": 11588980,
-    "genre": "r\u0026b",
+    "followers": 1,
+    "genre": "techno",
     "genres": [],
-    "href": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj",
-    "id": "21E3waRsmPlU7jZsS13rcj",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537",
-    "name": "Ne-Yo",
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 2725342,
+    "genre": "blues",
+    "genres": [
+      "blues rock",
+      "classic blues",
+      "blues",
+      "southern rock",
+      "modern blues",
+      "classic rock"
+    ],
+    "href": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1",
+    "id": "5fsDcuclIe8ZiBD5P787K1",
+    "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
+    "name": "Stevie Ray Vaughan",
     "top_track": {
-      "href": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W",
-      "name": "Give Me Everything (feat. Nayer)"
+      "href": "https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo",
+      "name": "Pride and Joy"
     }
   }
 ]
