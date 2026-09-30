@@ -1,50 +1,41 @@
 [
   {
-    "followers": 1121617,
-    "genre": "latin",
-    "genres": [
-      "latin house",
-      "afro house",
-      "techengue",
-      "house"
-    ],
-    "href": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By",
-    "id": "5PlfkPxwCpRRWQJBxCa0By",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf2f0c84b86e48dd70d9bcc59",
-    "name": "HUGEL",
+    "followers": 5,
+    "genre": "jazz",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0rsdfmLP3LGxTVcgpbNL7j",
+    "id": "0rsdfmLP3LGxTVcgpbNL7j",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d9564f10d796b4abf4f00072",
+    "name": "Gentle Jazz Piano",
     "top_track": {
-      "href": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay",
-      "name": "Jamaican (Bam Bam)"
+      "href": "https://open.spotify.com/track/3zmb8TgNJfdZOhZMUWzumX",
+      "name": "Tranquil Melody Sketch"
     }
   },
   {
-    "followers": 1,
-    "genre": "techno",
+    "followers": 36,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
+    "id": "4kjS5eC0smSDzKaTxgAGPW",
     "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
+    "name": "Take My Chances",
+    "top_track": {
+      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
+      "name": "Handy With The Tongue Sword"
+    }
   },
   {
-    "followers": 2725342,
-    "genre": "blues",
-    "genres": [
-      "blues rock",
-      "classic blues",
-      "blues",
-      "southern rock",
-      "modern blues",
-      "classic rock"
-    ],
-    "href": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1",
-    "id": "5fsDcuclIe8ZiBD5P787K1",
-    "image": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
-    "name": "Stevie Ray Vaughan",
+    "followers": 986624,
+    "genre": "folk",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV",
+    "id": "73mSg0dykFyhvU96tb5xQV",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebde8a185ee5eef8c0e73fe3e5",
+    "name": "Hermanos Gutiérrez",
     "top_track": {
-      "href": "https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo",
-      "name": "Pride and Joy"
+      "href": "https://open.spotify.com/track/1siRw9E67ouBWsORObDuhZ",
+      "name": "Low Sun"
     }
   }
 ]
