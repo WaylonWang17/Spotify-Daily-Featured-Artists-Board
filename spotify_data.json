@@ -1,41 +1,52 @@
 [
   {
-    "followers": 5,
-    "genre": "jazz",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0rsdfmLP3LGxTVcgpbNL7j",
-    "id": "0rsdfmLP3LGxTVcgpbNL7j",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d9564f10d796b4abf4f00072",
-    "name": "Gentle Jazz Piano",
+    "followers": 2837980,
+    "genre": "punk",
+    "genres": [
+      "emo",
+      "post-hardcore",
+      "screamo"
+    ],
+    "href": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA",
+    "id": "3N8Hy6xQnQv1F1XCiyGQqA",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb1e2ceb6044f42f7c6dde5433",
+    "name": "Sleeping With Sirens",
     "top_track": {
-      "href": "https://open.spotify.com/track/3zmb8TgNJfdZOhZMUWzumX",
-      "name": "Tranquil Melody Sketch"
+      "href": "https://open.spotify.com/track/2Tc9VznHtQUmfOgE3L1RdN",
+      "name": "If You Can't Hang"
     }
   },
   {
-    "followers": 36,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
-    "id": "4kjS5eC0smSDzKaTxgAGPW",
-    "image": "",
-    "name": "Take My Chances",
+    "followers": 10711524,
+    "genre": "latin",
+    "genres": [
+      "reggaeton",
+      "trap latino",
+      "urbano latino"
+    ],
+    "href": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1",
+    "id": "6nVcHLIgY5pE2YCl8ubca1",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb21907ce45d02176645072c22",
+    "name": "JHAYCO",
     "top_track": {
-      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
-      "name": "Handy With The Tongue Sword"
+      "href": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49",
+      "name": "DÁKITI"
     }
   },
   {
-    "followers": 986624,
-    "genre": "folk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV",
-    "id": "73mSg0dykFyhvU96tb5xQV",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebde8a185ee5eef8c0e73fe3e5",
-    "name": "Hermanos Gutiérrez",
+    "followers": 6998,
+    "genre": "classical",
+    "genres": [
+      "medieval",
+      "soundtrack"
+    ],
+    "href": "https://open.spotify.com/artist/4gOgv5uY5kaPkDF70ZBCwI",
+    "id": "4gOgv5uY5kaPkDF70ZBCwI",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba3369e4b675288635f3154f2",
+    "name": "The Elder Scrolls",
     "top_track": {
-      "href": "https://open.spotify.com/track/1siRw9E67ouBWsORObDuhZ",
-      "name": "Low Sun"
+      "href": "https://open.spotify.com/track/38ineLIzGIXTGd8ICMvHXb",
+      "name": "Secunda"
     }
   }
 ]
