@@ -1,52 +1,51 @@
 [
   {
-    "followers": 2837980,
-    "genre": "punk",
+    "followers": 1761975,
+    "genre": "j-pop",
     "genres": [
-      "emo",
-      "post-hardcore",
-      "screamo"
+      "j-pop",
+      "j-rap"
     ],
-    "href": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA",
-    "id": "3N8Hy6xQnQv1F1XCiyGQqA",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb1e2ceb6044f42f7c6dde5433",
-    "name": "Sleeping With Sirens",
+    "href": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX",
+    "id": "2vjeuQwzSP5ErC1S41gONX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3c6a121a9f2ce9015fefdad1",
+    "name": "CHANMINA",
     "top_track": {
-      "href": "https://open.spotify.com/track/2Tc9VznHtQUmfOgE3L1RdN",
-      "name": "If You Can't Hang"
+      "href": "https://open.spotify.com/track/2zxK14g3shGRbgjUmKaj2x",
+      "name": "SAD SONG"
     }
   },
   {
-    "followers": 10711524,
-    "genre": "latin",
+    "followers": 89765803,
+    "genre": "pop",
     "genres": [
-      "reggaeton",
-      "trap latino",
-      "urbano latino"
+      "k-pop"
     ],
-    "href": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1",
-    "id": "6nVcHLIgY5pE2YCl8ubca1",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb21907ce45d02176645072c22",
-    "name": "JHAYCO",
+    "href": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX",
+    "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
+    "name": "BTS",
     "top_track": {
-      "href": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49",
-      "name": "DÁKITI"
+      "href": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712",
+      "name": "SWIM"
     }
   },
   {
-    "followers": 6998,
-    "genre": "classical",
+    "followers": 674259,
+    "genre": "jazz",
     "genres": [
-      "medieval",
-      "soundtrack"
+      "big band",
+      "adult standards",
+      "swing music",
+      "doo-wop"
     ],
-    "href": "https://open.spotify.com/artist/4gOgv5uY5kaPkDF70ZBCwI",
-    "id": "4gOgv5uY5kaPkDF70ZBCwI",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba3369e4b675288635f3154f2",
-    "name": "The Elder Scrolls",
+    "href": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ",
+    "id": "0EodhzA6yW1bIdD5B4tcmJ",
+    "image": "https://i.scdn.co/image/ab6772690000c46c92f83e9f6b9f4b89c56c5811",
+    "name": "Bobby Darin",
     "top_track": {
-      "href": "https://open.spotify.com/track/38ineLIzGIXTGd8ICMvHXb",
-      "name": "Secunda"
+      "href": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg",
+      "name": "Beyond the Sea"
     }
   }
 ]
