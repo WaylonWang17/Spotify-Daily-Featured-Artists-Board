@@ -1,51 +1,43 @@
 [
   {
-    "followers": 1761975,
-    "genre": "j-pop",
+    "followers": 400944,
+    "genre": "classical",
     "genres": [
-      "j-pop",
-      "j-rap"
+      "musicals"
     ],
-    "href": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX",
-    "id": "2vjeuQwzSP5ErC1S41gONX",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3c6a121a9f2ce9015fefdad1",
-    "name": "CHANMINA",
+    "href": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG",
+    "id": "4aP1lp10BRYZO658B2NwkG",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb960970e8fe0e7a52ec731c45",
+    "name": "Andrew Lloyd Webber",
     "top_track": {
-      "href": "https://open.spotify.com/track/2zxK14g3shGRbgjUmKaj2x",
-      "name": "SAD SONG"
+      "href": "https://open.spotify.com/track/3oPiyTWNUPODOXfXMSXwB2",
+      "name": "The Phantom of the Opera"
     }
   },
   {
-    "followers": 89765803,
-    "genre": "pop",
-    "genres": [
-      "k-pop"
-    ],
-    "href": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX",
-    "id": "3Nrfpe0tUJi4K4DXYWgMUX",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
-    "name": "BTS",
-    "top_track": {
-      "href": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712",
-      "name": "SWIM"
-    }
+    "followers": 505,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
+    "image": "",
+    "name": "Rutuu",
+    "top_track": null
   },
   {
-    "followers": 674259,
-    "genre": "jazz",
+    "followers": 2562187,
+    "genre": "latin",
     "genres": [
-      "big band",
-      "adult standards",
-      "swing music",
-      "doo-wop"
+      "latin r\u0026b",
+      "latin indie"
     ],
-    "href": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ",
-    "id": "0EodhzA6yW1bIdD5B4tcmJ",
-    "image": "https://i.scdn.co/image/ab6772690000c46c92f83e9f6b9f4b89c56c5811",
-    "name": "Bobby Darin",
+    "href": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF",
+    "id": "6XTGKOV9jceQ6f67lnhpbF",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8abe977d17e650d4fa2ec093",
+    "name": "LATIN MAFIA",
     "top_track": {
-      "href": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg",
-      "name": "Beyond the Sea"
+      "href": "https://open.spotify.com/track/5B579RUazOpBcuxjTZWnMs",
+      "name": "Te Estoy Correteando"
     }
   }
 ]
