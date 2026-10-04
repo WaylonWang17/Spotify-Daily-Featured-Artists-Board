@@ -1,43 +1,50 @@
 [
   {
-    "followers": 400944,
-    "genre": "classical",
+    "followers": 16899645,
+    "genre": "hip hop",
     "genres": [
-      "musicals"
+      "rage rap"
     ],
-    "href": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG",
-    "id": "4aP1lp10BRYZO658B2NwkG",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb960970e8fe0e7a52ec731c45",
-    "name": "Andrew Lloyd Webber",
+    "href": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
+    "id": "699OTQXzgjhIYAHMy9RyPD",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+    "name": "Playboi Carti",
     "top_track": {
-      "href": "https://open.spotify.com/track/3oPiyTWNUPODOXfXMSXwB2",
-      "name": "The Phantom of the Opera"
+      "href": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS",
+      "name": "Timeless (feat Playboi Carti)"
     }
   },
   {
-    "followers": 505,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
-    "image": "",
-    "name": "Rutuu",
-    "top_track": null
+    "followers": 128585035,
+    "genre": "pop",
+    "genres": [
+      "soft pop"
+    ],
+    "href": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V",
+    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd55c95ad400aed87da52daec",
+    "name": "Ed Sheeran",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3",
+      "name": "Shape of You"
+    }
   },
   {
-    "followers": 2562187,
-    "genre": "latin",
+    "followers": 9874873,
+    "genre": "metal",
     "genres": [
-      "latin r\u0026b",
-      "latin indie"
+      "nu metal",
+      "rap metal",
+      "alternative metal",
+      "rap rock"
     ],
-    "href": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF",
-    "id": "6XTGKOV9jceQ6f67lnhpbF",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8abe977d17e650d4fa2ec093",
-    "name": "LATIN MAFIA",
+    "href": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb",
+    "id": "165ZgPlLkK7bf5bDoFc6Sb",
+    "image": "https://i.scdn.co/image/4654955890cb62a6abe9daadfd2b3ecdee8036e4",
+    "name": "Limp Bizkit",
     "top_track": {
-      "href": "https://open.spotify.com/track/5B579RUazOpBcuxjTZWnMs",
-      "name": "Te Estoy Correteando"
+      "href": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
+      "name": "Break Stuff"
     }
   }
 ]
