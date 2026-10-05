@@ -1,50 +1,51 @@
 [
   {
-    "followers": 16899645,
-    "genre": "hip hop",
+    "followers": 1321546,
+    "genre": "reggae",
     "genres": [
-      "rage rap"
+      "dancehall",
+      "soca",
+      "afrobeats"
     ],
-    "href": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD",
-    "id": "699OTQXzgjhIYAHMy9RyPD",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-    "name": "Playboi Carti",
+    "href": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB",
+    "id": "1OFOShsIbhy1l5x73yuVyB",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0119a4a91b8dcc38fe2607c3",
+    "name": "Shenseea",
     "top_track": {
-      "href": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS",
-      "name": "Timeless (feat Playboi Carti)"
+      "href": "https://open.spotify.com/track/2vBiHkb2RxtFzkmOzYJgBs",
+      "name": "SHAKE IT TO THE MAX (FLY) [REMIX]"
     }
   },
   {
-    "followers": 128585035,
-    "genre": "pop",
+    "followers": 10824529,
+    "genre": "rock",
     "genres": [
-      "soft pop"
+      "grunge",
+      "rock",
+      "post-grunge"
     ],
-    "href": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V",
-    "id": "6eUKZXaKkcviH0Ku9w2n3V",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd55c95ad400aed87da52daec",
-    "name": "Ed Sheeran",
+    "href": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56",
+    "id": "1w5Kfo2jwwIPruYS2UWh56",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe431fb8ba17cdee73e4ce08a",
+    "name": "Pearl Jam",
     "top_track": {
-      "href": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3",
-      "name": "Shape of You"
+      "href": "https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY",
+      "name": "Black"
     }
   },
   {
-    "followers": 9874873,
-    "genre": "metal",
+    "followers": 5317192,
+    "genre": "jazz",
     "genres": [
-      "nu metal",
-      "rap metal",
-      "alternative metal",
-      "rap rock"
+      "pop soul"
     ],
-    "href": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb",
-    "id": "165ZgPlLkK7bf5bDoFc6Sb",
-    "image": "https://i.scdn.co/image/4654955890cb62a6abe9daadfd2b3ecdee8036e4",
-    "name": "Limp Bizkit",
+    "href": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW",
+    "id": "00x1fYSGhdqScXBRpSj3DW",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5c7577ad44daeb7ce4b941a1",
+    "name": "Olivia Dean",
     "top_track": {
-      "href": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
-      "name": "Break Stuff"
+      "href": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+      "name": "Man I Need"
     }
   }
 ]
