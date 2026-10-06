@@ -1,51 +1,28 @@
 [
   {
-    "followers": 1321546,
-    "genre": "reggae",
-    "genres": [
-      "dancehall",
-      "soca",
-      "afrobeats"
-    ],
-    "href": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB",
-    "id": "1OFOShsIbhy1l5x73yuVyB",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0119a4a91b8dcc38fe2607c3",
-    "name": "Shenseea",
+    "followers": 15956236,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA",
+    "id": "20wkVLutqVOYrc0kxFs7rA",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe4d94f7cbebb17504c25d419",
+    "name": "Daniel Caesar",
     "top_track": {
-      "href": "https://open.spotify.com/track/2vBiHkb2RxtFzkmOzYJgBs",
-      "name": "SHAKE IT TO THE MAX (FLY) [REMIX]"
+      "href": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48",
+      "name": "Who Knows"
     }
   },
   {
-    "followers": 10824529,
-    "genre": "rock",
-    "genres": [
-      "grunge",
-      "rock",
-      "post-grunge"
-    ],
-    "href": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56",
-    "id": "1w5Kfo2jwwIPruYS2UWh56",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe431fb8ba17cdee73e4ce08a",
-    "name": "Pearl Jam",
+    "followers": 60762736,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q",
+    "id": "53XhwfbYqKCa1cC15pYq2q",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebab47d8dae2b24f5afe7f9d38",
+    "name": "Imagine Dragons",
     "top_track": {
-      "href": "https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY",
-      "name": "Black"
-    }
-  },
-  {
-    "followers": 5317192,
-    "genre": "jazz",
-    "genres": [
-      "pop soul"
-    ],
-    "href": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW",
-    "id": "00x1fYSGhdqScXBRpSj3DW",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5c7577ad44daeb7ce4b941a1",
-    "name": "Olivia Dean",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
-      "name": "Man I Need"
+      "href": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
+      "name": "Believer"
     }
   }
 ]
