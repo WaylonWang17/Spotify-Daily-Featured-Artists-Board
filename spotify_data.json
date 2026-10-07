@@ -1,28 +1,36 @@
 [
   {
-    "followers": 15956236,
-    "genre": "r\u0026b",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA",
-    "id": "20wkVLutqVOYrc0kxFs7rA",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe4d94f7cbebb17504c25d419",
-    "name": "Daniel Caesar",
+    "followers": 973065,
+    "genre": "classical",
+    "genres": [
+      "classical piano",
+      "classical"
+    ],
+    "href": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2",
+    "id": "1385hLNbrnbCJGokfH2ac2",
+    "image": "https://i.scdn.co/image/9ec531e3712e68c72ae3cf06f17e4055a615c4bf",
+    "name": "Franz Liszt",
     "top_track": {
-      "href": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48",
-      "name": "Who Knows"
+      "href": "https://open.spotify.com/track/5qrNvWGqU4HToSj1B3x5bM",
+      "name": "Liebesträume, S. 541: No. 3, Oh Lieb, so lang du lieben kannst"
     }
   },
   {
-    "followers": 60762736,
-    "genre": "pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q",
-    "id": "53XhwfbYqKCa1cC15pYq2q",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebab47d8dae2b24f5afe7f9d38",
-    "name": "Imagine Dragons",
+    "followers": 14060960,
+    "genre": "rock",
+    "genres": [
+      "post-grunge",
+      "rock",
+      "alternative rock",
+      "grunge"
+    ],
+    "href": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD",
+    "id": "7jy3rLJdDQY21OgRLCZ9sD",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb1db35bc9c01d2b1c151e44ce",
+    "name": "Foo Fighters",
     "top_track": {
-      "href": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
-      "name": "Believer"
+      "href": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk",
+      "name": "Everlong"
     }
   }
 ]
