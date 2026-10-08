@@ -1,36 +1,46 @@
 [
   {
-    "followers": 973065,
-    "genre": "classical",
+    "followers": 151150,
+    "genre": "punk",
     "genres": [
-      "classical piano",
-      "classical"
+      "pop punk"
     ],
-    "href": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2",
-    "id": "1385hLNbrnbCJGokfH2ac2",
-    "image": "https://i.scdn.co/image/9ec531e3712e68c72ae3cf06f17e4055a615c4bf",
-    "name": "Franz Liszt",
+    "href": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2",
+    "id": "3M9XAM57a4qFz3v6Lq27t2",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfb4ebdcfe9f52548d366f392",
+    "name": "Kellin Quinn",
     "top_track": {
-      "href": "https://open.spotify.com/track/5qrNvWGqU4HToSj1B3x5bM",
-      "name": "Liebesträume, S. 541: No. 3, Oh Lieb, so lang du lieben kannst"
+      "href": "https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml",
+      "name": "lamb (feat. Kellin Quinn)"
     }
   },
   {
-    "followers": 14060960,
-    "genre": "rock",
+    "followers": 4352323,
+    "genre": "country",
     "genres": [
-      "post-grunge",
-      "rock",
-      "alternative rock",
-      "grunge"
+      "country",
+      "acoustic country"
     ],
-    "href": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD",
-    "id": "7jy3rLJdDQY21OgRLCZ9sD",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb1db35bc9c01d2b1c151e44ce",
-    "name": "Foo Fighters",
+    "href": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV",
+    "id": "2IvkS5MXK0vPGnwyJsrEyV",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf8c66abe99819bbf7a32957a",
+    "name": "Eric Church",
     "top_track": {
-      "href": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk",
-      "name": "Everlong"
+      "href": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB",
+      "name": "Springsteen"
+    }
+  },
+  {
+    "followers": 9795772,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX",
+    "id": "0cGUm45nv7Z6M6qdXYQGTX",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcf865d7d399a41e1bd036149",
+    "name": "Kehlani",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6sTlzpJaFGkFQ4BNccmbW9",
+      "name": "Folded"
     }
   }
 ]
