@@ -1,46 +1,40 @@
 [
   {
-    "followers": 151150,
-    "genre": "punk",
-    "genres": [
-      "pop punk"
-    ],
-    "href": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2",
-    "id": "3M9XAM57a4qFz3v6Lq27t2",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebfb4ebdcfe9f52548d366f392",
-    "name": "Kellin Quinn",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml",
-      "name": "lamb (feat. Kellin Quinn)"
-    }
-  },
-  {
-    "followers": 4352323,
-    "genre": "country",
-    "genres": [
-      "country",
-      "acoustic country"
-    ],
-    "href": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV",
-    "id": "2IvkS5MXK0vPGnwyJsrEyV",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf8c66abe99819bbf7a32957a",
-    "name": "Eric Church",
-    "top_track": {
-      "href": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB",
-      "name": "Springsteen"
-    }
-  },
-  {
-    "followers": 9795772,
-    "genre": "r\u0026b",
+    "followers": 35,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX",
-    "id": "0cGUm45nv7Z6M6qdXYQGTX",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcf865d7d399a41e1bd036149",
-    "name": "Kehlani",
+    "href": "https://open.spotify.com/artist/4b7MFrViDbS4Oktvu6WSdU",
+    "id": "4b7MFrViDbS4Oktvu6WSdU",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcbda506e025bbe0a147c8029",
+    "name": "Muzzul CJ",
+    "top_track": null
+  },
+  {
+    "followers": 18,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3wdETxZ5dTw0Lk4uoRHsQV",
+    "id": "3wdETxZ5dTw0Lk4uoRHsQV",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733240d28eb1f2261730bb4496",
+    "name": "Ps Negi",
     "top_track": {
-      "href": "https://open.spotify.com/track/6sTlzpJaFGkFQ4BNccmbW9",
-      "name": "Folded"
+      "href": "https://open.spotify.com/track/2HgqxQFzkYYkp7SZqDIZYC",
+      "name": "Sheela Kin"
+    }
+  },
+  {
+    "followers": 15516425,
+    "genre": "r\u0026b",
+    "genres": [
+      "r\u0026b"
+    ],
+    "href": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj",
+    "id": "23zg3TcAtWQy7J6upgbUnj",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb13684907cd609d10d41f0b8",
+    "name": "USHER",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX",
+      "name": "Yeah! (feat. Lil Jon \u0026 Ludacris)"
     }
   }
 ]
