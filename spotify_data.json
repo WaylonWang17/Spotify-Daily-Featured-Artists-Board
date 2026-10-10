@@ -1,40 +1,35 @@
 [
   {
-    "followers": 35,
-    "genre": "rap",
+    "followers": 128343,
+    "genre": "jazz",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4b7MFrViDbS4Oktvu6WSdU",
-    "id": "4b7MFrViDbS4Oktvu6WSdU",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcbda506e025bbe0a147c8029",
-    "name": "Muzzul CJ",
-    "top_track": null
-  },
-  {
-    "followers": 18,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3wdETxZ5dTw0Lk4uoRHsQV",
-    "id": "3wdETxZ5dTw0Lk4uoRHsQV",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733240d28eb1f2261730bb4496",
-    "name": "Ps Negi",
+    "href": "https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI",
+    "id": "3bSyv1vO8ye6PKyWcJeVbI",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebea7672dae46ba3088bd990d7",
+    "name": "Baasik",
     "top_track": {
-      "href": "https://open.spotify.com/track/2HgqxQFzkYYkp7SZqDIZYC",
-      "name": "Sheela Kin"
+      "href": "https://open.spotify.com/track/5flerg6aEao2VayZezVlgu",
+      "name": "Insane"
     }
   },
   {
-    "followers": 15516425,
-    "genre": "r\u0026b",
+    "followers": 17873970,
+    "genre": "pop",
     "genres": [
-      "r\u0026b"
+      "corrido",
+      "corridos tumbados",
+      "corridos bélicos",
+      "electro corridos",
+      "dembow belico",
+      "música mexicana"
     ],
-    "href": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj",
-    "id": "23zg3TcAtWQy7J6upgbUnj",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb13684907cd609d10d41f0b8",
-    "name": "USHER",
+    "href": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG",
+    "id": "5eumcnUkdmGvkvcsx1WFNG",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc35bac74230ed53af510265f",
+    "name": "Tito Double P",
     "top_track": {
-      "href": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX",
-      "name": "Yeah! (feat. Lil Jon \u0026 Ludacris)"
+      "href": "https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR",
+      "name": "daño"
     }
   }
 ]
