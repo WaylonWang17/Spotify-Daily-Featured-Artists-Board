@@ -1,35 +1,43 @@
 [
   {
-    "followers": 128343,
-    "genre": "jazz",
+    "followers": 18,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI",
-    "id": "3bSyv1vO8ye6PKyWcJeVbI",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebea7672dae46ba3088bd990d7",
-    "name": "Baasik",
+    "href": "https://open.spotify.com/artist/3wdETxZ5dTw0Lk4uoRHsQV",
+    "id": "3wdETxZ5dTw0Lk4uoRHsQV",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733240d28eb1f2261730bb4496",
+    "name": "Ps Negi",
     "top_track": {
-      "href": "https://open.spotify.com/track/5flerg6aEao2VayZezVlgu",
-      "name": "Insane"
+      "href": "https://open.spotify.com/track/2HgqxQFzkYYkp7SZqDIZYC",
+      "name": "Sheela Kin"
     }
   },
   {
-    "followers": 17873970,
-    "genre": "pop",
+    "followers": 601796,
+    "genre": "country",
     "genres": [
-      "corrido",
-      "corridos tumbados",
-      "corridos bélicos",
-      "electro corridos",
-      "dembow belico",
-      "música mexicana"
+      "country"
     ],
-    "href": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG",
-    "id": "5eumcnUkdmGvkvcsx1WFNG",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc35bac74230ed53af510265f",
-    "name": "Tito Double P",
+    "href": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O",
+    "id": "3iXeAZ8862AyoZ5ZGg800O",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb2d0ab916f11f838c04286a49",
+    "name": "Ole 60",
     "top_track": {
-      "href": "https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR",
-      "name": "daño"
+      "href": "https://open.spotify.com/track/2m0ia92duq7Ic6tXuukDGg",
+      "name": "Thoughts of You"
+    }
+  },
+  {
+    "followers": 6897,
+    "genre": "reggae",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1oqC0QCUYf3c2pPB8h5EAj",
+    "id": "1oqC0QCUYf3c2pPB8h5EAj",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735ec173da82765abd9c11b993",
+    "name": "Rayvon",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1fpsTtNkNJsBjuUI8iHP6G",
+      "name": "Big Up"
     }
   }
 ]
