@@ -1,43 +1,48 @@
 [
   {
-    "followers": 18,
-    "genre": "k-pop",
+    "followers": 3439248,
+    "genre": "folk",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3wdETxZ5dTw0Lk4uoRHsQV",
-    "id": "3wdETxZ5dTw0Lk4uoRHsQV",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733240d28eb1f2261730bb4496",
-    "name": "Ps Negi",
+    "href": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi",
+    "id": "6ogn9necmbUdCppmNnGOdi",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf6a97342ccd47692b7cdf8c0",
+    "name": "Alanis Morissette",
     "top_track": {
-      "href": "https://open.spotify.com/track/2HgqxQFzkYYkp7SZqDIZYC",
-      "name": "Sheela Kin"
+      "href": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE",
+      "name": "Ironic - 2015 Remaster"
     }
   },
   {
-    "followers": 601796,
-    "genre": "country",
-    "genres": [
-      "country"
-    ],
-    "href": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O",
-    "id": "3iXeAZ8862AyoZ5ZGg800O",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb2d0ab916f11f838c04286a49",
-    "name": "Ole 60",
+    "followers": 89579833,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C",
+    "id": "0du5cEVh5yTK9QJze8zA0C",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc7688aad1bf03986934d7e26",
+    "name": "Bruno Mars",
     "top_track": {
-      "href": "https://open.spotify.com/track/2m0ia92duq7Ic6tXuukDGg",
-      "name": "Thoughts of You"
+      "href": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ",
+      "name": "Die With A Smile"
     }
   },
   {
-    "followers": 6897,
+    "followers": 592985,
     "genre": "reggae",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/1oqC0QCUYf3c2pPB8h5EAj",
-    "id": "1oqC0QCUYf3c2pPB8h5EAj",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735ec173da82765abd9c11b993",
-    "name": "Rayvon",
+    "genres": [
+      "dancehall",
+      "soca",
+      "riddim",
+      "ragga",
+      "reggae",
+      "shatta"
+    ],
+    "href": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW",
+    "id": "3nwYsifpwrKmCIpw4i0HDW",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfe8a97baf3b444a888bdf3dc",
+    "name": "Konshens",
     "top_track": {
-      "href": "https://open.spotify.com/track/1fpsTtNkNJsBjuUI8iHP6G",
-      "name": "Big Up"
+      "href": "https://open.spotify.com/track/2O8oFfQOzt6Q9G69XBQdIG",
+      "name": "Bruk off Yuh Back"
     }
   }
 ]
