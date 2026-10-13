@@ -1,48 +1,41 @@
 [
   {
-    "followers": 3439248,
-    "genre": "folk",
+    "followers": 2078977,
+    "genre": "indie",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi",
-    "id": "6ogn9necmbUdCppmNnGOdi",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf6a97342ccd47692b7cdf8c0",
-    "name": "Alanis Morissette",
+    "href": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS",
+    "id": "1GmsPCcpKgF9OhlNXjOsbS",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3f8e736157f7fe8e34dc5f7d",
+    "name": "Lizzy McAlpine",
     "top_track": {
-      "href": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE",
-      "name": "Ironic - 2015 Remaster"
+      "href": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI",
+      "name": "ceilings"
     }
   },
   {
-    "followers": 89579833,
-    "genre": "pop",
+    "followers": 97550,
+    "genre": "j-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C",
-    "id": "0du5cEVh5yTK9QJze8zA0C",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc7688aad1bf03986934d7e26",
-    "name": "Bruno Mars",
+    "href": "https://open.spotify.com/artist/0XOT5JvyItELtax6yuzvWl",
+    "id": "0XOT5JvyItELtax6yuzvWl",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb66de4427190e13d34a53c866",
+    "name": "kuala",
     "top_track": {
-      "href": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ",
-      "name": "Die With A Smile"
+      "href": "https://open.spotify.com/track/2KU7CB4GA26r0VQ47Lvf9i",
+      "name": "bake shop"
     }
   },
   {
-    "followers": 592985,
-    "genre": "reggae",
-    "genres": [
-      "dancehall",
-      "soca",
-      "riddim",
-      "ragga",
-      "reggae",
-      "shatta"
-    ],
-    "href": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW",
-    "id": "3nwYsifpwrKmCIpw4i0HDW",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebfe8a97baf3b444a888bdf3dc",
-    "name": "Konshens",
+    "followers": 8301159,
+    "genre": "hip hop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu",
+    "id": "0fA0VVWsXO9YnASrzqfmYu",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5f00bb6dd7a7008d14156630",
+    "name": "Kid Cudi",
     "top_track": {
-      "href": "https://open.spotify.com/track/2O8oFfQOzt6Q9G69XBQdIG",
-      "name": "Bruk off Yuh Back"
+      "href": "https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n",
+      "name": "Memories (feat. Kid Cudi)"
     }
   }
 ]
