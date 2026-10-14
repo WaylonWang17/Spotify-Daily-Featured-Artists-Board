@@ -1,41 +1,46 @@
 [
   {
-    "followers": 2078977,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS",
-    "id": "1GmsPCcpKgF9OhlNXjOsbS",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb3f8e736157f7fe8e34dc5f7d",
-    "name": "Lizzy McAlpine",
+    "followers": 8156478,
+    "genre": "latin",
+    "genres": [
+      "corrido",
+      "corridos tumbados",
+      "corridos bélicos",
+      "electro corridos",
+      "dembow belico"
+    ],
+    "href": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa",
+    "id": "6pV5zH2LzjOUHaAvENdMMa",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7215ccc01c6b8f0fc59adebb",
+    "name": "Neton Vega",
     "top_track": {
-      "href": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI",
-      "name": "ceilings"
+      "href": "https://open.spotify.com/track/37wfBdDJidbipEG2fEwkWX",
+      "name": "RIKI"
     }
   },
   {
-    "followers": 97550,
-    "genre": "j-pop",
+    "followers": 505,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0XOT5JvyItELtax6yuzvWl",
-    "id": "0XOT5JvyItELtax6yuzvWl",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb66de4427190e13d34a53c866",
-    "name": "kuala",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2KU7CB4GA26r0VQ47Lvf9i",
-      "name": "bake shop"
-    }
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
+    "image": "",
+    "name": "Rutuu",
+    "top_track": null
   },
   {
-    "followers": 8301159,
-    "genre": "hip hop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu",
-    "id": "0fA0VVWsXO9YnASrzqfmYu",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5f00bb6dd7a7008d14156630",
-    "name": "Kid Cudi",
+    "followers": 5186439,
+    "genre": "country",
+    "genres": [
+      "country"
+    ],
+    "href": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O",
+    "id": "3grHWM9bx2E9vwJCdlRv9O",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebee7a9062a8b6bcc7dfcf8ea0",
+    "name": "Kenny Chesney",
     "top_track": {
-      "href": "https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n",
-      "name": "Memories (feat. Kid Cudi)"
+      "href": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV",
+      "name": "American Kids"
     }
   }
 ]
