@@ -1,46 +1,28 @@
 [
   {
-    "followers": 8156478,
+    "followers": 32401519,
     "genre": "latin",
     "genres": [
-      "corrido",
-      "corridos tumbados",
-      "corridos bélicos",
-      "electro corridos",
-      "dembow belico"
+      "bachata",
+      "latin"
     ],
-    "href": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa",
-    "id": "6pV5zH2LzjOUHaAvENdMMa",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7215ccc01c6b8f0fc59adebb",
-    "name": "Neton Vega",
+    "href": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP",
+    "id": "5lwmRuXgjX8xIwlnauTZIP",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
+    "name": "Romeo Santos",
     "top_track": {
-      "href": "https://open.spotify.com/track/37wfBdDJidbipEG2fEwkWX",
-      "name": "RIKI"
+      "href": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ",
+      "name": "Dardos"
     }
   },
   {
-    "followers": 505,
-    "genre": "alternative",
+    "followers": 638,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
-    "image": "",
-    "name": "Rutuu",
+    "href": "https://open.spotify.com/artist/5q6i8pgGAanEpaPyVL6W1r",
+    "id": "5q6i8pgGAanEpaPyVL6W1r",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebae06780ead528f8d346877c1",
+    "name": "Mole",
     "top_track": null
-  },
-  {
-    "followers": 5186439,
-    "genre": "country",
-    "genres": [
-      "country"
-    ],
-    "href": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O",
-    "id": "3grHWM9bx2E9vwJCdlRv9O",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebee7a9062a8b6bcc7dfcf8ea0",
-    "name": "Kenny Chesney",
-    "top_track": {
-      "href": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV",
-      "name": "American Kids"
-    }
   }
 ]
