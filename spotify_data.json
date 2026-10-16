@@ -1,28 +1,53 @@
 [
   {
-    "followers": 32401519,
-    "genre": "latin",
+    "followers": 7009057,
+    "genre": "blues",
     "genres": [
-      "bachata",
-      "latin"
+      "blues rock",
+      "classic rock"
     ],
-    "href": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP",
-    "id": "5lwmRuXgjX8xIwlnauTZIP",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
-    "name": "Romeo Santos",
+    "href": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
+    "id": "6PAt558ZEZl0DmdXlnjMgD",
+    "image": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
+    "name": "Eric Clapton",
     "top_track": {
-      "href": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ",
-      "name": "Dardos"
+      "href": "https://open.spotify.com/track/4Njs91SaMTZV0glRwnU2R8",
+      "name": "Wonderful Tonight"
     }
   },
   {
-    "followers": 638,
-    "genre": "rap",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/5q6i8pgGAanEpaPyVL6W1r",
-    "id": "5q6i8pgGAanEpaPyVL6W1r",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebae06780ead528f8d346877c1",
-    "name": "Mole",
-    "top_track": null
+    "followers": 19755187,
+    "genre": "latin",
+    "genres": [
+      "reggaeton",
+      "trap latino",
+      "urbano latino"
+    ],
+    "href": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X",
+    "id": "4SsVbpTthjScTS7U2hmr1X",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7aab347977373ccf5cb172c1",
+    "name": "Arcángel",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj",
+      "name": "Pa' Que La Pases Bien"
+    }
+  },
+  {
+    "followers": 23084303,
+    "genre": "j-pop",
+    "genres": [
+      "indonesian pop",
+      "indonesian jazz",
+      "indonesian indie",
+      "indonesian r\u0026b"
+    ],
+    "href": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi",
+    "id": "2iDVt6mFbtbDEZG5ax0dTi",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe2569eea1e32fe495d52c9a3",
+    "name": "Tulus",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4R9G7azXaZe93KTX65P9fU",
+      "name": "Teh Hijau"
+    }
   }
 ]
