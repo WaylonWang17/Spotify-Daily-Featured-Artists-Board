@@ -1,53 +1,44 @@
 [
   {
-    "followers": 7009057,
-    "genre": "blues",
+    "followers": 46430260,
+    "genre": "pop",
     "genres": [
-      "blues rock",
-      "classic rock"
+      "latin pop"
     ],
-    "href": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
-    "id": "6PAt558ZEZl0DmdXlnjMgD",
-    "image": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
-    "name": "Eric Clapton",
+    "href": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp",
+    "id": "0EmeFodog0BfCgMzAIvKQp",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb17f15f351cba70561ad8bcac",
+    "name": "Shakira",
     "top_track": {
-      "href": "https://open.spotify.com/track/4Njs91SaMTZV0glRwnU2R8",
-      "name": "Wonderful Tonight"
+      "href": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL",
+      "name": "Dai Dai"
     }
   },
   {
-    "followers": 19755187,
-    "genre": "latin",
+    "followers": 3305377,
+    "genre": "punk",
     "genres": [
-      "reggaeton",
-      "trap latino",
-      "urbano latino"
+      "pop punk",
+      "emo",
+      "punk"
     ],
-    "href": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X",
-    "id": "4SsVbpTthjScTS7U2hmr1X",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7aab347977373ccf5cb172c1",
-    "name": "Arcángel",
+    "href": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo",
+    "id": "46gyXjRIvN1NL1eCB8GBxo",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8625dac822c90c5f8c605170",
+    "name": "All Time Low",
     "top_track": {
-      "href": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj",
-      "name": "Pa' Que La Pases Bien"
+      "href": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe",
+      "name": "Dear Maria, Count Me In"
     }
   },
   {
-    "followers": 23084303,
-    "genre": "j-pop",
-    "genres": [
-      "indonesian pop",
-      "indonesian jazz",
-      "indonesian indie",
-      "indonesian r\u0026b"
-    ],
-    "href": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi",
-    "id": "2iDVt6mFbtbDEZG5ax0dTi",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe2569eea1e32fe495d52c9a3",
-    "name": "Tulus",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4R9G7azXaZe93KTX65P9fU",
-      "name": "Teh Hijau"
-    }
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
   }
 ]
