@@ -1,44 +1,51 @@
 [
   {
-    "followers": 46430260,
-    "genre": "pop",
+    "followers": 5421642,
+    "genre": "country",
     "genres": [
-      "latin pop"
+      "country",
+      "classic country"
     ],
-    "href": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp",
-    "id": "0EmeFodog0BfCgMzAIvKQp",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb17f15f351cba70561ad8bcac",
-    "name": "Shakira",
+    "href": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd",
+    "id": "6roFdX1y5BYSbp60OTJWMd",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbd6977f3970a7a4a8d4becbe",
+    "name": "Tim McGraw",
     "top_track": {
-      "href": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL",
-      "name": "Dai Dai"
+      "href": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R",
+      "name": "I Like It, I Love It"
     }
   },
   {
-    "followers": 3305377,
-    "genre": "punk",
-    "genres": [
-      "pop punk",
-      "emo",
-      "punk"
-    ],
-    "href": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo",
-    "id": "46gyXjRIvN1NL1eCB8GBxo",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8625dac822c90c5f8c605170",
-    "name": "All Time Low",
-    "top_track": {
-      "href": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe",
-      "name": "Dear Maria, Count Me In"
-    }
-  },
-  {
-    "followers": 1,
-    "genre": "techno",
+    "followers": 29,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "href": "https://open.spotify.com/artist/6uVJEZc4O05OtlV8UpoEb2",
+    "id": "6uVJEZc4O05OtlV8UpoEb2",
     "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
+    "name": "Shan Debbarma",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6kpPsQrHmEiIu0KHDv0O09",
+      "name": "Bubagra Bubagra"
+    }
+  },
+  {
+    "followers": 30865910,
+    "genre": "latin",
+    "genres": [
+      "corrido",
+      "corridos tumbados",
+      "corridos bélicos",
+      "música mexicana",
+      "sad sierreño",
+      "banda"
+    ],
+    "href": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ",
+    "id": "12GqGscKJx3aE4t07u7eVZ",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe5283f5b671cf618b82a2696",
+    "name": "Peso Pluma",
+    "top_track": {
+      "href": "https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR",
+      "name": "daño"
+    }
   }
 ]
