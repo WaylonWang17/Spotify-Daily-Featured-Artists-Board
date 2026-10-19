@@ -1,51 +1,34 @@
 [
   {
-    "followers": 5421642,
-    "genre": "country",
+    "followers": 3212019,
+    "genre": "reggae",
     "genres": [
-      "country",
-      "classic country"
+      "reggae en español",
+      "reggae"
     ],
-    "href": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd",
-    "id": "6roFdX1y5BYSbp60OTJWMd",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebbd6977f3970a7a4a8d4becbe",
-    "name": "Tim McGraw",
+    "href": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR",
+    "id": "1aw0Cdl1DIrtUrUA6fGbAR",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd93aa30a841e02e1b826ad4b",
+    "name": "Dread Mar I",
     "top_track": {
-      "href": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R",
-      "name": "I Like It, I Love It"
+      "href": "https://open.spotify.com/track/1M790SJApJ97Fewi2lbeUg",
+      "name": "Tu Sin Mi"
     }
   },
   {
-    "followers": 29,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6uVJEZc4O05OtlV8UpoEb2",
-    "id": "6uVJEZc4O05OtlV8UpoEb2",
-    "image": "",
-    "name": "Shan Debbarma",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6kpPsQrHmEiIu0KHDv0O09",
-      "name": "Bubagra Bubagra"
-    }
-  },
-  {
-    "followers": 30865910,
-    "genre": "latin",
+    "followers": 3465578,
+    "genre": "metal",
     "genres": [
-      "corrido",
-      "corridos tumbados",
-      "corridos bélicos",
-      "música mexicana",
-      "sad sierreño",
-      "banda"
+      "progressive metal",
+      "metalcore"
     ],
-    "href": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ",
-    "id": "12GqGscKJx3aE4t07u7eVZ",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe5283f5b671cf618b82a2696",
-    "name": "Peso Pluma",
+    "href": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6",
+    "id": "2n2RSaZqBuUUukhbLlpnE6",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd00c2ff422829437e6b5f1e0",
+    "name": "Sleep Token",
     "top_track": {
-      "href": "https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR",
-      "name": "daño"
+      "href": "https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1",
+      "name": "Caramel"
     }
   }
 ]
