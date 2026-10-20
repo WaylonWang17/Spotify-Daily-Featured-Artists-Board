@@ -1,34 +1,47 @@
 [
   {
-    "followers": 3212019,
-    "genre": "reggae",
+    "followers": 898357,
+    "genre": "indie",
     "genres": [
-      "reggae en español",
-      "reggae"
+      "hyperpop"
     ],
-    "href": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR",
-    "id": "1aw0Cdl1DIrtUrUA6fGbAR",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd93aa30a841e02e1b826ad4b",
-    "name": "Dread Mar I",
+    "href": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC",
+    "id": "4QM5QCHicznALtX885CnZC",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd475efee7c254f7e77a2d306",
+    "name": "Slayyyter",
     "top_track": {
-      "href": "https://open.spotify.com/track/1M790SJApJ97Fewi2lbeUg",
-      "name": "Tu Sin Mi"
+      "href": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2",
+      "name": "brand new chanel$"
     }
   },
   {
-    "followers": 3465578,
-    "genre": "metal",
+    "followers": 918724,
+    "genre": "j-pop",
     "genres": [
-      "progressive metal",
-      "metalcore"
+      "anime",
+      "j-pop",
+      "j-rock"
     ],
-    "href": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6",
-    "id": "2n2RSaZqBuUUukhbLlpnE6",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd00c2ff422829437e6b5f1e0",
-    "name": "Sleep Token",
+    "href": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv",
+    "id": "7mvhRvEAHiCTQHUnH7fgnv",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb47d98389d5bd1c196a287938",
+    "name": "Tatsuya Kitani",
     "top_track": {
-      "href": "https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1",
-      "name": "Caramel"
+      "href": "https://open.spotify.com/track/3zbKiko8V3u2yn1RcT8xBZ",
+      "name": "青のすみか"
+    }
+  },
+  {
+    "followers": 26933951,
+    "genre": "rock",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx",
+    "id": "3YQKmKGau1PzlVlkL1iodx",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb61a7ea26d33ded218cd1e59d",
+    "name": "Twenty One Pilots",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn",
+      "name": "Stressed Out"
     }
   }
 ]
