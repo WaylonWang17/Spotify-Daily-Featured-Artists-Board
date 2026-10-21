@@ -1,47 +1,53 @@
 [
   {
-    "followers": 898357,
-    "genre": "indie",
+    "followers": 13976005,
+    "genre": "pop",
     "genres": [
-      "hyperpop"
+      "k-pop"
     ],
-    "href": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC",
-    "id": "4QM5QCHicznALtX885CnZC",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd475efee7c254f7e77a2d306",
-    "name": "Slayyyter",
+    "href": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn",
+    "id": "3c0gDdb9lhnHGFtP4prQpn",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb04ba72b2749f90d62152ebec",
+    "name": "KATSEYE",
     "top_track": {
-      "href": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2",
-      "name": "brand new chanel$"
+      "href": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX",
+      "name": "Animal"
     }
   },
   {
-    "followers": 918724,
-    "genre": "j-pop",
+    "followers": 403725,
+    "genre": "classical",
     "genres": [
-      "anime",
-      "j-pop",
-      "j-rock"
+      "musicals"
     ],
-    "href": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv",
-    "id": "7mvhRvEAHiCTQHUnH7fgnv",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb47d98389d5bd1c196a287938",
-    "name": "Tatsuya Kitani",
+    "href": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG",
+    "id": "4aP1lp10BRYZO658B2NwkG",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb960970e8fe0e7a52ec731c45",
+    "name": "Andrew Lloyd Webber",
     "top_track": {
-      "href": "https://open.spotify.com/track/3zbKiko8V3u2yn1RcT8xBZ",
-      "name": "青のすみか"
+      "href": "https://open.spotify.com/track/3oPiyTWNUPODOXfXMSXwB2",
+      "name": "The Phantom of the Opera"
     }
   },
   {
-    "followers": 26933951,
-    "genre": "rock",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx",
-    "id": "3YQKmKGau1PzlVlkL1iodx",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb61a7ea26d33ded218cd1e59d",
-    "name": "Twenty One Pilots",
+    "followers": 36191948,
+    "genre": "latin",
+    "genres": [
+      "corridos tumbados",
+      "corrido",
+      "corridos bélicos",
+      "sad sierreño",
+      "sierreño",
+      "música mexicana",
+      "banda"
+    ],
+    "href": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is",
+    "id": "7Gi6gjaWy3DxyilpF1a8Is",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5fbe9b7dc7d9a2295bd6022c",
+    "name": "Junior H",
     "top_track": {
-      "href": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn",
-      "name": "Stressed Out"
+      "href": "https://open.spotify.com/track/3BAtCOv7easPy9xoZ4h9Ng",
+      "name": "DEMENCIA"
     }
   }
 ]
