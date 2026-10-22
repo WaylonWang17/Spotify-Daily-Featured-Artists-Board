@@ -1,53 +1,38 @@
 [
   {
-    "followers": 13976005,
-    "genre": "pop",
-    "genres": [
-      "k-pop"
-    ],
-    "href": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn",
-    "id": "3c0gDdb9lhnHGFtP4prQpn",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb04ba72b2749f90d62152ebec",
-    "name": "KATSEYE",
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 20,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1fWjmhTO32klEkKfCGgnQb",
+    "id": "1fWjmhTO32klEkKfCGgnQb",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b319c46b3d4bd9eaa949a02c",
+    "name": "Milan Das",
     "top_track": {
-      "href": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX",
-      "name": "Animal"
+      "href": "https://open.spotify.com/track/0xYuiOm1FtHWlv4UjT9Tt2",
+      "name": "Prem Ke Dor"
     }
   },
   {
-    "followers": 403725,
-    "genre": "classical",
-    "genres": [
-      "musicals"
-    ],
-    "href": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG",
-    "id": "4aP1lp10BRYZO658B2NwkG",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb960970e8fe0e7a52ec731c45",
-    "name": "Andrew Lloyd Webber",
+    "followers": 2538154,
+    "genre": "indie",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25",
+    "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0d4d3bb72e9375017fd94f71",
+    "name": "Lord Huron",
     "top_track": {
-      "href": "https://open.spotify.com/track/3oPiyTWNUPODOXfXMSXwB2",
-      "name": "The Phantom of the Opera"
-    }
-  },
-  {
-    "followers": 36191948,
-    "genre": "latin",
-    "genres": [
-      "corridos tumbados",
-      "corrido",
-      "corridos bélicos",
-      "sad sierreño",
-      "sierreño",
-      "música mexicana",
-      "banda"
-    ],
-    "href": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is",
-    "id": "7Gi6gjaWy3DxyilpF1a8Is",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb5fbe9b7dc7d9a2295bd6022c",
-    "name": "Junior H",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3BAtCOv7easPy9xoZ4h9Ng",
-      "name": "DEMENCIA"
+      "href": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK",
+      "name": "The Night We Met"
     }
   }
 ]
