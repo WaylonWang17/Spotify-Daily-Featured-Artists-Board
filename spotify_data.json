@@ -1,38 +1,54 @@
 [
   {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
-  },
-  {
-    "followers": 20,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/1fWjmhTO32klEkKfCGgnQb",
-    "id": "1fWjmhTO32klEkKfCGgnQb",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b319c46b3d4bd9eaa949a02c",
-    "name": "Milan Das",
+    "followers": 115258,
+    "genre": "reggae",
+    "genres": [
+      "roots reggae",
+      "dub",
+      "reggae",
+      "rocksteady",
+      "lovers rock",
+      "ragga"
+    ],
+    "href": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC",
+    "id": "2ieAXAuLe6qQ3RJsqCxpoC",
+    "image": "https://i.scdn.co/image/ab6772690000c46ca60968641586880e27d0daff",
+    "name": "Horace Andy",
     "top_track": {
-      "href": "https://open.spotify.com/track/0xYuiOm1FtHWlv4UjT9Tt2",
-      "name": "Prem Ke Dor"
+      "href": "https://open.spotify.com/track/5gUN8lFxrE0pzgRCWFFvKo",
+      "name": "You Are My Angel"
     }
   },
   {
-    "followers": 2538154,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25",
-    "id": "6ltzsmQQbmdoHHbLZ4ZN25",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0d4d3bb72e9375017fd94f71",
-    "name": "Lord Huron",
+    "followers": 638902,
+    "genre": "punk",
+    "genres": [
+      "metalcore",
+      "post-hardcore"
+    ],
+    "href": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj",
+    "id": "5FjQVp1Lb0kltmwIuu5kfj",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5a000b6742b2de34dd61688d",
+    "name": "Dayseeker",
     "top_track": {
-      "href": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK",
-      "name": "The Night We Met"
+      "href": "https://open.spotify.com/track/53Ssvy5Rww0BPTtOw375zW",
+      "name": "Sleeptalk"
+    }
+  },
+  {
+    "followers": 6229799,
+    "genre": "folk",
+    "genres": [
+      "folk pop",
+      "indie folk"
+    ],
+    "href": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg",
+    "id": "16oZKvXb6WkQlVAjwo2Wbg",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0f882273183345499155d6ed",
+    "name": "The Lumineers",
+    "top_track": {
+      "href": "https://open.spotify.com/track/0DwClY2t9YAWHBROMIgrXb",
+      "name": "Ho Hey"
     }
   }
 ]
