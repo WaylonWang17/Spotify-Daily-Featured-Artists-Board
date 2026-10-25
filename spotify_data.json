@@ -1,45 +1,40 @@
 [
   {
-    "followers": 36,
-    "genre": "alternative",
+    "followers": 65,
+    "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
-    "id": "4kjS5eC0smSDzKaTxgAGPW",
+    "href": "https://open.spotify.com/artist/4ANS1ArQnz5zOpjVwzDfku",
+    "id": "4ANS1ArQnz5zOpjVwzDfku",
     "image": "",
-    "name": "Take My Chances",
-    "top_track": {
-      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
-      "name": "Handy With The Tongue Sword"
-    }
+    "name": "Squad Sui",
+    "top_track": null
   },
   {
-    "followers": 4236639,
-    "genre": "metal",
-    "genres": [
-      "post-grunge",
-      "alternative metal",
-      "rock"
-    ],
-    "href": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW",
-    "id": "6B5c4sch27tWHAGdarpPaW",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebbab1b739387a6e515dd2f160",
-    "name": "Seether",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6",
-      "name": "Fine Again"
-    }
-  },
-  {
-    "followers": 9722008,
-    "genre": "dance",
+    "followers": 1,
+    "genre": "techno",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY",
-    "id": "0jnsk9HBra6NMjO2oANoPY",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb655ca8f3196953554b479452",
-    "name": "Flo Rida",
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 2767658,
+    "genre": "soul",
+    "genres": [
+      "motown",
+      "soul",
+      "classic soul",
+      "soul blues"
+    ],
+    "href": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
+    "id": "60df5JBRRPcnSpsIMxxwQm",
+    "image": "https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3",
+    "name": "Otis Redding",
     "top_track": {
-      "href": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J",
-      "name": "Low (feat. T-Pain)"
+      "href": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF",
+      "name": "(Sittin' On) the Dock of the Bay - Mono"
     }
   }
 ]
