@@ -1,13 +1,16 @@
 [
   {
-    "followers": 65,
-    "genre": "rap",
+    "followers": 17817522,
+    "genre": "pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4ANS1ArQnz5zOpjVwzDfku",
-    "id": "4ANS1ArQnz5zOpjVwzDfku",
-    "image": "",
-    "name": "Squad Sui",
-    "top_track": null
+    "href": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7",
+    "id": "31TPClRtHm23RisEBtV3X7",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7a5cfe2597665a3d160e805e",
+    "name": "Justin Timberlake",
+    "top_track": {
+      "href": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV",
+      "name": "Mirrors"
+    }
   },
   {
     "followers": 1,
@@ -18,23 +21,5 @@
     "image": "",
     "name": "Andy Lyon",
     "top_track": null
-  },
-  {
-    "followers": 2767658,
-    "genre": "soul",
-    "genres": [
-      "motown",
-      "soul",
-      "classic soul",
-      "soul blues"
-    ],
-    "href": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
-    "id": "60df5JBRRPcnSpsIMxxwQm",
-    "image": "https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3",
-    "name": "Otis Redding",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF",
-      "name": "(Sittin' On) the Dock of the Bay - Mono"
-    }
   }
 ]
