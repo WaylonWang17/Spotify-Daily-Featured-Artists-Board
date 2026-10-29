@@ -1,46 +1,42 @@
 [
   {
-    "followers": 7830452,
-    "genre": "r\u0026b",
+    "followers": 3909515,
+    "genre": "punk",
+    "genres": [
+      "reggae rock",
+      "ska punk",
+      "ska"
+    ],
+    "href": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J",
+    "id": "0EdvGhlC1FkGItLOWQzG4J",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe726280500259dbdb97a8be4",
+    "name": "Sublime",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f",
+      "name": "Santeria"
+    }
+  },
+  {
+    "followers": 505,
+    "genre": "alternative",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg",
-    "id": "3KV3p5EY4AvKxOlhGHORLg",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8ddeab89a67542470e2631c8",
-    "name": "Jeremih",
-    "top_track": {
-      "href": "https://open.spotify.com/track/4NpDZPwSXmL0cCTaJuVrCw",
-      "name": "Birthday Sex"
-    }
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
+    "image": "",
+    "name": "Rutuu",
+    "top_track": null
   },
   {
-    "followers": 5962612,
-    "genre": "jazz",
-    "genres": [
-      "funk",
-      "disco"
-    ],
-    "href": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg",
-    "id": "4QQgXkCYTt3BlENzhyNETg",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9722e16a886767adf1178f92",
-    "name": "Earth, Wind \u0026 Fire",
+    "followers": 20,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1fWjmhTO32klEkKfCGgnQb",
+    "id": "1fWjmhTO32klEkKfCGgnQb",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b319c46b3d4bd9eaa949a02c",
+    "name": "Milan Das",
     "top_track": {
-      "href": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs",
-      "name": "September"
-    }
-  },
-  {
-    "followers": 14693932,
-    "genre": "rock",
-    "genres": [
-      "britpop"
-    ],
-    "href": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4",
-    "id": "2DaxqgrOhkeH0fpeiQq2f4",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb23a08396d484aa0e81d73527",
-    "name": "Oasis",
-    "top_track": {
-      "href": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY",
-      "name": "Wonderwall - Remastered"
+      "href": "https://open.spotify.com/track/0xYuiOm1FtHWlv4UjT9Tt2",
+      "name": "Prem Ke Dor"
     }
   }
 ]
