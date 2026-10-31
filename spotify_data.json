@@ -1,44 +1,43 @@
 [
   {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
-  },
-  {
-    "followers": 9874022,
-    "genre": "country",
+    "followers": 485327,
+    "genre": "reggae",
     "genres": [
-      "country",
-      "acoustic country"
+      "reggae",
+      "dancehall",
+      "roots reggae",
+      "ragga",
+      "reggae rock"
     ],
-    "href": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I",
-    "id": "0BvkDsjIUla7X0k6CSWh1I",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb09d00e2d4bc8555c68388b95",
-    "name": "Luke Bryan",
+    "href": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1",
+    "id": "5Ayl2bJtN5mdCsxZoxs9n1",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6799b9674066738256ee19f3",
+    "name": "Collie Buddz",
     "top_track": {
-      "href": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC",
-      "name": "Country Girl (Shake It For Me)"
+      "href": "https://open.spotify.com/track/3D7cUXDEKLAFsoD10QRoiR",
+      "name": "Smokin' Love (with Collie Buddz)"
     }
   },
   {
-    "followers": 7049362,
-    "genre": "j-pop",
+    "followers": 30359604,
+    "genre": "pop",
     "genres": [
-      "j-pop",
-      "j-rock"
+      "corrido",
+      "corridos tumbados",
+      "corridos bélicos",
+      "música mexicana",
+      "sierreño",
+      "banda",
+      "sad sierreño",
+      "electro corridos"
     ],
-    "href": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g",
-    "id": "6rs1KAoQnFalSqSU4LTh8g",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4344b16f251fbbd9d34f3d5a",
-    "name": "back number",
+    "href": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt",
+    "id": "0ys2OFYzWYB5hRDLCsBqxt",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebce436c411ab2436c7ab2c04d",
+    "name": "Fuerza Regida",
     "top_track": {
-      "href": "https://open.spotify.com/track/35MeePbBnryubkVG0v8GbI",
-      "name": "ブルーアンバー"
+      "href": "https://open.spotify.com/track/56V7nzrqr6Sq1uFym4odwa",
+      "name": "Cuando No Era Cantante RMX - Remix"
     }
   }
 ]
