@@ -1,42 +1,42 @@
 [
   {
-    "followers": 1065037,
-    "genre": "soul",
+    "followers": 1,
+    "genre": "techno",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr",
-    "id": "6PvvGcCY2XtUcSRld1Wilr",
-    "image": "https://i.scdn.co/image/ab6772690000c46c3f22dcab715891ad4e39da71",
-    "name": "Silk Sonic",
-    "top_track": {
-      "href": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T",
-      "name": "Leave The Door Open"
-    }
-  },
-  {
-    "followers": 505,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
     "image": "",
-    "name": "Rutuu",
+    "name": "Andy Lyon",
     "top_track": null
   },
   {
-    "followers": 7810969,
-    "genre": "r\u0026b",
-    "genres": [
-      "motown",
-      "classic soul",
-      "soul"
-    ],
-    "href": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi",
-    "id": "7guDJrEfX3qb6FEbdPA5qi",
-    "image": "https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108",
-    "name": "Stevie Wonder",
+    "followers": 19,
+    "genre": "k-pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3wdETxZ5dTw0Lk4uoRHsQV",
+    "id": "3wdETxZ5dTw0Lk4uoRHsQV",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733240d28eb1f2261730bb4496",
+    "name": "Ps Negi",
     "top_track": {
-      "href": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs",
-      "name": "I Just Called To Say I Love You"
+      "href": "https://open.spotify.com/track/2HgqxQFzkYYkp7SZqDIZYC",
+      "name": "Sheela Kin"
+    }
+  },
+  {
+    "followers": 703020,
+    "genre": "classical",
+    "genres": [
+      "classical",
+      "chamber music",
+      "baroque"
+    ],
+    "href": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk",
+    "id": "5Dl3HXZjG6ZOWT5cV375lk",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfb0fcd51414e7bbe85e00b6f",
+    "name": "Yo-Yo Ma",
+    "top_track": {
+      "href": "https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta",
+      "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Prélude"
     }
   }
 ]
