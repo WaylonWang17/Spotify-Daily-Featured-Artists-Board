@@ -1,33 +1,32 @@
 [
   {
-    "followers": 107205,
-    "genre": "jazz",
+    "followers": 33228250,
+    "genre": "soul",
     "genres": [
-      "jazz",
-      "cool jazz"
+      "r\u0026b"
     ],
-    "href": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV",
-    "id": "7gXUrN8vgmVhKVCkw9pavV",
-    "image": "https://i.scdn.co/image/ab6772690000c46cd2ae7745c424af9512c008d7",
-    "name": "Vince Guaraldi",
+    "href": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z",
+    "id": "7bXgB6jMjp9ATFy66eO08Z",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb913ab85302df0ddfb77131e9",
+    "name": "Chris Brown",
     "top_track": {
-      "href": "https://open.spotify.com/track/6FmvWOxXKBgeD0hkS8vjaL",
-      "name": "The Great Pumpkin Waltz"
+      "href": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb",
+      "name": "Under The Influence"
     }
   },
   {
-    "followers": 12183286,
-    "genre": "latin",
+    "followers": 16606423,
+    "genre": "country",
     "genres": [
-      "bachata"
+      "country"
     ],
-    "href": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi",
-    "id": "1qto4hHid1P71emI6Fd8xi",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4cd0464ef7d8eb8521f72dd8",
-    "name": "Aventura",
+    "href": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM",
+    "id": "4oUHIQIBe0LHzYfvXNW4QM",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb98a9ee5f9cac5e3efa057f30",
+    "name": "Morgan Wallen",
     "top_track": {
-      "href": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn",
-      "name": "Obsesion"
+      "href": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0",
+      "name": "Been By Now"
     }
   }
 ]
