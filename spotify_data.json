@@ -1,32 +1,38 @@
 [
   {
-    "followers": 33228250,
-    "genre": "soul",
-    "genres": [
-      "r\u0026b"
-    ],
-    "href": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z",
-    "id": "7bXgB6jMjp9ATFy66eO08Z",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb913ab85302df0ddfb77131e9",
-    "name": "Chris Brown",
+    "followers": 3831902,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB",
+    "id": "4E2rKHVDssGJm2SCDOMMJB",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebca2fee52c41d3f58ceb6474b",
+    "name": "Doechii",
     "top_track": {
-      "href": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb",
-      "name": "Under The Influence"
+      "href": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb",
+      "name": "Anxiety"
     }
   },
   {
-    "followers": 16606423,
-    "genre": "country",
-    "genres": [
-      "country"
-    ],
-    "href": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM",
-    "id": "4oUHIQIBe0LHzYfvXNW4QM",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb98a9ee5f9cac5e3efa057f30",
-    "name": "Morgan Wallen",
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 11242389,
+    "genre": "jazz",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO",
+    "id": "7gW0r5CkdEUMm42w9XpyZO",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc751deb23ed62e7cadfb669a",
+    "name": "Laufey",
     "top_track": {
-      "href": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0",
-      "name": "Been By Now"
+      "href": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN",
+      "name": "From The Start"
     }
   }
 ]
