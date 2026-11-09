@@ -1,28 +1,25 @@
 [
   {
-    "followers": 505,
-    "genre": "alternative",
+    "followers": 1,
+    "genre": "techno",
     "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
     "image": "",
-    "name": "Rutuu",
+    "name": "Andy Lyon",
     "top_track": null
   },
   {
-    "followers": 1843675,
-    "genre": "folk",
-    "genres": [
-      "folk rock",
-      "singer-songwriter"
-    ],
-    "href": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM",
-    "id": "1R6Hx1tJ2VOUyodEpC12xM",
-    "image": "https://i.scdn.co/image/9f9b40704e3361c93ea8a8b7a86a5d9ee755466e",
-    "name": "Jim Croce",
+    "followers": 36349301,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3",
+    "id": "6KImCVD70vtIoJWnq6nGn3",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe309f8c3056a59f20d0968ca",
+    "name": "Harry Styles",
     "top_track": {
-      "href": "https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn",
-      "name": "Time in a Bottle"
+      "href": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN",
+      "name": "Sign of the Times"
     }
   }
 ]
