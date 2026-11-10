@@ -1,25 +1,28 @@
 [
   {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
-  },
-  {
-    "followers": 36349301,
+    "followers": 11818141,
     "genre": "pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3",
-    "id": "6KImCVD70vtIoJWnq6nGn3",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe309f8c3056a59f20d0968ca",
-    "name": "Harry Styles",
+    "href": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym",
+    "id": "45dkTj5sMRSjrmBSBeiHym",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebeefdef74a162b2913094ad9c",
+    "name": "Tate McRae",
     "top_track": {
-      "href": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN",
-      "name": "Sign of the Times"
+      "href": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0",
+      "name": "Housewife"
+    }
+  },
+  {
+    "followers": 641477,
+    "genre": "folk",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K",
+    "id": "4eZer1QvRM8Pna0rLToV1K",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe95e39575c4f2c668eb11bc4",
+    "name": "Alyssa Grace",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO",
+      "name": "bloodstream"
     }
   }
 ]
