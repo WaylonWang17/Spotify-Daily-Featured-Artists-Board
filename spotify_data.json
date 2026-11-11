@@ -1,28 +1,40 @@
 [
   {
-    "followers": 11818141,
-    "genre": "pop",
+    "followers": 9231583,
+    "genre": "r\u0026b",
     "genres": [],
-    "href": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym",
-    "id": "45dkTj5sMRSjrmBSBeiHym",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebeefdef74a162b2913094ad9c",
-    "name": "Tate McRae",
+    "href": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg",
+    "id": "2jku7tDXc6XoB6MO2hFuqg",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0bb76de09defd5d14e735176",
+    "name": "Tory Lanez",
     "top_track": {
-      "href": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0",
-      "name": "Housewife"
+      "href": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz",
+      "name": "The Color Violet"
     }
   },
   {
-    "followers": 641477,
-    "genre": "folk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K",
-    "id": "4eZer1QvRM8Pna0rLToV1K",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe95e39575c4f2c668eb11bc4",
-    "name": "Alyssa Grace",
+    "followers": 5588652,
+    "genre": "latin",
+    "genres": [
+      "bedroom pop"
+    ],
+    "href": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx",
+    "id": "2sSGPbdZJkaSE2AbcGOACx",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+    "name": "The Marías",
     "top_track": {
-      "href": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO",
-      "name": "bloodstream"
+      "href": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5",
+      "name": "No One Noticed"
     }
+  },
+  {
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
   }
 ]
