@@ -1,40 +1,50 @@
 [
   {
-    "followers": 9231583,
-    "genre": "r\u0026b",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg",
-    "id": "2jku7tDXc6XoB6MO2hFuqg",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0bb76de09defd5d14e735176",
-    "name": "Tory Lanez",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz",
-      "name": "The Color Violet"
-    }
-  },
-  {
-    "followers": 5588652,
-    "genre": "latin",
+    "followers": 969109,
+    "genre": "jazz",
     "genres": [
-      "bedroom pop"
+      "bossa nova",
+      "brazilian jazz",
+      "mpb",
+      "latin jazz"
     ],
-    "href": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx",
-    "id": "2sSGPbdZJkaSE2AbcGOACx",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-    "name": "The Marías",
+    "href": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG",
+    "id": "3pO5VjZ4wOHCMBXOvbMISG",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb18561c395151b4ab0e3c17ee",
+    "name": "Antônio Carlos Jobim",
     "top_track": {
-      "href": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5",
-      "name": "No One Noticed"
+      "href": "https://open.spotify.com/track/1AxAPXcUcH3nXXeCeG0kGV",
+      "name": "The Girl From Ipanema"
     }
   },
   {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
+    "followers": 90735766,
+    "genre": "pop",
+    "genres": [
+      "k-pop"
+    ],
+    "href": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX",
+    "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
+    "name": "BTS",
+    "top_track": {
+      "href": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712",
+      "name": "SWIM"
+    }
+  },
+  {
+    "followers": 45578986,
+    "genre": "hip hop",
+    "genres": [
+      "rap"
+    ],
+    "href": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
+    "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+    "name": "Travis Scott",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2",
+      "name": "goosebumps"
+    }
   }
 ]
