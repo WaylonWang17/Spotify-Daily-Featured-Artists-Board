@@ -1,50 +1,40 @@
 [
   {
-    "followers": 969109,
-    "genre": "jazz",
-    "genres": [
-      "bossa nova",
-      "brazilian jazz",
-      "mpb",
-      "latin jazz"
-    ],
-    "href": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG",
-    "id": "3pO5VjZ4wOHCMBXOvbMISG",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb18561c395151b4ab0e3c17ee",
-    "name": "Antônio Carlos Jobim",
+    "followers": 504,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
+    "id": "32t1XtTuucNolG3ElqJMHO",
+    "image": "",
+    "name": "Rutuu",
+    "top_track": null
+  },
+  {
+    "followers": 136,
+    "genre": "rap",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0bMWaOo5U1wTdOhnZLbts4",
+    "id": "0bMWaOo5U1wTdOhnZLbts4",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7f0bc1126d96274cb5e6d596",
+    "name": "Gene Rash",
     "top_track": {
-      "href": "https://open.spotify.com/track/1AxAPXcUcH3nXXeCeG0kGV",
-      "name": "The Girl From Ipanema"
+      "href": "https://open.spotify.com/track/2YfYZUzXTJGqoUjkpuhLnL",
+      "name": "I Want to Stay the Same"
     }
   },
   {
-    "followers": 90735766,
-    "genre": "pop",
+    "followers": 5207626,
+    "genre": "country",
     "genres": [
-      "k-pop"
+      "country"
     ],
-    "href": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX",
-    "id": "3Nrfpe0tUJi4K4DXYWgMUX",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf80ec63ea7a0ef0fba60957d",
-    "name": "BTS",
+    "href": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O",
+    "id": "3grHWM9bx2E9vwJCdlRv9O",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebee7a9062a8b6bcc7dfcf8ea0",
+    "name": "Kenny Chesney",
     "top_track": {
-      "href": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712",
-      "name": "SWIM"
-    }
-  },
-  {
-    "followers": 45578986,
-    "genre": "hip hop",
-    "genres": [
-      "rap"
-    ],
-    "href": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
-    "id": "0Y5tJX1MQlPlqiwlOH1tJY",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
-    "name": "Travis Scott",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2",
-      "name": "goosebumps"
+      "href": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV",
+      "name": "American Kids"
     }
   }
 ]
