@@ -1,40 +1,50 @@
 [
   {
-    "followers": 504,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/32t1XtTuucNolG3ElqJMHO",
-    "id": "32t1XtTuucNolG3ElqJMHO",
-    "image": "",
-    "name": "Rutuu",
-    "top_track": null
-  },
-  {
-    "followers": 136,
+    "followers": 42,
     "genre": "rap",
     "genres": [],
-    "href": "https://open.spotify.com/artist/0bMWaOo5U1wTdOhnZLbts4",
-    "id": "0bMWaOo5U1wTdOhnZLbts4",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb7f0bc1126d96274cb5e6d596",
-    "name": "Gene Rash",
+    "href": "https://open.spotify.com/artist/66BuqeEZ6Qtp8VyDylQTOW",
+    "id": "66BuqeEZ6Qtp8VyDylQTOW",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebea3ec1875c775669c98cf947",
+    "name": "Genz Rapper",
     "top_track": {
-      "href": "https://open.spotify.com/track/2YfYZUzXTJGqoUjkpuhLnL",
-      "name": "I Want to Stay the Same"
+      "href": "https://open.spotify.com/track/5RUOfniIEiWSfj1dTcO6DT",
+      "name": "Identity"
     }
   },
   {
-    "followers": 5207626,
-    "genre": "country",
+    "followers": 14176991,
+    "genre": "soul",
     "genres": [
-      "country"
+      "r\u0026b",
+      "neo soul"
     ],
-    "href": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O",
-    "id": "3grHWM9bx2E9vwJCdlRv9O",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebee7a9062a8b6bcc7dfcf8ea0",
-    "name": "Kenny Chesney",
+    "href": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa",
+    "id": "3DiDSECUqqY1AuBP8qtaIa",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4518cf16a45e35fc0cc82862",
+    "name": "Alicia Keys",
     "top_track": {
-      "href": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV",
-      "name": "American Kids"
+      "href": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "name": "Empire State Of Mind"
+    }
+  },
+  {
+    "followers": 1030009,
+    "genre": "classical",
+    "genres": [
+      "baroque",
+      "classical",
+      "choral",
+      "opera",
+      "early music"
+    ],
+    "href": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2",
+    "id": "1QL7yTHrdahRMpvNtn6rI2",
+    "image": "https://i.scdn.co/image/6391390229a5fb88e8e0d71e3e942b427d12d9a8",
+    "name": "George Frideric Handel",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6QOxk7dSbNniwUgDh1zmBH",
+      "name": "Handel / Orch. Hale: Keyboard Suite No. 4 in D Minor, HWV 437: III. Sarabande"
     }
   }
 ]
