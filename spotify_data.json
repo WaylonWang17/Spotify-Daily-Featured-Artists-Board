@@ -1,28 +1,45 @@
 [
   {
-    "followers": 4589108,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs",
-    "id": "6lcwlkAjBPSKnFBZjjZFJs",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcfa32469a372188d27bd17b7",
-    "name": "Alex G",
+    "followers": 4101626,
+    "genre": "metal",
+    "genres": [
+      "metal",
+      "hard rock"
+    ],
+    "href": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D",
+    "id": "1Qp56T7n950O3EGMsSl81D",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb2d972470f1f8110be7c07017",
+    "name": "Ghost",
     "top_track": {
-      "href": "https://open.spotify.com/track/3XUqkTZBYQr3Nj0nifAW2S",
-      "name": "Harvey"
+      "href": "https://open.spotify.com/track/2wBnZdVWa5jVpvYRfGU7rP",
+      "name": "Mary On A Cross"
     }
   },
   {
-    "followers": 10200724,
-    "genre": "hip hop",
+    "followers": 1,
+    "genre": "techno",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs",
-    "id": "4Gso3d4CscCijv0lmajZWs",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb95ef459a84c75fbdc20a070c",
-    "name": "Don Toliver",
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
+  },
+  {
+    "followers": 7696256,
+    "genre": "j-pop",
+    "genres": [
+      "j-pop",
+      "j-rock",
+      "anime"
+    ],
+    "href": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9",
+    "id": "4QvgGvpgzgyUOo8Yp8LDm9",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0b6fd24c14a46a5027d65e47",
+    "name": "Mrs. GREEN APPLE",
     "top_track": {
-      "href": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz",
-      "name": "No Pole"
+      "href": "https://open.spotify.com/track/2kcc5rt7nTT99Rjr7BBVP5",
+      "name": "Brand New"
     }
   }
 ]
