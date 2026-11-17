@@ -1,45 +1,41 @@
 [
   {
-    "followers": 4101626,
-    "genre": "metal",
-    "genres": [
-      "metal",
-      "hard rock"
-    ],
-    "href": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D",
-    "id": "1Qp56T7n950O3EGMsSl81D",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb2d972470f1f8110be7c07017",
-    "name": "Ghost",
+    "followers": 1713549,
+    "genre": "soul",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
+    "id": "4frXpPxQQZwbCu3eTGnZEw",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6941830307896269157f7dd4",
+    "name": "Thundercat",
     "top_track": {
-      "href": "https://open.spotify.com/track/2wBnZdVWa5jVpvYRfGU7rP",
-      "name": "Mary On A Cross"
+      "href": "https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU",
+      "name": "After Last Night (with Thundercat \u0026 Bootsy Collins)"
     }
   },
   {
-    "followers": 1,
-    "genre": "techno",
+    "followers": 4636268,
+    "genre": "indie",
     "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
+    "href": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3",
+    "id": "26T3LtbuGT1Fu9m0eRq5X3",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba97920d922f6354862f331d4",
+    "name": "Cage The Elephant",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0",
+      "name": "Cigarette Daydreams"
+    }
   },
   {
-    "followers": 7696256,
-    "genre": "j-pop",
-    "genres": [
-      "j-pop",
-      "j-rock",
-      "anime"
-    ],
-    "href": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9",
-    "id": "4QvgGvpgzgyUOo8Yp8LDm9",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0b6fd24c14a46a5027d65e47",
-    "name": "Mrs. GREEN APPLE",
+    "followers": 36,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
+    "id": "4kjS5eC0smSDzKaTxgAGPW",
+    "image": "",
+    "name": "Take My Chances",
     "top_track": {
-      "href": "https://open.spotify.com/track/2kcc5rt7nTT99Rjr7BBVP5",
-      "name": "Brand New"
+      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
+      "name": "Handy With The Tongue Sword"
     }
   }
 ]
