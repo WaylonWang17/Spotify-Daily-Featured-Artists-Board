@@ -1,41 +1,48 @@
 [
   {
-    "followers": 1713549,
-    "genre": "soul",
+    "followers": 29,
+    "genre": "k-pop",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
-    "id": "4frXpPxQQZwbCu3eTGnZEw",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6941830307896269157f7dd4",
-    "name": "Thundercat",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU",
-      "name": "After Last Night (with Thundercat \u0026 Bootsy Collins)"
-    }
-  },
-  {
-    "followers": 4636268,
-    "genre": "indie",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3",
-    "id": "26T3LtbuGT1Fu9m0eRq5X3",
-    "image": "https://i.scdn.co/image/ab6761610000e5eba97920d922f6354862f331d4",
-    "name": "Cage The Elephant",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0",
-      "name": "Cigarette Daydreams"
-    }
-  },
-  {
-    "followers": 36,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
-    "id": "4kjS5eC0smSDzKaTxgAGPW",
+    "href": "https://open.spotify.com/artist/6uVJEZc4O05OtlV8UpoEb2",
+    "id": "6uVJEZc4O05OtlV8UpoEb2",
     "image": "",
-    "name": "Take My Chances",
+    "name": "Shan Debbarma",
     "top_track": {
-      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
-      "name": "Handy With The Tongue Sword"
+      "href": "https://open.spotify.com/track/6kpPsQrHmEiIu0KHDv0O09",
+      "name": "Bubagra Bubagra"
+    }
+  },
+  {
+    "followers": 1204708,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb",
+    "id": "0nnBZ8FXWjG9wZgM2cpfeb",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc6c4f4aaf40ebee92b8a8228",
+    "name": "Leon Thomas",
+    "top_track": {
+      "href": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt",
+      "name": "MUTT"
+    }
+  },
+  {
+    "followers": 15901281,
+    "genre": "folk",
+    "genres": [
+      "ranchera",
+      "banda",
+      "mariachi",
+      "grupera",
+      "norteño",
+      "música mexicana"
+    ],
+    "href": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1",
+    "id": "7FsRH5bw8iWpSbMX1G7xf1",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0320f28bac81532a14c0349d",
+    "name": "Joan Sebastian",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K",
+      "name": "Un Idiota"
     }
   }
 ]
