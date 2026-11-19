@@ -1,48 +1,43 @@
 [
   {
-    "followers": 29,
-    "genre": "k-pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6uVJEZc4O05OtlV8UpoEb2",
-    "id": "6uVJEZc4O05OtlV8UpoEb2",
-    "image": "",
-    "name": "Shan Debbarma",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6kpPsQrHmEiIu0KHDv0O09",
-      "name": "Bubagra Bubagra"
-    }
-  },
-  {
-    "followers": 1204708,
-    "genre": "r\u0026b",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb",
-    "id": "0nnBZ8FXWjG9wZgM2cpfeb",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc6c4f4aaf40ebee92b8a8228",
-    "name": "Leon Thomas",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt",
-      "name": "MUTT"
-    }
-  },
-  {
-    "followers": 15901281,
-    "genre": "folk",
+    "followers": 1471905,
+    "genre": "jazz",
     "genres": [
-      "ranchera",
-      "banda",
-      "mariachi",
-      "grupera",
-      "norteño",
-      "música mexicana"
+      "jazz",
+      "cool jazz",
+      "vocal jazz",
+      "jazz ballads"
     ],
-    "href": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1",
-    "id": "7FsRH5bw8iWpSbMX1G7xf1",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0320f28bac81532a14c0349d",
-    "name": "Joan Sebastian",
+    "href": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T",
+    "id": "3rxeQlsv0Sc2nyYaZ5W71T",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebabde819fe640d69f899e7844",
+    "name": "Chet Baker",
     "top_track": {
-      "href": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K",
-      "name": "Un Idiota"
+      "href": "https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc",
+      "name": "I Fall In Love Too Easily"
     }
+  },
+  {
+    "followers": 36,
+    "genre": "alternative",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
+    "id": "4kjS5eC0smSDzKaTxgAGPW",
+    "image": "",
+    "name": "Take My Chances",
+    "top_track": {
+      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
+      "name": "Handy With The Tongue Sword"
+    }
+  },
+  {
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
   }
 ]
