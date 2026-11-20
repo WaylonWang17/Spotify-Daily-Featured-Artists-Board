@@ -1,43 +1,47 @@
 [
   {
-    "followers": 1471905,
-    "genre": "jazz",
+    "followers": 1881746,
+    "genre": "pop",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP",
+    "id": "2qanRMyA5bNuTvz1dK45OP",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb2005cc18964c60e22c4759b5",
+    "name": "ADÉLA",
+    "top_track": {
+      "href": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J",
+      "name": "Nicole Kidman"
+    }
+  },
+  {
+    "followers": 224482,
+    "genre": "country",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1",
+    "id": "15o7qdDTBzs6xWRUYUtZc1",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8b64bf5ce23508af9838eade",
+    "name": "Grand Theft Auto VI",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT",
+      "name": "Suzuki (from GTAVI: The Album)"
+    }
+  },
+  {
+    "followers": 13826422,
+    "genre": "latin",
     "genres": [
-      "jazz",
-      "cool jazz",
-      "vocal jazz",
-      "jazz ballads"
+      "banda",
+      "norteño",
+      "grupera",
+      "corrido",
+      "ranchera"
     ],
-    "href": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T",
-    "id": "3rxeQlsv0Sc2nyYaZ5W71T",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebabde819fe640d69f899e7844",
-    "name": "Chet Baker",
+    "href": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC",
+    "id": "1bfl0AU8SqmLkElptOprhC",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebfb9cc6446b008d6d3d7b7998",
+    "name": "Julión Álvarez y su Norteño Banda",
     "top_track": {
-      "href": "https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc",
-      "name": "I Fall In Love Too Easily"
+      "href": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi",
+      "name": "Regalo De Dios"
     }
-  },
-  {
-    "followers": 36,
-    "genre": "alternative",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/4kjS5eC0smSDzKaTxgAGPW",
-    "id": "4kjS5eC0smSDzKaTxgAGPW",
-    "image": "",
-    "name": "Take My Chances",
-    "top_track": {
-      "href": "https://open.spotify.com/track/56WZHeCZwY2RXf2fQHOQbR",
-      "name": "Handy With The Tongue Sword"
-    }
-  },
-  {
-    "followers": 1,
-    "genre": "techno",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
-    "id": "3Bs8qai8NjGp41P0A2Q6ip",
-    "image": "",
-    "name": "Andy Lyon",
-    "top_track": null
   }
 ]
