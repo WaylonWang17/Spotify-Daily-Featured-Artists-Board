@@ -1,47 +1,45 @@
 [
   {
-    "followers": 1881746,
-    "genre": "pop",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP",
-    "id": "2qanRMyA5bNuTvz1dK45OP",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb2005cc18964c60e22c4759b5",
-    "name": "ADÉLA",
-    "top_track": {
-      "href": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J",
-      "name": "Nicole Kidman"
-    }
-  },
-  {
-    "followers": 224482,
-    "genre": "country",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1",
-    "id": "15o7qdDTBzs6xWRUYUtZc1",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb8b64bf5ce23508af9838eade",
-    "name": "Grand Theft Auto VI",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT",
-      "name": "Suzuki (from GTAVI: The Album)"
-    }
-  },
-  {
-    "followers": 13826422,
+    "followers": 10945496,
     "genre": "latin",
-    "genres": [
-      "banda",
-      "norteño",
-      "grupera",
-      "corrido",
-      "ranchera"
-    ],
-    "href": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC",
-    "id": "1bfl0AU8SqmLkElptOprhC",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebfb9cc6446b008d6d3d7b7998",
-    "name": "Julión Álvarez y su Norteño Banda",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM",
+    "id": "1U1el3k54VvEUzo3ybLPlM",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb37cfef7964da2f1b983b0279",
+    "name": "Kali Uchis",
     "top_track": {
-      "href": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi",
-      "name": "Regalo De Dios"
+      "href": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B",
+      "name": "telepatía"
+    }
+  },
+  {
+    "followers": 2152608,
+    "genre": "j-pop",
+    "genres": [
+      "j-pop",
+      "j-rock",
+      "japanese indie"
+    ],
+    "href": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq",
+    "id": "0hCWVMGGQnRVfDgmhwLIxq",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb1e8db52efb13e0ffe6c4264f",
+    "name": "sakanaction",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO",
+      "name": "夜の踊り子"
+    }
+  },
+  {
+    "followers": 9256864,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg",
+    "id": "2jku7tDXc6XoB6MO2hFuqg",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0bb76de09defd5d14e735176",
+    "name": "Tory Lanez",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz",
+      "name": "The Color Violet"
     }
   }
 ]
