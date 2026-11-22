@@ -1,45 +1,30 @@
 [
   {
-    "followers": 10945496,
-    "genre": "latin",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM",
-    "id": "1U1el3k54VvEUzo3ybLPlM",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb37cfef7964da2f1b983b0279",
-    "name": "Kali Uchis",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B",
-      "name": "telepatía"
-    }
-  },
-  {
-    "followers": 2152608,
-    "genre": "j-pop",
+    "followers": 8740401,
+    "genre": "hip hop",
     "genres": [
-      "j-pop",
-      "j-rock",
-      "japanese indie"
+      "trap soul"
     ],
-    "href": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq",
-    "id": "0hCWVMGGQnRVfDgmhwLIxq",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb1e8db52efb13e0ffe6c4264f",
-    "name": "sakanaction",
+    "href": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq",
+    "id": "7c0XG5cIJTrrAgEC3ULPiq",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4ef6e245168c33922bc6df1a",
+    "name": "Ty Dolla $ign",
     "top_track": {
-      "href": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO",
-      "name": "夜の踊り子"
+      "href": "https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO",
+      "name": "Or Nah (feat. The Weeknd, Wiz Khalifa \u0026 DJ Mustard) - Remix"
     }
   },
   {
-    "followers": 9256864,
-    "genre": "r\u0026b",
+    "followers": 5186782,
+    "genre": "folk",
     "genres": [],
-    "href": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg",
-    "id": "2jku7tDXc6XoB6MO2hFuqg",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0bb76de09defd5d14e735176",
-    "name": "Tory Lanez",
+    "href": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB",
+    "id": "0fTSzq9jAh4c36UVb4V7CB",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0548e7c357122cda80128c8f",
+    "name": "Alex Warren",
     "top_track": {
-      "href": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz",
-      "name": "The Color Violet"
+      "href": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ",
+      "name": "Ordinary"
     }
   }
 ]
