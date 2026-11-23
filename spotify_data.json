@@ -1,30 +1,49 @@
 [
   {
-    "followers": 8740401,
-    "genre": "hip hop",
+    "followers": 33059867,
+    "genre": "latin",
     "genres": [
-      "trap soul"
+      "bachata",
+      "latin"
     ],
-    "href": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq",
-    "id": "7c0XG5cIJTrrAgEC3ULPiq",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4ef6e245168c33922bc6df1a",
-    "name": "Ty Dolla $ign",
+    "href": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP",
+    "id": "5lwmRuXgjX8xIwlnauTZIP",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
+    "name": "Romeo Santos",
     "top_track": {
-      "href": "https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO",
-      "name": "Or Nah (feat. The Weeknd, Wiz Khalifa \u0026 DJ Mustard) - Remix"
+      "href": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe",
+      "name": "Imitadora"
     }
   },
   {
-    "followers": 5186782,
-    "genre": "folk",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB",
-    "id": "0fTSzq9jAh4c36UVb4V7CB",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb0548e7c357122cda80128c8f",
-    "name": "Alex Warren",
+    "followers": 8052182,
+    "genre": "metal",
+    "genres": [
+      "alternative metal"
+    ],
+    "href": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c",
+    "id": "5nGIFgo0shDenQYSE0Sn7c",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf42c2c9bead41b262780ea89",
+    "name": "Evanescence",
     "top_track": {
-      "href": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ",
-      "name": "Ordinary"
+      "href": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp",
+      "name": "Bring Me To Life"
+    }
+  },
+  {
+    "followers": 2799263,
+    "genre": "reggae",
+    "genres": [
+      "trap latino",
+      "dancehall"
+    ],
+    "href": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS",
+    "id": "1fctva4kpRbg2k3v7kwRuS",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb67d8b85ddd9d49084319b6fa",
+    "name": "Rvssian",
+    "top_track": {
+      "href": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY",
+      "name": "Santa"
     }
   }
 ]
