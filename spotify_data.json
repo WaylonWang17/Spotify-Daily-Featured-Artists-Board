@@ -1,49 +1,33 @@
 [
   {
-    "followers": 33059867,
-    "genre": "latin",
-    "genres": [
-      "bachata",
-      "latin"
-    ],
-    "href": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP",
-    "id": "5lwmRuXgjX8xIwlnauTZIP",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc8be3c6e5a824360d1bffc03",
-    "name": "Romeo Santos",
+    "followers": 672637,
+    "genre": "folk",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K",
+    "id": "4eZer1QvRM8Pna0rLToV1K",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe95e39575c4f2c668eb11bc4",
+    "name": "Alyssa Grace",
     "top_track": {
-      "href": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe",
-      "name": "Imitadora"
+      "href": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO",
+      "name": "bloodstream"
     }
   },
   {
-    "followers": 8052182,
+    "followers": 7427047,
     "genre": "metal",
     "genres": [
-      "alternative metal"
+      "glam metal",
+      "classic rock",
+      "rock",
+      "hard rock"
     ],
-    "href": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c",
-    "id": "5nGIFgo0shDenQYSE0Sn7c",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebf42c2c9bead41b262780ea89",
-    "name": "Evanescence",
+    "href": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K",
+    "id": "2cnMpRsOVqtPMfq7YiFE6K",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
+    "name": "Van Halen",
     "top_track": {
-      "href": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp",
-      "name": "Bring Me To Life"
-    }
-  },
-  {
-    "followers": 2799263,
-    "genre": "reggae",
-    "genres": [
-      "trap latino",
-      "dancehall"
-    ],
-    "href": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS",
-    "id": "1fctva4kpRbg2k3v7kwRuS",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb67d8b85ddd9d49084319b6fa",
-    "name": "Rvssian",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY",
-      "name": "Santa"
+      "href": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j",
+      "name": "Jump - 2015 Remaster"
     }
   }
 ]
