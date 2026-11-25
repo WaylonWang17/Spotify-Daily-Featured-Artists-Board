@@ -1,33 +1,43 @@
 [
   {
-    "followers": 672637,
-    "genre": "folk",
+    "followers": 57199,
+    "genre": "blues",
     "genres": [],
-    "href": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K",
-    "id": "4eZer1QvRM8Pna0rLToV1K",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebe95e39575c4f2c668eb11bc4",
-    "name": "Alyssa Grace",
+    "href": "https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub",
+    "id": "5EdacsFISJ3eDuq0Knbbub",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb1c145ffff3c66e48a6e0b7a5",
+    "name": "Noah Brigden",
     "top_track": {
-      "href": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO",
-      "name": "bloodstream"
+      "href": "https://open.spotify.com/track/2wWWRr1LJA3BRuL8OSFTEV",
+      "name": "P.O.S."
     }
   },
   {
-    "followers": 7427047,
-    "genre": "metal",
-    "genres": [
-      "glam metal",
-      "classic rock",
-      "rock",
-      "hard rock"
-    ],
-    "href": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K",
-    "id": "2cnMpRsOVqtPMfq7YiFE6K",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd8475001d2700686e1008dfb",
-    "name": "Van Halen",
+    "followers": 12935749,
+    "genre": "r\u0026b",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP",
+    "id": "6XpaIBNiVzIetEPCWDvAFP",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcd9f60ab57585bf3b77ecc51",
+    "name": "Whitney Houston",
     "top_track": {
-      "href": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j",
-      "name": "Jump - 2015 Remaster"
+      "href": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
+      "name": "I Wanna Dance with Somebody (Who Loves Me)"
+    }
+  },
+  {
+    "followers": 8747044,
+    "genre": "hip hop",
+    "genres": [
+      "trap soul"
+    ],
+    "href": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq",
+    "id": "7c0XG5cIJTrrAgEC3ULPiq",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4ef6e245168c33922bc6df1a",
+    "name": "Ty Dolla $ign",
+    "top_track": {
+      "href": "https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO",
+      "name": "Or Nah (feat. The Weeknd, Wiz Khalifa \u0026 DJ Mustard) - Remix"
     }
   }
 ]
