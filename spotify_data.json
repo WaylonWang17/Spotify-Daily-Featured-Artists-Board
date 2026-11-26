@@ -1,43 +1,51 @@
 [
   {
-    "followers": 57199,
-    "genre": "blues",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub",
-    "id": "5EdacsFISJ3eDuq0Knbbub",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb1c145ffff3c66e48a6e0b7a5",
-    "name": "Noah Brigden",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2wWWRr1LJA3BRuL8OSFTEV",
-      "name": "P.O.S."
-    }
-  },
-  {
-    "followers": 12935749,
-    "genre": "r\u0026b",
-    "genres": [],
-    "href": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP",
-    "id": "6XpaIBNiVzIetEPCWDvAFP",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcd9f60ab57585bf3b77ecc51",
-    "name": "Whitney Houston",
-    "top_track": {
-      "href": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
-      "name": "I Wanna Dance with Somebody (Who Loves Me)"
-    }
-  },
-  {
-    "followers": 8747044,
-    "genre": "hip hop",
+    "followers": 2388997,
+    "genre": "folk",
     "genres": [
-      "trap soul"
+      "yacht rock",
+      "soft rock",
+      "folk rock"
     ],
-    "href": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq",
-    "id": "7c0XG5cIJTrrAgEC3ULPiq",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4ef6e245168c33922bc6df1a",
-    "name": "Ty Dolla $ign",
+    "href": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo",
+    "id": "35U9lQaRWSQISxQAB94Meo",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb1918619d3b26c6cb16084997",
+    "name": "America",
     "top_track": {
-      "href": "https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO",
-      "name": "Or Nah (feat. The Weeknd, Wiz Khalifa \u0026 DJ Mustard) - Remix"
+      "href": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
+      "name": "A Horse with No Name"
+    }
+  },
+  {
+    "followers": 475244,
+    "genre": "classical",
+    "genres": [
+      "classical",
+      "concerto"
+    ],
+    "href": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0",
+    "id": "436sYg6CZhNefQJogaXeK0",
+    "image": "https://i.scdn.co/image/f565d81f8dcfdec438207f6d8b34689f3489232a",
+    "name": "Camille Saint-Saëns",
+    "top_track": {
+      "href": "https://open.spotify.com/track/3U8Fx7zNTQrctytkj6Gqgd",
+      "name": "The Carnival of the Animals, R. 125: XIII. The Swan"
+    }
+  },
+  {
+    "followers": 14280657,
+    "genre": "reggae",
+    "genres": [
+      "reggae",
+      "roots reggae"
+    ],
+    "href": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD",
+    "id": "2QsynagSdAqZj3U9HgDzjD",
+    "image": "https://i.scdn.co/image/b5aae2067db80f694a980e596e7f49618c1206c9",
+    "name": "Bob Marley \u0026 The Wailers",
+    "top_track": {
+      "href": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC",
+      "name": "Could You Be Loved"
     }
   }
 ]
