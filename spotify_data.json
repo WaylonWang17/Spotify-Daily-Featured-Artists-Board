@@ -1,51 +1,37 @@
 [
   {
-    "followers": 2388997,
-    "genre": "folk",
-    "genres": [
-      "yacht rock",
-      "soft rock",
-      "folk rock"
-    ],
-    "href": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo",
-    "id": "35U9lQaRWSQISxQAB94Meo",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb1918619d3b26c6cb16084997",
-    "name": "America",
-    "top_track": {
-      "href": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
-      "name": "A Horse with No Name"
-    }
-  },
-  {
-    "followers": 475244,
-    "genre": "classical",
-    "genres": [
-      "classical",
-      "concerto"
-    ],
-    "href": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0",
-    "id": "436sYg6CZhNefQJogaXeK0",
-    "image": "https://i.scdn.co/image/f565d81f8dcfdec438207f6d8b34689f3489232a",
-    "name": "Camille Saint-Saëns",
-    "top_track": {
-      "href": "https://open.spotify.com/track/3U8Fx7zNTQrctytkj6Gqgd",
-      "name": "The Carnival of the Animals, R. 125: XIII. The Swan"
-    }
-  },
-  {
-    "followers": 14280657,
+    "followers": 2800115,
     "genre": "reggae",
     "genres": [
-      "reggae",
-      "roots reggae"
+      "trap latino",
+      "dancehall"
     ],
-    "href": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD",
-    "id": "2QsynagSdAqZj3U9HgDzjD",
-    "image": "https://i.scdn.co/image/b5aae2067db80f694a980e596e7f49618c1206c9",
-    "name": "Bob Marley \u0026 The Wailers",
+    "href": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS",
+    "id": "1fctva4kpRbg2k3v7kwRuS",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb67d8b85ddd9d49084319b6fa",
+    "name": "Rvssian",
     "top_track": {
-      "href": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC",
-      "name": "Could You Be Loved"
+      "href": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY",
+      "name": "Santa"
+    }
+  },
+  {
+    "followers": 2684728,
+    "genre": "punk",
+    "genres": [
+      "metalcore",
+      "pop punk",
+      "post-hardcore",
+      "screamo",
+      "emo"
+    ],
+    "href": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN",
+    "id": "4NiJW4q9ichVqL1aUsgGAN",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6164f861e5e683c9067f4395",
+    "name": "A Day To Remember",
+    "top_track": {
+      "href": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED",
+      "name": "The Downfall Of Us All"
     }
   }
 ]
