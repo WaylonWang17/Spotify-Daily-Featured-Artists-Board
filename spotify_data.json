@@ -1,37 +1,28 @@
 [
   {
-    "followers": 2800115,
-    "genre": "reggae",
-    "genres": [
-      "trap latino",
-      "dancehall"
-    ],
-    "href": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS",
-    "id": "1fctva4kpRbg2k3v7kwRuS",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb67d8b85ddd9d49084319b6fa",
-    "name": "Rvssian",
-    "top_track": {
-      "href": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY",
-      "name": "Santa"
-    }
+    "followers": 1,
+    "genre": "techno",
+    "genres": [],
+    "href": "https://open.spotify.com/artist/3Bs8qai8NjGp41P0A2Q6ip",
+    "id": "3Bs8qai8NjGp41P0A2Q6ip",
+    "image": "",
+    "name": "Andy Lyon",
+    "top_track": null
   },
   {
-    "followers": 2684728,
+    "followers": 3194325,
     "genre": "punk",
     "genres": [
-      "metalcore",
-      "pop punk",
-      "post-hardcore",
-      "screamo",
-      "emo"
+      "new wave",
+      "post-punk"
     ],
-    "href": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN",
-    "id": "4NiJW4q9ichVqL1aUsgGAN",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6164f861e5e683c9067f4395",
-    "name": "A Day To Remember",
+    "href": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC",
+    "id": "2x9SpqnPi8rlE9pjHBwmSC",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbb4de17ec7fc20b1c489e4ff",
+    "name": "Talking Heads",
     "top_track": {
-      "href": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED",
-      "name": "The Downfall Of Us All"
+      "href": "https://open.spotify.com/track/2T42dHq61RCZKioz0Cn0vR",
+      "name": "Psycho Killer - 2024 Remaster"
     }
   }
 ]
